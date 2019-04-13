@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="12" height="12">
+ <defs>
+  <linearGradient id="linearGradient4234">
+   <stop style="stop-color:#4d4d4d" id="stop4236" offset="0"/>
+   <stop style="stop-color:#b3b3b3" id="stop4238" offset="1"/>
+  </linearGradient>
+  <style id="current-color-scheme">
+   .ColorScheme-Text{color:#4d4d4d}.ColorScheme-Background{color:#eff0f1}.ColorScheme-Highlight{color:#f34f17}.ColorScheme-ViewText{color:#31363b}.ColorScheme-ViewBackground{color:#fcfcfc}.ColorScheme-ViewHover{color:#93cee9}.ColorScheme-ViewFocus{color:#f34f17}.ColorScheme-ButtonText{color:#31363b}.ColorScheme-ButtonBackground{color:#eff0f1}.ColorScheme-ButtonHover{color:#93cee9}.ColorScheme-ButtonFocus{color:#f34f17}
+  </style>
+  <linearGradient id="linearGradient4240" x1="422.714" x2="432.714" y1="546.791" y2="536.791" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4234"/>
+ </defs>
+ <g id="layer1">
+  <path style="fill:url(#linearGradient4240)" d="M422.714 536.791H432.714V546.791H422.714z" transform="translate(-421.714 -535.79)"/>
+ </g>
+</svg>

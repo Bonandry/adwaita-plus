@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 24 24">
+ a
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#4d4d4d; }
+  </style>
+  <linearGradient id="linearGradient4154" x1="425.714" x2="433.714" y1="543.791" y2="535.791" gradientTransform="matrix(1.5,0,0,1.5,-632.57144,-797.68603)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4172-7"/>
+  <linearGradient id="linearGradient4172-7">
+   <stop style="stop-color:currentColor;" class="ColorScheme-Highlight" id="stop4174-2" offset="0"/>
+   <stop style="stop-color:#cae7fc" id="stop4176-0" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="M 4 5 L 4 19 L 20 19 L 20 5 L 4 5 z M 11.941406 6 A 6 6 0 0 1 18 11.921875 L 18 12 A 6 6 0 0 1 12.019531 18 A 6 6 0 0 1 6 12.039062 A 6 6 0 0 1 11.941406 6 z"/>
+ <path style="fill:url(#linearGradient4154)" d="m 18,12 a 6,6 0 0 1 -5.98036,5.99997 6,6 0 0 1 -6.01951,-5.9607 6,6 0 0 1 5.94097,-6.03898 6,6 0 0 1 6.05839,5.92118"/>
+</svg>

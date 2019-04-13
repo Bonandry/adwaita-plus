@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="16"
+   width="16"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="org.gnome.Chess-symbolic.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="14.75"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6" />
+  <g
+     fill="#241f31"
+     id="g4"
+     style="fill:#4d4d4d;fill-opacity:1">
+    <path
+       style="marker:none;fill:#4d4d4d;fill-opacity:1"
+       d="M11.572 6.011a2.432 2.432 0 0 0-.774 4.736L8.896 14.14c-.409 0-.87.463-.87.872l7.207.009c0-.409-.47-.88-.88-.88l-2.007-3.394a2.432 2.432 0 0 0 1.659-2.303 2.432 2.432 0 0 0-2.433-2.432zM4.064 1.012l-.001 1.076-2.742 2.21.553 1.106 1.35-.458c.216.27.543.429.89.429.594 0 1.068-.46 1.11-1.054v1.69c0 .54-.619 1-1.158 1-1 0-2 .54-2 1.671l.912 1.21c-.657 0-1.244.494-1.244 1.12H7.92c0-.7-.524-1.12-1.106-1.12L8.03 8.706V5.375c0-1.848-.935-3.258-2.783-3.258l-.06.002a1.076 1.076 0 0 0-.026-.273c-.111-.488-.596-.834-1.097-.835z"
+       id="path2" />
+  </g>
+</svg>

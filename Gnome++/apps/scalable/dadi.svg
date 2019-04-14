@@ -5,16 +5,17 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="64"
-   height="64"
-   version="1"
-   id="svg18"
-   sodipodi:docname="dadi.svg"
+   width="128"
+   height="128"
+   version="1.0"
+   id="svg75"
+   sodipodi:docname="preferences-certificates.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <metadata
-     id="metadata24">
+     id="metadata79">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -25,8 +26,6 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <defs
-     id="defs22" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -36,64 +35,155 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="772"
-     inkscape:window-height="480"
-     id="namedview20"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     id="namedview77"
      showgrid="false"
-     inkscape:zoom="3.6875"
-     inkscape:cx="32"
-     inkscape:cy="32"
+     inkscape:zoom="6.578125"
+     inkscape:cx="36.712589"
+     inkscape:cy="64"
      inkscape:window-x="0"
      inkscape:window-y="27"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg18" />
-  <path
-     style="opacity:0.2"
-     d="m 4,56 0,2 c 0,1.662 1.338,3 3,3 l 50,0 c 1.662,0 3,-1.338 3,-3 l 0,-2 c 0,1.662 -1.338,3 -3,3 L 7,59 C 5.338,59 4,57.662 4,56 Z"
-     id="path2" />
-  <rect
-     style="fill:#e4e4e4"
-     width="56"
-     height="56"
-     x="4"
-     y="4"
-     rx="3"
-     ry="3"
-     id="rect4" />
-  <path
-     style="opacity:0.1;fill:#ffffff"
-     d="M 7 4 C 5.338 4 4 5.338 4 7 L 4 8 C 4 6.338 5.338 5 7 5 L 57 5 C 58.662 5 60 6.338 60 8 L 60 7 C 60 5.338 58.662 4 57 4 L 7 4 z"
-     id="path6" />
-  <circle
-     style="fill:#4d4d4d"
-     cx="32"
-     cy="32"
-     r="6"
-     id="circle8" />
-  <circle
-     style="fill:#4d4d4d"
-     cx="46"
-     cy="48"
-     r="6"
-     id="circle10" />
-  <circle
-     style="fill:#4d4d4d"
-     cx="16"
-     cy="16"
-     r="6"
-     id="circle12" />
-  <circle
-     style="fill:#4d4d4d"
-     cx="46"
-     cy="-16"
-     r="6"
-     transform="scale(1,-1)"
-     id="circle14" />
-  <circle
-     style="fill:#4d4d4d"
-     cx="16"
-     cy="-48"
-     r="6"
-     transform="scale(1,-1)"
-     id="circle16" />
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g73" />
+  <defs
+     id="defs24">
+    <linearGradient
+       id="a">
+      <stop
+         offset="0"
+         stop-color="#68676b"
+         id="stop2" />
+      <stop
+         offset=".8"
+         stop-color="#424048"
+         id="stop4" />
+      <stop
+         offset="1"
+         stop-color="#241f31"
+         id="stop6" />
+    </linearGradient>
+    <radialGradient
+       xlink:href="#a"
+       id="d"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.34416 .0006 -.00062 1.38763 -121.22 -718.103)"
+       cx="279.422"
+       cy="446.483"
+       fx="279.422"
+       fy="446.483"
+       r="224" />
+    <linearGradient
+       xlink:href="#b"
+       id="e"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0015 0 0 .99993 72.09 56.015)"
+       x1="43.844"
+       y1="234"
+       x2="-60"
+       y2="234" />
+    <linearGradient
+       id="b">
+      <stop
+         offset="0"
+         stop-color="#d5d3cf"
+         id="stop11" />
+      <stop
+         offset=".038"
+         stop-color="#e3e2df"
+         id="stop13" />
+      <stop
+         offset=".077"
+         stop-color="#c0bfbc"
+         id="stop15" />
+      <stop
+         offset=".923"
+         stop-color="#c0bfbc"
+         id="stop17" />
+      <stop
+         offset=".962"
+         stop-color="#e3e2df"
+         id="stop19" />
+      <stop
+         offset="1"
+         stop-color="#d5d3cf"
+         id="stop21" />
+    </linearGradient>
+    <filter
+       id="filter2241"
+       x="-0.059999999"
+       y="-0.059999999"
+       width="1.113"
+       height="1.12"
+       style="color-interpolation-filters:sRGB">
+      <feGaussianBlur
+         stdDeviation=".412"
+         id="feGaussianBlur1330" />
+    </filter>
+    <filter
+       id="filter2237"
+       x="-0.11"
+       y="-0.12"
+       width="1.226"
+       height="1.232"
+       style="color-interpolation-filters:sRGB">
+      <feGaussianBlur
+         stdDeviation=".412"
+         id="feGaussianBlur1327" />
+    </filter>
+  </defs>
+  <g
+     transform="translate(0 -172)"
+     id="g73">
+    <rect
+       ry="8"
+       rx="8"
+       height="48"
+       width="104"
+       x="12"
+       y="240"
+       fill="url(#e)"
+       id="rect33" />
+    <path
+       style="fill:#f6f5f4;stroke-width:0.92825788"
+       d="m 20,182 c -4.432,0 -8,3.07441 -8,6.8933 v 36.18984 36.18983 c 0,3.81889 3.568,6.8933 8,6.8933 h 44 44 c 4.432,0 8,-3.07441 8,-6.8933 V 225.08314 188.8933 C 116,185.07441 112.432,182 108,182 Z"
+       id="path37"
+       inkscape:connector-curvature="0" />
+    <g
+       id="g857"
+       transform="translate(0.36050224,-5.8218485)">
+      <circle
+         id="circle8"
+         r="9.545455"
+         cy="230.90498"
+         cx="65.2304"
+         style="fill:#4d4d4d;stroke-width:1.59090912" />
+      <circle
+         id="circle10"
+         r="9.545455"
+         cy="256.35953"
+         cx="87.503136"
+         style="fill:#4d4d4d;stroke-width:1.59090912" />
+      <circle
+         id="circle12"
+         r="9.545455"
+         cy="205.45044"
+         cx="39.77586"
+         style="fill:#4d4d4d;stroke-width:1.59090912" />
+      <circle
+         id="circle14"
+         transform="scale(1,-1)"
+         r="9.545455"
+         cy="-205.45044"
+         cx="87.503136"
+         style="fill:#4d4d4d;stroke-width:1.59090912" />
+      <circle
+         id="circle16"
+         transform="scale(1,-1)"
+         r="9.545455"
+         cy="-256.35953"
+         cx="39.77586"
+         style="fill:#4d4d4d;stroke-width:1.59090912" />
+    </g>
+  </g>
 </svg>

@@ -14,7 +14,7 @@
    id="svg11300"
    height="128"
    width="128"
-   sodipodi:docname="clock.svg"
+   sodipodi:docname="orologio.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -30,7 +30,7 @@
      id="namedview24"
      showgrid="false"
      inkscape:zoom="1.84375"
-     inkscape:cx="64"
+     inkscape:cx="-33.355932"
      inkscape:cy="64"
      inkscape:window-x="0"
      inkscape:window-y="27"
@@ -110,19 +110,6 @@
          style="fill:url(#radialGradient6219);fill-opacity:1;stroke:none"
          inkscape:connector-curvature="0" />
     </clipPath>
-    <filter
-       style="color-interpolation-filters:sRGB"
-       inkscape:collect="always"
-       id="filter6277"
-       x="-0.034464333"
-       width="1.0689287"
-       y="-0.035142269"
-       height="1.0702845">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="3.4309879"
-         id="feGaussianBlur6279" />
-    </filter>
   </defs>
   <metadata
      id="metadata4">
@@ -184,7 +171,7 @@
     </rdf:RDF>
   </metadata>
   <g
-     transform="matrix(0.86666673,0,0,0.86666673,9.5333867,-142.40002)"
+     transform="translate(6.19e-5,-173)"
      style="display:inline"
      id="layer1">
     <g

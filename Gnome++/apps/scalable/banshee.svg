@@ -15,20 +15,9 @@
    id="svg8388"
    version="1.1"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="media-player-banshee.svg">
+   sodipodi:docname="banshee.svg">
   <defs
      id="defs8390">
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient8838"
-       id="radialGradient4835"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(4.6104139,0,0,2.0085789,-215.76673,101.36913)"
-       cx="62.625"
-       cy="4.625"
-       fx="62.625"
-       fy="4.625"
-       r="10.625" />
     <linearGradient
        id="linearGradient8838">
       <stop
@@ -40,17 +29,6 @@
          style="stop-color:#000000;stop-opacity:0"
          offset="1" />
     </linearGradient>
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4933"
-       id="radialGradient4837"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.659483,0.01339134,-0.01029058,1.5925239,114.38349,-41.729075)"
-       cx="-171.8835"
-       cy="72.793999"
-       fx="-171.8835"
-       fy="72.793999"
-       r="22.289658" />
     <linearGradient
        id="linearGradient4933">
       <stop
@@ -58,15 +36,7 @@
          offset="0"
          id="stop4935" />
       <stop
-         id="stop4943"
-         offset="0.39820078"
-         style="stop-color:#ebebeb;stop-opacity:1" />
-      <stop
-         id="stop4941"
-         offset="0.61794829"
-         style="stop-color:#b5b5b5;stop-opacity:1" />
-      <stop
-         style="stop-color:#efefef;stop-opacity:1"
+         style="stop-color:#d1d1d1;stop-opacity:1"
          offset="1"
          id="stop4937" />
     </linearGradient>
@@ -189,6 +159,16 @@
        fx="76.367531"
        fy="78"
        r="2.767844" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4933"
+       id="radialGradient862"
+       cx="-169.5036"
+       cy="74.465996"
+       fx="-169.5036"
+       fy="74.465996"
+       r="21.865276"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -198,9 +178,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.4748737"
-     inkscape:cx="12.017964"
+     inkscape:cx="-60.51099"
      inkscape:cy="47.42857"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g4790"
      showgrid="true"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
@@ -209,9 +189,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1920"
-     inkscape:window-height="1009"
+     inkscape:window-height="1016"
      inkscape:window-x="0"
-     inkscape:window-y="34"
+     inkscape:window-y="27"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata8393">
@@ -234,15 +214,10 @@
        style="display:inline;enable-background:new"
        id="g4790"
        transform="matrix(0.81852181,0,0,0.81852181,-51.81537,-49.616309)">
-      <path
-         style="display:inline;overflow:visible;visibility:visible;opacity:0.5;fill:url(#radialGradient4835);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;enable-background:new"
-         id="path8836"
-         d="m 121.94606,110.65882 c 0,11.7864 -21.93161,21.34118 -48.98564,21.34118 -27.054023,0 -48.985647,-9.55478 -48.985647,-21.34118 0,-11.78642 21.931624,-21.341183 48.985647,-21.341183 27.05403,0 48.98564,9.554763 48.98564,21.341183 z"
-         inkscape:connector-curvature="0" />
       <circle
          transform="matrix(2.0785299,0,0,1.9554003,425.27872,-61.98785)"
          id="path4163"
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#radialGradient4837);fill-opacity:1;fill-rule:nonzero;stroke:#969696;stroke-width:0.49602556;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#radialGradient862);fill-opacity:1.0;fill-rule:nonzero;stroke:#969696;stroke-width:0.49602556;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
          cx="-169.5036"
          cy="74.465996"
          r="21.617264" />

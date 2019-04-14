@@ -8,4 +8,4 @@
 
 ## Crediti e Licenze
 
-* GPL3 © 2019 Gnome++ Ubuntu di Andrea Bonanni
+* GPL3 © 2019 Gnome++ Ubuntu di Andrea Bonanni e Gustavo Costa.

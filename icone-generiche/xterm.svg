@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg11300"
+   width="128"
+   height="128"
+   style="enable-background:new"
+   version="1.0"
+   viewBox="0 0 128 128"
+   sodipodi:docname="xterm.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     id="namedview29"
+     showgrid="false"
+     inkscape:zoom="8.0961538"
+     inkscape:cx="64"
+     inkscape:cy="68.940618"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg11300" />
+  <!--
+  Copyright © 2018 Tobias Bernard
+  Copyright © 2018 Lapo Calamandrei
+  Copyright © 2018 Sam Hewitt
+
+  This program is free software; you can redistribute it and/or modify
+  it under the terms of the GNU General Public License as published by
+  the Free Software Foundation; either version 3, or (at your option)
+  any later version.
+
+  This program is distributed in the hope conf it will be useful,
+  but WITHOUT ANY WARRANTY; without even the implied warranty of
+  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  GNU General Public License for more details.
+
+  You should have received a copy of the GNU General Public License
+  along with this program.  If not, see <http://www.gnu.org/licenses/>.
+-->
+  <title
+     id="title4162">Adwaita Icon Template</title>
+  <defs
+     id="defs3">
+    <linearGradient
+       id="linearGradient965"
+       x1="48"
+       x2="464"
+       y1="44"
+       y2="44"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="stop989"
+         style="stop-color:#77767b"
+         offset="0" />
+      <stop
+         id="stop991"
+         style="stop-color:#c0bfbc"
+         offset=".05" />
+      <stop
+         id="stop993"
+         style="stop-color:#9a9996"
+         offset=".1" />
+      <stop
+         id="stop995"
+         style="stop-color:#9a9996"
+         offset=".9" />
+      <stop
+         id="stop997"
+         style="stop-color:#c0bfbc"
+         offset=".95" />
+      <stop
+         id="stop999"
+         style="stop-color:#77767b"
+         offset="1" />
+    </linearGradient>
+    <radialGradient
+       id="radialGradient1030"
+       cx="64"
+       cy="194.19"
+       r="44"
+       gradientTransform="matrix(-4.7273 7.9359e-7 -3.0301e-7 -1.6364 238.55 49.766)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="stop1016"
+         style="stop-color:#fff"
+         offset="0" />
+      <stop
+         id="stop1018"
+         style="stop-color:#fff;stop-opacity:.094118"
+         offset="1" />
+    </radialGradient>
+    <linearGradient
+       id="linearGradient1950"
+       x1="70.347"
+       x2="70.347"
+       y1="245.4"
+       y2="269.14"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="stop1944"
+         style="stop-color:#2d2839"
+         offset="0" />
+      <stop
+         id="stop1946"
+         style="stop-color:#282433"
+         offset="1" />
+    </linearGradient>
+  </defs>
+  <metadata
+     id="metadata4">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>GNOME Design Team</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:source />
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
+        <dc:title>Adwaita Icon Template</dc:title>
+        <dc:subject>
+          <rdf:Bag />
+        </dc:subject>
+        <dc:date />
+        <dc:rights>
+          <cc:Agent>
+            <dc:title />
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title />
+          </cc:Agent>
+        </dc:publisher>
+        <dc:identifier />
+        <dc:relation />
+        <dc:language />
+        <dc:coverage />
+        <dc:description />
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title />
+          </cc:Agent>
+        </dc:contributor>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     transform="translate(0,-172)">
+    <g
+       id="layer9">
+      <rect
+         id="rect953"
+         transform="matrix(.25 0 0 .25 0 225)"
+         x="48"
+         y="-124"
+         width="416"
+         height="376"
+         rx="32"
+         ry="32"
+         style="enable-background:new;fill:url(#linearGradient965);paint-order:normal" />
+      <rect
+         id="rect950"
+         transform="matrix(.25 0 0 .25 0 225)"
+         x="48"
+         y="-164"
+         width="416"
+         height="384"
+         rx="32"
+         ry="32"
+         style="enable-background:new;fill:#deddda;paint-order:normal" />
+      <rect
+         id="rect1004"
+         transform="scale(1,-1)"
+         x="16"
+         y="-276"
+         width="96"
+         height="88"
+         rx="4"
+         ry="4"
+         style="enable-background:new;fill:#241f31;paint-order:normal" />
+      <rect
+         id="rect968"
+         transform="scale(-1)"
+         x="-108"
+         y="-272"
+         width="88"
+         height="78"
+         style="enable-background:new;fill:url(#radialGradient1030);opacity:.05;paint-order:normal" />
+      <g
+         id="g976"
+         transform="translate(-2,-2)"
+         style="fill:#fff">
+        <path
+           id="path972"
+           d="m44.012 210.89-14.012-7.6157v4.7282l9.7107 4.6295v0.1422l-9.7107 5.2283v4.7282l14.012-8.2145z"
+           style="fill:#fff;font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal" />
+        <path
+           id="path974"
+           d="m48 226 2e-6 4h16l-2e-6 -4z"
+           style="fill:#fff;font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal" />
+      </g>
+      <path
+         id="rect1059"
+         d="m100 244h4v4h-4zm-8 0h4v4h-4zm-8 0h4v4h-4zm-8 0h4v4h-4zm-8 0h4v4h-4zm-8 0h4v4h-4zm-8 0h4v4h-4zm-8 0h4v4h-4zm-8 0h4v4h-4zm-8 0h4v4h-4zm-8 0h4v4h-4zm84 4h4v4h-4zm-8 0h4v4h-4zm-8 0h4v4h-4zm-8 0h4v4h-4zm-8 0h4v4h-4zm-8 0h4v4h-4zm-8 0h4v4h-4zm-8 0h4v4h-4zm-8 0h4v4h-4zm-8 0h4v4h-4zm-8 0h4v4h-4zm76 4h4v4h-4zm-8 0h4v4h-4zm-8 0h4v4h-4zm-8 0h4v4h-4zm-8 0h4v4h-4zm-8 0h4v4h-4zm-8 0h4v4h-4zm-8 0h4v4h-4zm-8 0h4v4h-4zm-8 0h4v4h-4zm-8 0h4v4h-4zm84 4h4v4h-4zm-8 0h4v4h-4zm-8 0h4v4h-4zm-8 0h4v4h-4zm-8 0h4v4h-4zm-8 0h4v4h-4zm-8 0h4v4h-4zm-8 0h4v4h-4zm-8 0h4v4h-4zm-8 0h4v4h-4zm-8 0h4v4h-4zm76 4h4v4h-4zm-8 0h4v4h-4zm-8 0h4v4h-4zm-8 0h4v4h-4zm-8 0h4v4h-4zm-8 0h4v4h-4zm-8 0h4v4h-4zm-8 0h4v4h-4zm-8 0h4v4h-4zm-8 0h4v4h-4zm-8 0h4v4h-4zm84 4h4v4h-4zm-8 0h4v4h-4zm-8 0h4v4h-4zm-8 0h4v4h-4zm-8 0h4v4h-4zm-8 0h4v4h-4zm-8 0h4v4h-4zm-8 0h4v4h-4zm-8 0h4v4h-4zm-8 0h4v4h-4zm-8 0h4v4h-4zm76 4h4v4h-4zm-8 0h4v4h-4zm-8 0h4v4h-4zm-8 0h4v4h-4zm-8 0h4v4h-4zm-8 0h4v4h-4zm-8 0h4v4h-4zm-8 0h4v4h-4zm-8 0h4v4h-4zm-8 0h4v4h-4zm-8 0h4v4h-4z"
+         style="fill:url(#linearGradient1950);paint-order:normal" />
+    </g>
+  </g>
+  <path
+     style="opacity:0.1;fill:#e4e4e4;stroke-width:1.67608118"
+     d="M 68.064453 16 L 43.333984 16 L 70.728516 57.960938 L 39.583984 104 L 53.84375 104 L 77.675781 68.935547 L 100.27539 104 L 108 104 C 108.554 104 109.08167 103.88938 109.56055 103.6875 C 110.03942 103.48562 110.46858 103.19158 110.83008 102.83008 C 111.19158 102.46858 111.48562 102.03942 111.6875 101.56055 C 111.88938 101.08167 112 100.554 112 100 L 112 81.169922 L 95.027344 57.740234 L 112 35.072266 L 112 20 C 112 19.446 111.88938 18.918328 111.6875 18.439453 C 111.48562 17.960578 111.19158 17.531422 110.83008 17.169922 C 110.691 17.030844 110.50017 16.957219 110.3418 16.839844 L 88.410156 46.863281 L 68.064453 16 z "
+     id="path875" />
+</svg>

@@ -40,7 +40,7 @@ test_long: test_xml_struct
 
 .PHONY: test_svg_elems
 test_svg_elems:
-	# >>> Searching for icons with embedded objects
+	# >>> Cercando le icone con oggetti incorporati (ad esempio, incorporare un'immagine)
 	@! LC_ALL=C grep -E -rl --include='*.svg' \
 		-e '<image[ ]' \
 		-e '<object[ ]' \
@@ -48,18 +48,18 @@ test_svg_elems:
 
 .PHONY: test_symlinks
 test_symlinks:
-	# >>> Searching for broken symlinks
+	# >>> Cercando collegamenti simbolici rotti (ad esempio, hai bisgono di correggere il percorso assoluto per il relativo)
 	@find $(ICON_THEMES) -xtype l -printf '%p -> %l\n' -exec false '{}' +
 
 .PHONY: test_filenames
 test_filenames:
-	# >>> Searching for invalid filenames
+	# >>> Cercando le icone con i nomi non validi (ad esempio, lettere accentate, caratteri non-latini)
 	@find $(ICON_THEMES) -not -iregex '[-_/\.+@a-z0-9]+' -print \
 		-exec false '{}' +
 
 .PHONY: test_xml_struct
 test_xml_struct:
-	# >>> Searching for broken SVG icons
+	# >>> Cercando le icone SVG rotte
 	@find $(ICON_THEMES) -type f -name '*.svg' \
 		-exec xmlstarlet validate --list-bad '{}' +
 

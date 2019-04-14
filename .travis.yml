@@ -4,7 +4,11 @@ language: generic
 
 branches:
     - master
-
+notifications:
+  email:
+    recipients:
+      - gusbemacbe@gmail.com
+      
 addons:
   apt:
     packages:

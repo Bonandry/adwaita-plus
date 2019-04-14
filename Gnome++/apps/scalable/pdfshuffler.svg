@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -36,14 +36,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1009"
+     inkscape:window-height="1025"
      id="namedview73"
      showgrid="false"
      inkscape:zoom="6.5234375"
-     inkscape:cx="64"
+     inkscape:cx="36.330539"
      inkscape:cy="64"
      inkscape:window-x="0"
-     inkscape:window-y="34"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="g69" />
   <defs
@@ -190,11 +190,6 @@
        overflow="visible"
        fill="#deddda"
        id="path65" />
-    <path
-       d="M108 280.654a7.468 7.468 0 0 1-7.492 7.346h-.5v1h.5a8.488 8.488 0 0 0 7.463-4.428c.013-.19.029-.379.029-.572zM66 288l34 1v-1z"
-       fill="#c0bfbc"
-       fill-opacity=".272"
-       id="path67" />
   </g>
   <path
      inkscape:connector-curvature="0"

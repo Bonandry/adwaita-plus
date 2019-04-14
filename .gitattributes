@@ -1,2 +1,8 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+# exclude the following dirs/files from archives:
+.*                    export-ignore
+folders               export-ignore
+icone-generiche       export-ignore
+images                export-ignore
+scripts               export-ignore
+tools                 export-ignore
+templates             export-ignore

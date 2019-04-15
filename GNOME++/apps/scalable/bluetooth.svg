@@ -12,7 +12,7 @@
    height="128"
    version="1.0"
    id="svg75"
-   sodipodi:docname="2048.svg"
+   sodipodi:docname="bluetooth.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <metadata
      id="metadata79">
@@ -39,14 +39,13 @@
      inkscape:window-height="1009"
      id="namedview77"
      showgrid="false"
-     inkscape:zoom="3.6265081"
-     inkscape:cx="-70.12946"
-     inkscape:cy="62.17578"
+     inkscape:zoom="6.578125"
+     inkscape:cx="75.334702"
+     inkscape:cy="64"
      inkscape:window-x="0"
      inkscape:window-y="34"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g73"
-     showguides="false" />
+     inkscape:current-layer="g73" />
   <defs
      id="defs24">
     <linearGradient
@@ -110,6 +109,66 @@
          stop-color="#d5d3cf"
          id="stop21" />
     </linearGradient>
+    <filter
+       id="filter906"
+       x="-0.02"
+       y="-0.029999999"
+       width="1.046"
+       height="1.05"
+       style="color-interpolation-filters:sRGB">
+      <feGaussianBlur
+         stdDeviation="2.32"
+         id="feGaussianBlur922" />
+    </filter>
+    <linearGradient
+       id="linearGradient878"
+       x1="32"
+       x2="272"
+       y1="156"
+       y2="156"
+       gradientTransform="matrix(0.23900574,0.41397008,-0.41397008,0.23900574,-19.523641,133.24274)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         style="stop-color:#2f5fdd"
+         offset="0"
+         id="stop917" />
+      <stop
+         style="stop-color:#5884f4"
+         offset="1"
+         id="stop919" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient1108"
+       x1="296"
+       x2="296"
+       y1="-212"
+       y2="236"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         style="stop-color:#ffffff"
+         offset="0"
+         id="stop905" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:.09803922"
+         offset=".125"
+         id="stop907" />
+      <stop
+         style="stop-color:#000000;stop-opacity:.09803922"
+         offset=".925"
+         id="stop909" />
+      <stop
+         style="stop-color:#000000;stop-opacity:.49803922"
+         offset="1"
+         id="stop911" />
+    </linearGradient>
+    <clipPath
+       id="clipPath1082-3-3">
+      <path
+         inkscape:connector-curvature="0"
+         d="M 361.9375,-212 C 507.2348,-212 528,-191.28677 528,-46.125 V 70.125 C 528,215.28618 507.2348,236 361.9375,236 H 214.0625 C 68.7652,236 48,215.28618 48,70.125 V -46.125 C 48,-191.28677 68.7652,-212 214.0625,-212 Z"
+         style="fill:#8c59d9"
+         id="path914" />
+    </clipPath>
   </defs>
   <g
      transform="translate(0 -172)"
@@ -124,14 +183,14 @@
        fill="url(#e)"
        id="rect33" />
     <path
-       style="fill:#20b293;fill-opacity:1"
+       style="fill:#4371e8;fill-opacity:1"
        d="M 20 10 C 15.568 10 12 13.568 12 18 L 12 60 L 12 102 C 12 106.432 15.568 110 20 110 L 64 110 L 108 110 C 112.432 110 116 106.432 116 102 L 116 60 L 116 18 C 116 13.568 112.432 10 108 10 L 20 10 z "
        id="path37"
        transform="translate(0,172)" />
     <path
-       inkscape:connector-curvature="0"
-       d="m 60.959465,194.5 v 8.27042 a 29.391869,29.391869 0 0 0 -25.90792,24.16202 h 6.21172 a 23.310792,23.310792 0 0 1 22.73674,-18.24321 23.310792,23.310792 0 0 1 22.72089,18.24321 h 6.19985 A 29.391869,29.391869 0 0 0 67.040535,202.77838 V 194.5 Z m 3.04054,20.27031 a 17.229717,17.229717 0 0 0 -17.22973,17.22971 17.229717,17.229717 0 0 0 0.28508,3.0405 h 27.65781 a 11.148639,11.148639 0 0 1 -10.71314,8.10808 11.148639,11.148639 0 0 1 -8.58715,-4.05398 h -7.09459 a 17.229717,17.229717 0 0 0 15.68174,10.13505 17.229717,17.229717 0 0 0 17.22971,-17.22965 17.229717,17.229717 0 0 0 -0.28507,-3.04056 h -27.65781 a 11.148639,11.148639 0 0 1 10.71315,-8.10808 11.148639,11.148639 0 0 1 8.58714,4.054 h 7.09459 a 17.229717,17.229717 0 0 0 -15.68173,-10.13507 z m -28.92075,22.29722 a 29.391869,29.391869 0 0 0 25.88021,24.15408 V 269.5 h 6.08107 v -8.27042 a 29.391869,29.391869 0 0 0 25.90792,-24.16205 h -6.21172 a 23.310792,23.310792 0 0 1 -22.73673,18.24324 23.310792,23.310792 0 0 1 -22.7209,-18.24324 z"
-       style="fill:#ffffff;stroke-width:1.5630213"
-       id="path35" />
+       d="M 45.816554,249.20843 82.145423,214.79159 63.980988,196.62716 v 70.74569 L 82.145423,249.20843 45.816554,214.79159"
+       style="fill:none;stroke:#ffffff;stroke-width:3.82409143;stroke-linecap:square"
+       id="path1714"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>

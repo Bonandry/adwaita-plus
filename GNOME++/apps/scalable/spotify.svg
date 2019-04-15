@@ -14,7 +14,7 @@
    id="svg11300"
    height="128"
    width="128"
-   sodipodi:docname="exaile.svg"
+   sodipodi:docname="spotify.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -29,13 +29,13 @@
      inkscape:window-height="1009"
      id="namedview24"
      showgrid="false"
-     inkscape:zoom="6.5234375"
-     inkscape:cx="64"
-     inkscape:cy="64"
+     inkscape:zoom="6.8442623"
+     inkscape:cx="63.999996"
+     inkscape:cy="65"
      inkscape:window-x="0"
      inkscape:window-y="34"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg11300" />
+     inkscape:current-layer="layer9" />
   <title
      id="title4162">Adwaita Icon Template</title>
   <defs
@@ -196,31 +196,17 @@
          d="M 123.99993,235 A 59.999995,59.999995 0 0 1 63.999945,294.99999 59.999995,59.999995 0 0 1 3.9999381,235 59.999995,59.999995 0 0 1 63.999945,175 59.999995,59.999995 0 0 1 123.99993,235 Z"
          id="path981"
          inkscape:connector-curvature="0" />
+      <path
+         d="M 63.99961,181 C 34.177045,181 9.9999335,205.17705 9.9999335,235.00031 9.9999335,264.82488 34.177045,289 63.99961,289 c 29.825789,0 54.00032,-24.17512 54.00032,-53.99969 0,-29.82133 -24.174531,-53.99773 -54.000965,-53.99773 z m 24.763904,77.88396 c -0.96724,1.58629 -3.043579,2.08927 -4.629852,1.11558 -12.678572,-7.74456 -28.639309,-9.49852 -47.435992,-5.20387 -1.811316,0.4127 -3.61683,-0.72222 -4.029518,-2.53424 -0.414623,-1.812 0.715757,-3.61755 2.531587,-4.03026 20.569954,-4.6996 38.214333,-2.67608 52.448226,6.02282 1.586271,0.97372 2.089236,3.04365 1.115549,4.62997 z m 6.609468,-14.70368 c -1.218722,1.98095 -3.810923,2.60644 -5.790539,1.38769 -14.515037,-8.92203 -36.640957,-11.5059 -53.809453,-6.2943 -2.226585,0.67258 -4.578266,-0.58228 -5.254044,-2.80505 -0.670619,-2.22664 0.584857,-4.57386 2.807573,-5.25094 19.611099,-5.9506 43.991331,-3.06816 60.660086,7.17515 1.979617,1.21875 2.605098,3.81102 1.386377,5.78809 z m 0.567447,-15.31113 c -17.403858,-10.33743 -46.117967,-11.28793 -62.734492,-6.24464 -2.66829,0.80928 -5.49005,-0.69706 -6.298662,-3.36543 -0.808612,-2.66964 0.696412,-5.48953 3.366637,-6.30074 19.074603,-5.79067 50.783929,-4.67187 70.821258,7.22353 2.4052,1.42445 3.19188,4.5242 1.76682,6.92107 -1.41861,2.40011 -4.526676,3.19132 -6.918982,1.76621 z"
+         id="path2"
+         inkscape:connector-curvature="0"
+         style="fill:#1ed760;stroke-width:0.64483386"
+         sodipodi:nodetypes="csssccccccccccccccccccccccccc" />
+      <path
+         id="circle1003"
+         d="m 64.000045,181 a 54,54 0 0 0 -54,54 54,54 0 0 0 0.0415,1.1709 A 54,54 0 0 1 64.000045,183 54,54 0 0 1 117.95854,235.82813 54,54 0 0 0 118.00004,235 54,54 0 0 0 64.000035,181 Z"
+         style="display:inline;opacity:0.1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.01129822px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;enable-background:new"
+         inkscape:connector-curvature="0" />
     </g>
   </g>
-  <rect
-     style="fill:#90ae32;stroke-width:2.07696319"
-     width="108"
-     height="108"
-     x="-116.16766"
-     y="-118.14617"
-     rx="54.001038"
-     ry="54.001038"
-     transform="matrix(0,-1,-1,0,0,0)"
-     id="rect901" />
-  <path
-     inkscape:connector-curvature="0"
-     style="opacity:0.2;stroke-width:2.07696319"
-     d="m 89.067477,64.244433 c 0,3.968225 -39.657751,26.785346 -43.108779,24.801058 -3.448496,-1.984103 -3.448496,-47.619882 4e-6,-49.601275 3.448494,-1.984092 43.108779,20.832865 43.108779,24.801048 z"
-     id="path905" />
-  <path
-     inkscape:connector-curvature="0"
-     style="fill:#ffffff;stroke-width:2.07696319"
-     d="m 89.066102,62.16718 c 0,3.968203 -39.657679,26.785242 -43.107294,24.801139 -3.448504,-1.984102 -3.448504,-47.618582 4e-6,-49.600711 3.448505,-1.984108 43.107294,20.832926 43.107294,24.801151 z"
-     id="path907" />
-  <path
-     id="circle1003"
-     d="m 64.076647,8.1319153 a 54,54 0 0 0 -54,54.0000007 54,54 0 0 0 0.0415,1.1709 54,54 0 0 1 53.9585,-53.1709 54,54 0 0 1 53.958503,52.82813 54,54 0 0 0 0.0415,-0.82813 A 54,54 0 0 0 64.076637,8.1319153 Z"
-     style="display:inline;opacity:0.1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.01129822px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;enable-background:new"
-     inkscape:connector-curvature="0" />
 </svg>

@@ -1,9 +1,227 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1">
- <rect style="opacity:0.2" width="44" height="56" x="-54" y="5" rx="2.75" ry="2.8" transform="scale(-1,1)"/>
- <rect style="fill:#8e8e8e" width="44" height="56" x="-54" y="4" rx="2.75" ry="2.8" transform="scale(-1,1)"/>
- <rect style="fill:#333333" width="40" height="24" x="12" y="6" rx="0" ry="0"/>
- <circle style="opacity:0.2" cx="32" cy="47" r="12"/>
- <circle style="fill:#ffffff" cx="32" cy="46" r="12"/>
- <circle style="fill:#8e8e8e" cx="32" cy="46" r="6"/>
- <path style="opacity:0.1;fill:#ffffff" d="M 12.75 4 C 11.2265 4 10 5.2495812 10 6.8007812 L 10 7.8007812 C 10 6.2495813 11.2265 5 12.75 5 L 51.25 5 C 52.7735 5 54 6.2495812 54 7.8007812 L 54 6.8007812 C 54 5.2495813 52.7735 4 51.25 4 L 12.75 4 z"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="128"
+   height="128"
+   version="1"
+   id="svg16"
+   sodipodi:docname="gtkpod.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata22">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs20">
+    <filter
+       id="filter925"
+       x="-0.02"
+       y="-0.029999999"
+       width="1.046"
+       height="1.05"
+       style="color-interpolation-filters:sRGB">
+      <feGaussianBlur
+         stdDeviation="2.32"
+         id="feGaussianBlur2" />
+    </filter>
+    <filter
+       id="filter931"
+       x="-0.0099999998"
+       y="-0.0099999998"
+       width="1.023"
+       height="1.025"
+       style="color-interpolation-filters:sRGB">
+      <feGaussianBlur
+         stdDeviation="1.16"
+         id="feGaussianBlur5" />
+    </filter>
+    <linearGradient
+       id="linearGradient1108"
+       x1="296"
+       x2="296"
+       y1="-212"
+       y2="236"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         style="stop-color:#ffffff"
+         offset="0"
+         id="stop8" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:.09803922"
+         offset=".125"
+         id="stop10" />
+      <stop
+         style="stop-color:#000000;stop-opacity:.09803922"
+         offset=".925"
+         id="stop12" />
+      <stop
+         style="stop-color:#000000;stop-opacity:.49803922"
+         offset="1"
+         id="stop14" />
+    </linearGradient>
+    <clipPath
+       id="clipPath1082-3">
+      <path
+         inkscape:connector-curvature="0"
+         d="M 361.9375,-212 C 507.2348,-212 528,-191.28677 528,-46.125 V 70.125 C 528,215.28618 507.2348,236 361.9375,236 H 214.0625 C 68.7652,236 48,215.28618 48,70.125 V -46.125 C 48,-191.28677 68.7652,-212 214.0625,-212 Z"
+         style="fill:#8c59d9"
+         id="path17" />
+    </clipPath>
+    <clipPath
+       id="clipPath42">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 1294.22,807.09 c 0,-269.07 -218.13,-487.211 -487.208,-487.211 -269.074,0 -487.207,218.141 -487.207,487.211 0,269.08 218.133,487.21 487.207,487.21 269.078,0 487.208,-218.13 487.208,-487.21"
+         id="path20" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     id="namedview18"
+     showgrid="false"
+     inkscape:zoom="6.5234375"
+     inkscape:cx="64"
+     inkscape:cy="64"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg16"
+     inkscape:snap-nodes="false" />
+  <rect
+     style="opacity:0.2;stroke-width:2.10526323"
+     width="92.631577"
+     height="117.89474"
+     x="-110.63158"
+     y="7.1052632"
+     rx="5.7894735"
+     ry="5.8947368"
+     transform="scale(-1,1)"
+     id="rect2" />
+  <rect
+     style="fill:#8e8e8e;stroke-width:2.10526323"
+     width="92.631577"
+     height="117.89474"
+     x="-110.63158"
+     y="5"
+     rx="5.7894735"
+     ry="5.8947368"
+     transform="scale(-1,1)"
+     id="rect4" />
+  <rect
+     style="fill:#333333;stroke-width:2.10526323"
+     width="84.210526"
+     height="50.526318"
+     x="22.210526"
+     y="9.2105265"
+     rx="0"
+     ry="0"
+     id="rect6" />
+  <circle
+     style="opacity:1;stroke-width:2.10526323;fill:#f8f8f8;fill-opacity:1"
+     cx="64.315788"
+     cy="93.526314"
+     r="25.263159"
+     id="circle8" />
+  <circle
+     style="fill:#8e8e8e;stroke-width:2.10526323"
+     cx="64.315788"
+     cy="93.421051"
+     r="12.631579"
+     id="circle12" />
+  <g
+     style="enable-background:new"
+     transform="matrix(1.1751568,0,0,1.1751348,-87.094697,-211.68249)"
+     id="g71">
+    <g
+       transform="matrix(1.1175424,0,0,1.1175633,92.429427,-33.957466)"
+       id="g69">
+      <g
+         transform="translate(1.0593047,0.79447857)"
+         id="g67">
+        <path
+           inkscape:connector-curvature="0"
+           d="m 30.970861,278.363 -0.728056,0.42026 -0.727939,0.42054 v -1.68111 l 0.727939,0.42009 0.728056,0.42022"
+           style="fill:#333333;fill-opacity:1"
+           id="path43" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 31.486772,279.2038 h 0.490229 v -1.68546 h -0.490229 z"
+           style="fill:#333333;fill-opacity:1"
+           id="path45" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 32.317495,279.2038 h 0.485894 v -1.6709 h -0.485894 z"
+           style="fill:#333333;fill-opacity:1"
+           id="path47" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 47.017641,262.2991 -0.729764,0.42133 -0.729765,0.42148 v -1.68563 l 0.729765,0.42149 0.729764,0.42133"
+           style="fill:#333333;fill-opacity:1"
+           id="path49" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 48.466463,263.14191 h 0.48729 v -1.67569 h -0.48729 z"
+           style="fill:#333333;fill-opacity:1"
+           id="path51" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 48.471219,262.2991 -0.730158,0.42133 -0.729765,0.42148 v -1.68563 l 0.729765,0.42149 0.730158,0.42133"
+           style="fill:#333333;fill-opacity:1"
+           id="path53" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 15.957408,262.2991 0.729764,0.42133 0.729603,0.42148 v -1.68563 l -0.729603,0.42149 -0.729764,0.42133"
+           style="fill:#333333;fill-opacity:1"
+           id="path55" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 14.021099,263.14191 h 0.487442 v -1.67569 h -0.487442 z"
+           style="fill:#333333;fill-opacity:1"
+           id="path57" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 14.503908,262.2991 0.730079,0.42133 0.729605,0.42148 v -1.68563 l -0.729605,0.42149 -0.730079,0.42133"
+           style="fill:#333333;fill-opacity:1"
+           id="path59" />
+        <g
+           transform="matrix(0.39639484,0,0,-0.39639484,-0.32498509,293.99443)"
+           id="g65"
+           style="fill:#333333;fill-opacity:1">
+          <text
+             transform="matrix(1,0,0,-1,69.7973,119.462)"
+             style="font-weight:bold;font-size:5.72143984px;font-family:Arial;fill:#333333;fill-opacity:1"
+             id="text63">
+            <tspan
+               x="0 4.77 8.5799999 12.71"
+               y="0"
+               id="tspan61"
+               style="fill:#333333;fill-opacity:1">MENU</tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+  </g>
 </svg>

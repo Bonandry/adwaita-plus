@@ -29,17 +29,29 @@
      inkscape:window-height="1009"
      id="namedview74"
      showgrid="false"
-     inkscape:zoom="6.0362364"
-     inkscape:cx="61.119086"
-     inkscape:cy="72.694277"
+     inkscape:zoom="7.2185394"
+     inkscape:cx="16.364118"
+     inkscape:cy="69.795582"
      inkscape:window-x="0"
      inkscape:window-y="34"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="g1224" />
   <title
      id="title4162">Adwaita Icon Template</title>
   <defs
      id="defs3">
+    <linearGradient
+       id="linearGradient957"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#b7c594;stop-opacity:1"
+         id="stop953"
+         offset="0" />
+      <stop
+         style="stop-color:#d3c64e;stop-opacity:1"
+         id="stop955"
+         offset="1" />
+    </linearGradient>
     <linearGradient
        id="linearGradient1722">
       <stop
@@ -336,6 +348,16 @@
        id="linearGradient3381"
        xlink:href="#linearGradient2911-613-519-4"
        inkscape:collect="always" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient957"
+       id="linearGradient951"
+       x1="-5.449893"
+       y1="223.33989"
+       x2="38.60334"
+       y2="275.84357"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(62.616545,-20.779827)" />
   </defs>
   <metadata
      id="metadata4">
@@ -709,20 +731,17 @@
       <g
          id="g1224"
          transform="translate(-51.90243,4)">
-        <use
-           x="0"
-           y="0"
-           xlink:href="#g1069"
-           id="use1212"
-           transform="matrix(2,0,0,2,-2.348702,-225.96999)"
-           width="100%"
-           height="100%"
-           style="display:inline;stroke-width:0.5;enable-background:new"
-           clip-path="url(#clipPath9424)" />
         <path
            id="path1214"
            d="m 79.804774,202.09766 c -14.359403,0 -26,11.6406 -26,26 0.0094,2.07202 0.266411,0.13548 0.765625,2.14648 C 57.256441,218.41196 67.7692,210.01067 79.90243,210 c 11.981122,0.0132 22.40201,8.21199 25.23438,19.85352 0.43642,-1.88774 0.66047,0.18166 0.66796,-1.75586 0,-14.3594 -11.640594,-26 -25.999996,-26 z M 51.90243,226 v 8 c 0,15.46397 12.536034,28 28,28 15.46397,0 28,-12.53603 28,-28 v -8 c 0,7.1509 -2.68447,13.074 -7.0957,17.37891 -4.885,6.72441 -12.690471,10.70808 -21.001956,10.71875 -8.608416,-0.01 -16.653796,-4.28029 -21.486328,-11.4043 C 54.311584,238.45386 51.90243,232.77724 51.90243,226 Z"
            style="display:inline;opacity:1;vector-effect:none;fill:url(#linearGradient1247);fill-opacity:1;stroke:none;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;enable-background:new" />
+        <ellipse
+           style="opacity:1;fill:url(#linearGradient951);fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path927"
+           cx="80.02446"
+           cy="230.95914"
+           rx="25.074324"
+           ry="22.372948" />
         <g
            style="stroke-width:0.76800001"
            transform="matrix(1.3020833,0,0,1.3020833,116.61189,-27.008333)"

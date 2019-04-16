@@ -21,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -36,19 +36,19 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
+     inkscape:window-width="1853"
      inkscape:window-height="1009"
      id="namedview24"
      showgrid="false"
      inkscape:zoom="3.6875"
-     inkscape:cx="32"
+     inkscape:cx="-21.288136"
      inkscape:cy="32"
-     inkscape:window-x="0"
+     inkscape:window-x="67"
      inkscape:window-y="34"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg22" />
   <path
-     style="fill:#ffae00;stroke-width:2.44897962;fill-opacity:1"
+     style="fill:#f5c211;stroke-width:2.44897962;fill-opacity:1"
      d="M 94.536146,33.641992 V 48.33587 c 0,8.140408 -6.553469,14.693877 -14.693877,14.693877 H 50.454514 c 0,0 -14.693878,0 -14.693878,14.693878 v 25.714285 c 0,10.17796 11.471021,18.36735 25.714286,18.36735 h 7.346939 c 14.243265,0 25.714285,-8.18939 25.714285,-18.36735 V 92.417502 h 11.020404 c 10.17796,0 18.36735,-11.47102 18.36735,-25.714285 v -7.346939 c 0,-14.243265 -8.18939,-25.714286 -18.36735,-25.714286 z"
      id="path2"
      inkscape:connector-curvature="0" />
@@ -63,7 +63,7 @@
      id="path6"
      inkscape:connector-curvature="0" />
   <path
-     style="fill:#0090ff;stroke-width:2.44897962;fill-opacity:1"
+     style="fill:#1c71d8;stroke-width:2.44897962;fill-opacity:1"
      d="m 61.474922,4.2542373 c -14.243265,0 -25.714286,8.1918367 -25.714286,18.3673467 V 33.641992 H 24.740228 c -10.17551,0 -18.3673466,11.471021 -18.3673466,25.714286 v 7.346939 c 0,14.243265 8.1918366,25.714285 18.3673466,25.714285 H 35.760636 V 77.723625 c 0,-8.140408 6.553469,-14.693878 14.693878,-14.693878 h 29.387755 c 0,0 14.693877,0 14.693877,-14.693877 V 22.621584 c 0,-10.17551 -11.47102,-18.3673467 -25.714285,-18.3673467 z"
      id="path8"
      inkscape:connector-curvature="0" />

@@ -11,7 +11,7 @@
    height="128"
    version="1"
    id="svg14"
-   sodipodi:docname="gnome-klotski.svg"
+   sodipodi:docname="klotski.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <metadata
      id="metadata20">
@@ -21,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -36,14 +36,14 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
+     inkscape:window-width="1853"
      inkscape:window-height="1009"
      id="namedview16"
      showgrid="false"
      inkscape:zoom="6.9583333"
-     inkscape:cx="62.94737"
+     inkscape:cx="34.707849"
      inkscape:cy="74.497006"
-     inkscape:window-x="0"
+     inkscape:window-x="67"
      inkscape:window-y="34"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg14" />
@@ -53,17 +53,17 @@
      id="path2"
      inkscape:connector-curvature="0" />
   <path
-     style="fill:#ffa200;fill-opacity:1;stroke-width:2.10526323"
+     style="fill:#f5c211;fill-opacity:1;stroke-width:2.10526323"
      d="m 62.947368,3.9999997 h 52.631582 c 3.49894,0 6.31579,2.8168423 6.31579,6.3157893 V 62.947368 H 62.947368 Z"
      id="path4"
      inkscape:connector-curvature="0" />
   <path
-     style="fill:#ffa200;fill-opacity:1;stroke-width:2.10526323"
+     style="fill:#f5c211;fill-opacity:1;stroke-width:2.10526323"
      d="M 62.947368,121.89474 H 10.315789 C 6.8168421,121.89474 4,119.07789 4,115.57895 V 62.947368 h 58.947368 z"
      id="path6"
      inkscape:connector-curvature="0" />
   <rect
-     style="fill:#3f7fff;fill-opacity:1;stroke-width:2.10526323"
+     style="fill:#1c71d8;fill-opacity:1;stroke-width:2.10526323"
      width="33.684212"
      height="33.684212"
      x="75.578949"
@@ -72,7 +72,7 @@
      ry="4.2105265"
      id="rect8" />
   <rect
-     style="fill:#3f7fff;fill-opacity:1;stroke-width:2.10526323"
+     style="fill:#1c71d8;fill-opacity:1;stroke-width:2.10526323"
      width="33.684212"
      height="33.684212"
      x="16.631578"

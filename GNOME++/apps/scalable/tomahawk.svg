@@ -14,7 +14,7 @@
    id="svg11300"
    height="128"
    width="128"
-   sodipodi:docname="template4.svg"
+   sodipodi:docname="tomahawk.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -30,7 +30,7 @@
      id="namedview24"
      showgrid="false"
      inkscape:zoom="5.9021746"
-     inkscape:cx="9.6353804"
+     inkscape:cx="18.731806"
      inkscape:cy="64.08763"
      inkscape:window-x="0"
      inkscape:window-y="34"
@@ -180,7 +180,7 @@
       <path
          id="path945"
          d="M 132.07686,238.15385 A 69.230763,69.230763 0 0 1 62.8461,307.38462 69.230763,69.230763 0 0 1 -6.3846765,238.15385 69.230763,69.230763 0 0 1 62.8461,168.92309 a 69.230763,69.230763 0 0 1 69.23076,69.23076 z"
-         style="display:inline;opacity:1;fill:#deddda;fill-opacity:1;stroke:none;stroke-width:0.01303641px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;enable-background:new"
+         style="display:inline;opacity:1;fill:#4f0004;fill-opacity:1;stroke:none;stroke-width:0.01303641px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;enable-background:new"
          inkscape:connector-curvature="0" />
       <rect
          style="display:inline;opacity:1;fill:#d5d3cf;fill-opacity:1;stroke:none;stroke-width:0.01303641px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;enable-background:new"
@@ -192,16 +192,15 @@
          rx="64.615387"
          ry="64.615387" />
       <path
-         style="display:inline;opacity:1;fill:#f6f5f4;fill-opacity:1;stroke:none;stroke-width:0.01303641px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;enable-background:new"
+         style="display:inline;opacity:1;fill:#e01b24;fill-opacity:1;stroke:none;stroke-width:0.01303641px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;enable-background:new"
          d="M 132.07686,235.84616 A 69.230763,69.230763 0 0 1 62.8461,305.07692 69.230763,69.230763 0 0 1 -6.3846765,235.84616 69.230763,69.230763 0 0 1 62.8461,166.61539 a 69.230763,69.230763 0 0 1 69.23076,69.23077 z"
          id="path981"
          inkscape:connector-curvature="0" />
-      <circle
-         r="62.307693"
-         style="display:inline;opacity:1;fill:#3d3846;fill-opacity:1;stroke:none;stroke-width:0.01303641px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;enable-background:new"
-         id="circle983"
-         cx="62.8461"
-         cy="235.84615" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff;stroke-width:3.11538434"
+         d="m 62.846215,173.53847 a 62.307687,62.307687 0 0 1 62.307685,62.30768 62.307687,62.307687 0 0 1 -18.69229,44.48148 v -73.04331 c 0,-4.89117 -4.44256,-8.82277 -9.969237,-8.82277 h -4.984632 c -5.526684,0 -9.96921,3.9316 -9.96921,8.82277 v 19.47115 L 58.821134,214.01355 32.103603,199.03479 a 4.4316342,4.3035921 0 0 0 -2.112231,-0.57324 4.4316342,4.3035921 0 0 0 -4.529769,4.293 v 59.94 a 4.4316342,4.3035921 0 0 0 6.642,3.73224 l 26.717531,-14.99124 22.717397,-12.72948 v 56.50064 a 62.307687,62.307687 0 0 1 -18.692316,2.94713 62.307687,62.307687 0 0 1 -62.30769,-62.30769 62.307687,62.307687 0 0 1 62.30769,-62.30768 z"
+         id="path8" />
       <path
          id="circle1003"
          d="m 62.846215,173.53847 a 62.307692,62.307692 0 0 0 -62.30769159,62.30769 62.307692,62.307692 0 0 0 0.04789,1.35104 62.307692,62.307692 0 0 1 62.25980659,-61.35104 62.307692,62.307692 0 0 1 62.2598,60.95553 62.307692,62.307692 0 0 0 0.0479,-0.95553 62.307692,62.307692 0 0 0 -62.307701,-62.30769 z"

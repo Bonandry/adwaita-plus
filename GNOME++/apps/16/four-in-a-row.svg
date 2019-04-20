@@ -1,79 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="16"
-   height="16"
-   version="1.1"
-   viewBox="0 0 16 16"
-   id="svg9"
-   sodipodi:docname="four-in-a-row-symbolic.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
-  <metadata
-     id="metadata15">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs13" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1009"
-     id="namedview11"
-     showgrid="true"
-     inkscape:zoom="52.1875"
-     inkscape:cx="8"
-     inkscape:cy="8"
-     inkscape:window-x="0"
-     inkscape:window-y="34"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg9">
-    <inkscape:grid
-       type="xygrid"
-       id="grid831" />
-  </sodipodi:namedview>
-  <circle
-     style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:3.11293769;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     id="path825"
-     cx="2"
-     cy="14"
-     r="2" />
-  <circle
-     r="2"
-     cy="10.014371"
-     cx="6.0047903"
-     id="circle837"
-     style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:3.11293769;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-  <circle
-     style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:3.11293769;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     id="circle839"
-     cx="10.009581"
-     cy="5.9904189"
-     r="2" />
-  <circle
-     r="2"
-     cy="2.0239518"
-     cx="13.99521"
-     id="circle841"
-     style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:3.11293769;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
+ <g transform="translate(-263.0002,145)">
+  <circle style="fill:#4d4d4d" cx="266" cy="-132" r="2"/>
+  <circle cx="276" cy="-132" r="2" style="fill:#4d4d4d"/>
+  <circle style="fill:#4d4d4d" cx="271" cy="-132" r="2"/>
+  <circle cx="271" cy="-137" r="2" style="fill:#4d4d4d"/>
+  <circle style="fill:#4d4d4d" cx="276" cy="-142" r="2"/>
+ </g>
 </svg>

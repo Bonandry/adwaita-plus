@@ -12,7 +12,7 @@
    version="1.1"
    viewBox="0 0 67.73 67.73"
    id="svg37"
-   sodipodi:docname="2.svg"
+   sodipodi:docname="application-vnd.flatpak.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <metadata
      id="metadata41">
@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -40,7 +40,7 @@
      id="namedview39"
      showgrid="false"
      inkscape:zoom="3.6304347"
-     inkscape:cx="130.91866"
+     inkscape:cx="81.750994"
      inkscape:cy="125"
      inkscape:window-x="0"
      inkscape:window-y="34"
@@ -207,13 +207,8 @@
          transform="matrix(7.5200217,0,0,7.5200217,-381.16297,-1959.4284)"
          id="g37-1">
         <path
-           id="path1010"
-           style="opacity:0.2;fill:#000000;fill-opacity:1"
-           d="m 84.654976,258.06195 -13.114727,7.57048 -0.05163,15.0975 13.229148,7.5702 13.229185,-7.55781 -0.05722,-15.10989 z m 0,1.19959 v 10.93147 l 1.541054,0.92096 -1.541054,0.8876 -11.101234,-6.41324 z m 12.34698,7.14638 v 13.82677 l -12.284235,7.03398 V 273.4399 Z"
-           inkscape:connector-curvature="0" />
-        <path
            inkscape:connector-curvature="0"
-           d="m 84.654976,257.53281 -13.114727,7.57048 -0.05163,15.0975 13.229148,7.5702 13.229185,-7.55781 -0.05722,-15.10989 z m 0,1.19959 v 10.93147 l 1.541054,0.92096 -1.541054,0.8876 -11.101234,-6.41324 z m 12.34698,7.14638 v 13.82677 l -12.284235,7.03398 v -13.82877 z"
+           d="m 84.654976,251.33717 -13.114727,7.57048 -0.05163,15.0975 13.229148,7.5702 13.229185,-7.55781 -0.05722,-15.10989 z m 0,1.19959 v 10.93147 l 1.541054,0.92096 -1.541054,0.8876 -11.101234,-6.41324 z m 12.34698,7.14638 v 13.82677 l -12.284235,7.03398 v -13.82877 z"
            style="fill:#4ab1ea;fill-opacity:1"
            id="path35" />
       </g>

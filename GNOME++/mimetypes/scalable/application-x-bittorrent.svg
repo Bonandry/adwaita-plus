@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -40,7 +40,7 @@
      id="namedview39"
      showgrid="false"
      inkscape:zoom="3.6304347"
-     inkscape:cx="44.670443"
+     inkscape:cx="72.935956"
      inkscape:cy="112.29378"
      inkscape:window-x="0"
      inkscape:window-y="34"
@@ -176,27 +176,7 @@
          transform="matrix(7.5200217,0,0,7.5200217,-389.9314,-1927.6428)"
          id="g37">
         <g
-           id="g1124"
-           style="stroke:#000000;enable-background:new;stroke-opacity:1;opacity:0.2"
-           transform="matrix(0.26458333,0,0,0.26458333,45.949552,226.92334)">
-          <path
-             id="path1118"
-             style="fill:none;stroke:#000000;stroke-width:8;stroke-opacity:1"
-             d="m 152,100 c -20.00687,0 -38.49398,10.67354 -48.49742,28 -10.003437,17.32646 -10.003437,38.67354 0,56 10.00344,17.32646 28.49055,28 48.49742,28 h 88"
-             inkscape:connector-curvature="0" />
-          <path
-             id="path1120"
-             style="fill:none;stroke:#000000;stroke-width:8;stroke-opacity:1"
-             d="m 167.23403,119.01454 c -14.95033,-6.15793 -32.13768,-2.70962 -43.55567,8.7386 -11.41799,11.44822 -14.82085,28.64463 -8.62342,43.57862 C 121.25237,186.26575 135.83113,196 152,196 h 88"
-             inkscape:connector-curvature="0" />
-          <path
-             id="path1122"
-             style="fill:none;stroke:#000000;stroke-width:8;stroke-opacity:1"
-             d="m 168.97056,139.02943 c -7.68097,-7.68097 -19.56333,-9.24531 -28.97056,-3.81404 -9.40723,5.43127 -13.99365,16.50386 -11.18222,26.99627 C 131.62921,172.70406 141.13746,180 152,180 h 88"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           transform="matrix(0.26458333,0,0,0.26458333,45.949552,226.3942)"
+           transform="matrix(0.26458333,0,0,0.26458333,45.876676,220.95446)"
            style="stroke:#8f76e4;enable-background:new"
            id="g33">
           <path

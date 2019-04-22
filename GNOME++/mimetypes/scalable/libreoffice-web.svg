@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -41,12 +41,12 @@
      id="namedview39"
      showgrid="false"
      inkscape:zoom="3.2617188"
-     inkscape:cx="67.461285"
+     inkscape:cx="12.735537"
      inkscape:cy="128"
      inkscape:window-x="0"
      inkscape:window-y="34"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g17498-7" />
+     inkscape:current-layer="g17498" />
   <defs
      id="defs17">
     <linearGradient
@@ -1285,7 +1285,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="matrix(7.5200217,0,0,7.5200217,-400.83167,-1935.3963)"
+       transform="matrix(6.4105103,0,0,6.4105103,-303.93495,-1692.3252)"
        id="g246">
       <g
          transform="matrix(0.26457031,0,0,0.26457031,133.89776,251.23939)"

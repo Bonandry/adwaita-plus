@@ -12,7 +12,7 @@
    version="1.1"
    viewBox="0 0 16 16"
    id="svg8"
-   sodipodi:docname="emblem-favorite.svg"
+   sodipodi:docname="emblem-urgent.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <metadata
      id="metadata14">
@@ -77,10 +77,35 @@
      y="2"
      rx="1.4"
      ry="1.4" />
-  <path
-     d="M 8.9351042,5.5092076 C 11.076499,3.3687104 14.019261,5.3416149 13.999905,7.3716071 13.982206,9.2273721 12.567262,10.116122 9.0125289,13.416973 5.2917955,10.346237 3.9808546,9.6381128 4.0002108,7.4363091 4.0195465,5.1571093 6.5388262,3.4465585 8.9351042,5.5092076 Z"
-     id="path920"
-     sodipodi:nodetypes="czczc"
-     style="display:inline;fill:#f7f6f6;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.23053771;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
-     inkscape:connector-curvature="0" />
+  <g
+     style="display:inline;enable-background:new"
+     id="g5318"
+     transform="matrix(0.45456448,0,0,0.45456448,-1.9673741,-1.6201184)">
+    <rect
+       height="16.774557"
+       id="rect2180"
+       rx="1.5597371"
+       ry="1.5597371"
+       style="fill:#eeeeec;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.00000003pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       width="3.1194742"
+       x="21.927305"
+       y="8.7886333" />
+    <rect
+       height="11.141801"
+       id="rect2181"
+       rx="2.0972803"
+       ry="2.0972803"
+       style="fill:#eeeeec;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.00000003pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="rotate(-44.706311)"
+       width="4.1945605"
+       x="-2.0476661"
+       y="31.369913" />
+    <circle
+       r="3.375"
+       cy="23.875"
+       cx="22.25"
+       id="path4652"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#eeeeec;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
+       transform="matrix(1.0370371,0,0,1.0370371,0.7473093,-1.6734729)" />
+  </g>
 </svg>

@@ -12,7 +12,7 @@
    version="1.1"
    height="128"
    id="svg905"
-   sodipodi:docname="dropbox2.svg"
+   sodipodi:docname="dropbox.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <metadata
      id="metadata911">
@@ -42,7 +42,7 @@
      id="namedview907"
      showgrid="true"
      inkscape:zoom="6.5234375"
-     inkscape:cx="36.637126"
+     inkscape:cx="12.676384"
      inkscape:cy="64"
      inkscape:window-x="0"
      inkscape:window-y="34"
@@ -75,6 +75,11 @@
      id="path820"
      d="m 64,70.735844 c -42.666667,38.176106 -21.333333,19.088052 0,0 z m 0,0 L 39.377358,91.396225 29,84.556836 V 97 L 64.283019,118 100,97 V 84.148503 l -11.09434,7.247722 z"
      sodipodi:nodetypes="ccccccccccc" />
+  <path
+     style="fill:#0660cd;fill-opacity:1;stroke-width:2.83018875"
+     d="M 63.999816,117.83203 64.283019,118 99.999816,97.000002 V 84.148439 L 88.906066,91.396486 63.999816,70.73633 Z"
+     id="path823"
+     inkscape:connector-curvature="0" />
   <path
      sodipodi:nodetypes="cccccccccccccc"
      d="M 29,87.257094 39.377358,94.096225 64,73.435844 v -2.7 L 39.377358,91.396225 29,84.556836 Z M 64,73.435844 88.90566,94.096225 100,86.856287 V 84.148503 L 88.90566,91.396225 64,70.735844 Z"

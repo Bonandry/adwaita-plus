@@ -12,7 +12,7 @@
    version="1.1"
    viewBox="0 0 67.73 67.73"
    id="svg37"
-   sodipodi:docname="3.svg"
+   sodipodi:docname="text-richtext.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <metadata
      id="metadata41">
@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -38,14 +38,18 @@
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      id="namedview39"
-     showgrid="false"
-     inkscape:zoom="3.6304347"
-     inkscape:cx="44.670443"
-     inkscape:cy="156.36564"
+     showgrid="true"
+     inkscape:zoom="3.2617188"
+     inkscape:cx="128"
+     inkscape:cy="128"
      inkscape:window-x="0"
      inkscape:window-y="34"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g17498-7" />
+     inkscape:current-layer="g17498-7">
+    <inkscape:grid
+       type="xygrid"
+       id="grid841" />
+  </sodipodi:namedview>
   <defs
      id="defs17">
     <linearGradient
@@ -207,16 +211,17 @@
          id="g1175"
          transform="matrix(0.90818363,0,0,0.90818363,34.977671,58.908852)">
         <path
-           inkscape:connector-curvature="0"
-           d="M 122.55656,181.11015 H 310.57135 V -42.87234 H 122.55656 Z m 205.92096,-44.76543 h 62.67159 v 17.90617 h -62.67159 z m 0,-44.765448 h 62.67159 v 17.906168 h -62.67159 z m 0,-44.765427 h 62.67159 v 17.906171 h -62.67159 z m 0,-44.7654255 h 62.67159 V 19.954592 h -62.67159 z m 0,-44.7654235 h 62.67159 v 17.90617 H 328.47752 Z M 122.55656,-87.482432 h 268.59255 v 17.90617 H 122.55656 Z m 0,-44.765408 h 170.10862 v 17.90617 H 122.55656 Z m 0,-44.76542 h 170.10862 v 17.90617 H 122.55656 Z"
-           style="display:inline;opacity:1;vector-effect:none;fill:#d5d3cf;fill-opacity:1;stroke:none;stroke-width:0.55956781;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;enable-background:new"
-           id="rect23306" />
-        <path
            sodipodi:nodetypes="ccccccccccccccccccc"
            inkscape:connector-curvature="0"
            id="path17461-5-1-0"
            d="m 122.55656,-176.85793 v 17.90617 h 81.06915 l 6.52457,-17.90617 z m 0,44.76543 v 17.90617 h 64.75856 l 6.52465,-17.90617 z m 0,44.765408 v 17.90617 h 48.4503 l 6.52455,-17.90617 z m 0,44.610088 V 63.556115 l 38.66412,-106.117783 z"
            style="display:inline;fill:#c9c7c2;fill-opacity:1;stroke:none;stroke-width:0.2797839px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 120.7736,149.48409 186.21105,0 0,-197.16465 H 120.7736 Z m 207.70392,-13.13937 h 62.67159 v 17.90617 h -62.67159 z m 0,-44.765448 h 62.67159 v 17.906168 h -62.67159 z m 0,-44.765427 h 62.67159 v 17.906171 h -62.67159 z m 0,-44.7654255 h 62.67159 V 19.954592 h -62.67159 z m 0,-44.7654235 h 62.67159 v 17.90617 H 328.47752 Z M 122.55656,-87.482432 h 268.59255 v 17.90617 H 122.55656 Z m 0,-44.765408 h 170.10862 v 17.90617 H 122.55656 Z m 0,-44.76542 h 170.10862 v 17.90617 H 122.55656 Z"
+           style="display:inline;opacity:1;vector-effect:none;fill:#b1b1b1;fill-opacity:1;stroke:none;stroke-width:0.55956781;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;enable-background:new"
+           id="rect23306"
+           sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccc" />
       </g>
     </g>
   </g>

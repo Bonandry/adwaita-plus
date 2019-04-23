@@ -5,7 +5,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="256"
@@ -23,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -41,8 +40,8 @@
      id="namedview39"
      showgrid="false"
      inkscape:zoom="3.6304347"
-     inkscape:cx="141.97999"
-     inkscape:cy="145.34767"
+     inkscape:cx="92.812324"
+     inkscape:cy="123.31174"
      inkscape:window-x="0"
      inkscape:window-y="34"
      inkscape:window-maximized="1"
@@ -138,29 +137,6 @@
          offset="1"
          id="stop4-2" />
     </linearGradient>
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient1352"
-       id="radialGradient1388-9"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.0355065,-1.79355,1.095675,0.63258826,-433.09613,516.184)"
-       cx="413.6394"
-       cy="226.77327"
-       fx="413.6394"
-       fy="226.77327"
-       r="192" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient1352">
-      <stop
-         style="stop-color:#50db81;stop-opacity:1"
-         offset="0"
-         id="stop1348" />
-      <stop
-         style="stop-color:#8ff0a4;stop-opacity:0.00414938"
-         offset="1"
-         id="stop1350" />
-    </linearGradient>
   </defs>
   <g
      transform="matrix(0.13297834,0,0,0.13297834,0.60582436,28.614877)"
@@ -210,21 +186,11 @@
            id="rect17583-4" />
         <rect
            transform="scale(1,-1)"
-           style="display:inline;opacity:1;vector-effect:none;fill:url(#radialGradient1388-9);fill-opacity:1;stroke:none;stroke-width:0.55956763;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;enable-background:new"
-           id="rect1338-1"
-           width="188.01474"
-           height="223.98215"
-           x="109.4039"
-           y="-252.35359"
-           rx="0"
-           ry="0" />
-        <rect
-           transform="scale(1,-1)"
            ry="0"
            rx="0"
-           y="-252.35359"
+           y="-227.61699"
            x="109.4039"
-           height="223.98213"
+           height="199.24553"
            width="188.01474"
            id="rect1636-7"
            style="display:inline;opacity:1;vector-effect:none;fill:#f66151;fill-opacity:1;stroke:none;stroke-width:0.55956763;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;enable-background:new" />

@@ -6,12 +6,36 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    viewBox="0 0 128 128"
    style="display:inline;enable-background:new"
    version="1.0"
    id="svg11300"
    height="128"
-   width="128">
+   width="128"
+   sodipodi:docname="editore-di-testo.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     id="namedview59"
+     showgrid="false"
+     inkscape:zoom="7.375"
+     inkscape:cx="66.514265"
+     inkscape:cy="4.2694744"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg11300" />
   <title
      id="title4162">Adwaita Icon Template</title>
   <defs
@@ -128,6 +152,34 @@
          ry="8"
          clip-path="none" />
     </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1351-3"
+       id="linearGradient979"
+       x1="261.50345"
+       y1="105.83793"
+       x2="261.23032"
+       y2="105.5592"
+       gradientUnits="userSpaceOnUse" />
+    <clipPath
+       id="clipPath1609-7-3"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#e74747"
+         d="m 252,116 28,-28 v -8 h -36 v 36 z"
+         id="path46" />
+    </clipPath>
+    <linearGradient
+       gradientTransform="matrix(0.71279429,0,0,0.71279429,25.274102,-83.5824)"
+       inkscape:collect="always"
+       xlink:href="#linearGradient1351-3"
+       id="linearGradient917"
+       x1="103.4365"
+       y1="264.43683"
+       x2="102.25204"
+       y2="263.28625"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <metadata
      id="metadata4">
@@ -334,17 +386,6 @@
            style="display:inline;opacity:1;vector-effect:none;fill:#d5d3cf;fill-opacity:1;stroke:none;stroke-width:16;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
            id="circle16770-3" />
       </g>
-      <rect
-         style="display:inline;opacity:1;fill:url(#linearGradient1130);fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;enable-background:new"
-         id="rect1056-3"
-         width="36"
-         height="36"
-         x="252"
-         y="88"
-         rx="11.2"
-         ry="11.2"
-         transform="matrix(0,0.71428571,0.71428571,0,25.142858,88.000008)"
-         clip-path="url(#clipPath1609-7)" />
       <path
          clip-path="url(#clipPath1062)"
          id="path1047"
@@ -373,4 +414,9 @@
          style="display:inline;opacity:1;fill:#e5a50a;fill-opacity:1;stroke:none;stroke-width:0.3581056px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new" />
     </g>
   </g>
+  <path
+     style="display:inline;opacity:1;fill:url(#linearGradient917);fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+     d="M 95.840737,95.863562 C 91.496968,95.863562 88,99.360532 88,103.7043 v 9.97912 c 0,0.80737 0.120661,1.58474 0.345263,2.31658 L 108,96.174022 c -0.69242,-0.19895 -1.42204,-0.31046 -2.18014,-0.31046 z"
+     id="rect891"
+     inkscape:connector-curvature="0" />
 </svg>

@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -39,9 +39,9 @@
      inkscape:window-height="1009"
      id="namedview111"
      showgrid="false"
-     inkscape:zoom="6.0711287"
-     inkscape:cx="32.661509"
-     inkscape:cy="73.849127"
+     inkscape:zoom="8.028761"
+     inkscape:cx="58.969699"
+     inkscape:cy="64.0002"
      inkscape:window-x="0"
      inkscape:window-y="34"
      inkscape:window-maximized="1"
@@ -150,6 +150,16 @@
          d="m 252,116 28,-28 v -8 h -36 v 36 z"
          id="path46" />
     </clipPath>
+    <linearGradient
+       gradientTransform="translate(9.9999996e-8,-172)"
+       inkscape:collect="always"
+       xlink:href="#a"
+       id="linearGradient917"
+       x1="103.4365"
+       y1="264.43683"
+       x2="102.25204"
+       y2="263.28625"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <g
      transform="translate(-210 -172)"
@@ -398,15 +408,9 @@
        stroke-linecap="round"
        id="path105" />
   </g>
-  <rect
-     id="rect963"
-     style="fill:url(#linearGradient979);fill-opacity:1;enable-background:new"
-     transform="matrix(0,1,1,0,0,-172)"
-     ry="11.2"
-     rx="11.2"
-     clip-path="url(#clipPath1609-7)"
-     y="88"
-     x="252"
-     height="36"
-     width="36" />
+  <path
+     style="display:inline;opacity:1;fill:url(#linearGradient917);fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+     d="M 99.000005,79.75 C 92.906,79.75 88,84.656 88,90.75 v 14 c 0,1.13268 0.16928,2.22328 0.48438,3.25 L 116.05859,80.18555 C 115.08718,79.90644 114.06356,79.75 113.00001,79.75 Z"
+     id="rect891"
+     inkscape:connector-curvature="0" />
 </svg>

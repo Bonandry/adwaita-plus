@@ -12,7 +12,7 @@
    version="1.1"
    viewBox="0 0 67.73 67.73"
    id="svg37"
-   sodipodi:docname="text-x-c++hdr.svg"
+   sodipodi:docname="encrypted.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <metadata
      id="metadata41">
@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -40,7 +40,7 @@
      id="namedview39"
      showgrid="false"
      inkscape:zoom="3.6304347"
-     inkscape:cx="81.750994"
+     inkscape:cx="32.583328"
      inkscape:cy="125"
      inkscape:window-x="0"
      inkscape:window-y="34"
@@ -178,14 +178,9 @@
          inkscape:connector-curvature="0" />
     </g>
     <path
-       id="path1108"
-       d="m 255.91761,-69.945561 c -33.46067,0 -60.39831,26.62051 -60.39831,59.68724 V 49.428913 H 165.32034 V 168.80337 H 346.51289 V 49.428913 h -30.19777 v -59.687234 c 0,-33.06673 -26.93684,-59.68724 -60.39751,-59.68724 z m 0,14.92181 c 25.0945,0 45.29863,23.29295 45.29863,52.2263297 V 49.428913 H 210.61898 V -2.7974213 c 0,-28.9333797 20.20213,-52.2263297 45.29863,-52.2263297 z"
-       style="fill:#ffffff;fill-opacity:1;stroke-width:0.49739361"
-       inkscape:connector-curvature="0" />
-    <path
        inkscape:connector-curvature="0"
-       style="fill:#5e5c64;stroke-width:0.49739361;fill-opacity:1"
-       d="m 255.91761,-73.92471 c -33.46067,0 -60.39831,26.62051 -60.39831,59.68724 V 45.449764 H 165.32034 V 164.82422 H 346.51289 V 45.449764 H 316.31512 V -14.23747 c 0,-33.06673 -26.93684,-59.68724 -60.39751,-59.68724 z m 0,14.92181 c 25.0945,0 45.29863,23.29295 45.29863,52.2263297 V 45.449764 H 210.61898 V -6.7765703 c 0,-28.9333797 20.20213,-52.2263297 45.29863,-52.2263297 z"
+       style="fill:#9f9f9f;fill-opacity:1;stroke-width:0.49739364"
+       d="m 255.91745,-54.028969 c -27.8839,0 -50.33193,22.183759 -50.33193,49.7393675 V 45.449763 h -25.1658 v 99.478717 h 150.9938 V 45.449763 H 306.24871 V -4.2896015 c 0,-27.5556085 -22.44737,-49.7393675 -50.33126,-49.7393675 z m 0,12.434842 c 20.91208,0 37.74886,19.410793 37.74886,43.5219425 V 45.449763 H 218.16859 V 1.9278155 c 0,-24.1111495 16.83511,-43.5219425 37.74886,-43.5219425 z"
        id="path10" />
   </g>
 </svg>

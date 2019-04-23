@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -40,12 +40,12 @@
      id="namedview39"
      showgrid="false"
      inkscape:zoom="3.6304347"
-     inkscape:cx="81.750994"
+     inkscape:cx="32.583328"
      inkscape:cy="125"
      inkscape:window-x="0"
      inkscape:window-y="34"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g3086" />
+     inkscape:current-layer="g17498" />
   <defs
      id="defs17">
     <linearGradient
@@ -269,7 +269,7 @@
     </g>
     <g
        id="g2012"
-       transform="translate(3.9960106)">
+       transform="translate(51.26777,-7.9582971)">
       <g
          id="g3086"
          transform="translate(-0.93621987,-28.938184)">
@@ -302,12 +302,6 @@
                id="path956"
                style="display:inline;opacity:1;vector-effect:none;fill:#50db81;fill-opacity:1;stroke:#204a87;stroke-width:0.00780064px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;enable-background:new" />
           </g>
-          <path
-             id="rect23306-8"
-             style="display:inline;opacity:1;vector-effect:none;fill:#d5d3cf;fill-opacity:1;stroke:none;stroke-width:0.53711188;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;enable-background:new"
-             d="m 325.89925,174.26357 h 60.15653 v 17.18758 h -60.15653 z m 0,-42.96895 h 60.15653 v 17.18758 h -60.15653 z m 0,-42.968961 h 60.15653 v 17.187581 h -60.15653 z m 0,-42.968949 h 60.15653 v 17.187579 h -60.15653 z m 0,-42.9689514 h 60.15653 V 19.575339 h -60.15653 z"
-             inkscape:connector-curvature="0"
-             sodipodi:nodetypes="ccccccccccccccccccccccccc" />
         </g>
       </g>
     </g>

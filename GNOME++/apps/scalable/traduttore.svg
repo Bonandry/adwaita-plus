@@ -43,9 +43,9 @@
      inkscape:window-height="1009"
      id="namedview96"
      showgrid="false"
-     inkscape:zoom="1.84375"
-     inkscape:cx="64"
-     inkscape:cy="64"
+     inkscape:zoom="22.709219"
+     inkscape:cx="97.348345"
+     inkscape:cy="28.360306"
      inkscape:window-x="0"
      inkscape:window-y="34"
      inkscape:window-maximized="1"
@@ -326,6 +326,25 @@
          d="m 252,116 28,-28 v -8 h -36 v 36 z"
          id="path46-2" />
     </clipPath>
+    <clipPath
+       id="clipPath1609-7-1-7"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#e74747"
+         d="m 252,116 28,-28 v -8 h -36 v 36 z"
+         id="path46-2-5" />
+    </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1351-3"
+       id="linearGradient917"
+       x1="103.4365"
+       y1="264.43683"
+       x2="102.25204"
+       y2="263.28625"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-8.7e-7,-169)" />
   </defs>
   <rect
      style="fill:#26a269;enable-background:new"
@@ -430,15 +449,9 @@
        style="fill:#5e5c64"
        id="path89" />
   </g>
-  <rect
-     id="rect963"
-     style="fill:url(#linearGradient979);fill-opacity:1;enable-background:new"
-     transform="matrix(0,0.71428571,0.71428571,0,33.412676,-89.129766)"
-     ry="11.2"
-     rx="11.2"
-     clip-path="url(#clipPath1609-7-1)"
-     y="88"
-     x="252"
-     height="36"
-     width="36" />
+  <path
+     style="display:inline;opacity:1;fill:url(#linearGradient917);fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+     d="m 99,82.749994 c -6.094,0 -11,4.906004 -11,11.000004 V 107.75 c 0,1.13268 0.16928,2.22328 0.48438,3.25 l 27.57421,-27.814456 c -0.97142,-0.27911 -1.99503,-0.43555 -3.05859,-0.43555 z"
+     id="rect891"
+     inkscape:connector-curvature="0" />
 </svg>

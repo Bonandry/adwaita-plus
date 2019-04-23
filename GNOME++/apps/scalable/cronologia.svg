@@ -30,7 +30,7 @@
      id="namedview82"
      showgrid="false"
      inkscape:zoom="10.429825"
-     inkscape:cx="99.678103"
+     inkscape:cx="82.563722"
      inkscape:cy="35.102595"
      inkscape:window-x="0"
      inkscape:window-y="34"
@@ -105,6 +105,15 @@
          d="m 252,116 28,-28 v -8 h -36 v 36 z"
          id="path46" />
     </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1351-3"
+       id="linearGradient917"
+       x1="103.4365"
+       y1="264.43683"
+       x2="102.25204"
+       y2="263.28625"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <metadata
      id="metadata4">
@@ -523,16 +532,10 @@
          d="M 25,255 41,239"
          id="path1566" />
     </g>
-    <rect
-       id="rect963"
-       style="display:inline;fill:url(#linearGradient979);fill-opacity:1;enable-background:new"
-       transform="matrix(0,1,1,0,0,0)"
-       ry="11.2"
-       rx="11.2"
-       clip-path="url(#clipPath1609-7-3)"
-       y="88"
-       x="252"
-       height="36"
-       width="36" />
+    <path
+       style="opacity:1;fill:url(#linearGradient917);fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 99,251.75 c -6.094,0 -11,4.906 -11,11 v 14 c 0,1.13268 0.16928,2.22328 0.48438,3.25 l 27.57421,-27.81445 C 115.08717,251.90644 114.06356,251.75 113,251.75 Z"
+       id="rect891"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>

@@ -1,5 +1,6 @@
 # exclude the following dirs/files from archives:
 .*                    export-ignore
+da-fare               export-ignore
 folders               export-ignore
 icone-generiche       export-ignore
 images                export-ignore

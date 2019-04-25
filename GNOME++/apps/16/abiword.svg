@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -12,11 +10,11 @@
    width="16"
    height="16"
    version="1.1"
-   id="svg10"
-   sodipodi:docname="network-wired-offline.svg"
+   id="svg8"
+   sodipodi:docname="abiword-symbolic.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <metadata
-     id="metadata16">
+     id="metadata14">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -27,7 +25,7 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs14" />
+     id="defs12" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -37,9 +35,9 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="770"
-     inkscape:window-height="480"
-     id="namedview12"
+     inkscape:window-width="1140"
+     inkscape:window-height="831"
+     id="namedview10"
      showgrid="false"
      inkscape:zoom="14.75"
      inkscape:cx="8"
@@ -47,20 +45,19 @@
      inkscape:window-x="0"
      inkscape:window-y="34"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg10" />
-  <title
-     id="title2">Gnome Symbolic Icon Theme</title>
+     inkscape:current-layer="svg8" />
   <g
-     transform="translate(-241 -177)"
-     style="fill-opacity:1;fill:#241f31"
-     id="g8">
-    <path
-       d="m246 178v5h2v2h-4.9688v3h-2.0312v4.9375h5v-4.9375h-1.9688v-2h8.9688v0.98353h1v-1.9835h-5v-2h2v-5z"
-       style="fill-opacity:1;fill:#241f31;opacity:0.35"
-       id="path4" />
-    <path
-       d="m252 188h1.375l1.125 1.0938 1.0938-1.0938h1.4062v1.4688l-1.0938 1.0625 1.0938 1.0625v1.4062h-1.4375l-1.0625-1.0625-1.0625 1.0625h-1.4375v-1.4062l1.0625-1.0625-1.0625-1.0625v-1.4688z"
-       style="fill-opacity:1;fill:#241f31"
-       id="path6" />
+     transform="matrix(0.43760323,0,0,0.43760323,-1.6501365,-2.3183479)"
+     style="fill:#241f31;fill-opacity:1"
+     id="g6">
+    <g
+       transform="translate(0.06799114,0.74790249)"
+       style="fill:#241f31;fill-opacity:1"
+       id="g4">
+      <path
+         d="m 35.15,33.513 c 0,0 8.765,17.827 3.349,-1.126 0,0 -4.126,-13.753 -9.512,-22.197 0,0 -4.831,-9.927 -10.872,-3.439 0,0 -12.752,13.474 -14.319,29.16 0,0 -1.657,8.983 9.007,3.281 l 14.434,-7.144 c 0,0 10.703,-5.677 -1.531,-2.041 l -12.101,4.374 c 0,0 -5.277,2.52 -2.989,-2.333 0,0 5.03,-12.32 8.092,-15.601 0,0 3.572,-6.864 6.488,-0.407 10e-4,-10e-4 5.838,8.296 9.954,17.473 z"
+         style="fill:#241f31;fill-opacity:1"
+         id="path2" />
+    </g>
   </g>
 </svg>

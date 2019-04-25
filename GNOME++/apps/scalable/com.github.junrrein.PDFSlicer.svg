@@ -1,372 +1,79 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   viewBox="0 0 128 128"
-   style="display:inline;enable-background:new"
-   version="1.0"
-   id="svg11300"
-   height="128"
-   width="128">
-  <title
-     id="title4162">Adwaita Icon Template</title>
-  <defs
-     id="defs3">
-    <linearGradient
-       id="linearGradient1129">
-      <stop
-         id="stop1125"
-         offset="0"
-         style="stop-color:#deddda;stop-opacity:0" />
-      <stop
-         id="stop1127"
-         offset="1"
-         style="stop-color:#c0bfbc;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient
-       gradientUnits="userSpaceOnUse"
-       y2="93.909065"
-       x2="60"
-       y1="93.909065"
-       x1="22.052956"
-       id="linearGradient3952"
-       xlink:href="#linearGradient3950" />
-    <linearGradient
-       id="linearGradient3950">
-      <stop
-         id="stop3946"
-         offset="0"
-         style="stop-color:#a51d2d;stop-opacity:1" />
-      <stop
-         style="stop-color:#f66151;stop-opacity:1"
-         offset="0.13193867"
-         id="stop3954" />
-      <stop
-         id="stop3956"
-         offset="0.29892665"
-         style="stop-color:#c01c28;stop-opacity:1" />
-      <stop
-         style="stop-color:#ed333b;stop-opacity:1"
-         offset="0.45986181"
-         id="stop3958" />
-      <stop
-         id="stop3960"
-         offset="0.5925988"
-         style="stop-color:#a51d2d;stop-opacity:1" />
-      <stop
-         id="stop3948"
-         offset="1"
-         style="stop-color:#a51d2d;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient
-       gradientTransform="translate(132)"
-       gradientUnits="userSpaceOnUse"
-       y2="312"
-       x2="-54"
-       y1="312"
-       x1="-78"
-       id="linearGradient3968"
-       xlink:href="#linearGradient3982" />
-    <linearGradient
-       id="linearGradient3982">
-      <stop
-         style="stop-color:#a51d2d;stop-opacity:1"
-         offset="0"
-         id="stop3970" />
-      <stop
-         id="stop3972"
-         offset="0.19423306"
-         style="stop-color:#f66151;stop-opacity:1" />
-      <stop
-         style="stop-color:#c01c28;stop-opacity:1"
-         offset="0.5"
-         id="stop3974" />
-      <stop
-         style="stop-color:#e01b24;stop-opacity:1"
-         offset="0.68231571"
-         id="stop3978" />
-      <stop
-         style="stop-color:#a51d2d;stop-opacity:1"
-         offset="1"
-         id="stop3980" />
-    </linearGradient>
-    <linearGradient
-       gradientTransform="translate(-136)"
-       gradientUnits="userSpaceOnUse"
-       y2="-274"
-       x2="115.99999"
-       y1="-274"
-       x1="27.99999"
-       id="linearGradient1159"
-       xlink:href="#linearGradient1723" />
-    <linearGradient
-       id="linearGradient1723">
-      <stop
-         id="stop1719"
-         offset="0"
-         style="stop-color:#c0bfbc;stop-opacity:1" />
-      <stop
-         style="stop-color:#f6f5f4;stop-opacity:1"
-         offset="0.04545454"
-         id="stop1731" />
-      <stop
-         style="stop-color:#deddda;stop-opacity:1"
-         offset="0.09090909"
-         id="stop1729" />
-      <stop
-         style="stop-color:#deddda;stop-opacity:1"
-         offset="0.90909088"
-         id="stop1727" />
-      <stop
-         id="stop1733"
-         offset="0.95454544"
-         style="stop-color:#f6f5f4;stop-opacity:1" />
-      <stop
-         id="stop1721"
-         offset="1"
-         style="stop-color:#c0bfbc;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient
-       y2="62"
-       x2="64"
-       y1="62"
-       x1="60"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient1317"
-       xlink:href="#linearGradient1129" />
-  </defs>
-  <metadata
-     id="metadata4">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:creator>
-          <cc:Agent>
-            <dc:title>GNOME Design Team</dc:title>
-          </cc:Agent>
-        </dc:creator>
-        <dc:source />
-        <cc:license
-           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
-        <dc:title>Adwaita Icon Template</dc:title>
-        <dc:subject>
-          <rdf:Bag />
-        </dc:subject>
-        <dc:date />
-        <dc:rights>
-          <cc:Agent>
-            <dc:title />
-          </cc:Agent>
-        </dc:rights>
-        <dc:publisher>
-          <cc:Agent>
-            <dc:title />
-          </cc:Agent>
-        </dc:publisher>
-        <dc:identifier />
-        <dc:relation />
-        <dc:language />
-        <dc:coverage />
-        <dc:description />
-        <dc:contributor>
-          <cc:Agent>
-            <dc:title />
-          </cc:Agent>
-        </dc:contributor>
-      </cc:Work>
-      <cc:License
-         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#Reproduction" />
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#Distribution" />
-        <cc:requires
-           rdf:resource="http://creativecommons.org/ns#Notice" />
-        <cc:requires
-           rdf:resource="http://creativecommons.org/ns#Attribution" />
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
-        <cc:requires
-           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
-      </cc:License>
-    </rdf:RDF>
-  </metadata>
-  <g
-     transform="translate(0,-172)"
-     style="display:inline"
-     id="layer1">
-    <g
-       style="display:inline"
-       id="layer9">
-      <rect
-         rx="8"
-         style="display:inline;opacity:1;vector-effect:none;fill:#deddda;fill-opacity:1;stroke:none;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.6732283;enable-background:new"
-         id="rect1071"
-         width="88"
-         height="59"
-         x="20"
-         y="233"
-         ry="8" />
-      <rect
-         transform="scale(-1)"
-         style="display:inline;opacity:1;vector-effect:none;fill:url(#linearGradient1159);fill-opacity:1;stroke:none;stroke-width:13.71876526;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;enable-background:new"
-         id="rect1151"
-         width="88"
-         height="40"
-         x="-108"
-         y="-292"
-         rx="8"
-         ry="8"
-         clip-path="none" />
-      <rect
-         ry="8"
-         rx="8"
-         y="180"
-         x="20"
-         height="104"
-         width="88"
-         id="rect1069"
-         style="display:inline;opacity:1;vector-effect:none;fill:#f6f5f4;fill-opacity:1;stroke:none;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.6732283;enable-background:new" />
-      <path
-         id="path2405"
-         d="m 28.000001,248 v 10 h 63.999996 v -4 h 8 v -6 z"
-         style="color:#000000;display:inline;overflow:visible;opacity:1;vector-effect:none;fill:#deddda;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;enable-background:new" />
-      <path
-         id="path1233"
-         d="m 28.000001,192 v 4 h 40 v -4 z"
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#deddda;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
-      <path
-         id="path2386"
-         d="M 28.000001,222 H 100 v 18 H 48.000001 v 4 h -20 z"
-         style="color:#000000;display:inline;overflow:visible;opacity:1;vector-effect:none;fill:#deddda;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;enable-background:new" />
-      <path
-         id="path2403"
-         d="m 64.000001,214 v 4 h -36 v -18 h 71.999996 v 14 z"
-         style="color:#000000;display:inline;overflow:visible;opacity:1;vector-effect:none;fill:#deddda;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;enable-background:new" />
-      <path
-         id="path1245"
-         d="M 108,280.6543 C 107.9178,284.74491 104.61929,288 100.50781,288 h -0.5 v 1 h 0.5 c 3.22393,0 6.02184,-1.7881 7.46289,-4.42773 C 107.9841,284.38252 108,284.19325 108,284 Z M 66.000001,288 l 33.999996,1 v -1 z"
-         style="display:inline;fill:#c0bfbc;fill-opacity:0.27165354;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new" />
-      <g
-         transform="translate(-20,-4.96249)"
-         id="g1179">
-        <circle
-           transform="rotate(45)"
-           style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#c01c28;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
-           id="circle3988-3"
-           cx="259.5386"
-           cy="152.02797"
-           r="8.515707" />
-        <g
-           style="display:inline;enable-background:new"
-           transform="translate(7.9947119,-21.03751)"
-           id="g1200">
-          <path
-             style="fill:#9a9996;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             d="m 58,290 h 6 v -72 l -1.414214,-1.41421 C 62.585786,216.58579 56,221.64656 56,234 l 0.0053,27.18969 0.09677,2.72237 L 58,266 Z"
-             id="path1186" />
-          <g
-             id="g1194"
-             transform="translate(2)">
-            <path
-               style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:url(#linearGradient3968);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-               d="m 66,300 c -6.591883,0 -12,5.40812 -12,12 0,6.59188 5.408117,12 12,12 6.591883,0 12,-5.40812 12,-12 0,-6.59188 -5.408117,-12 -12,-12 z m 0,2 c 3.349242,0 8,2.65076 8,6 0,3.34924 -4.650758,10 -8,10 -3.349242,0 -8,-6.65076 -8,-10 0,-3.34924 4.650758,-6 8,-6 z"
-               id="circle1188" />
-          </g>
-        </g>
-        <use
-           style="display:inline;enable-background:new"
-           x="0"
-           y="0"
-           xlink:href="#g1059"
-           id="use1074"
-           transform="matrix(-0.70710678,-0.70710678,-0.70710678,0.70710678,292.42443,120.74209)"
-           width="100%"
-           height="100%" />
-        <circle
-           transform="rotate(45)"
-           style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#c01c28;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
-           id="circle3988"
-           cx="217.79942"
-           cy="169.6687"
-           r="8.515707" />
-        <g
-           style="display:inline;enable-background:new"
-           transform="matrix(-0.70710678,-0.70710678,-0.70710678,0.70710678,302.73447,101.58204)"
-           id="g1180">
-          <path
-             style="fill:#77767b;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             d="m 58,290 h 6 L 64.321785,217.78547 64,218 c 0,0 -8,-1e-5 -8,16 l 0.04605,29.2602 2.104238,2.10424 z"
-             id="path1166" />
-          <g
-             id="g1174"
-             transform="translate(2)">
-            <path
-               style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:url(#linearGradient3952);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-               d="m 53.832031,79.433594 -12.726562,7.070312 0.01758,0.236328 C 36.43908,83.311197 29.771824,83.694975 25.54883,87.917969 c -4.661163,4.661163 -4.661165,12.309541 0,16.970701 4.661165,4.66117 12.30954,4.66116 16.970703,0 L 59.490234,87.917969 C 59.725371,87.682832 59.878223,87.427157 60,87.166016 v -2.78125 z m -19.798828,6.951172 c 1.529253,-10e-7 3.060005,0.591254 4.244141,1.77539 2.368271,2.368272 2.36827,10.118058 0,12.486324 -2.368271,2.36827 -6.118057,2.36828 -8.486328,0 -2.368272,-2.368267 -2.368271,-10.118053 0,-12.486324 1.184135,-1.184135 2.712935,-1.77539 4.242187,-1.77539 z"
-               transform="matrix(-0.70710678,-0.70710678,-0.70710678,0.70710678,158.23277,267.89843)"
-               id="circle1168" />
-          </g>
-        </g>
-        <g
-           style="display:inline;enable-background:new"
-           id="g1059"
-           transform="matrix(-0.70710678,-0.70710678,-0.70710678,0.70710678,302.75946,99.477469)">
-          <path
-             id="path1039-3"
-             d="m 58,290 h 6 v -72 c 0,0 -8,-1e-5 -8,16 l 0.04605,29.2602 2.104238,2.10424 z"
-             style="fill:#9a9996;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-          <g
-             transform="translate(2)"
-             id="g1052">
-            <path
-               style="fill:#ed333b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-               d="m 54,312 v -24 c 0,-2 2,-2 2,-2 h 6.037213 c 0,0 1.917797,-0.13576 2.443399,1.45023 l 4.397602,13.26955 z"
-               id="path1047" />
-            <circle
-               r="9.515707"
-               cy="312.03348"
-               cx="-66.049789"
-               id="circle1045"
-               style="opacity:1;fill:none;fill-opacity:1;stroke:#ed333b;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-               transform="scale(-1,1)" />
-            <circle
-               style="opacity:1;fill:none;fill-opacity:1;stroke:#e01b24;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-               id="path1043-6"
-               cx="-66"
-               cy="312"
-               r="7"
-               transform="scale(-1,1)" />
-          </g>
-          <path
-             style="fill:url(#linearGradient1317);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             d="m 64,46 c 0,0 -1.871743,0.534879 -4,2.03747 V 90 l 4,2 z"
-             transform="translate(0,172)"
-             id="path1081-7" />
-        </g>
-        <circle
-           transform="matrix(-0.70710678,-0.70710678,-0.70710678,0.70710678,0,0)"
-           style="display:inline;opacity:1;fill:#3d3846;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
-           id="circle1204"
-           cx="-223.44576"
-           cy="125.86499"
-           r="2" />
-        <path
-           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.2;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-           d="m 71.999994,250.12805 v 1.87876 l -5.93181,5.86081 -0.06819,-1.73957 z"
-           id="path1208" />
-        <path
-           style="display:inline;opacity:0.2;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new"
-           d="m 73.999997,246 -0.02499,2.10457 h 2.975842 L 76.975839,246 Z"
-           id="path4005" />
-      </g>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="enable-background:new" width="128" height="128" version="1.0" viewBox="0 0 128 128">
+ <title id="title4162">
+  Adwaita Icon Template
+ </title>
+ <defs>
+  <linearGradient id="linearGradient1129">
+   <stop id="stop1125" offset="0" style="stop-color:#deddda;stop-opacity:0"/>
+   <stop id="stop1127" offset="1" style="stop-color:#c0bfbc"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3952" x1="22.053" x2="60" y1="93.909" y2="93.909" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient3950"/>
+  <linearGradient id="linearGradient3950">
+   <stop id="stop3946" offset="0" style="stop-color:#a51d2d"/>
+   <stop style="stop-color:#f66151" id="stop3954" offset=".132"/>
+   <stop id="stop3956" offset=".299" style="stop-color:#c01c28"/>
+   <stop style="stop-color:#ed333b" id="stop3958" offset=".46"/>
+   <stop id="stop3960" offset=".593" style="stop-color:#a51d2d"/>
+   <stop id="stop3948" offset="1" style="stop-color:#a51d2d"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3968" x1="-78" x2="-54" y1="312" y2="312" gradientTransform="translate(132)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient3982"/>
+  <linearGradient id="linearGradient3982">
+   <stop style="stop-color:#a51d2d" id="stop3970" offset="0"/>
+   <stop id="stop3972" offset=".194" style="stop-color:#f66151"/>
+   <stop style="stop-color:#c01c28" id="stop3974" offset=".5"/>
+   <stop style="stop-color:#e01b24" id="stop3978" offset=".682"/>
+   <stop style="stop-color:#a51d2d" id="stop3980" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1159" x1="28" x2="116" y1="-274" y2="-274" gradientTransform="translate(-136)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1723"/>
+  <linearGradient id="linearGradient1723">
+   <stop id="stop1719" offset="0" style="stop-color:#c0bfbc"/>
+   <stop style="stop-color:#f6f5f4" id="stop1731" offset=".045"/>
+   <stop style="stop-color:#deddda" id="stop1729" offset=".091"/>
+   <stop style="stop-color:#deddda" id="stop1727" offset=".909"/>
+   <stop id="stop1733" offset=".955" style="stop-color:#f6f5f4"/>
+   <stop id="stop1721" offset="1" style="stop-color:#c0bfbc"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1317" x1="60" x2="64" y1="62" y2="62" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1129"/>
+ </defs>
+ <g id="layer1" transform="translate(0,-172)">
+  <g id="layer9">
+   <rect style="fill:#deddda" width="88" height="59" x="20" y="233" rx="8" ry="8"/>
+   <rect style="fill:url(#linearGradient1159)" width="88" height="40" x="-108" y="-292" rx="8" ry="8" transform="scale(-1)"/>
+   <rect width="88" height="104" x="20" y="180" rx="8" ry="8" style="fill:#f6f5f4"/>
+   <path d="m 28.000001,248 v 10 h 63.999996 v -4 h 8 v -6 z" style="fill:#deddda"/>
+   <path d="m 28.000001,192 v 4 h 40 v -4 z" style="fill:#deddda;fill-rule:evenodd"/>
+   <path d="M 28.000001,222 H 100 v 18 H 48.000001 v 4 h -20 z" style="fill:#deddda"/>
+   <path d="m 64.000001,214 v 4 h -36 v -18 h 71.999996 v 14 z" style="fill:#deddda"/>
+   <path d="M 108,280.6543 C 107.9178,284.74491 104.61929,288 100.50781,288 h -0.5 v 1 h 0.5 c 3.22393,0 6.02184,-1.7881 7.46289,-4.42773 C 107.9841,284.38252 108,284.19325 108,284 Z M 66.000001,288 l 33.999996,1 v -1 z" style="fill:#c0bfbc;fill-opacity:0.27165354"/>
+   <g transform="translate(-20,-4.96249)">
+    <circle style="fill:none;stroke:#c01c28;stroke-width:5;stroke-linecap:round;stroke-linejoin:round" cx="259.539" cy="152.028" r="8.516" transform="rotate(45)"/>
+    <g style="enable-background:new" transform="translate(7.9947119,-21.03751)">
+     <path style="fill:#9a9996;fill-rule:evenodd" d="m 58,290 h 6 v -72 l -1.414214,-1.41421 C 62.585786,216.58579 56,221.64656 56,234 l 0.0053,27.18969 0.09677,2.72237 L 58,266 Z"/>
+     <g transform="translate(2)">
+      <path style="fill:url(#linearGradient3968)" d="m 66,300 c -6.591883,0 -12,5.40812 -12,12 0,6.59188 5.408117,12 12,12 6.591883,0 12,-5.40812 12,-12 0,-6.59188 -5.408117,-12 -12,-12 z m 0,2 c 3.349242,0 8,2.65076 8,6 0,3.34924 -4.650758,10 -8,10 -3.349242,0 -8,-6.65076 -8,-10 0,-3.34924 4.650758,-6 8,-6 z"/>
+     </g>
     </g>
+    <use style="enable-background:new" id="use1074" width="100%" height="100%" x="0" y="0" transform="matrix(-0.70710678,-0.70710678,-0.70710678,0.70710678,292.42443,120.74209)" xlink:href="#g1059"/>
+    <circle style="fill:none;stroke:#c01c28;stroke-width:5;stroke-linecap:round;stroke-linejoin:round" cx="217.799" cy="169.669" r="8.516" transform="rotate(45)"/>
+    <g style="enable-background:new" transform="matrix(-0.70710678,-0.70710678,-0.70710678,0.70710678,302.73447,101.58204)">
+     <path style="fill:#77767b;fill-rule:evenodd" d="m 58,290 h 6 L 64.321785,217.78547 64,218 c 0,0 -8,-1e-5 -8,16 l 0.04605,29.2602 2.104238,2.10424 z"/>
+     <g transform="translate(2)">
+      <path style="fill:url(#linearGradient3952)" d="m 53.832031,79.433594 -12.726562,7.070312 0.01758,0.236328 C 36.43908,83.311197 29.771824,83.694975 25.54883,87.917969 c -4.661163,4.661163 -4.661165,12.309541 0,16.970701 4.661165,4.66117 12.30954,4.66116 16.970703,0 L 59.490234,87.917969 C 59.725371,87.682832 59.878223,87.427157 60,87.166016 v -2.78125 z m -19.798828,6.951172 c 1.529253,-10e-7 3.060005,0.591254 4.244141,1.77539 2.368271,2.368272 2.36827,10.118058 0,12.486324 -2.368271,2.36827 -6.118057,2.36828 -8.486328,0 -2.368272,-2.368267 -2.368271,-10.118053 0,-12.486324 1.184135,-1.184135 2.712935,-1.77539 4.242187,-1.77539 z" transform="matrix(-0.70710678,-0.70710678,-0.70710678,0.70710678,158.23277,267.89843)"/>
+     </g>
+    </g>
+    <g style="enable-background:new" transform="matrix(-0.70710678,-0.70710678,-0.70710678,0.70710678,302.75946,99.477469)">
+     <path d="m 58,290 h 6 v -72 c 0,0 -8,-1e-5 -8,16 l 0.04605,29.2602 2.104238,2.10424 z" style="fill:#9a9996;fill-rule:evenodd"/>
+     <g transform="translate(2)">
+      <path style="fill:#ed333b;fill-rule:evenodd" d="m 54,312 v -24 c 0,-2 2,-2 2,-2 h 6.037213 c 0,0 1.917797,-0.13576 2.443399,1.45023 l 4.397602,13.26955 z"/>
+      <circle cx="-66.05" cy="312.033" r="9.516" transform="scale(-1,1)" style="fill:none;stroke:#ed333b;stroke-width:5;stroke-linecap:round;stroke-linejoin:round"/>
+      <circle style="fill:none;stroke:#e01b24;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" cx="-66" cy="312" r="7" transform="scale(-1,1)"/>
+     </g>
+     <path style="fill:url(#linearGradient1317);fill-rule:evenodd" d="m 64,46 c 0,0 -1.871743,0.534879 -4,2.03747 V 90 l 4,2 z" transform="translate(0,172)"/>
+    </g>
+    <circle style="fill:#3d3846" cx="-223.446" cy="125.865" r="2" transform="matrix(-0.70710678,-0.70710678,-0.70710678,0.70710678,0,0)"/>
+    <path style="opacity:0.2;fill-rule:evenodd" d="m 71.999994,250.12805 v 1.87876 l -5.93181,5.86081 -0.06819,-1.73957 z"/>
+    <path style="opacity:0.2;fill-rule:evenodd" d="m 73.999997,246 -0.02499,2.10457 h 2.975842 L 76.975839,246 Z"/>
+   </g>
   </g>
+ </g>
 </svg>

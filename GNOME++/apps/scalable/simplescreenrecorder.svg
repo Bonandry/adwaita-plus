@@ -1,427 +1,74 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 128 128"
-   style="display:inline;enable-background:new"
-   version="1.0"
-   id="svg11300"
-   height="128"
-   width="128"
-   sodipodi:docname="schermata.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1009"
-     id="namedview43"
-     showgrid="false"
-     inkscape:zoom="6.5234375"
-     inkscape:cx="64"
-     inkscape:cy="64"
-     inkscape:window-x="0"
-     inkscape:window-y="34"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg11300" />
-  <title
-     id="title4162">Adwaita Icon Template</title>
-  <defs
-     id="defs3">
-    <linearGradient
-       id="linearGradient1078">
-      <stop
-         style="stop-color:#77767b;stop-opacity:1"
-         offset="0"
-         id="stop1066" />
-      <stop
-         id="stop1068"
-         offset="0.03571429"
-         style="stop-color:#c0bfbc;stop-opacity:1" />
-      <stop
-         style="stop-color:#9a9996;stop-opacity:1"
-         offset="0.07136531"
-         id="stop1070" />
-      <stop
-         id="stop1072"
-         offset="0.9285714"
-         style="stop-color:#9a9996;stop-opacity:1" />
-      <stop
-         style="stop-color:#c0bfbc;stop-opacity:1"
-         offset="0.96428573"
-         id="stop1074" />
-      <stop
-         style="stop-color:#77767b;stop-opacity:1"
-         offset="1"
-         id="stop1076" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient1044">
-      <stop
-         id="stop1040"
-         offset="0"
-         style="stop-color:#1a5fb4;stop-opacity:1" />
-      <stop
-         id="stop1042"
-         offset="1"
-         style="stop-color:#98c1f1;stop-opacity:0" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient1034">
-      <stop
-         style="stop-color:#98c1f1;stop-opacity:1"
-         offset="0"
-         id="stop1030" />
-      <stop
-         style="stop-color:#2dc0af;stop-opacity:0.13779527"
-         offset="1"
-         id="stop1032" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient6826">
-      <stop
-         id="stop6822"
-         offset="0"
-         style="stop-color:#50dbb5;stop-opacity:1;" />
-      <stop
-         id="stop6824"
-         offset="1"
-         style="stop-color:#4a86cf;stop-opacity:1" />
-    </linearGradient>
-    <radialGradient
-       r="225"
-       fy="-60.347851"
-       fx="106.66667"
-       cy="-60.347851"
-       cx="106.66667"
-       gradientTransform="matrix(0.21428571,0,0,0.32237036,9.1428574,245.58768)"
-       gradientUnits="userSpaceOnUse"
-       id="radialGradient1018"
-       xlink:href="#linearGradient6826" />
-    <radialGradient
-       r="225"
-       fy="218.27841"
-       fx="276.58823"
-       cy="218.27841"
-       cx="276.58823"
-       gradientTransform="matrix(0.38857143,0,0,0.52385183,-10.672425,121.46829)"
-       gradientUnits="userSpaceOnUse"
-       id="radialGradient1020"
-       xlink:href="#linearGradient1034" />
-    <radialGradient
-       r="225"
-       fy="86.747528"
-       fx="317.76471"
-       cy="86.747528"
-       cx="317.76471"
-       gradientTransform="matrix(0.38857143,0,0,0.2757274,-19.058665,-254.30701)"
-       gradientUnits="userSpaceOnUse"
-       id="radialGradient1038"
-       xlink:href="#linearGradient1044" />
-    <linearGradient
-       y2="-449.39401"
-       x2="536.59589"
-       y1="-449.39401"
-       x1="88.595886"
-       gradientTransform="matrix(0.25,0,0,0.25,-14.148972,400.3485)"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient1064"
-       xlink:href="#linearGradient1078" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient947">
-      <stop
-         style="stop-color:#424048;stop-opacity:1"
-         offset="0"
-         id="stop943" />
-      <stop
-         style="stop-color:#000000;stop-opacity:1"
-         offset="1"
-         id="stop945" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient1470">
-      <stop
-         style="stop-color:#1b58a6;stop-opacity:1"
-         offset="0"
-         id="stop1466" />
-      <stop
-         style="stop-color:#060b10;stop-opacity:1"
-         offset="1"
-         id="stop1468" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient1075"
-       inkscape:collect="always">
-      <stop
-         id="stop1071"
-         offset="0"
-         style="stop-color:#ffffff;stop-opacity:1" />
-      <stop
-         id="stop1073"
-         offset="1"
-         style="stop-color:#4a86cf;stop-opacity:0" />
-    </linearGradient>
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient947"
-       id="radialGradient949-5"
-       cx="255.99998"
-       cy="-174.13397"
-       fx="255.99998"
-       fy="-174.13397"
-       r="144"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.31749068,0,0,0.32777973,153.02174,96.513485)" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient1470"
-       id="radialGradient2192-9"
-       cx="320.70712"
-       cy="-31.994987"
-       fx="320.70712"
-       fy="-31.994987"
-       r="49.999992"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.9091888,0,0,2.9091888,-636.29051,14.67549)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient1075"
-       id="linearGradient1061-7"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-23.999948,-46.40897)"
-       x1="319.99997"
-       y1="93.000008"
-       x2="319.99997"
-       y2="13" />
-  </defs>
-  <metadata
-     id="metadata4">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:creator>
-          <cc:Agent>
-            <dc:title>GNOME Design Team</dc:title>
-          </cc:Agent>
-        </dc:creator>
-        <dc:source />
-        <cc:license
-           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
-        <dc:title>Adwaita Icon Template</dc:title>
-        <dc:subject>
-          <rdf:Bag />
-        </dc:subject>
-        <dc:date />
-        <dc:rights>
-          <cc:Agent>
-            <dc:title />
-          </cc:Agent>
-        </dc:rights>
-        <dc:publisher>
-          <cc:Agent>
-            <dc:title />
-          </cc:Agent>
-        </dc:publisher>
-        <dc:identifier />
-        <dc:relation />
-        <dc:language />
-        <dc:coverage />
-        <dc:description />
-        <dc:contributor>
-          <cc:Agent>
-            <dc:title />
-          </cc:Agent>
-        </dc:contributor>
-      </cc:Work>
-      <cc:License
-         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#Reproduction" />
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#Distribution" />
-        <cc:requires
-           rdf:resource="http://creativecommons.org/ns#Notice" />
-        <cc:requires
-           rdf:resource="http://creativecommons.org/ns#Attribution" />
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
-        <cc:requires
-           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
-      </cc:License>
-    </rdf:RDF>
-  </metadata>
-  <g
-     transform="translate(0,-172)"
-     style="display:inline"
-     id="layer1">
-    <g
-       style="display:inline"
-       id="layer9">
-      <rect
-         style="display:inline;opacity:1;vector-effect:none;fill:url(#linearGradient1064);fill-opacity:1;stroke:none;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;enable-background:new"
-         id="rect1048"
-         width="112.00001"
-         height="76"
-         x="7.9999952"
-         y="212"
-         rx="7.9999995"
-         ry="8" />
-      <text
-         id="text850"
-         y="4"
-         x="-72"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           y="39.390625"
-           x="-72"
-           id="tspan848" /></text>
-      <rect
-         ry="8"
-         rx="7.9999995"
-         y="200.00002"
-         x="7.9999952"
-         height="84"
-         width="112.00001"
-         id="rect929-36-9"
-         style="display:inline;opacity:1;vector-effect:none;fill:#deddda;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;enable-background:new" />
-      <rect
-         ry="4"
-         y="204.00002"
-         x="12"
-         height="76"
-         width="104"
-         id="rect946-0-7"
-         style="display:inline;opacity:1;vector-effect:none;fill:#241f31;fill-opacity:1;stroke:none;stroke-width:0.01129821px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;enable-background:new"
-         rx="4" />
-      <rect
-         style="display:inline;opacity:1;vector-effect:none;fill:#a74bbd;fill-opacity:1;stroke:none;stroke-width:0.50000006;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:0.49999998, 1.00000000999999994;stroke-dashoffset:0;stroke-opacity:0.94881891;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;enable-background:new"
-         id="rect1012"
-         width="96"
-         height="68"
-         x="16"
-         y="208" />
-      <g
-         transform="translate(0,12)"
-         style="opacity:0.5"
-         id="g1010">
-        <path
-           style="display:inline;fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
-           d="M 19,209 V 199 H 29"
-           id="path1171" />
-        <path
-           id="path1173"
-           d="M 109.01415,209 V 199 H 99.014141"
-           style="display:inline;fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new" />
-        <path
-           style="display:inline;fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
-           d="m 109.01415,251.01414 v 10 H 99.014141"
-           id="path1175" />
-        <path
-           id="path1177"
-           d="m 19,251.01414 v 10 h 10"
-           style="display:inline;fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new" />
-      </g>
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="128" height="128" version="1.0" viewBox="0 0 128 128" style="enable-background:new">
+ <title id="title4162">
+  Adwaita Icon Template
+ </title>
+ <defs>
+  <linearGradient id="linearGradient1078">
+   <stop id="stop1066" offset="0" style="stop-color:#77767b"/>
+   <stop style="stop-color:#c0bfbc" id="stop1068" offset=".036"/>
+   <stop id="stop1070" offset=".071" style="stop-color:#9a9996"/>
+   <stop style="stop-color:#9a9996" id="stop1072" offset=".929"/>
+   <stop id="stop1074" offset=".964" style="stop-color:#c0bfbc"/>
+   <stop id="stop1076" offset="1" style="stop-color:#77767b"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1044">
+   <stop style="stop-color:#1a5fb4" id="stop1040" offset="0"/>
+   <stop style="stop-color:#98c1f1;stop-opacity:0" id="stop1042" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1034">
+   <stop id="stop1030" offset="0" style="stop-color:#98c1f1"/>
+   <stop id="stop1032" offset="1" style="stop-color:#2dc0af;stop-opacity:0.13779527"/>
+  </linearGradient>
+  <linearGradient id="linearGradient6826">
+   <stop style="stop-color:#50dbb5" id="stop6822" offset="0"/>
+   <stop style="stop-color:#4a86cf" id="stop6824" offset="1"/>
+  </linearGradient>
+  <radialGradient id="radialGradient1018" cx="106.667" cy="-60.348" r="225" fx="106.667" fy="-60.348" gradientTransform="matrix(0.21428571,0,0,0.32237036,9.1428574,245.58768)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient6826"/>
+  <radialGradient id="radialGradient1020" cx="276.588" cy="218.278" r="225" fx="276.588" fy="218.278" gradientTransform="matrix(0.38857143,0,0,0.52385183,-10.672425,121.46829)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1034"/>
+  <radialGradient id="radialGradient1038" cx="317.765" cy="86.748" r="225" fx="317.765" fy="86.748" gradientTransform="matrix(0.38857143,0,0,0.2757274,-19.058665,-254.30701)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1044"/>
+  <linearGradient id="linearGradient1064" x1="88.596" x2="536.596" y1="-449.394" y2="-449.394" gradientTransform="matrix(0.25,0,0,0.25,-14.148972,400.3485)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1078"/>
+  <linearGradient id="linearGradient947">
+   <stop id="stop943" offset="0" style="stop-color:#424048"/>
+   <stop id="stop945" offset="1" style="stop-color:#000000"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1470">
+   <stop id="stop1466" offset="0" style="stop-color:#1b58a6"/>
+   <stop id="stop1468" offset="1" style="stop-color:#060b10"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1075">
+   <stop style="stop-color:#ffffff" id="stop1071" offset="0"/>
+   <stop style="stop-color:#4a86cf;stop-opacity:0" id="stop1073" offset="1"/>
+  </linearGradient>
+  <radialGradient id="radialGradient949-5" cx="256" cy="-174.134" r="144" fx="256" fy="-174.134" gradientTransform="matrix(0.31749068,0,0,0.32777973,153.02174,96.513485)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient947"/>
+  <radialGradient id="radialGradient2192-9" cx="320.707" cy="-31.995" r="50" fx="320.707" fy="-31.995" gradientTransform="matrix(2.9091888,0,0,2.9091888,-636.29051,14.67549)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1470"/>
+  <linearGradient id="linearGradient1061-7" x1="320" x2="320" y1="93" y2="13" gradientTransform="translate(-23.999948,-46.40897)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1075"/>
+ </defs>
+ <g id="layer1" transform="translate(0,-172)">
+  <g id="layer9">
+   <rect width="112" height="76" x="8" y="212" rx="8" ry="8" style="fill:url(#linearGradient1064)"/>
+   <rect style="fill:#deddda" width="112" height="84" x="8" y="200" rx="8" ry="8"/>
+   <rect style="fill:#241f31" width="104" height="76" x="12" y="204" rx="4" ry="4"/>
+   <rect width="96" height="68" x="16" y="208" style="fill:#a74bbd"/>
+   <g transform="translate(0,12)" style="opacity:0.5">
+    <path d="M 19,209 V 199 H 29" style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round"/>
+    <path style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round" d="M 109.01415,209 V 199 H 99.014141"/>
+    <path d="m 109.01415,251.01414 v 10 H 99.014141" style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round"/>
+    <path style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round" d="m 19,251.01414 v 10 h 10"/>
+   </g>
   </g>
-  <circle
-     r="4"
-     style="display:inline;opacity:1;fill:#ff0038;fill-opacity:1;stroke:#ffffff;stroke-width:1.24574149;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
-     id="path1021"
-     cx="100.96098"
-     cy="47.705696" />
-  <g
-     style="display:inline;enable-background:new"
-     id="g984-3"
-     transform="matrix(0,-0.71428574,0.73743388,0,-127.63732,112.76908)">
-    <ellipse
-       ry="35"
-       rx="33.901344"
-       transform="matrix(0,1,1,0,0,0)"
-       cy="66.85714"
-       cx="234.29933"
-       id="path15894-6-9-1-5-6"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#f6f5f4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.02616632;marker:none;enable-background:new" />
-    <ellipse
-       ry="30.343035"
-       rx="29.390564"
-       transform="matrix(0,1,1,0,0,0)"
-       cy="66.85714"
-       cx="234.29933"
-       id="path15894-6-9-1-5-3-0"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:url(#radialGradient949-5);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.02616656;marker:none;enable-background:new" />
-    <ellipse
-       ry="26.704779"
-       rx="25.866512"
-       transform="matrix(0,1,1,0,0,0)"
-       cy="66.85714"
-       cx="234.29933"
-       id="path15894-6-9-1-5-3-5-6"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.02616644;marker:none;enable-background:new" />
-    <g
-       id="g1045-2"
-       style="display:inline;stroke-width:0.31152642;enable-background:new"
-       transform="matrix(0,0.45248787,-0.46715183,0,80.12853,100.36293)">
-      <circle
-         r="49.999992"
-         transform="scale(1,-1)"
-         cy="-28.409172"
-         cx="296"
-         id="path15894-6-9-61"
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#radialGradient2192-9);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.2319541;marker:none;enable-background:new" />
-      <circle
-         r="22.585665"
-         transform="scale(1,-1)"
-         cy="-28.409172"
-         cx="296"
-         id="path15894-6-9-6-8"
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.2319541;marker:none;enable-background:new" />
-      <circle
-         r="14.953269"
-         transform="scale(1,-1)"
-         cy="-10.80793"
-         cx="278.55453"
-         id="path15894-6-9-7-7"
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#2070d6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.2319541;marker:none;enable-background:new" />
-      <ellipse
-         ry="7.4766345"
-         rx="7.4766407"
-         transform="scale(1,-1)"
-         cy="-50.683311"
-         cx="318.4299"
-         id="path15894-6-9-7-3-9"
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#2070d6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.2319541;marker:none;enable-background:new" />
-      <ellipse
-         ry="4.9844232"
-         rx="4.9844275"
-         transform="scale(1,-1)"
-         cy="-39.468365"
-         cx="307.21497"
-         id="path15894-6-9-7-3-2-2"
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#2070d6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.2319541;marker:none;enable-background:new" />
-      <circle
-         r="49.999992"
-         transform="scale(1,-1)"
-         cy="-28.409172"
-         cx="296"
-         id="path15894-6-9-1-0"
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.66399997;fill:url(#linearGradient1061-7);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.2319541;marker:none;enable-background:new" />
-    </g>
+ </g>
+ <circle cx="100.961" cy="47.706" r="4" style="fill:#ff0038;stroke:#ffffff;stroke-width:1.24574149;stroke-linejoin:round"/>
+ <g transform="matrix(0,-0.71428574,0.73743388,0,-127.63732,112.76908)" style="enable-background:new">
+  <ellipse style="fill:#f6f5f4" cx="234.299" cy="66.857" rx="33.901" ry="35" transform="matrix(0,1,1,0,0,0)"/>
+  <ellipse style="fill:url(#radialGradient949-5)" cx="234.299" cy="66.857" rx="29.391" ry="30.343" transform="matrix(0,1,1,0,0,0)"/>
+  <ellipse cx="234.299" cy="66.857" rx="25.867" ry="26.705" transform="matrix(0,1,1,0,0,0)"/>
+  <g style="enable-background:new" transform="matrix(0,0.45248787,-0.46715183,0,80.12853,100.36293)">
+   <circle style="fill:url(#radialGradient2192-9)" cx="296" cy="-28.409" r="50" transform="scale(1,-1)"/>
+   <circle cx="296" cy="-28.409" r="22.586" transform="scale(1,-1)"/>
+   <circle style="fill:#2070d6" cx="278.555" cy="-10.808" r="14.953" transform="scale(1,-1)"/>
+   <ellipse style="fill:#2070d6" cx="318.43" cy="-50.683" rx="7.477" ry="7.477" transform="scale(1,-1)"/>
+   <ellipse style="fill:#2070d6" cx="307.215" cy="-39.468" rx="4.984" ry="4.984" transform="scale(1,-1)"/>
+   <circle style="opacity:0.66399997;fill:url(#linearGradient1061-7)" cx="296" cy="-28.409" r="50" transform="scale(1,-1)"/>
   </g>
+ </g>
 </svg>

@@ -1,243 +1,40 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 128 128"
-   style="display:inline;enable-background:new"
-   version="1.0"
-   id="svg11300"
-   height="128"
-   width="128"
-   sodipodi:docname="audacious.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1009"
-     id="namedview24"
-     showgrid="false"
-     inkscape:zoom="6.5234375"
-     inkscape:cx="47.083277"
-     inkscape:cy="64"
-     inkscape:window-x="0"
-     inkscape:window-y="34"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="layer9" />
-  <title
-     id="title4162">Adwaita Icon Template</title>
-  <defs
-     id="defs3">
-    <linearGradient
-       id="linearGradient950">
-      <stop
-         style="stop-color:#9a9996;stop-opacity:1"
-         offset="0"
-         id="stop946" />
-      <stop
-         style="stop-color:#77767b;stop-opacity:1"
-         offset="1"
-         id="stop948" />
-    </linearGradient>
-    <linearGradient
-       y2="812.88245"
-       x2="1662.9901"
-       y1="806.29718"
-       x1="1660.8571"
-       gradientTransform="matrix(1.8293937,-0.81599442,0.81599442,1.8293937,-3645.9624,100.02949)"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient1001"
-       xlink:href="#linearGradient950" />
-    <filter
-       id="filter913"
-       x="-0.02"
-       y="-0.029999999"
-       width="1.046"
-       height="1.05"
-       style="color-interpolation-filters:sRGB">
-      <feGaussianBlur
-         stdDeviation="2.32"
-         id="feGaussianBlur17" />
-    </filter>
-    <filter
-       id="filter4569"
-       x="-0.0099999998"
-       y="-0.0099999998"
-       width="1.023"
-       height="1.025"
-       style="color-interpolation-filters:sRGB">
-      <feGaussianBlur
-         stdDeviation="1.16"
-         id="feGaussianBlur14" />
-    </filter>
-    <linearGradient
-       id="linearGradient1108"
-       x1="296"
-       x2="296"
-       y1="-212"
-       y2="236"
-       gradientUnits="userSpaceOnUse">
-      <stop
-         style="stop-color:#ffffff"
-         offset="0"
-         id="stop2" />
-      <stop
-         style="stop-color:#ffffff;stop-opacity:.09803922"
-         offset=".125"
-         id="stop4" />
-      <stop
-         style="stop-color:#000000;stop-opacity:.09803922"
-         offset=".925"
-         id="stop6" />
-      <stop
-         style="stop-color:#000000;stop-opacity:.49803922"
-         offset="1"
-         id="stop8" />
-    </linearGradient>
-    <clipPath
-       id="clipPath1082-3-2">
-      <path
-         inkscape:connector-curvature="0"
-         d="M 361.9375,-212 C 507.2348,-212 528,-191.28677 528,-46.125 V 70.125 C 528,215.28618 507.2348,236 361.9375,236 H 214.0625 C 68.7652,236 48,215.28618 48,70.125 V -46.125 C 48,-191.28677 68.7652,-212 214.0625,-212 Z"
-         style="fill:#8c59d9"
-         id="path11" />
-    </clipPath>
-    <filter
-       id="filter953"
-       x="-0.050000001"
-       y="-0.050000001"
-       width="1.096"
-       height="1.096"
-       style="color-interpolation-filters:sRGB">
-      <feGaussianBlur
-         stdDeviation="1.75"
-         id="feGaussianBlur20" />
-    </filter>
-  </defs>
-  <metadata
-     id="metadata4">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:creator>
-          <cc:Agent>
-            <dc:title>GNOME Design Team</dc:title>
-          </cc:Agent>
-        </dc:creator>
-        <dc:source />
-        <cc:license
-           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
-        <dc:title>Adwaita Icon Template</dc:title>
-        <dc:subject>
-          <rdf:Bag />
-        </dc:subject>
-        <dc:date />
-        <dc:rights>
-          <cc:Agent>
-            <dc:title />
-          </cc:Agent>
-        </dc:rights>
-        <dc:publisher>
-          <cc:Agent>
-            <dc:title />
-          </cc:Agent>
-        </dc:publisher>
-        <dc:identifier />
-        <dc:relation />
-        <dc:language />
-        <dc:coverage />
-        <dc:description />
-        <dc:contributor>
-          <cc:Agent>
-            <dc:title />
-          </cc:Agent>
-        </dc:contributor>
-      </cc:Work>
-      <cc:License
-         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#Reproduction" />
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#Distribution" />
-        <cc:requires
-           rdf:resource="http://creativecommons.org/ns#Notice" />
-        <cc:requires
-           rdf:resource="http://creativecommons.org/ns#Attribution" />
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
-        <cc:requires
-           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
-      </cc:License>
-    </rdf:RDF>
-  </metadata>
-  <g
-     transform="translate(0,-172)"
-     style="display:inline"
-     id="layer1">
-    <g
-       style="display:inline"
-       id="layer9">
-      <path
-         id="path945"
-         d="M 123.99993,237 A 59.999995,59.999995 0 0 1 63.999945,297 59.999995,59.999995 0 0 1 3.9999381,237 59.999995,59.999995 0 0 1 63.999945,177.00001 59.999995,59.999995 0 0 1 123.99993,237 Z"
-         style="display:inline;opacity:1;fill:#deddda;fill-opacity:1;stroke:none;stroke-width:0.01129822px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;enable-background:new" />
-      <rect
-         style="display:inline;opacity:1;fill:#d5d3cf;fill-opacity:1;stroke:none;stroke-width:0.01129822px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;enable-background:new"
-         id="rect978"
-         width="112"
-         height="114"
-         x="8"
-         y="179"
-         rx="56"
-         ry="56" />
-      <path
-         style="display:inline;opacity:1;fill:#f6f5f4;fill-opacity:1;stroke:none;stroke-width:0.01129822px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;enable-background:new"
-         d="M 123.99993,235 A 59.999995,59.999995 0 0 1 63.999945,294.99999 59.999995,59.999995 0 0 1 3.9999381,235 59.999995,59.999995 0 0 1 63.999945,175 59.999995,59.999995 0 0 1 123.99993,235 Z"
-         id="path981" />
-      <circle
-         r="54"
-         style="display:inline;opacity:1;fill:#3d3846;fill-opacity:1;stroke:none;stroke-width:0.01129822px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;enable-background:new"
-         id="circle983"
-         cx="63.999943"
-         cy="235" />
-      <path
-         id="circle1003"
-         d="m 64.000045,181 a 54,54 0 0 0 -54,54 54,54 0 0 0 0.0415,1.1709 A 54,54 0 0 1 64.000045,183 54,54 0 0 1 117.95854,235.82813 54,54 0 0 0 118.00004,235 54,54 0 0 0 64.000035,181 Z"
-         style="display:inline;opacity:0.1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.01129822px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;enable-background:new" />
-      <g
-         transform="matrix(3.7797136,0,0,3.7797136,-273.81964,-739.81288)"
-         id="g47">
-        <g
-           transform="translate(-0.07222373,-0.21213154)"
-           id="g45"
-           style="fill:#f6f5f4;fill-opacity:1">
-          <g
-             transform="matrix(0.27212946,0,0,0.27212946,72.137522,240.56477)"
-             id="g43"
-             style="fill:#f6f5f4;fill-opacity:1" />
-        </g>
-      </g>
-      <path
-         style="display:inline;opacity:1;fill:#f6f5f4;fill-opacity:1;stroke:none;stroke-width:0.01129822px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;enable-background:new"
-         d="m 65.072361,214.54905 c -0.347693,0.01 -0.698846,0.0274 -1.056641,0.043 -4.249307,0.18441 -11.768878,0.0334 -14.701176,3.49414 -1.79185,2.11478 -0.95679,7.03208 1.78907,7.54297 3.420737,0.63648 9.20487,-0.94255 12.912106,-0.55469 2.584869,0.27042 3.341361,2.34962 1.236328,3.79297 -2.228894,1.52822 -7.289102,1.06446 -9.84375,1.83203 -8.832214,2.65371 -12.006374,8.27572 -9.843754,15.89453 1.41014,4.96796 6.400574,8.65597 11.845708,8.86523 10.474581,-0.023 8.521935,-5.30894 13.59375,-2.55859 1.669096,1.92646 5.032296,2.547 6.77539,1.19336 2.802462,-2.17636 7.029808,-3.34279 4.048828,-7.79687 -1.427561,-2.13298 1.899324,-4.89715 1.150391,-15.51172 -0.664404,-9.41621 -6.689836,-15.87493 -16.875,-16.23633 -0.339503,-0.0121 -0.683558,-0.01 -1.03125,0 z m -0.332031,22.75586 c 2.359104,0 4.21875,1.65161 4.21875,3.70703 0,2.05542 -1.859646,3.75 -4.21875,3.75 -2.359102,0 -4.304688,-1.69458 -4.304688,-3.75 0,-2.05542 1.945586,-3.70703 4.304688,-3.70703 z"
-         id="circle983-3"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccccccccccccccccsssss" />
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="enable-background:new" width="128" height="128" version="1.0" viewBox="0 0 128 128">
+ <title id="title4162">
+  Adwaita Icon Template
+ </title>
+ <defs>
+  <linearGradient id="linearGradient950">
+   <stop style="stop-color:#9a9996" id="stop946" offset="0"/>
+   <stop style="stop-color:#77767b" id="stop948" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1001" x1="1660.857" x2="1662.99" y1="806.297" y2="812.882" gradientTransform="matrix(1.8293937,-0.81599442,0.81599442,1.8293937,-3645.9624,100.02949)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient950"/>
+  <filter id="filter913" width="1.046" height="1.05" x="-.02" y="-.03" style="color-interpolation-filters:sRGB">
+   <feGaussianBlur id="feGaussianBlur17" stdDeviation="2.32"/>
+  </filter>
+  <filter id="filter4569" width="1.023" height="1.025" x="-.01" y="-.01" style="color-interpolation-filters:sRGB">
+   <feGaussianBlur id="feGaussianBlur14" stdDeviation="1.16"/>
+  </filter>
+  <linearGradient id="linearGradient1108" x1="296" x2="296" y1="-212" y2="236" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#ffffff" id="stop2" offset="0"/>
+   <stop style="stop-color:#ffffff;stop-opacity:.09803922" id="stop4" offset=".125"/>
+   <stop style="stop-color:#000000;stop-opacity:.09803922" id="stop6" offset=".925"/>
+   <stop style="stop-color:#000000;stop-opacity:.49803922" id="stop8" offset="1"/>
+  </linearGradient>
+  <clipPath id="clipPath1082-3-2">
+   <path style="fill:#8c59d9" d="M 361.9375,-212 C 507.2348,-212 528,-191.28677 528,-46.125 V 70.125 C 528,215.28618 507.2348,236 361.9375,236 H 214.0625 C 68.7652,236 48,215.28618 48,70.125 V -46.125 C 48,-191.28677 68.7652,-212 214.0625,-212 Z"/>
+  </clipPath>
+  <filter id="filter953" width="1.096" height="1.096" x="-.05" y="-.05" style="color-interpolation-filters:sRGB">
+   <feGaussianBlur id="feGaussianBlur20" stdDeviation="1.75"/>
+  </filter>
+ </defs>
+ <g id="layer1" transform="translate(0,-172)">
+  <g id="layer9">
+   <path d="M 123.99993,237 A 59.999995,59.999995 0 0 1 63.999945,297 59.999995,59.999995 0 0 1 3.9999381,237 59.999995,59.999995 0 0 1 63.999945,177.00001 59.999995,59.999995 0 0 1 123.99993,237 Z" style="fill:#deddda"/>
+   <rect style="fill:#d5d3cf" width="112" height="114" x="8" y="179" rx="56" ry="56"/>
+   <path style="fill:#f6f5f4" d="M 123.99993,235 A 59.999995,59.999995 0 0 1 63.999945,294.99999 59.999995,59.999995 0 0 1 3.9999381,235 59.999995,59.999995 0 0 1 63.999945,175 59.999995,59.999995 0 0 1 123.99993,235 Z"/>
+   <circle style="fill:#3d3846" cx="64" cy="235" r="54"/>
+   <path d="m 64.000045,181 a 54,54 0 0 0 -54,54 54,54 0 0 0 0.0415,1.1709 A 54,54 0 0 1 64.000045,183 54,54 0 0 1 117.95854,235.82813 54,54 0 0 0 118.00004,235 54,54 0 0 0 64.000035,181 Z" style="opacity:0.1"/>
+   <path style="fill:#f6f5f4" d="m 65.072361,214.54905 c -0.347693,0.01 -0.698846,0.0274 -1.056641,0.043 -4.249307,0.18441 -11.768878,0.0334 -14.701176,3.49414 -1.79185,2.11478 -0.95679,7.03208 1.78907,7.54297 3.420737,0.63648 9.20487,-0.94255 12.912106,-0.55469 2.584869,0.27042 3.341361,2.34962 1.236328,3.79297 -2.228894,1.52822 -7.289102,1.06446 -9.84375,1.83203 -8.832214,2.65371 -12.006374,8.27572 -9.843754,15.89453 1.41014,4.96796 6.400574,8.65597 11.845708,8.86523 10.474581,-0.023 8.521935,-5.30894 13.59375,-2.55859 1.669096,1.92646 5.032296,2.547 6.77539,1.19336 2.802462,-2.17636 7.029808,-3.34279 4.048828,-7.79687 -1.427561,-2.13298 1.899324,-4.89715 1.150391,-15.51172 -0.664404,-9.41621 -6.689836,-15.87493 -16.875,-16.23633 -0.339503,-0.0121 -0.683558,-0.01 -1.03125,0 z m -0.332031,22.75586 c 2.359104,0 4.21875,1.65161 4.21875,3.70703 0,2.05542 -1.859646,3.75 -4.21875,3.75 -2.359102,0 -4.304688,-1.69458 -4.304688,-3.75 0,-2.05542 1.945586,-3.70703 4.304688,-3.70703 z"/>
   </g>
+ </g>
 </svg>

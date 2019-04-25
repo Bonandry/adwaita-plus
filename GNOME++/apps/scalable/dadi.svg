@@ -1,189 +1,36 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="128"
-   height="128"
-   version="1.0"
-   id="svg75"
-   sodipodi:docname="preferences-certificates.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
-  <metadata
-     id="metadata79">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1016"
-     id="namedview77"
-     showgrid="false"
-     inkscape:zoom="6.578125"
-     inkscape:cx="36.712589"
-     inkscape:cy="64"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="g73" />
-  <defs
-     id="defs24">
-    <linearGradient
-       id="a">
-      <stop
-         offset="0"
-         stop-color="#68676b"
-         id="stop2" />
-      <stop
-         offset=".8"
-         stop-color="#424048"
-         id="stop4" />
-      <stop
-         offset="1"
-         stop-color="#241f31"
-         id="stop6" />
-    </linearGradient>
-    <radialGradient
-       xlink:href="#a"
-       id="d"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.34416 .0006 -.00062 1.38763 -121.22 -718.103)"
-       cx="279.422"
-       cy="446.483"
-       fx="279.422"
-       fy="446.483"
-       r="224" />
-    <linearGradient
-       xlink:href="#b"
-       id="e"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.0015 0 0 .99993 72.09 56.015)"
-       x1="43.844"
-       y1="234"
-       x2="-60"
-       y2="234" />
-    <linearGradient
-       id="b">
-      <stop
-         offset="0"
-         stop-color="#d5d3cf"
-         id="stop11" />
-      <stop
-         offset=".038"
-         stop-color="#e3e2df"
-         id="stop13" />
-      <stop
-         offset=".077"
-         stop-color="#c0bfbc"
-         id="stop15" />
-      <stop
-         offset=".923"
-         stop-color="#c0bfbc"
-         id="stop17" />
-      <stop
-         offset=".962"
-         stop-color="#e3e2df"
-         id="stop19" />
-      <stop
-         offset="1"
-         stop-color="#d5d3cf"
-         id="stop21" />
-    </linearGradient>
-    <filter
-       id="filter2241"
-       x="-0.059999999"
-       y="-0.059999999"
-       width="1.113"
-       height="1.12"
-       style="color-interpolation-filters:sRGB">
-      <feGaussianBlur
-         stdDeviation=".412"
-         id="feGaussianBlur1330" />
-    </filter>
-    <filter
-       id="filter2237"
-       x="-0.11"
-       y="-0.12"
-       width="1.226"
-       height="1.232"
-       style="color-interpolation-filters:sRGB">
-      <feGaussianBlur
-         stdDeviation=".412"
-         id="feGaussianBlur1327" />
-    </filter>
-  </defs>
-  <g
-     transform="translate(0 -172)"
-     id="g73">
-    <rect
-       ry="8"
-       rx="8"
-       height="48"
-       width="104"
-       x="12"
-       y="240"
-       fill="url(#e)"
-       id="rect33" />
-    <path
-       style="fill:#f6f5f4;stroke-width:0.92825788"
-       d="m 20,182 c -4.432,0 -8,3.07441 -8,6.8933 v 36.18984 36.18983 c 0,3.81889 3.568,6.8933 8,6.8933 h 44 44 c 4.432,0 8,-3.07441 8,-6.8933 V 225.08314 188.8933 C 116,185.07441 112.432,182 108,182 Z"
-       id="path37"
-       inkscape:connector-curvature="0" />
-    <g
-       id="g857"
-       transform="translate(0.36050224,-5.8218485)">
-      <circle
-         id="circle8"
-         r="9.545455"
-         cy="230.90498"
-         cx="65.2304"
-         style="fill:#4d4d4d;stroke-width:1.59090912" />
-      <circle
-         id="circle10"
-         r="9.545455"
-         cy="256.35953"
-         cx="87.503136"
-         style="fill:#4d4d4d;stroke-width:1.59090912" />
-      <circle
-         id="circle12"
-         r="9.545455"
-         cy="205.45044"
-         cx="39.77586"
-         style="fill:#4d4d4d;stroke-width:1.59090912" />
-      <circle
-         id="circle14"
-         transform="scale(1,-1)"
-         r="9.545455"
-         cy="-205.45044"
-         cx="87.503136"
-         style="fill:#4d4d4d;stroke-width:1.59090912" />
-      <circle
-         id="circle16"
-         transform="scale(1,-1)"
-         r="9.545455"
-         cy="-256.35953"
-         cx="39.77586"
-         style="fill:#4d4d4d;stroke-width:1.59090912" />
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="128" height="128" version="1.0">
+ <defs>
+  <linearGradient id="a">
+   <stop id="stop2" offset="0" stop-color="#68676b"/>
+   <stop id="stop4" offset=".8" stop-color="#424048"/>
+   <stop id="stop6" offset="1" stop-color="#241f31"/>
+  </linearGradient>
+  <radialGradient id="d" cx="279.422" cy="446.483" r="224" fx="279.422" fy="446.483" gradientTransform="matrix(1.34416 .0006 -.00062 1.38763 -121.22 -718.103)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <linearGradient id="e" x1="43.844" x2="-60" y1="234" y2="234" gradientTransform="matrix(1.0015 0 0 .99993 72.09 56.015)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
+  <linearGradient id="b">
+   <stop id="stop11" offset="0" stop-color="#d5d3cf"/>
+   <stop id="stop13" offset=".038" stop-color="#e3e2df"/>
+   <stop id="stop15" offset=".077" stop-color="#c0bfbc"/>
+   <stop id="stop17" offset=".923" stop-color="#c0bfbc"/>
+   <stop id="stop19" offset=".962" stop-color="#e3e2df"/>
+   <stop id="stop21" offset="1" stop-color="#d5d3cf"/>
+  </linearGradient>
+  <filter id="filter2241" width="1.113" height="1.12" x="-.06" y="-.06" style="color-interpolation-filters:sRGB">
+   <feGaussianBlur id="feGaussianBlur1330" stdDeviation=".412"/>
+  </filter>
+  <filter id="filter2237" width="1.226" height="1.232" x="-.11" y="-.12" style="color-interpolation-filters:sRGB">
+   <feGaussianBlur id="feGaussianBlur1327" stdDeviation=".412"/>
+  </filter>
+ </defs>
+ <g transform="translate(0 -172)">
+  <rect fill="url(#e)" width="104" height="48" x="12" y="240" rx="8" ry="8"/>
+  <path style="fill:#f6f5f4" d="m 20,182 c -4.432,0 -8,3.07441 -8,6.8933 v 36.18984 36.18983 c 0,3.81889 3.568,6.8933 8,6.8933 h 44 44 c 4.432,0 8,-3.07441 8,-6.8933 V 225.08314 188.8933 C 116,185.07441 112.432,182 108,182 Z"/>
+  <g transform="translate(0.36050224,-5.8218485)">
+   <circle cx="65.23" cy="230.905" r="9.545" style="fill:#4d4d4d"/>
+   <circle cx="87.503" cy="256.36" r="9.545" style="fill:#4d4d4d"/>
+   <circle cx="39.776" cy="205.45" r="9.545" style="fill:#4d4d4d"/>
+   <circle cx="87.503" cy="-205.45" r="9.545" transform="scale(1,-1)" style="fill:#4d4d4d"/>
+   <circle cx="39.776" cy="-256.36" r="9.545" transform="scale(1,-1)" style="fill:#4d4d4d"/>
   </g>
+ </g>
 </svg>

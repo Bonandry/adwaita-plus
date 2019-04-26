@@ -1,0 +1,37 @@
+<svg width="128" height="128" style="enable-background:new" version="1.0" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient1159" x1="32" x2="112" y1="-244" y2="-244" gradientTransform="matrix(.1 0 0 .25 -51.2 -178)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1723"/>
+  <linearGradient id="linearGradient1723">
+   <stop style="stop-color:#fff;stop-opacity:0" offset="0"/>
+   <stop style="stop-color:#fff;stop-opacity:.28235" offset=".5"/>
+   <stop style="stop-color:#fff;stop-opacity:0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1006" x1="32" x2="112" y1="-244" y2="-244" gradientTransform="matrix(.1 0 0 .25 -91.2 -178)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1723"/>
+  <radialGradient id="radialGradient1016" cx="64" cy="242" r="24" gradientTransform="translate(0,-1)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#fff;stop-opacity:0" offset="0"/>
+   <stop style="stop-color:#fff;stop-opacity:0" offset=".66667"/>
+   <stop style="stop-color:#fff;stop-opacity:.28235" offset=".83333"/>
+   <stop style="stop-color:#fff;stop-opacity:0" offset="1"/>
+  </radialGradient>
+ </defs>
+ <g transform="translate(0,-172)">
+  <g>
+   <path transform="translate(0,172)" d="m64 48c-13.296 0-23 10.704-23 24h7c0-8.864 7.136-16 16-16s16 7.136 16 16h7c0-13.296-9.704-24-23-24z" style="fill:#9a9996;paint-order:normal"/>
+   <path d="m36 220c0 4-1 6-3 6-4 0-9-6-9-12v-2l12 6z" style="fill:#3584e4;paint-order:normal"/>
+   <path d="m36 218c0 4-1 6-3 6-4 0-9-6-9-12 0-4 3-6 5-6 5 0 7 7.0294 7 12z" style="fill:#62a0ea;paint-order:normal"/>
+   <path d="m50 204c0 6-2 10-5 10s-9-6-9-12v-2l14 2z" style="fill:#3584e4;paint-order:normal"/>
+   <path d="m50 202c0 6-2 10-5 10s-9-6-9-12c0-5 4-8 8-8s6 4 6 10z" style="fill:#62a0ea;paint-order:normal"/>
+   <path d="m70 193c0 7-5 15-9 15s-7-6-7-12v-2l16-3z" style="fill:#3584e4;paint-order:normal"/>
+   <path d="m70 191c0 7-5 15-9 15s-7-6-7-12 4-10 10-10c4 0 6 2 6 7z" style="fill:#62a0ea;paint-order:normal"/>
+   <path d="m104 188c0 11-15 24-23 24-5 0-7-4-7-10v-2l30-14z" style="fill:#3584e4;paint-order:normal"/>
+   <path d="m104 186c0 11-15 24-23 24-5 0-7-4-7-10 0-8.1818 8-20 20-20 6 0 10 1 10 6z" style="fill:#62a0ea;paint-order:normal"/>
+   <rect x="36" y="286" width="56" height="6" style="fill:#c49c48;paint-order:normal"/>
+   <path transform="translate(0,172)" d="m64 46c-13.296 0-24 10.704-24 24v10h8v-10c0-8.864 7.136-16 16-16s16 7.136 16 16v10h8v-10c0-13.296-10.704-24-24-24z" style="fill:#c0bfbc;paint-order:normal"/>
+   <rect transform="scale(-1)" x="-48" y="-251" width="8" height="10" style="enable-background:new;fill:url(#linearGradient1159);paint-order:normal"/>
+   <rect transform="scale(-1)" x="-88" y="-251" width="8" height="10" style="enable-background:new;fill:url(#linearGradient1006);paint-order:normal"/>
+   <rect x="36" y="250" width="56" height="38" style="fill:#e2ba65;paint-order:normal"/>
+   <path d="m64 217a24 24 0 0 0-24 24h8a16 16 0 0 1 16-16 16 16 0 0 1 16 16h8a24 24 0 0 0-24-24z" style="fill:url(#radialGradient1016);paint-order:normal"/>
+   <rect x="58" y="288" width="12" height="4" ry="2" style="fill:#986a44;paint-order:normal"/>
+  </g>
+ </g>
+</svg>

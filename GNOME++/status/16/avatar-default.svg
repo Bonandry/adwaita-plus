@@ -7,14 +7,14 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   height="16"
    width="16"
+   height="16"
    version="1.1"
-   id="svg6"
-   sodipodi:docname="avatar-default.svg"
+   id="svg67"
+   sodipodi:docname="application-users.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <metadata
-     id="metadata12">
+     id="metadata71">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -24,8 +24,6 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <defs
-     id="defs10" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -35,31 +33,201 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="808"
-     inkscape:window-height="480"
-     id="namedview8"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     id="namedview69"
      showgrid="false"
-     inkscape:zoom="14.75"
+     inkscape:zoom="52.1875"
      inkscape:cx="8"
-     inkscape:cy="8"
+     inkscape:cy="0.33532934"
      inkscape:window-x="0"
      inkscape:window-y="34"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="g4" />
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g65" />
+  <defs
+     id="defs61">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+   .ColorScheme-Text { color:#241f31; } .ColorScheme-Highlight { color:#5294e2; }
+  </style>
+    <linearGradient
+       id="arrongin"
+       x1="0%"
+       x2="0%"
+       y1="0%"
+       y2="100%">
+      <stop
+         offset="0%"
+         style="stop-color:#dd9b44; stop-opacity:1"
+         id="stop3" />
+      <stop
+         offset="100%"
+         style="stop-color:#ad6c16; stop-opacity:1"
+         id="stop5" />
+    </linearGradient>
+    <linearGradient
+       id="aurora"
+       x1="0%"
+       x2="0%"
+       y1="0%"
+       y2="100%">
+      <stop
+         offset="0%"
+         style="stop-color:#09D4DF; stop-opacity:1"
+         id="stop8" />
+      <stop
+         offset="100%"
+         style="stop-color:#9269F4; stop-opacity:1"
+         id="stop10" />
+    </linearGradient>
+    <linearGradient
+       id="fitdance"
+       x1="0%"
+       x2="0%"
+       y1="0%"
+       y2="100%">
+      <stop
+         offset="0%"
+         style="stop-color:#1AD6AB; stop-opacity:1"
+         id="stop13" />
+      <stop
+         offset="100%"
+         style="stop-color:#329DB6; stop-opacity:1"
+         id="stop15" />
+    </linearGradient>
+    <linearGradient
+       id="oomox"
+       x1="0%"
+       x2="0%"
+       y1="0%"
+       y2="100%">
+      <stop
+         offset="0%"
+         style="stop-color:#efefe7; stop-opacity:1"
+         id="stop18" />
+      <stop
+         offset="100%"
+         style="stop-color:#8f8f8b; stop-opacity:1"
+         id="stop20" />
+    </linearGradient>
+    <linearGradient
+       id="rainblue"
+       x1="0%"
+       x2="0%"
+       y1="0%"
+       y2="100%">
+      <stop
+         offset="0%"
+         style="stop-color:#00F260; stop-opacity:1"
+         id="stop23" />
+      <stop
+         offset="100%"
+         style="stop-color:#0575E6; stop-opacity:1"
+         id="stop25" />
+    </linearGradient>
+    <linearGradient
+       id="sunrise"
+       x1="0%"
+       x2="0%"
+       y1="0%"
+       y2="100%">
+      <stop
+         offset="0%"
+         style="stop-color: #FF8501; stop-opacity:1"
+         id="stop28" />
+      <stop
+         offset="100%"
+         style="stop-color: #FFCB01; stop-opacity:1"
+         id="stop30" />
+    </linearGradient>
+    <linearGradient
+       id="telinkrin"
+       x1="0%"
+       x2="0%"
+       y1="0%"
+       y2="100%">
+      <stop
+         offset="0%"
+         style="stop-color: #b2ced6; stop-opacity:1"
+         id="stop33" />
+      <stop
+         offset="100%"
+         style="stop-color: #6da5b7; stop-opacity:1"
+         id="stop35" />
+    </linearGradient>
+    <linearGradient
+       id="60spsycho"
+       x1="0%"
+       x2="0%"
+       y1="0%"
+       y2="100%">
+      <stop
+         offset="0%"
+         style="stop-color: #df5940; stop-opacity:1"
+         id="stop38" />
+      <stop
+         offset="25%"
+         style="stop-color: #d8d15f; stop-opacity:1"
+         id="stop40" />
+      <stop
+         offset="50%"
+         style="stop-color: #e9882a; stop-opacity:1"
+         id="stop42" />
+      <stop
+         offset="100%"
+         style="stop-color: #279362; stop-opacity:1"
+         id="stop44" />
+    </linearGradient>
+    <linearGradient
+       id="90ssummer"
+       x1="0%"
+       x2="0%"
+       y1="0%"
+       y2="100%">
+      <stop
+         offset="0%"
+         style="stop-color: #f618c7; stop-opacity:1"
+         id="stop47" />
+      <stop
+         offset="20%"
+         style="stop-color: #94ffab; stop-opacity:1"
+         id="stop49" />
+      <stop
+         offset="50%"
+         style="stop-color: #fbfd54; stop-opacity:1"
+         id="stop51" />
+      <stop
+         offset="100%"
+         style="stop-color: #0f83ae; stop-opacity:1"
+         id="stop53" />
+    </linearGradient>
+    <linearGradient
+       id="cyberneon"
+       x1="0%"
+       x2="0%"
+       y1="0%"
+       y2="100%">
+      <stop
+         offset="0"
+         style="stop-color:#0abdc6; stop-opacity:1"
+         id="stop56" />
+      <stop
+         offset="1"
+         style="stop-color:#ea00d9; stop-opacity:1"
+         id="stop58" />
+    </linearGradient>
+  </defs>
   <g
-     color="#000"
      transform="translate(-993 27)"
-     id="g4">
+     id="g65">
     <path
-       d="M1001-26c-.529 0-1.031.098-1.494.295-.46.188-.868.463-1.207.82l-.002.004-.002.002c-.33.359-.586.79-.766 1.28a4.551 4.551 0 0 0-.27 1.6c0 .58.087 1.122.27 1.612.18.482.436.908.766 1.266l.002.002.002.002c.338.356.743.636 1.201.832l.004.002.004.002c.462.188.964.281 1.492.281s1.028-.093 1.49-.281v-.002a3.47 3.47 0 0 0 1.19-.834c.34-.358.6-.786.781-1.27.184-.49.272-1.031.272-1.613h.01c0-.573-.087-1.109-.27-1.598a3.692 3.692 0 0 0-.781-1.283 3.332 3.332 0 0 0-1.196-.824A3.796 3.796 0 0 0 1001-26zm0 1c.406 0 .771.073 1.102.215l.01.004.01.002c.33.135.607.326.838.576v.01c.24.253.43.564.568.94v.005c.13.351.194.753.2 1.202V-22c0 .482-.073.9-.208 1.262v.002a2.708 2.708 0 0 1-.57.931l-.01.004v.004c-.233.253-.514.45-.848.594A2.888 2.888 0 0 1 1001-19c-.41 0-.776-.072-1.11-.207h-.003c-.325-.14-.6-.337-.838-.582l-.05-.07-.009-.006a2.798 2.798 0 0 1-.523-.871A3.595 3.595 0 0 1 998.26-22c0-.471.07-.886.207-1.25l.002-.002v-.004c.138-.376.324-.684.554-.936l.012-.01c.24-.25.52-.443.85-.578l.006-.004.008-.002c.331-.14.695-.214 1.101-.214zM1008-11h-1c0-.865-.069-1.3-.235-1.833-.165-.533-.41-.904-.814-1.21-.809-.61-2.11-.933-4.922-.933s-4.165.322-4.975.933c-.405.305-.65.676-.816 1.21-.166.534-.235.968-.237 1.833l-1-.002c.001-.914.068-1.44.282-2.128.215-.688.594-1.277 1.169-1.711 1.15-.867 2.696-1.134 5.577-1.134s4.376.267 5.525 1.135c.574.433.953 1.024 1.166 1.712.214.688.28 1.213.28 2.128z"
-       fill="gray"
-       font-family="Ubuntu"
-       font-weight="400"
-       letter-spacing="0"
+       style="color:#241f31;overflow:visible;fill:currentColor"
+       class="ColorScheme-Text"
+       d="m 1001,-26 c -0.529,0 -1.031,0.098 -1.494,0.295 -0.46,0.188 -0.868,0.463 -1.207,0.82 l -0.002,0.004 -0.002,0.002 c -0.33,0.359 -0.586,0.79 -0.766,1.28 -0.18512,0.512853 -0.27657,1.054799 -0.27,1.6 0,0.58 0.087,1.122 0.27,1.612 0.18,0.482 0.436,0.908 0.766,1.266 l 0.002,0.002 0.002,0.002 c 0.338,0.356 0.743,0.636 1.201,0.832 l 0.004,0.002 0.004,0.002 c 0.462,0.188 0.964,0.281 1.492,0.281 0.528,0 1.028,-0.093 1.49,-0.281 v -0.002 c 0.4511,-0.190896 0.8566,-0.475128 1.19,-0.834 0.34,-0.358 0.6,-0.786 0.781,-1.27 0.184,-0.49 0.272,-1.031 0.272,-1.613 h 0.01 c 0,-0.573 -0.087,-1.109 -0.27,-1.598 -0.1697,-0.476664 -0.4355,-0.913366 -0.781,-1.283 -0.3332,-0.359269 -0.7416,-0.640619 -1.196,-0.824 -0.4736,-0.198506 -0.9825,-0.298864 -1.496,-0.295 z m 7,15 h -1 l -11.999,0 -1,-0.002 c 10e-4,-0.914 0.068,-1.44 0.282,-2.128 0.215,-0.688 0.594,-1.277 1.169,-1.711 1.15,-0.867 2.696,-1.134 5.577,-1.134 2.881,0 4.376,0.267 5.525,1.135 0.574,0.433 0.953,1.024 1.166,1.712 0.214,0.688 0.28,1.213 0.28,2.128 z"
        overflow="visible"
-       style="line-height:125%;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;shape-padding:0;isolation:auto;mix-blend-mode:normal;fill:#241f31;fill-opacity:1"
-       white-space="normal"
-       word-spacing="0"
-       id="path2" />
+       id="path63"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccsccccccccccccccccsccc" />
   </g>
 </svg>

@@ -6,11 +6,11 @@
 <h4 align="center">An elegant, flat and modern based on <a href="https://github.com/GNOME/adwaita-icon-theme">Adwaita</a> icons by GNOME Project</h4>
 
 <p align="center">
-  <img alt="apps" src="https://img.shields.io/badge/apps_icons-2170%2B-3584e4.svg?style=flat-square&logo=gnome?&colorA=a89888"/>
-  <img alt="actions" src="https://img.shields.io/badge/actions_icons-920%2B-3584e4.svg?style=flat-square&logo=gnome?&colorA=a89888"/>
-  <img alt="devices" src="https://img.shields.io/badge/devices_icons-80%2B-3584e4.svg?style=flat-square&logo=gnome?&colorA=a89888"/>
-  <img alt="mimetypes" src="https://img.shields.io/badge/mimetypes_icons-610%2B-3584e4.svg?style=flat-square&logo=gnome?&colorA=a89888"/>
-  <img alt="places" src="https://img.shields.io/badge/places_icons-70%2B-3584e4.svg?style=flat-square&logo=gnome?&colorA=a89888"/>
+  <img alt="apps" src="https://img.shields.io/badge/apps_icons-2170%2B-3584e4.svg?style=popout-square&logo=https://raw.githubusercontent.com/Bonandry/gnome-plus/master/gnome.svg?&colorA=a89888"/>
+  <img alt="actions" src="https://img.shields.io/badge/actions_icons-920%2B-3584e4.svg?style=popout-square&logo=gnome?&colorA=a89888"/>
+  <img alt="devices" src="https://img.shields.io/badge/devices_icons-80%2B-3584e4.svg?style=popout-square&logo=gnome?&colorA=a89888"/>
+  <img alt="mimetypes" src="https://img.shields.io/badge/mimetypes_icons-610%2B-3584e4.svg?style=popout-square&logo=gnome?&colorA=a89888"/>
+  <img alt="places" src="https://img.shields.io/badge/places_icons-70%2B-3584e4.svg?style=popout-square&logo=gnome?&colorA=a89888"/>
 </p>
 
 - [Screenshot](#screenshot)

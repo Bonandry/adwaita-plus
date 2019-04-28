@@ -1,1 +1,62 @@
-gnome-sudoku.svg
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="sudoku.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     id="namedview10"
+     showgrid="false"
+     inkscape:zoom="14.75"
+     inkscape:cx="-4.1016949"
+     inkscape:cy="8"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g4" />
+  <g
+     id="g6">
+    <g
+       fill="#241f31"
+       transform="translate(-302.99597,-213.992)"
+       id="g4">
+      <path
+         d="m 2.0195312,0.99609375 c -0.65001,-0.001 -1.04101558,0.33439505 -1.04101558,0.98437505 V 13 c 0,0.70558 0.43066818,1.018757 1.08007818,1.023438 l 7.9511722,-0.0039 0.01172,-0.0059 2.958985,0.0098 c 0.86102,0.003 1.037879,-0.262799 1.042969,-1.042969 0,0 0.0029,-10.9730324 0,-10.980469 -0.039,-0.566 -0.277347,-0.983115 -1.003907,-0.984375 z M 2,2 H 5 V 5 H 2 Z M 6,2 H 9 V 5 H 6 Z m 4,0 h 3 V 5 H 10 Z M 2,6 H 5 V 9 H 2 Z M 6,6 H 9 V 8.9921875 L 6,9 Z m 4,0 3,0.054687 v 2.9257813 l -2.998047,0.00781 z M 2,10 H 5 L 4.9804688,13.001953 2,13 Z M 6.0078125,10 9,10.001953 v 3.001953 l -3,-0.002 z m 3.9960935,0.002 2.996094,0.002 v 0.978516 0.0039 V 13 h -0.998047 l -0.01172,0.0059 -1.984375,-0.002 z"
+         transform="translate(302.99597,213.992)"
+         id="path2" />
+    </g>
+  </g>
+</svg>

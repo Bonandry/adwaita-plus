@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="128" height="128" enable-background="new" version="1.0">
+ <defs>
+  <linearGradient id="n" x1="248" x2="568" y1="619.964" y2="619.964" gradientTransform="matrix(-.25 0 0 .25 166 125.009)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <linearGradient id="a">
+   <stop offset="0" stop-color="#d5d3cf"/>
+   <stop offset=".05" stop-color="#e4e1de"/>
+   <stop offset=".1" stop-color="#d5d3cf"/>
+   <stop offset=".9" stop-color="#d5d3cf"/>
+   <stop offset=".95" stop-color="#e4e1de"/>
+   <stop offset="1" stop-color="#d5d3cf"/>
+  </linearGradient>
+  <clipPath id="l" clipPathUnits="userSpaceOnUse">
+   <rect fill="none" stroke="#000" stroke-width="4" width="400" height="256" x="56" y="-92" enable-background="new" rx="8" ry="8"/>
+  </clipPath>
+  <filter id="m" width="1.528" height="1.028" x="-.26" y="-.01" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="1.76"/>
+  </filter>
+  <radialGradient id="k" cx="-72.632" cy="88.045" r="200" fx="-72.632" fy="88.045" gradientTransform="matrix(.08386 0 0 2.375 230.091 -273.105)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
+  <linearGradient id="b">
+   <stop offset="0" stop-color="#d5d3cf"/>
+   <stop offset="1" stop-color="#d5d3cf" stop-opacity="0"/>
+  </linearGradient>
+  <linearGradient id="j" x1="-156" x2="220" y1="-256" y2="-256" gradientTransform="matrix(.25 0 0 .29687 225 12)" gradientUnits="userSpaceOnUse" xlink:href="#c"/>
+  <linearGradient id="c">
+   <stop offset="0"/>
+   <stop offset="1" stop-color="#424048"/>
+  </linearGradient>
+  <linearGradient id="i" x1="-122.894" x2="34.97" y1="-292" y2="-292" gradientTransform="matrix(.25 0 0 .275 232.467 16.3)" gradientUnits="userSpaceOnUse" xlink:href="#d"/>
+  <linearGradient id="d">
+   <stop offset="0" stop-color="#d5d3cf"/>
+   <stop offset="1" stop-color="#f6f5f4"/>
+  </linearGradient>
+  <linearGradient id="h">
+   <stop offset="0" stop-color="#fff"/>
+   <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+  </linearGradient>
+  <linearGradient id="e">
+   <stop offset="0" stop-color="#f6f5f4"/>
+   <stop offset="1" stop-color="#fff"/>
+  </linearGradient>
+  <linearGradient id="f">
+   <stop offset="0" stop-color="#d5d3cf"/>
+   <stop offset=".05" stop-color="#e4e1de"/>
+   <stop offset=".1" stop-color="#d5d3cf"/>
+   <stop offset=".9" stop-color="#d5d3cf"/>
+   <stop offset=".95" stop-color="#e4e1de"/>
+   <stop offset="1" stop-color="#d5d3cf"/>
+  </linearGradient>
+  <linearGradient id="g">
+   <stop offset="0" stop-color="#d5d3cf"/>
+   <stop offset=".02" stop-color="#e4e1de"/>
+   <stop offset=".059" stop-color="#d5d3cf"/>
+   <stop offset=".945" stop-color="#d5d3cf"/>
+   <stop offset=".973" stop-color="#e4e1de"/>
+   <stop offset="1" stop-color="#d5d3cf"/>
+  </linearGradient>
+ </defs>
+ <g transform="translate(0 -172)">
+  <rect fill="url(#i)" width="110" height="88" x="180" y="-108" enable-background="new" rx="8" ry="8.8" transform="rotate(90)"/>
+  <rect fill="url(#j)" width="94" height="76" x="186" y="-102" enable-background="new" rx="0" ry="0" transform="rotate(90)"/>
+  <rect y="-102" fill="url(#k)" opacity=".486" width="94" height="76" x="186" enable-background="new" rx="0" ry="0" transform="rotate(90)"/>
+  <g fill="#fff" clip-path="url(#l)" color="#000" font-family="sans-serif" font-weight="400" transform="matrix(0 .25 -.29687 0 74.688 132)">
+   <path fill="#f9f06b" d="M372-116v304h24v-304z" enable-background="new" filter="url(#m)" overflow="visible" transform="matrix(1.33333 0 0 1 -144 0)"/>
+   <path d="M360-116v304h16v-304z" overflow="visible"/>
+  </g>
+  <path fill="url(#n)" d="M108 280v4c0 4.432-3.568 8-8 8H28c-4.432 0-8-3.568-8-8v-4c0 4.432 3.568 8 8 8h72c4.432 0 8-3.568 8-8z" enable-background="new"/>
+  <g stroke-width="1.376">
+   <path fill="#f6f5f4" d="M37.815 191.985h36.096l22.088 21.748.001 54.585c0 3.221-2.626 5.831-5.847 5.831H37.815A5.803 5.803 0 0 1 32 268.334V197.8a5.803 5.803 0 0 1 5.815-5.816z" enable-background="new"/>
+   <path fill="#deddda" d="M74.036 192.235v15.992c0 3.222 2.624 5.76 5.846 5.76l15.992-.004z" enable-background="new"/>
+  </g>
+ </g>
+</svg>

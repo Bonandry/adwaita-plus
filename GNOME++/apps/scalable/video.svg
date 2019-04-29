@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="enable-background:new" width="128" height="128" version="1.0" viewBox="0 0 128 128">
+ <title id="title4162">
+  Adwaita Icon Template
+ </title>
+ <defs>
+  <linearGradient id="linearGradient1007">
+   <stop id="stop1003" offset="0" style="stop-color:#2dc0af"/>
+   <stop id="stop1005" offset="1" style="stop-color:#61a1d2"/>
+  </linearGradient>
+  <linearGradient id="linearGradient6809-3">
+   <stop id="stop6805" offset="0" style="stop-color:#f6d123"/>
+   <stop id="stop6807" offset="1" style="stop-color:#2dc0af;stop-opacity:0.13779527"/>
+  </linearGradient>
+  <linearGradient id="linearGradient6826">
+   <stop id="stop6822" offset="0" style="stop-color:#50dbb5"/>
+   <stop id="stop6824" offset="1" style="stop-color:#4a86cf"/>
+  </linearGradient>
+  <radialGradient id="radialGradient439" cx="184" cy="-179.602" r="225" fx="184" fy="-179.602" gradientTransform="matrix(0.25,0,0,0.1967778,-162.99495,200.7212)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient6826"/>
+  <radialGradient id="radialGradient441" cx="256" cy="267.602" r="225" fx="256" fy="267.602" gradientTransform="matrix(0.45333333,0,0,0.35682373,-215.04828,157.89251)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient6809-3"/>
+  <linearGradient id="linearGradient443" x1="230" x2="230" y1="204" y2="172" gradientTransform="matrix(0.25,0,0,0.25,-162.99495,202.37942)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1007"/>
+ </defs>
+ <g id="layer1" transform="translate(0,-172)">
+  <g id="layer9">
+   <g transform="translate(162.99495,34.62058)" style="enable-background:new">
+    <rect style="fill:url(#radialGradient439)" width="112" height="88" x="-155" y="165.38" rx="8" ry="8.8"/>
+    <rect width="112" height="88" x="-155" y="165.38" rx="8" ry="8.8" style="fill:url(#radialGradient441)"/>
+    <path style="fill:#ffffff" d="m -110.99495,193.37954 v 31.99983 h 2.89999 0.29984 c 0.5597,0.003 1.11289,-0.12416 1.59999,-0.4 l 22.399877,-12.79994 c 0.99424,-0.55004 1.5,-1.67503 1.5,-2.79997 0,-1.12496 -0.50576,-2.24995 -1.5,-2.79999 l -22.399877,-12.79994 c -0.4871,-0.27616 -1.04029,-0.40418 -1.59999,-0.39999 h -0.29984 z"/>
+    <path d="m -154.99495,243.37942 v 2 c 0,4.432 3.568,8 8,8 h 96 c 4.432,0 8,-3.568 8,-8 v -2 c 0,4.432 -3.568,8 -8,8 h -96 c -4.432,0 -8,-3.568 -8,-8 z" style="fill:url(#linearGradient443)"/>
+   </g>
+  </g>
+ </g>
+</svg>

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" version="1">
+ <defs>
+  <filter id="filter925" width="1.046" height="1.05" x="-.02" y="-.03" style="color-interpolation-filters:sRGB">
+   <feGaussianBlur id="feGaussianBlur2" stdDeviation="2.32"/>
+  </filter>
+  <filter id="filter931" width="1.023" height="1.025" x="-.01" y="-.01" style="color-interpolation-filters:sRGB">
+   <feGaussianBlur id="feGaussianBlur5" stdDeviation="1.16"/>
+  </filter>
+  <linearGradient id="linearGradient1108" x1="296" x2="296" y1="-212" y2="236" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#ffffff" id="stop8" offset="0"/>
+   <stop style="stop-color:#ffffff;stop-opacity:.09803922" id="stop10" offset=".125"/>
+   <stop style="stop-color:#000000;stop-opacity:.09803922" id="stop12" offset=".925"/>
+   <stop style="stop-color:#000000;stop-opacity:.49803922" id="stop14" offset="1"/>
+  </linearGradient>
+  <clipPath id="clipPath1082-3">
+   <path style="fill:#8c59d9" d="M 361.9375,-212 C 507.2348,-212 528,-191.28677 528,-46.125 V 70.125 C 528,215.28618 507.2348,236 361.9375,236 H 214.0625 C 68.7652,236 48,215.28618 48,70.125 V -46.125 C 48,-191.28677 68.7652,-212 214.0625,-212 Z"/>
+  </clipPath>
+  <clipPath id="clipPath42">
+   <path d="m 1294.22,807.09 c 0,-269.07 -218.13,-487.211 -487.208,-487.211 -269.074,0 -487.207,218.141 -487.207,487.211 0,269.08 218.133,487.21 487.207,487.21 269.078,0 487.208,-218.13 487.208,-487.21"/>
+  </clipPath>
+ </defs>
+ <rect style="opacity:0.2" width="84.912" height="108.07" x="-107.91" y="11.93" rx="5.307" ry="5.404" transform="scale(-1,1)"/>
+ <rect style="fill:#8e8e8e" width="84.912" height="108.07" x="-107.91" y="10" rx="5.307" ry="5.404" transform="scale(-1,1)"/>
+ <rect style="fill:#333333" width="77.193" height="46.316" x="26.86" y="13.86" rx="0" ry="0"/>
+ <circle style="fill:#f8f8f8" cx="65.456" cy="91.149" r="23.158"/>
+ <circle style="fill:#8e8e8e" cx="65.456" cy="91.053" r="11.579"/>
+</svg>

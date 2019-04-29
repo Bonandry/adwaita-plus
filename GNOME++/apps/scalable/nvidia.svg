@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" version="1.0" viewBox="0 0 128 128" style="enable-background:new">
+ <title id="title4162">
+  Adwaita Icon Template
+ </title>
+ <defs>
+  <linearGradient id="linearGradient965" x1="48" x2="464" y1="44" y2="44" gradientUnits="userSpaceOnUse">
+   <stop id="stop989" offset="0" style="stop-color:#77767b"/>
+   <stop id="stop991" offset=".05" style="stop-color:#c0bfbc"/>
+   <stop id="stop993" offset=".1" style="stop-color:#9a9996"/>
+   <stop id="stop995" offset=".9" style="stop-color:#9a9996"/>
+   <stop id="stop997" offset=".95" style="stop-color:#c0bfbc"/>
+   <stop id="stop999" offset="1" style="stop-color:#77767b"/>
+  </linearGradient>
+  <radialGradient id="radialGradient1030" cx="64" cy="194.19" r="44" gradientTransform="matrix(-4.7273 7.9359e-7 -3.0301e-7 -1.6364 238.55 49.766)" gradientUnits="userSpaceOnUse">
+   <stop id="stop1016" offset="0" style="stop-color:#fff"/>
+   <stop id="stop1018" offset="1" style="stop-color:#fff;stop-opacity:.094118"/>
+  </radialGradient>
+  <linearGradient id="linearGradient1950" x1="70.347" x2="70.347" y1="245.4" y2="269.14" gradientUnits="userSpaceOnUse">
+   <stop id="stop1944" offset="0" style="stop-color:#2d2839"/>
+   <stop id="stop1946" offset="1" style="stop-color:#282433"/>
+  </linearGradient>
+ </defs>
+ <g id="layer1" transform="translate(0,-172)">
+  <g id="layer9">
+   <rect width="416" height="376" x="48" y="-124" rx="32" ry="32" transform="matrix(.25 0 0 .25 0 225)" style="fill:url(#linearGradient965)"/>
+   <rect width="416" height="384" x="48" y="-164" rx="32" ry="32" transform="matrix(.25 0 0 .25 0 225)" style="fill:#deddda"/>
+   <rect width="96" height="88" x="16.12" y="-276" rx="4" ry="4" transform="scale(1,-1)" style="fill:#4ca341"/>
+   <path style="fill:#262626" d="m 25.930116,227.32827 c 0,0 8.869415,-13.54715 26.199473,-14.94876 v -4.91475 c -19.195354,1.63086 -36.007391,18.82957 -36.007391,18.82957 0,0 9.604781,28.7916 36.007391,31.42779 v -5.22437 c -19.375835,-2.58242 -26.199954,-25.1714 -26.199954,-25.1714 z m 26.199473,14.77931 v 4.7844 c -14.643957,-2.76185 -18.898614,-18.86559 -18.898614,-18.86559 0,0 7.22108,-8.23974 18.898613,-9.57608 v 5.2498 c -0.0073,0 -0.01206,-0.002 -0.01871,-0.002 -6.128689,-0.77809 -11.106713,5.27907 -11.106713,5.27907 0,0 2.87359,10.19673 11.129273,13.131 m 0,-43.70868 v 9.06537 c 0.563476,-0.0456 0.937016,-0.084 1.503564,-0.10444 21.822895,-0.77809 36.042049,18.93423 36.042049,18.93423 0,0 -16.331171,21.00785 -33.345387,21.00785 -1.559341,0 -2.829143,-0.15312 -4.200322,-0.40996 v 5.60596 c 1.172505,0.1572 2.198177,0.25012 3.466731,0.25012 15.832928,0 27.282459,-8.55414 38.369588,-18.6779 1.838222,1.55742 9.363909,5.34628 10.910959,7.00469 -10.541356,9.33656 -35.109393,16.86302 -49.037185,16.86302 -1.34257,0 -2.441924,-0.0858 -3.709325,-0.21528 v 7.87734 h 59.98808 V 198.39959 H 52.134101 Z m 0,20.05168 v -6.07061 c 0.557716,-0.0346 0.929671,-0.0727 1.503564,-0.0921 15.692766,-0.52148 25.988367,14.26619 25.988367,14.26619 0,0 -11.120249,16.33837 -23.043063,16.33837 -1.715919,0 -3.064442,-0.29165 -4.449061,-0.78423 v -18.40719 c 6.10949,0.78096 7.148794,3.63584 10.821784,10.1132 l 8.168704,-7.28694 c 0,0 -5.963087,-8.27335 -16.015327,-8.27335 -1.092681,-3.9e-4 -1.94824,0.0809 -2.974968,0.19656"/>
+  </g>
+ </g>
+</svg>

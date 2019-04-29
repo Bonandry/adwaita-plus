@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="enable-background:new" width="128" height="128" version="1.0" viewBox="0 0 128 128">
+ <title id="title4162">
+  Adwaita Icon Template
+ </title>
+ <defs>
+  <linearGradient id="linearGradient1073">
+   <stop id="stop1060" offset="0" style="stop-color:#77767b"/>
+   <stop style="stop-color:#c0bfbc" id="stop1062" offset=".038"/>
+   <stop id="stop1064" offset=".077" style="stop-color:#9a9996"/>
+   <stop style="stop-color:#9a9996" id="stop1067" offset=".923"/>
+   <stop id="stop1069" offset=".962" style="stop-color:#c0bfbc"/>
+   <stop id="stop1071" offset="1" style="stop-color:#77767b"/>
+  </linearGradient>
+  <linearGradient id="linearGradient994">
+   <stop id="stop990" offset="0" style="stop-color:#f6d32d"/>
+   <stop id="stop992" offset="1" style="stop-color:#e66100"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1058">
+   <stop style="stop-color:#ffbe6f" id="stop1054" offset="0"/>
+   <stop style="stop-color:#f9f06b;stop-opacity:0" id="stop1056" offset="1"/>
+  </linearGradient>
+  <radialGradient id="radialGradient968-3" cx="248.432" cy="120.338" r="225" fx="274.623" fy="108.968" gradientTransform="matrix(0.34729307,0,0,0.49966148,-170.27883,346.37174)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1058"/>
+  <radialGradient id="radialGradient966-2" cx="133.997" cy="148.156" r="225" fx="133.997" fy="148.156" gradientTransform="matrix(0.41248898,0,0,0.83624432,-187.20083,299.46339)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient994"/>
+  <linearGradient id="linearGradient1358" x1="88.596" x2="536.596" y1="-449.394" y2="-449.394" gradientTransform="matrix(0.23214285,0,0,0.32894738,-8.56691,435.82698)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1073"/>
+ </defs>
+ <g id="layer1" transform="translate(0,-172)">
+  <g style="display:none" id="layer2">
+   <text id="context" x="-.05" y="128.65" xml:space="preserve" style="font-size:5.33333349px;line-height:125%;font-family:Cantarell">
+    <tspan style="font-size:5.33333349px" id="tspan2716" x="-.05" y="128.65">apps</tspan>
+   </text>
+   <text style="font-weight:bold;font-size:5.33333349px;line-height:125%;font-family:Cantarell" id="text3021" x="-.25" y="137.23" xml:space="preserve">
+    <tspan style="font-size:5.33333349px" id="tspan3023" x="-.25" y="137.23">com.uploadedlobster.peek</tspan>
+   </text>
+   <rect width="128" height="128" x="0" y="172" style="fill:#f0f0f0"/>
+   <rect style="fill:#f0f0f0" width="16" height="16" x="160" y="172"/>
+   <text id="text863" x="0" y="164" xml:space="preserve" style="font-weight:bold;font-size:4px;line-height:125%;font-family:Cantarell">
+    <tspan id="tspan861" x="0" y="164" style="font-size:4px">Hicolor</tspan>
+   </text>
+   <text style="font-weight:bold;font-size:4px;line-height:125%;font-family:Cantarell" id="text867" x="160" y="164" xml:space="preserve">
+    <tspan style="font-size:4px" id="tspan865" x="160" y="164">Symbolic</tspan>
+   </text>
+   <g transform="translate(-870)">
+    <rect style="fill:#f0f0f0" width="128" height="128" x="0" y="172"/>
+    <g transform="matrix(0.25,0,0,0.25,0,225)" style="enable-background:new">
+     <circle cx="256" cy="44" r="240" style="opacity:0.1;fill:#2864b0"/>
+     <rect width="352" height="448" x="80" y="-180" rx="32" ry="32" style="opacity:0.1;fill:#2864b0"/>
+     <rect width="416" height="416" x="48" y="-164" rx="32" ry="32" style="opacity:0.1;fill:#2864b0"/>
+     <rect width="448" height="352" x="32" y="-100" rx="32" ry="32" style="opacity:0.1;fill:#2864b0"/>
+    </g>
+   </g>
+   <text style="font-weight:bold;font-size:4px;line-height:125%;font-family:Cantarell" id="text1158" x="-1158" y="164" xml:space="preserve">
+    <tspan style="font-size:4px" id="tspan1156" x="-1158" y="164">Shapes</tspan>
+   </text>
+   <text id="text1204" x="-1158" y="332" xml:space="preserve" style="font-weight:bold;font-size:4px;line-height:125%;font-family:Cantarell">
+    <tspan id="tspan1202" x="-1158" y="332" style="font-size:4px">Examlpes</tspan>
+   </text>
+   <text id="text1335" x="248" y="164" xml:space="preserve" style="font-weight:bold;font-size:4px;line-height:125%;font-family:Cantarell">
+    <tspan id="tspan1333" x="248" y="164" style="font-size:4px">Symbolic</tspan>
+   </text>
+   <use id="use8317" width="100%" height="100%" x="0" y="0" transform="translate(-144)" xlink:href="#g1033"/>
+   <use id="use8319" width="100%" height="100%" x="0" y="0" transform="translate(-144)" xlink:href="#use8317"/>
+   <use id="use8321" width="100%" height="100%" x="0" y="0" transform="translate(0,168)" xlink:href="#g1033"/>
+   <use id="use8323" width="100%" height="100%" x="0" y="0" transform="translate(0,168)" xlink:href="#use8317"/>
+   <use id="use8325" width="100%" height="100%" x="0" y="0" transform="translate(0,168)" xlink:href="#use8319"/>
+   <use id="use8327" width="100%" height="100%" x="0" y="0" transform="translate(0,144)" xlink:href="#use8321"/>
+   <use id="use8329" width="100%" height="100%" x="0" y="0" transform="translate(0,144)" xlink:href="#use8323"/>
+   <use id="use8331" width="100%" height="100%" x="0" y="0" transform="translate(0,144)" xlink:href="#use8325"/>
+  </g>
+  <g style="display:none" id="layer3">
+   <circle style="opacity:0.1;fill:none;stroke:#000000;stroke-width:0.99000001;stroke-dasharray:0.99000001, 0.99000001" cx="64" cy="236" r="59.504"/>
+   <rect style="opacity:0.1;fill:none;stroke:#000000;stroke-width:0.99000001;stroke-dasharray:0.99000001, 0.99000001" width="87.01" height="111.01" x="20.5" y="180.5" rx="8.701" ry="7.929"/>
+   <rect style="opacity:0.1;fill:none;stroke:#000000;stroke-width:0.99000001;stroke-dasharray:0.99000001, 0.99000001" width="103.01" height="103.01" x="12.49" y="184.5" rx="7.924" ry="7.924"/>
+   <rect style="opacity:0.1;fill:none;stroke:#000000;stroke-width:0.99000001;stroke-dasharray:0.99000001, 0.99000001" width="111.01" height="87.01" x="8.49" y="200.5" rx="7.929" ry="8.701"/>
+   <path style="fill:none;stroke:#62a0ea;stroke-width:2" d="M 2.6203015e-5,288.99999 H 128.00003"/>
+  </g>
+  <g id="layer9">
+   <g>
+    <rect style="fill:url(#linearGradient1358)" width="104" height="100" x="12" y="188" rx="8" ry="8"/>
+    <rect width="104" height="100" x="12" y="184" rx="8" ry="8" style="fill:#deddda"/>
+    <rect width="96" height="92" x="16" y="188" rx="4" ry="4" style="fill:#241f31"/>
+    <g transform="matrix(1.0000001,0,0,0.84210557,170,-42.736935)">
+     <rect style="fill:url(#radialGradient966-2)" width="88" height="76" x="-150" y="302.5"/>
+     <rect width="88" height="76" x="-150" y="302.5" style="fill:url(#radialGradient968-3)"/>
+    </g>
+    <g transform="translate(-1e-5,3.999997)" style="enable-background:new">
+     <path style="fill:none;stroke:#ffffff;stroke-width:4;stroke-linecap:round" d="M 34,232 V 222 H 46"/>
+     <path d="M 94,232 V 222 H 81.999991" style="fill:none;stroke:#ffffff;stroke-width:4;stroke-linecap:round"/>
+     <path style="fill:none;stroke:#ffffff;stroke-width:4;stroke-linecap:round" d="m 94,248 v 10 H 81.999991"/>
+     <path d="m 34,248 v 10 h 12" style="fill:none;stroke:#ffffff;stroke-width:4;stroke-linecap:round"/>
+    </g>
+    <circle cx="99.5" cy="200" r="6" style="fill:#ed333b"/>
+    <rect width="20" height="4" x="54" y="198" style="fill:#deddda"/>
+   </g>
+  </g>
+ </g>
+</svg>

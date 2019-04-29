@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="128" height="128" version="1.0">
+ <defs>
+  <linearGradient id="a">
+   <stop id="stop2" offset="0" stop-color="#68676b"/>
+   <stop id="stop4" offset=".8" stop-color="#424048"/>
+   <stop id="stop6" offset="1" stop-color="#241f31"/>
+  </linearGradient>
+  <radialGradient id="d" cx="279.422" cy="446.483" r="224" fx="279.422" fy="446.483" gradientTransform="matrix(1.34416 .0006 -.00062 1.38763 -121.22 -718.103)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <linearGradient id="e" x1="43.844" x2="-60" y1="234" y2="234" gradientTransform="matrix(1.0015 0 0 .99993 72.09 56.015)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
+  <linearGradient id="b">
+   <stop id="stop11" offset="0" stop-color="#d5d3cf"/>
+   <stop id="stop13" offset=".038" stop-color="#e3e2df"/>
+   <stop id="stop15" offset=".077" stop-color="#c0bfbc"/>
+   <stop id="stop17" offset=".923" stop-color="#c0bfbc"/>
+   <stop id="stop19" offset=".962" stop-color="#e3e2df"/>
+   <stop id="stop21" offset="1" stop-color="#d5d3cf"/>
+  </linearGradient>
+ </defs>
+ <g transform="translate(0 -172)">
+  <rect fill="url(#e)" width="104" height="48" x="12" y="240" rx="8" ry="8"/>
+  <path style="fill:#f6f5f4" d="M 20 10 C 15.568 10 12 13.568 12 18 L 12 60 L 12 102 C 12 106.432 15.568 110 20 110 L 64 110 L 108 110 C 112.432 110 116 106.432 116 102 L 116 60 L 116 18 C 116 13.568 112.432 10 108 10 L 20 10 z" transform="translate(0,172)"/>
+  <path style="fill:#d00000" d="m 116,218.69665 v -28.76768 c 0,-1.09816 -0.2232,-2.1422 -0.62695,-3.09145 -0.40375,-0.94924 -0.98794,-1.80381 -1.71094,-2.52039 -0.723,-0.71658 -1.58522,-1.29558 -2.54297,-1.69574 C 110.16139,182.22122 109.108,182 108,182 H 80.019531 63.623047 v 49.70898 H 116 Z"/>
+  <path style="fill:#080808" d="m 20,10 c -1.108,0 -2.161391,0.223203 -3.119141,0.626953 -0.95775,0.40375 -1.819968,0.987938 -2.542968,1.710938 -0.723,0.723 -1.307188,1.585218 -1.710938,2.542968 C 12.223203,15.838609 12,16.892 12,18 V 59.708984 H 63.623047 V 10.017578 H 47.791016 C 47.79147,10.01761 29.706033,10 20,10 Z" transform="translate(0,172)"/>
+  <path style="fill:#f1f133" d="m 12,231.70898 v 41.56513 c 0,1.20854 0.235754,2.35751 0.662209,3.40216 0.426454,1.04465 1.043493,1.98511 1.80715,2.77371 0.763656,0.7886 1.67436,1.4258 2.685967,1.86618 C 18.166934,281.75655 19.279561,282 20.449867,282 h 43.041512 v -50.29102 z"/>
+ </g>
+</svg>

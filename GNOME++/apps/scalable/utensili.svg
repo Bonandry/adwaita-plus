@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="enable-background:new" width="128" height="128" version="1.0" viewBox="0 0 128 128">
+ <title id="title4162">
+  Adwaita Icon Template
+ </title>
+ <defs>
+  <linearGradient id="linearGradient974">
+   <stop style="stop-color:#babdb6" id="stop962" offset="0"/>
+   <stop id="stop964" offset=".042" style="stop-color:#f6f5f4"/>
+   <stop style="stop-color:#d5d3cf" id="stop966" offset=".083"/>
+   <stop id="stop968" offset=".917" style="stop-color:#deddda"/>
+   <stop style="stop-color:#f6f5f4" id="stop970" offset=".958"/>
+   <stop style="stop-color:#babdb6" id="stop972" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1747" x1="48" x2="464" y1="44" y2="44" gradientTransform="matrix(0.25,0,0,0.25,-110,225)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient974"/>
+  <clipPath id="clipPath1784" clipPathUnits="userSpaceOnUse">
+   <rect width="60" height="28" x="36" y="202" rx="14" ry="14" style="fill:#3584e4"/>
+  </clipPath>
+ </defs>
+ <g id="layer1" transform="translate(0,-172)">
+  <g id="layer9">
+   <g transform="translate(110)">
+    <rect width="104" height="84" x="-98" y="204" rx="8" ry="8" style="fill:url(#linearGradient1747)"/>
+    <rect style="fill:#f6f5f4" width="104" height="100" x="-98" y="184" rx="8" ry="8"/>
+   </g>
+   <g transform="translate(0,-2)">
+    <path style="fill:#1a5fb4" d="m 48,28 c -7.756,0 -14,6.244 -14,14 0,0.337684 0.0275,0.668439 0.05078,1 C 34.562237,35.716191 40.581684,30 48,30 h 32 c 7.418316,0 13.437763,5.716191 13.949219,13 C 93.9725,42.668439 94,42.337684 94,42 94,34.244 87.756,28 80,28 Z" transform="translate(0,172)"/>
+    <rect width="60" height="28" x="-94" y="202" rx="14" ry="14" transform="scale(-1,1)" style="fill:#3584e4"/>
+    <g transform="matrix(-1,0,0,1,130,-4)">
+     <circle cx="50" cy="218" r="14" clip-path="url(#clipPath1784)" transform="translate(0,4)" style="fill:#deddda"/>
+     <rect style="fill:#deddda" width="28" height="6" x="36" y="216"/>
+    </g>
+    <circle cx="-80" cy="212" r="14" transform="scale(-1,1)" style="fill:#ffffff"/>
+   </g>
+   <g transform="matrix(-1,0,0,1,128,38)">
+    <path d="m 48,28 c -7.756,0 -14,6.244 -14,14 0,0.337684 0.0275,0.668439 0.05078,1 C 34.562237,35.716191 40.581684,30 48,30 h 32 c 7.418316,0 13.437763,5.716191 13.949219,13 C 93.9725,42.668439 94,42.337684 94,42 94,34.244 87.756,28 80,28 Z" transform="translate(0,172)" style="fill:#9a9996"/>
+    <rect width="60" height="28" x="-94" y="202" rx="14" ry="14" transform="scale(-1,1)" style="fill:#c0bfbc"/>
+    <g transform="matrix(-1,0,0,1,130,-4)">
+     <circle style="fill:#deddda" cx="50" cy="218" r="14" clip-path="url(#clipPath1784)" transform="translate(0,4)"/>
+     <rect width="28" height="6" x="36" y="216" style="fill:#deddda"/>
+    </g>
+    <circle style="fill:#ffffff" cx="-80" cy="212" r="14" transform="scale(-1,1)"/>
+   </g>
+  </g>
+ </g>
+</svg>

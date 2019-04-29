@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" version="1.0" viewBox="0 0 128 128" style="enable-background:new">
+ <title id="title4162">
+  Adwaita Icon Template
+ </title>
+ <defs>
+  <clipPath id="clipPath9814-1" clipPathUnits="userSpaceOnUse">
+   <path style="fill:#ffffff;fill-rule:evenodd" d="M 596.05078,612 C 591.59109,612 588,615.59109 588,620.05078 v 15.89844 c 0,4.44257 3.56412,8.0214 8,8.04883 V 652 l 8,-8 h 19.94922 C 628.40891,644 632,640.40891 632,635.94922 V 620.05078 C 632,615.59109 628.40891,612 623.94922,612 Z"/>
+  </clipPath>
+ </defs>
+ <g id="layer1" transform="translate(0,-172)">
+  <g id="layer9">
+   <g transform="translate(51.00001,15.000001)">
+    <g transform="matrix(-2.0000003,0,0,2.0000003,1245.0002,-1027.0002)" style="fill:#3584e4;enable-background:new">
+     <path d="m 595.90647,639 v 12.99997 L 608.90642,639 Z" style="fill:#f6f5f4;fill-rule:evenodd"/>
+     <rect width="40" height="32" x="588" y="612" rx="4" ry="4" style="fill:#f6f5f4"/>
+    </g>
+    <g transform="translate(-50.999989,-6.9999854)" style="enable-background:new">
+     <path style="fill:#57e389;fill-rule:evenodd" d="m 24.000059,233.99999 v 25.99995 l 25.999924,-25.99995 z"/>
+     <rect style="fill:#57e389" width="80" height="64" x="8" y="180" rx="8" ry="8"/>
+    </g>
+    <path style="fill:#deddda;fill-rule:evenodd" d="m 68.999978,251.00003 v 1.99996 c 0,4.43202 -3.56798,8 -8,8 h -7.999997 v -1.99998 h 7.999997 c 4.43202,0 8,-3.56797 8,-7.99998 z m -79.999986,0 c 0,4.43201 3.5679808,7.99998 8.0000008,7.99998 H 36.999999 l 15.999982,16.00001 V 277 L 36.999999,260.99999 H -3.0000072 c -4.43202,0 -8.0000008,-3.56798 -8.0000008,-8 z"/>
+    <path d="m -43.000008,227.00002 v 1.99997 c 0,4.43201 3.56798,8 8,8 h 8 V 235 h -8 c -4.43202,0 -8,-3.56798 -8,-7.99998 z m 79.999989,0 c 0,4.432 -3.56798,7.99998 -8,7.99998 h -40.000007 l -15.999982,16 v 1.99998 l 15.999982,-16 h 40.000007 c 4.43202,0 8,-3.56798 8,-8 z" style="fill:#2ec27e;fill-rule:evenodd"/>
+    <g transform="matrix(0.25,0,-0.03125,0.25,-53.374989,207)" style="fill:#ffffff;enable-background:new">
+     <rect width="112" height="16" x="144" y="-44" rx="0" ry="0" style="fill:#ffffff"/>
+     <rect width="112" height="16" x="144" y="4" rx="0" ry="0" style="fill:#ffffff"/>
+     <rect width="128" height="16" x="-76" y="-232" rx="0" ry="0" transform="rotate(90)" style="fill:#ffffff"/>
+     <rect width="128" height="16" x="-76" y="-184" rx="0" ry="0" transform="rotate(90)" style="fill:#ffffff"/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

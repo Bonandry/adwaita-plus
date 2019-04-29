@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="128" height="128" version="1.0">
+ <defs>
+  <linearGradient id="a">
+   <stop id="stop2" offset="0" stop-color="#68676b"/>
+   <stop id="stop4" offset=".8" stop-color="#424048"/>
+   <stop id="stop6" offset="1" stop-color="#241f31"/>
+  </linearGradient>
+  <radialGradient id="d" cx="279.422" cy="446.483" r="224" fx="279.422" fy="446.483" gradientTransform="matrix(1.34416 .0006 -.00062 1.38763 -121.22 -718.103)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <linearGradient id="e" x1="43.844" x2="-60" y1="234" y2="234" gradientTransform="matrix(1.0015 0 0 .99993 72.09 56.015)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
+  <linearGradient id="b">
+   <stop id="stop11" offset="0" stop-color="#d5d3cf"/>
+   <stop id="stop13" offset=".038" stop-color="#e3e2df"/>
+   <stop id="stop15" offset=".077" stop-color="#c0bfbc"/>
+   <stop id="stop17" offset=".923" stop-color="#c0bfbc"/>
+   <stop id="stop19" offset=".962" stop-color="#e3e2df"/>
+   <stop id="stop21" offset="1" stop-color="#d5d3cf"/>
+  </linearGradient>
+ </defs>
+ <g transform="translate(0 -172)">
+  <rect fill="url(#e)" width="104" height="48" x="12" y="240" rx="8" ry="8"/>
+  <path style="fill:#2ec27e" d="M 20 10 C 15.568 10 12 13.568 12 18 L 12 60 L 12 102 C 12 106.432 15.568 110 20 110 L 64 110 L 108 110 C 112.432 110 116 106.432 116 102 L 116 60 L 116 18 C 116 13.568 112.432 10 108 10 L 20 10 z" transform="translate(0,172)"/>
+  <path style="fill:#ffffff" d="m 60.959465,194.5 v 8.27042 a 29.391869,29.391869 0 0 0 -25.90792,24.16202 h 6.21172 a 23.310792,23.310792 0 0 1 22.73674,-18.24321 23.310792,23.310792 0 0 1 22.72089,18.24321 h 6.19985 A 29.391869,29.391869 0 0 0 67.040535,202.77838 V 194.5 Z m 3.04054,20.27031 a 17.229717,17.229717 0 0 0 -17.22973,17.22971 17.229717,17.229717 0 0 0 0.28508,3.0405 h 27.65781 a 11.148639,11.148639 0 0 1 -10.71314,8.10808 11.148639,11.148639 0 0 1 -8.58715,-4.05398 h -7.09459 a 17.229717,17.229717 0 0 0 15.68174,10.13505 17.229717,17.229717 0 0 0 17.22971,-17.22965 17.229717,17.229717 0 0 0 -0.28507,-3.04056 h -27.65781 a 11.148639,11.148639 0 0 1 10.71315,-8.10808 11.148639,11.148639 0 0 1 8.58714,4.054 h 7.09459 a 17.229717,17.229717 0 0 0 -15.68173,-10.13507 z m -28.92075,22.29722 a 29.391869,29.391869 0 0 0 25.88021,24.15408 V 269.5 h 6.08107 v -8.27042 a 29.391869,29.391869 0 0 0 25.90792,-24.16205 h -6.21172 a 23.310792,23.310792 0 0 1 -22.73673,18.24324 23.310792,23.310792 0 0 1 -22.7209,-18.24324 z"/>
+ </g>
+</svg>

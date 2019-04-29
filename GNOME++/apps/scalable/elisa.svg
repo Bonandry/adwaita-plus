@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="128" height="128" version="1.0" viewBox="0 0 128 128" style="enable-background:new">
+ <title id="title4162">
+  Adwaita Icon Template
+ </title>
+ <defs>
+  <linearGradient id="linearGradient1099" x1="32" x2="96" y1="236" y2="236" gradientTransform="translate(604.81684,170.58641)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1036"/>
+  <linearGradient id="linearGradient1036">
+   <stop id="stop1032" offset="0" style="stop-color:#d5d3cf"/>
+   <stop id="stop1034" offset="1" style="stop-color:#f6f5f4"/>
+  </linearGradient>
+  <radialGradient id="radialGradient1103" cx="-244" cy="-76" r="32" fx="-244" fy="-76" gradientTransform="matrix(0.88333331,0,0,0.88333331,-460.35018,463.11973)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1069"/>
+  <linearGradient id="linearGradient1069">
+   <stop id="stop1065" offset="0" style="stop-color:#d5d3cf"/>
+   <stop id="stop1067-1" offset="1" style="stop-color:#949390"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1027" x1="64" x2="64" y1="262.5" y2="232" gradientTransform="translate(-470.5864,432.81685)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1025"/>
+  <linearGradient id="linearGradient1025">
+   <stop id="stop1021" offset="0" style="stop-color:#9a9996"/>
+   <stop id="stop1023" offset="1" style="stop-color:#77767b"/>
+  </linearGradient>
+  <clipPath id="clipPath1017" clipPathUnits="userSpaceOnUse">
+   <rect width="192" height="367.5" x="160" y="-163.5" rx="96" ry="96" style="fill:#f1bd10"/>
+  </clipPath>
+  <clipPath id="clipPath1090" clipPathUnits="userSpaceOnUse">
+   <rect width="447" height="320" x="32.5" y="-116" rx="32" ry="32" style="fill:#fb8c14"/>
+  </clipPath>
+  <clipPath id="clipPath1043" clipPathUnits="userSpaceOnUse">
+   <rect width="447" height="320" x="32.5" y="-116" rx="32" ry="32" style="fill:#fb8c14"/>
+  </clipPath>
+  <linearGradient id="linearGradient1640" x1="8" x2="120" y1="264" y2="264" gradientTransform="translate(0,11.999989)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1654"/>
+  <linearGradient id="linearGradient1654">
+   <stop style="stop-color:#0f6500" id="stop1642" offset="0"/>
+   <stop id="stop1644" offset=".034" style="stop-color:#127a00"/>
+   <stop style="stop-color:#17610b" id="stop1646" offset=".071"/>
+   <stop id="stop1648" offset=".928" style="stop-color:#17610b"/>
+   <stop style="stop-color:#127a00" id="stop1650" offset=".964"/>
+   <stop style="stop-color:#0f6500" id="stop1652" offset="1"/>
+  </linearGradient>
+  <clipPath id="clipPath904" clipPathUnits="userSpaceOnUse">
+   <rect width="96" height="48" x="208" y="4" style="fill:#949390"/>
+  </clipPath>
+  <clipPath id="clipPath1057" clipPathUnits="userSpaceOnUse">
+   <rect width="96" height="48" x="208" y="4" style="fill:#949390"/>
+  </clipPath>
+  <clipPath id="clipPath1061" clipPathUnits="userSpaceOnUse">
+   <rect width="96" height="48" x="208" y="4" style="fill:#949390"/>
+  </clipPath>
+  <clipPath id="clipPath904-3" clipPathUnits="userSpaceOnUse">
+   <rect width="96" height="48" x="208" y="4" style="fill:#949390"/>
+  </clipPath>
+  <clipPath id="clipPath1091" clipPathUnits="userSpaceOnUse">
+   <rect width="96" height="48" x="208" y="4" style="fill:#949390"/>
+  </clipPath>
+  <clipPath id="clipPath904-36" clipPathUnits="userSpaceOnUse">
+   <rect width="96" height="48" x="208" y="4" style="fill:#949390"/>
+  </clipPath>
+ </defs>
+ <g id="layer1" transform="translate(0,-172)">
+  <g id="layer9">
+   <g>
+    <rect style="fill:url(#linearGradient1640)" width="112" height="24" x="8" y="264" rx="8" ry="8"/>
+    <rect width="112" height="84" x="8" y="200" rx="8" ry="8.842" style="fill:#127a00"/>
+    <path d="m 36,281.99999 h 56 l -4,-10 H 40 Z" style="fill:#5e5c64;stroke:#5e5c64;stroke-width:8;stroke-linecap:round;stroke-linejoin:round"/>
+    <rect width="64" height="6" x="32" y="282" style="fill:#424048"/>
+    <path d="m 24,207.99999 h 80 l 8,8 V 268 H 16 v -52.00001 z" style="fill:#f6f5f4"/>
+    <g transform="translate(0,7.999989)" style="enable-background:new">
+     <rect style="fill:#424048" width="96" height="32" x="16" y="216"/>
+     <circle style="fill:#f6f5f4" cx="40" cy="232" r="6"/>
+     <circle cx="88" cy="232" r="6" style="fill:#f6f5f4"/>
+     <rect style="fill:#949390" width="24" height="12" x="52" y="226"/>
+     <path style="fill:#6b696c" d="m 51.999992,226 h 15.35563 c 0,0 0.64094,3.55767 0.64094,5.55767 0,2 -0.64094,6.44233 -0.64094,6.44233 h -15.35563 z"/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

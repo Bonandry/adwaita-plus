@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="enable-background:new" width="128" height="128" version="1.0" viewBox="0 0 128 128">
+ <title id="title4162">
+  Adwaita Icon Template
+ </title>
+ <defs>
+  <linearGradient id="linearGradient1106">
+   <stop id="stop1102" offset="0" style="stop-color:#26a269"/>
+   <stop id="stop1104" offset="1" style="stop-color:#2ec27e"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1096">
+   <stop id="stop1092" offset="0" style="stop-color:#e5a50a"/>
+   <stop style="stop-color:#f8e45c" id="stop1100" offset=".256"/>
+   <stop id="stop1094" offset="1" style="stop-color:#e5a50a"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1098" x1="13.916" x2="116" y1="264.001" y2="264.001" gradientTransform="matrix(1.1538452,0,0,1.0344633,-9.8460411,-6.0655371)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1096"/>
+  <linearGradient id="linearGradient1108" x1="12" x2="19.416" y1="251.713" y2="251.713" gradientTransform="matrix(1.1538452,0,0,1.0344633,-9.8460411,-6.0655371)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1106"/>
+ </defs>
+ <g id="layer1" transform="translate(0,-172)">
+  <g id="layer9">
+   <path d="m 4.0001013,231.86102 v 10.24361 0.10107 h 0.0045 c -0.00138,12.64648 4.9672147,24.88909 14.0331927,34.57774 l 6e-6,-10.34468 c -2.650757,-2.83281 1.736827,-12.74165 -0.191556,-15.9574 -4.66697,-7.78258 -13.8426131,-9.6715 -13.8416358,-18.62034 z" style="fill:url(#linearGradient1108)"/>
+   <path d="M 18.037794,276.78344 64.000052,242.20566 V 227.72317 L 18.0378,262.30091 Z" style="fill:#26a269"/>
+   <path d="M 18.037424,266.4379 C 3.0489994,250.42352 -0.23291655,228.07412 9.621634,209.1275 c 9.85455,-18.94662 31.060565,-31.05857 54.378419,-31.05857 l 13.846141,28.96497 -13.846142,24.82712 z" style="fill:#57e389"/>
+   <rect width="60" height="13.655" x="64" y="229.79" style="fill:#1a5fb4"/>
+   <path d="M 64.000055,176.00001 A 59.999947,53.792088 0 0 1 124,229.7921 H 64.000053 Z" style="fill:#62a0ea"/>
+   <path d="m 124,238.0678 c -0.0173,1.38143 -0.094,2.76172 -0.22987,4.13786 0.13587,-1.37614 0.21254,-2.75643 0.22987,-4.13786 z m -0.22987,4.13786 c -1.80242,21.03072 -23.823526,17.59412 -45.923936,24.82711 -23.70225,7.73475 -43.59439,22.93551 -59.808394,5.61277 v 4.13786 c 16.214004,17.32274 42.781319,23.70427 66.483569,15.96952 C 108.22372,285.0185 123.99967,264.81945 124,242.20566 Z" style="fill:url(#linearGradient1098)"/>
+   <path d="m 124,238.0678 c 0,22.6141 -15.77606,42.81355 -39.478759,50.54802 -23.702695,7.73448 -50.270219,1.35227 -66.483817,-15.97114 L 64.000052,238.0678 Z" style="fill:#f9f06b"/>
+  </g>
+ </g>
+</svg>

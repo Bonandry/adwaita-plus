@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="128" height="128" version="1.0">
+ <defs>
+  <linearGradient id="a">
+   <stop id="stop2" offset="0" stop-color="#68676b"/>
+   <stop id="stop4" offset=".8" stop-color="#424048"/>
+   <stop id="stop6" offset="1" stop-color="#241f31"/>
+  </linearGradient>
+  <radialGradient id="d" cx="279.422" cy="446.483" r="224" fx="279.422" fy="446.483" gradientTransform="matrix(1.34416 .0006 -.00062 1.38763 -121.22 -718.103)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <linearGradient id="e" x1="43.844" x2="-60" y1="234" y2="234" gradientTransform="matrix(1.0015 0 0 .99993 72.09 56.015)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
+  <linearGradient id="b">
+   <stop id="stop11" offset="0" stop-color="#d5d3cf"/>
+   <stop id="stop13" offset=".038" stop-color="#e3e2df"/>
+   <stop id="stop15" offset=".077" stop-color="#c0bfbc"/>
+   <stop id="stop17" offset=".923" stop-color="#c0bfbc"/>
+   <stop id="stop19" offset=".962" stop-color="#e3e2df"/>
+   <stop id="stop21" offset="1" stop-color="#d5d3cf"/>
+  </linearGradient>
+ </defs>
+ <g transform="translate(0 -172)">
+  <rect fill="url(#e)" width="104" height="48" x="12" y="240" rx="8" ry="8"/>
+  <path style="fill:#394e6f" d="M 20 10 C 15.568 10 12 13.568 12 18 L 12 60 L 12 102 C 12 106.432 15.568 110 20 110 L 64 110 L 108 110 C 112.432 110 116 106.432 116 102 L 116 60 L 116 18 C 116 13.568 112.432 10 108 10 L 20 10 z" transform="translate(0,172)"/>
+  <g transform="translate(-6.3513878,-29.267454)">
+   <g transform="matrix(1.6666667,0,0,1.6666667,230.7291,-155.23875)">
+    <circle cx="-91.227" cy="246.904" r="6.5" style="fill:#ffffff;stroke:#394e6f;stroke-linecap:round;stroke-linejoin:round"/>
+    <circle cx="-76.227" cy="259.904" r="3.5" style="fill:#ffffff;stroke:#394e6f;stroke-linecap:round;stroke-linejoin:round"/>
+    <circle cx="-84.227" cy="255.904" r="7.5" style="fill:#ffffff;stroke:#394e6f;stroke-linecap:round;stroke-linejoin:round"/>
+    <circle cx="-113.227" cy="256.904" r="6.5" style="fill:#ffffff;stroke:#394e6f;stroke-linecap:round;stroke-linejoin:round"/>
+    <circle cx="-107.227" cy="243.904" r="3.5" style="fill:#ffffff;stroke:#394e6f;stroke-linecap:round;stroke-linejoin:round"/>
+    <circle cx="-106.227" cy="251.904" r="7.5" style="fill:#ffffff;stroke:#394e6f;stroke-linecap:round;stroke-linejoin:round"/>
+    <circle cx="-106.227" cy="259.904" r="3.5" style="fill:#ffffff;stroke:#394e6f;stroke-linecap:round;stroke-linejoin:round"/>
+    <circle cx="-99.227" cy="242.904" r="6.5" style="fill:#ffffff;stroke:#394e6f;stroke-linecap:round;stroke-linejoin:round"/>
+    <circle cx="-96.227" cy="253.904" r="9.5" style="fill:#ffffff;stroke:#394e6f;stroke-linecap:round;stroke-linejoin:round"/>
+   </g>
+  </g>
+ </g>
+</svg>

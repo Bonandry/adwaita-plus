@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="128" height="128" version="1.0">
+ <defs>
+  <linearGradient id="e">
+   <stop offset="0" stop-color="#5e5c64"/>
+   <stop offset=".572" stop-color="#3d3846"/>
+   <stop offset="1" stop-color="#241f31"/>
+  </linearGradient>
+  <linearGradient id="d">
+   <stop offset="0" stop-color="#77767b"/>
+   <stop offset=".05" stop-color="#c0bfbc"/>
+   <stop offset=".1" stop-color="#9a9996"/>
+   <stop offset=".9" stop-color="#9a9996"/>
+   <stop offset=".95" stop-color="#c0bfbc"/>
+   <stop offset="1" stop-color="#77767b"/>
+  </linearGradient>
+  <linearGradient id="a">
+   <stop offset="0" stop-color="#d5d3cf"/>
+   <stop offset="1" stop-color="#f6f5f4"/>
+  </linearGradient>
+  <linearGradient id="b">
+   <stop offset="0" stop-color="#d5d3cf"/>
+   <stop offset="1" stop-color="#949390"/>
+  </linearGradient>
+  <linearGradient id="c">
+   <stop offset="0" stop-color="#9a9996"/>
+   <stop offset="1" stop-color="#77767b"/>
+  </linearGradient>
+  <linearGradient id="g" x1="88.596" x2="536.596" y1="-449.394" y2="-449.394" gradientTransform="matrix(.19643 0 0 .3421 -365.403 445.74)" gradientUnits="userSpaceOnUse" xlink:href="#d"/>
+  <linearGradient id="f">
+   <stop offset="0" stop-color="#f6d32d"/>
+   <stop offset="1" stop-color="#f9f06b"/>
+  </linearGradient>
+  <radialGradient id="i" cx="265.282" cy="65.436" r="56" fx="265.282" fy="65.436" gradientTransform="matrix(.17784 .04765 -.04766 .17786 -40.002 207.808)" gradientUnits="userSpaceOnUse" xlink:href="#e"/>
+  <linearGradient id="h" x1="99.846" x2="431.139" y1="91.301" y2="91.301" gradientTransform="translate(190.74 -76.125) scale(.13281)" gradientUnits="userSpaceOnUse" xlink:href="#f"/>
+ </defs>
+ <g transform="translate(0 -172)">
+  <g transform="translate(368)">
+   <rect fill="url(#g)" width="88" height="104" x="-348" y="188" rx="8" ry="8"/>
+   <rect fill="#deddda" width="88" height="92" x="-348" y="180" rx="8" ry="8"/>
+  </g>
+  <rect fill="#5e5c64" width="68" height="68" x="30" y="192" rx="34" ry="34"/>
+  <circle fill="#241f31" cx="64" cy="226" r="28"/>
+  <circle fill="#3d3846" cx="64" cy="226" r="24"/>
+  <circle fill="url(#h)" cx="226" cy="-64" r="22" transform="rotate(90)"/>
+  <ellipse cx="63.989" cy="226.095" rx="10.011" ry="10.012"/>
+  <ellipse fill="url(#i)" cx="3.291" cy="234.952" rx="8.011" ry="8.011" transform="rotate(-15)"/>
+ </g>
+</svg>

@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="enable-background:new" width="128" height="128" version="1.0" viewBox="0 0 128 128">
+ <title id="title4162">
+  Adwaita Icon Template
+ </title>
+ <defs>
+  <linearGradient id="linearGradient1025">
+   <stop id="stop1021" offset="0" style="stop-color:#9a9996"/>
+   <stop id="stop1023" offset="1" style="stop-color:#77767b"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1069">
+   <stop id="stop1065" offset="0" style="stop-color:#d5d3cf"/>
+   <stop id="stop1067" offset="1" style="stop-color:#949390"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1036">
+   <stop id="stop1032" offset="0" style="stop-color:#d5d3cf"/>
+   <stop id="stop1034" offset="1" style="stop-color:#f6f5f4"/>
+  </linearGradient>
+  <clipPath id="clipPath4929-3" clipPathUnits="userSpaceOnUse">
+   <circle style="fill:#ad7fa8" cx="908" cy="-2632" r="28" transform="rotate(90)"/>
+  </clipPath>
+  <clipPath id="clipPath4967-7" clipPathUnits="userSpaceOnUse">
+   <circle cx="980" cy="-2702" r="28" transform="rotate(90)" style="fill:#ede3ec"/>
+  </clipPath>
+  <linearGradient id="linearGradient1099" x1="32" x2="96" y1="236" y2="236" gradientTransform="translate(171.99999,-299.99999)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1036"/>
+  <radialGradient id="radialGradient1103" cx="-244" cy="-76" r="32" fx="-244" fy="-76" gradientTransform="matrix(0.88333331,0,0,0.88333331,-27.533334,-7.4666741)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1069"/>
+  <linearGradient id="linearGradient1027" x1="64" x2="64" y1="262.5" y2="232" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1025"/>
+ </defs>
+ <g id="layer1" transform="translate(0,-172)">
+  <g style="display:none" id="layer2">
+   <text id="context" x="7.91" y="145.35" xml:space="preserve" style="font-size:11.77367783px;line-height:125%;font-family:Cantarell">
+    <tspan id="tspan2716" x="7.91" y="145.35">apps</tspan>
+   </text>
+   <text style="font-weight:bold;font-size:11.77367783px;line-height:125%;font-family:Cantarell" id="text3021" x="7.53" y="161.95" xml:space="preserve">
+    <tspan id="tspan3023" x="7.53" y="161.95">org.gnome.Settings</tspan>
+   </text>
+   <rect width="128" height="128" x="0" y="172" style="fill:#f0f0f0"/>
+   <g transform="matrix(0.25,0,0,0.25,-9.3066406e-6,224.99999)" style="enable-background:new">
+    <rect style="opacity:0.1;fill:#2864b0" width="320" height="448" x="96" y="-180" rx="32" ry="32"/>
+    <rect style="opacity:0.1;fill:#2864b0" width="416" height="416" x="48" y="-164" rx="32" ry="32"/>
+    <rect style="opacity:0.1;fill:#2864b0" width="448" height="320" x="32" y="-116" rx="32" ry="32"/>
+    <circle style="opacity:0.1;fill:#2864b0" cx="256" cy="44" r="240"/>
+   </g>
+  </g>
+  <g id="layer9">
+   <g transform="translate(140,2)" style="fill:#77767b">
+    <rect width="24" height="24" x="-88" y="176" rx="8" ry="8" style="fill:#77767b"/>
+    <rect style="fill:#77767b" width="24" height="24" x="-88" y="272" rx="8" ry="8"/>
+    <rect style="fill:#77767b" width="24" height="24" x="-232.62" y="53.14" rx="8" ry="8" transform="rotate(-45)"/>
+    <rect width="24" height="24" x="-232.62" y="149.14" rx="8" ry="8" transform="rotate(-45)" style="fill:#77767b"/>
+    <rect width="24" height="24" x="-248" y="-136" rx="8" ry="8" transform="rotate(-90)" style="fill:#77767b"/>
+    <rect style="fill:#77767b" width="24" height="24" x="-248" y="-40" rx="8" ry="8" transform="rotate(-90)"/>
+    <rect style="fill:#77767b" width="24" height="24" x="-125.14" y="-280.62" rx="8" ry="8" transform="rotate(-135)"/>
+    <rect width="24" height="24" x="-125.14" y="-184.62" rx="8" ry="8" transform="rotate(-135)" style="fill:#77767b"/>
+   </g>
+   <g style="fill:#f6f5f4" transform="translate(140)">
+    <rect style="fill:#f6f5f4" width="24" height="24" x="-88" y="176" rx="8" ry="8"/>
+    <rect width="24" height="24" x="-88" y="272" rx="8" ry="8" style="fill:#f6f5f4"/>
+    <rect width="24" height="24" x="-232.62" y="53.14" rx="8" ry="8" transform="rotate(-45)" style="fill:#f6f5f4"/>
+    <rect style="fill:#f6f5f4" width="24" height="24" x="-232.62" y="149.14" rx="8" ry="8" transform="rotate(-45)"/>
+    <rect style="fill:#f6f5f4" width="24" height="24" x="-248" y="-136" rx="8" ry="8" transform="rotate(-90)"/>
+    <rect width="24" height="24" x="-248" y="-40" rx="8" ry="8" transform="rotate(-90)" style="fill:#f6f5f4"/>
+    <rect width="24" height="24" x="-125.14" y="-280.62" rx="8" ry="8" transform="rotate(-135)" style="fill:#f6f5f4"/>
+    <rect style="fill:#f6f5f4" width="24" height="24" x="-125.14" y="-184.62" rx="8" ry="8" transform="rotate(-135)"/>
+   </g>
+   <ellipse style="fill:none;stroke:url(#linearGradient1027);stroke-width:24" id="ellipse1093" cx="64" cy="238" rx="36" ry="36"/>
+   <ellipse cx="64" cy="236" rx="38" ry="38" style="fill:none;stroke:#f6f5f4;stroke-width:20.00000191"/>
+   <circle cx="-236" cy="-64" r="26.5" transform="matrix(0,-1,-1,0,0,0)" style="fill:none;stroke:url(#radialGradient1103);stroke-width:5;stroke-linecap:square;stroke-linejoin:round"/>
+   <circle style="fill:none;stroke:url(#linearGradient1099);stroke-width:7.99999905;stroke-linecap:square;stroke-linejoin:round" cx="236" cy="-64" r="32" transform="rotate(90)"/>
+  </g>
+ </g>
+</svg>

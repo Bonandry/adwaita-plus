@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="enable-background:new" width="128" height="128" version="1.0" viewBox="0 0 128 128">
+ <title id="title4162">
+  Adwaita Icon Template
+ </title>
+ <defs>
+  <linearGradient id="linearGradient1494">
+   <stop id="stop1490" offset="0" style="stop-color:#babdb6"/>
+   <stop id="stop1492" offset="1" style="stop-color:#babdb6;stop-opacity:0"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1496" x1="280" x2="280" y1="172" y2="20" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1494"/>
+  <linearGradient id="linearGradient1329" x1="11.823" x2="115.82" y1="268" y2="268" gradientUnits="userSpaceOnUse">
+   <stop id="stop1345" offset="0" style="stop-color:#986a44"/>
+   <stop id="stop1347" offset=".029" style="stop-color:#cdab8f"/>
+   <stop id="stop1349" offset=".058" style="stop-color:#b5835a"/>
+   <stop id="stop1351" offset=".942" style="stop-color:#b5835a"/>
+   <stop id="stop1353" offset=".971" style="stop-color:#cdab8f"/>
+   <stop id="stop1355" offset="1" style="stop-color:#986a44"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1610" x1="70.586" x2="60" y1="53.255" y2="23" gradientTransform="translate(0,170)" gradientUnits="userSpaceOnUse">
+   <stop id="stop1652" offset="0" style="stop-color:#fff"/>
+   <stop id="stop1654" offset="1" style="stop-color:#deddda"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1612" x1="60" x2="68" y1="268" y2="268" gradientUnits="userSpaceOnUse">
+   <stop id="stop1258" offset="0" style="stop-color:#949390"/>
+   <stop id="stop1260" offset=".083" style="stop-color:#d5d3cf"/>
+   <stop id="stop1262" offset=".167" style="stop-color:#949390"/>
+   <stop id="stop1264" offset=".833" style="stop-color:#949390"/>
+   <stop id="stop1266" offset=".917" style="stop-color:#d5d3cf"/>
+   <stop id="stop1268" offset="1" style="stop-color:#949390"/>
+  </linearGradient>
+ </defs>
+ <g id="layer1" transform="translate(0,-172)">
+  <g id="layer9">
+   <rect style="fill:#b5835a" width="104" height="44" x="12" y="244" rx="8" ry="8"/>
+   <rect style="fill:#cdab8f" width="104" height="88" x="12" y="192"/>
+   <g style="fill:#050505">
+    <circle style="fill:#050505" cx="50" cy="201" r="5"/>
+    <circle cx="78" cy="201" r="5" style="fill:#050505"/>
+   </g>
+   <path d="m 50,200 v -8 c 0,-7.756 6.244,-14 14,-14 7.756,0 14,6.244 14,14 v 8" style="fill:none;stroke:#b5835a;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"/>
+   <path style="fill:#3d3d3d" d="m 64,216 a 20,20.000002 0 0 0 -20,20 20,20.000002 0 0 0 20,20 20,20.000002 0 0 0 20,-20 20,20.000002 0 0 0 -20,-20 z m -8,10 a 1.9999997,2 0 0 1 2,2 1.9999997,2 0 0 1 -2,2 1.9999997,2 0 0 1 -2,-2 1.9999997,2 0 0 1 2,-2 z m 8,0 a 1.9999997,2 0 0 1 2,2 1.9999997,2 0 0 1 -2,2 1.9999997,2 0 0 1 -2,-2 1.9999997,2 0 0 1 2,-2 z m 8,0 a 1.9999997,2 0 0 1 2,2 1.9999997,2 0 0 1 -2,2 1.9999997,2 0 0 1 -2,-2 1.9999997,2 0 0 1 2,-2 z m -16,8 a 1.9999997,2 0 0 1 2,2 1.9999997,2 0 0 1 -2,2 1.9999997,2 0 0 1 -2,-2 1.9999997,2 0 0 1 2,-2 z m 8,0 a 1.9999997,2 0 0 1 2,2 1.9999997,2 0 0 1 -2,2 1.9999997,2 0 0 1 -2,-2 1.9999997,2 0 0 1 2,-2 z m 8,0 a 1.9999997,2 0 0 1 2,2 1.9999997,2 0 0 1 -2,2 1.9999997,2 0 0 1 -2,-2 1.9999997,2 0 0 1 2,-2 z m -16,8 a 1.9999997,2 0 0 1 2,2 1.9999997,2 0 0 1 -2,2 1.9999997,2 0 0 1 -2,-2 1.9999997,2 0 0 1 2,-2 z m 8,0 a 1.9999997,2 0 0 1 2,2 1.9999997,2 0 0 1 -2,2 1.9999997,2 0 0 1 -2,-2 1.9999997,2 0 0 1 2,-2 z m 8,0 a 1.9999997,2 0 0 1 2,2 1.9999997,2 0 0 1 -2,2 1.9999997,2 0 0 1 -2,-2 1.9999997,2 0 0 1 2,-2 z"/>
+  </g>
+ </g>
+</svg>

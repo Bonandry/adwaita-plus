@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="enable-background:new" width="128" height="128" version="1.0" viewBox="0 0 128 128">
+ <title id="title4162">
+  Adwaita Icon Template
+ </title>
+ <defs>
+  <linearGradient id="linearGradient1093">
+   <stop id="stop1089" offset="0" style="stop-color:#f6d32d"/>
+   <stop id="stop1091" offset="1" style="stop-color:#f9f06b"/>
+  </linearGradient>
+  <linearGradient id="linearGradient2619">
+   <stop style="stop-color:#c4a000" id="stop2615" offset="0"/>
+   <stop style="stop-color:#edd400;stop-opacity:0" id="stop2617" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1171">
+   <stop id="stop1165" offset="0" style="stop-color:#40494c"/>
+   <stop style="stop-color:#232829" id="stop1167" offset=".572"/>
+   <stop id="stop1169" offset="1" style="stop-color:#000000"/>
+  </linearGradient>
+  <radialGradient id="radialGradient1073" cx="280" cy="16.275" r="160" fx="280" fy="16.275" gradientTransform="matrix(1,0,0,1.1758925,0,-118.6378)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient2619"/>
+  <radialGradient id="radialGradient1075" cx="265.282" cy="65.436" r="56" fx="265.282" fy="65.436" gradientTransform="matrix(1.3372396,0.35831226,-0.35833822,1.3373363,-60.03431,-112.79804)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1171"/>
+  <linearGradient id="linearGradient1095" x1="99.846" x2="431.139" y1="91.301" y2="91.301" gradientTransform="translate(-246.01698,-371.37682)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1093"/>
+ </defs>
+ <g id="layer1" transform="translate(0,-172)">
+  <g id="layer9">
+   <rect width="104" height="104" x="12" y="184" rx="8" ry="8" style="fill:#5e5c64"/>
+   <circle cx="64" cy="236" r="60" style="fill:#5e5c64"/>
+   <g transform="matrix(0.26562505,0,0,0.26562505,-10.395244,230.82553)" style="enable-background:new">
+    <ellipse id="ellipse1049" cx="280.076" cy="19.474" rx="195.765" ry="195.771"/>
+    <ellipse style="fill:#2a2a3b" id="ellipse1051" cx="280.076" cy="19.475" rx="180.706" ry="180.712"/>
+    <ellipse id="ellipse1053" cx="19.475" cy="-280.076" rx="165.647" ry="165.653" transform="rotate(90)" style="fill:url(#linearGradient1095)"/>
+    <circle cx="280" cy="20.006" r="0" style="fill:url(#radialGradient1073)"/>
+    <ellipse id="ellipse1057" cx="280.076" cy="19.475" rx="75.294" ry="75.299"/>
+    <ellipse id="ellipse1059" cx="265.491" cy="91.306" rx="60.235" ry="60.239" transform="rotate(-15)" style="fill:url(#radialGradient1075)"/>
+   </g>
+   <path d="m 24.000056,278 a 1.9999996,2.0364742 0 0 1 -2,2.03648 1.9999996,2.0364742 0 0 1 -2,-2.03648 1.9999996,2.0364742 0 0 1 2,-2.03647 1.9999996,2.0364742 0 0 1 2,2.03647 z m 84.000004,0 a 1.9999996,2.0364742 0 0 1 -2,2.03648 1.9999996,2.0364742 0 0 1 -2,-2.03648 1.9999996,2.0364742 0 0 1 2,-2.03647 1.9999996,2.0364742 0 0 1 2,2.03647 z m 0,-84.00001 a 1.9999996,2.0364742 0 0 1 -2,2.03648 1.9999996,2.0364742 0 0 1 -2,-2.03648 1.9999996,2.0364742 0 0 1 2,-2.03647 1.9999996,2.0364742 0 0 1 2,2.03647 z m -84.000004,0 a 1.9999996,2.0364742 0 0 1 -2,2.03648 1.9999996,2.0364742 0 0 1 -2,-2.03648 1.9999996,2.0364742 0 0 1 2,-2.03647 1.9999996,2.0364742 0 0 1 2,2.03647 z"/>
+  </g>
+ </g>
+</svg>

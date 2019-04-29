@@ -1,13 +1,13 @@
 [Icon Theme]
-Name=Suru++ Ubuntu
+Name=GNOME++
 
-Comment=Third-party icons theme based on Sam Hewitt's Suru icons theme
+Comment=An elegant, flat and modern third-party icons based on Adwaita icons by GNOME Project
 
 DisplayDepth=32
 Encoding=UTF-8
 Example=folder
 
-Inherits=Suru
+Inherits=Suru,Suru++-Ubuntu,gnome,hicolor
 
 DesktopDefault=48
 DesktopSizes=16,22,32,48,64,128,256

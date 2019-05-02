@@ -1,9 +1,9 @@
-dist: xenial
+dist: disco
 sudo: required
 language: generic
 
 branches:
-    - master
+    - beta
 notifications:
   email:
     recipients:

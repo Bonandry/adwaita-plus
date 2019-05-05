@@ -1,10 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
- <g fill="#241f31" transform="translate(-152 -420)">
-  <rect width="14" height="1" x="153" y="421" color="#241f31" overflow="visible"/>
-  <rect width="8" height="1" x="153" y="424" color="#241f31" overflow="visible"/>
-  <rect width="8" height="1" x="153" y="430" color="#241f31" overflow="visible"/>
-  <rect width="14" height="1" x="153" y="433" color="#241f31" overflow="visible"/>
-  <rect width="8" height="1" x="153" y="427" color="#241f31" overflow="visible"/>
-  <path d="M167.001 430l-.001-5c-.76.348-1.535.737-2.323 1.166-.78.431-1.534.876-2.259 1.334.725.449 1.478.889 2.26 1.32.788.43 1.562.823 2.323 1.18z" color="#000" overflow="visible"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg7384" width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata id="metadata90">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>Gnome Symbolic Icon Theme</dc:title>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <title id="title9167">Gnome Symbolic Icon Theme</title>
+ <g id="layer12" transform="translate(-141 -827)">
+  <rect id="rect8526" transform="scale(-1,1)" x="-148" y="830" width="5" height="2.0002" style="color:#241f31;fill:#241f31"/>
+  <rect id="rect8528" transform="scale(-1,1)" x="-149" y="834" width="6" height="2.0002" style="color:#241f31;fill:#241f31"/>
+  <rect id="rect8530" transform="scale(-1,1)" x="-155" y="838" width="6.9996" height="2.0002" style="color:#241f31;fill:#241f31"/>
+  <path id="path8532" d="m155 830v1c0 0.25689-0.12983 0.52846-0.3125 0.71875l-1.2812 1.2812 1.2812 1.2812c0.18267 0.19029 0.3125 0.46186 0.3125 0.71875v1h-1c-0.30945 0-0.55232-0.0903-0.75-0.28125l-2.6562-2.7188 2.6562-2.7188c0.19768-0.19095 0.44055-0.28125 0.75-0.28125h1z" style="block-progression:tb;color:#241f31;fill:#241f31;text-indent:0;text-transform:none"/>
  </g>
 </svg>

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version='1.0' encoding='UTF-8' standalone='no'?>
 <svg xmlns:cc='http://creativecommons.org/ns#' xmlns:dc='http://purl.org/dc/elements/1.1/' height='16' id='svg7384' xmlns:osb='http://www.openswatchbook.org/uri/2009/osb' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:svg='http://www.w3.org/2000/svg' version='1.1' width='16.049549' xmlns='http://www.w3.org/2000/svg'>
   <metadata id='metadata20854'>
@@ -27,4 +28,27 @@
   <g id='layer3' style='display:inline' transform='translate(-512,-60)'/>
   <g id='g6217' transform='translate(-512,-60)'/>
   <g id='layer1' transform='translate(-512,-60)'/>
+=======
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16.002" version="1.1">
+ <title id="title9167">
+  Gnome Symbolic Icon Theme
+ </title>
+ <defs>
+  <clipPath id="clipPath6810-7-87" clipPathUnits="userSpaceOnUse">
+   <rect width="14" height="11" x="21" y="281" style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"/>
+  </clipPath>
+ </defs>
+ <g id="layer9" transform="translate(-181,-197)">
+  <rect width="5" height="10.013" x="184" y="197.99" rx="2.5" ry="2.5" style="fill:#241f31"/>
+  <path d="m 27.96875,273.625 c -2.502477,0 -4.53125,2.02877 -4.53125,4.53125 l 0,5.8125 c 0,2.50248 2.028773,4.53125 4.53125,4.53125 2.502477,0 4.53125,-2.02877 4.53125,-4.53125 l 0,-5.8125 c 0,-2.50248 -2.028773,-4.53125 -4.53125,-4.53125 z m 0,1 c 1.964148,0 3.53125,1.5671 3.53125,3.53125 l 0,5.8125 c 0,1.96415 -1.567102,3.53125 -3.53125,3.53125 -1.964148,0 -3.53125,-1.5671 -3.53125,-3.53125 l 0,-5.8125 c 0,-1.96415 1.567102,-3.53125 3.53125,-3.53125 z" clip-path="url(#clipPath6810-7-87)" transform="matrix(0.993968,0,0,1,158.7069,-78.486135)" style="fill:#241f31"/>
+  <path d="m 24,361 a 1,1 0 1 1 -2,0 1,1 0 1 1 2,0 z" transform="matrix(0.5,0,0,0.5,171,22)" style="fill:#241f31"/>
+  <path d="m 24,361 a 1,1 0 1 1 -2,0 1,1 0 1 1 2,0 z" transform="matrix(0.5,0,0,0.5,179,22)" style="fill:#241f31"/>
+  <path d="m 182.875,211 a 1.0019512,1.0019512 0 1 0 0.125,2 l 7.03125,0 a 1.0001,1.0001 0 1 0 0,-2 L 183,211 a 1.0001,1.0001 0 0 0 -0.125,0 z" style="fill:#241f31"/>
+  <rect width="9" height="1" x="182" y="212" style="fill:#241f31"/>
+  <rect width="3" height="4" x="185" y="209" style="fill:#241f31"/>
+  <path d="m -186.0625,184.0625 a 1.9375,1.9375 0 1 1 -3.875,0 1.9375,1.9375 0 1 1 3.875,0 z" transform="matrix(1.0322581,0,0,1.0322551,388.06472,20.00054)" style="fill:#241f31"/>
+  <path d="m -186.0625,184.0625 a 1.9375,1.9375 0 1 1 -3.875,0 1.9375,1.9375 0 1 1 3.875,0 z" transform="matrix(1.0322581,0,0,1.0322551,388.06472,15.00054)" style="fill:#241f31"/>
+  <path d="m -186.0625,184.0625 a 1.9375,1.9375 0 1 1 -3.875,0 1.9375,1.9375 0 1 1 3.875,0 z" transform="matrix(1.0322581,0,0,1.0322551,388.06472,10.00054)" style="fill:#241f31"/>
+ </g>
+>>>>>>> f4df92982ddae1fb1c24e8beef3779edd3d688b9
 </svg>

@@ -1,3 +1,13 @@
+<<<<<<< HEAD
 <svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
     <path d="M4.994 1c-1.258.015-2.178-.03-2.931.385a1.88 1.88 0 0 0-.838.998C1.06 2.821 1 3.343 1 4v8c0 .658.06 1.179.225 1.617.165.439.461.789.838.996.753.416 1.673.372 2.931.387h6.004c1.258-.015 2.18.029 2.932-.387.376-.207.673-.557.838-.996.164-.438.224-.96.224-1.617V4c0-.658-.06-1.179-.224-1.617a1.88 1.88 0 0 0-.838-.998c-.753-.416-1.674-.37-2.932-.385H4.994zM8 3c1.654 0 3 1.347 3 3v2h1v5H4V8h1V6c0-1.653 1.347-3 3-3zm0 1c-1.116 0-2 .883-2 2v2h4V6c0-1.117-.883-2-2-2zm1 5l-2 .5V12h2z" fill="gray" font-family="sans-serif" font-weight="400" overflow="visible" style="line-height:normal;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;shape-padding:0;isolation:auto;mix-blend-mode:normal;marker:none" white-space="normal" color="#000"/>
+=======
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
+ <title id="title9167">
+  Gnome Symbolic Icon Theme
+ </title>
+ <g id="layer9" transform="translate(-121 -397)">
+  <path d="m128 399c-1.6447 0-3 1.3553-3 3v2s-1 0-1 1v0.53125 4.4688h10v-4.4688-0.53125s0-1-1-1v-2c0-1.6447-1.3553-3-3-3h-2zm0 2h2c0.5713 0 1 0.4287 1 1v2h-4v-2c0-0.5713 0.4287-1 1-1z" style="fill:#bebebe"/>
+ </g>
+>>>>>>> f4df92982ddae1fb1c24e8beef3779edd3d688b9
 </svg>

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <svg height='16' width='16' xmlns='http://www.w3.org/2000/svg'>
     <g transform='translate(-652 -180)'>
         <path color='#000' d='M659.5 183v5.207l3.146 3.147.708-.708-2.854-2.853V183z' fill='gray' fill-rule='evenodd' font-family='sans-serif' font-weight='400' overflow='visible' style='line-height:normal;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;shape-padding:0;isolation:auto;mix-blend-mode:normal' white-space='normal'/>
@@ -5,4 +6,15 @@
         
         <path d='M660 180a8 8 0 0 0-8 8 8 8 0 0 0 8 8 8 8 0 0 0 8-8 8 8 0 0 0-8-8zm0 1a7 7 0 0 1 7 7 7 7 0 0 1-7 7 7 7 0 0 1-7-7 7 7 0 0 1 7-7z' fill='gray'/>
     </g>
+=======
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
+ <title id="title9167">
+  Gnome Symbolic Icon Theme
+ </title>
+ <g id="layer9" transform="translate(-201.0004,-317)">
+  <path d="m 29,209 a 1,1 0 1 1 -2,0 1,1 0 1 1 2,0 z" transform="matrix(2.000025,0,0,2.000025,147.99952,-93.0052)" style="fill:#241f31"/>
+  <path d="m 29,209 a 1,1 0 1 1 -2,0 1,1 0 1 1 2,0 z" transform="matrix(2,0,0,2,153.00025,-93)" style="fill:#241f31"/>
+  <path d="m 29,209 a 1,1 0 1 1 -2,0 1,1 0 1 1 2,0 z" transform="matrix(2,0,0,2,158.0002,-93)" style="fill:#241f31"/>
+ </g>
+>>>>>>> f4df92982ddae1fb1c24e8beef3779edd3d688b9
 </svg>

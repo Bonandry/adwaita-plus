@@ -1,4 +1,10 @@
 [Icon Theme]
+<<<<<<< HEAD
 Name = GNOME++ Cursor
 Comment = Modern Adwaita-like GNOME++ cursor
 Inherits = Suru, Suru++
+=======
+Name = Suru
+Comment = A Suru-like cursor designed by Sam Hewitt
+Inherits = Suru
+>>>>>>> f4df92982ddae1fb1c24e8beef3779edd3d688b9

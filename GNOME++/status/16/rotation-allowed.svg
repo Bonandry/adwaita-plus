@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version='1.0' encoding='UTF-8' standalone='no'?>
 <svg xmlns:cc='http://creativecommons.org/ns#' xmlns:dc='http://purl.org/dc/elements/1.1/' height='16' id='svg7384' xmlns:osb='http://www.openswatchbook.org/uri/2009/osb' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:svg='http://www.w3.org/2000/svg' version='1.1' width='16.000002' xmlns='http://www.w3.org/2000/svg'>
   <metadata id='metadata20854'>
@@ -34,4 +35,15 @@
     <path d='m 919.63477,340.20117 c 0.29412,0.61561 0.60962,1.23786 0.94921,1.86524 0.34521,0.63022 0.69663,1.22978 1.05469,1.79882 h 0.002 l 0.84571,-1.31835 c 2.1376,0.97329 3.51074,3.10437 3.51367,5.45312 0,2.57192 -1.62071,4.75991 -3.89453,5.61328 l 0.34961,0.93555 C 925.10833,353.55346 927,351.0009 927,348 c -0.003,-2.68877 -1.54515,-5.1384 -3.96875,-6.30273 l 0.76758,-1.19922 c -0.6622,-0.0945 -1.35201,-0.16757 -2.06836,-0.21875 -0.71183,-0.0472 -1.40955,-0.0735 -2.0957,-0.0781 z' id='path6467' style='opacity:1;fill:#241f31;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1'/>
     <path d='m 920,344 c -1.108,0 -2,0.892 -2,2 v 1 h -1 v 4 h 6 v -4 h -1 v -1 c 0,-1.108 -0.892,-2 -2,-2 z m 0,1 c 0.554,0 1,0.446 1,1 v 1 h -2 v -1 c 0,-0.554 0.446,-1 1,-1 z' id='path6469' style='opacity:0.5;fill:#241f31;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1'/>
   </g>
+=======
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16.047" version="1.1">
+ <title id="title9167">
+  Gnome Symbolic Icon Theme
+ </title>
+ <g id="layer9" transform="translate(-181.0002,-356.99158)">
+  <path d="m 187.23452,356.99168 c -0.51426,6.7e-4 -1.02062,0.17688 -1.40625,0.5625 l -4.25,4.25 c -0.77127,0.77127 -0.75662,2.07334 0,2.84375 l 0.47197,0.37332 2.84375,0 -1.90947,-1.81082 4.25,-4.21875 7.71875,7.78125 c 0.0152,0.0154 0.0435,0.0191 0.0312,0.0312 l -4.25,4.25 -1.73537,-1.89921 0,2.8125 0.29787,0.46171 0.0312,0.0312 c 0.77124,0.77124 2.04126,0.77124 2.8125,0 l 4.25,-4.25 c 0.77125,-0.77125 0.76539,-2.04156 0,-2.8125 l -7.75,-7.84375 c -0.38574,-0.38831 -0.89198,-0.56317 -1.40625,-0.5625 z" style="fill:#241f31"/>
+  <path d="m 182.72942,370.00616 2.80909,2.80908 2.81047,-2.81048 z" style="fill:#241f31"/>
+  <path d="m 182.01562,366.01562 0,1 1.42188,0 c 0.47201,0 0.87449,0.14019 1.14648,0.37305 0.272,0.23287 0.43946,0.55123 0.43946,1.04102 l 0,2.24219 1,0 0,-2.24219 c 0,-0.7446 -0.30367,-1.38326 -0.78906,-1.79883 -0.4854,-0.41557 -1.12655,-0.61524 -1.79688,-0.61524 l -1.42188,0 z" style="fill:#241f31"/>
+ </g>
+>>>>>>> f4df92982ddae1fb1c24e8beef3779edd3d688b9
 </svg>

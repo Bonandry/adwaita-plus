@@ -1,3 +1,23 @@
+<<<<<<< HEAD
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
  <path fill="#808080" fill-rule="evenodd" d="M10 1v1h1c.583 0 .737.217.865.473C11.993 2.728 12 3 12 3v10s-.007.272-.135.527c-.128.256-.282.473-.865.473h-1v1h1c.727 0 1.19-.353 1.5-.738.31.385.773.738 1.5.738h1v-1h-1c-.583 0-.737-.217-.865-.473A1.404 1.404 0 0 1 13 13V3s.007-.272.135-.527C13.263 2.217 13.417 2 14 2h1V1h-1c-.727 0-1.19.353-1.5.738C12.19 1.353 11.727 1 11 1zM4.437 3L.876 12.281H0V13h2.813v-.719H1.718l.843-2.187H6.75l.844 2.187H6.5V13h3.625v-.719h-1L5.562 3zm.22 1.625L6.5 9.375H2.844z" font-family="sans-serif" font-weight="400" overflow="visible"/>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg7384" width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata id="metadata90">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>Gnome Symbolic Icon Theme</dc:title>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <title id="title9167">Gnome Symbolic Icon Theme</title>
+ <g id="layer12" transform="translate(-81 -807)">
+  <path id="path7325" d="m92 819h-0.99999c-0.2569 1e-5 -0.52845 0.11786-0.71876 0.28369l-1.2812 1.1631-1.2812-1.1631c-0.19004-0.16606-0.46185-0.28368-0.71877-0.28364h-0.99999l-1e-5 0.90779c0 0.28091 0.09021 0.50137 0.2813 0.68082l2.7187 2.4113 2.7187-2.4113c0.19093-0.17949 0.28126-0.39993 0.28126-0.68084v-0.90778z" style="block-progression:tb;color:#bebebe;fill:#bebebe;text-indent:0;text-transform:none"/>
+  <path id="path7493" d="m85 807v2h6c0.42816 0 1 0.61414 1 1v1h-5c-0.91927 0-1.7356 0.38396-2.25 0.96875s-0.75639 1.3106-0.75 2.0312c0.0064 0.72062 0.26893 1.4527 0.78125 2.0312s1.3105 0.96875 2.2188 0.96875h6 1v-1-6c0-1.6343-1.3198-3-3-3h-6zm2 6h5v2h-5c-0.39787 0-0.56691-0.10979-0.71875-0.28125s-0.27877-0.43937-0.28125-0.71875c-0.0025-0.27938 0.10467-0.55354 0.25-0.71875s0.32764-0.28125 0.75-0.28125z" style="block-progression:tb;color:#000000;fill:#bebebe;text-indent:0;text-transform:none"/>
+ </g>
+>>>>>>> f4df92982ddae1fb1c24e8beef3779edd3d688b9
 </svg>

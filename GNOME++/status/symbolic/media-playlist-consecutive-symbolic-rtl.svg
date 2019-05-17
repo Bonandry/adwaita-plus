@@ -1,3 +1,16 @@
+<<<<<<< HEAD
 <svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
     <path d="M5 1v2h11v1H4.998v2a36.954 36.954 0 0 1-2.322-1.166C1.895 4.404 1.143 3.958.418 3.5c.725-.45 1.477-.89 2.258-1.32C3.464 1.75 4.239 1.357 5 1zm0 9v2h11v1H4.998v2a36.954 36.954 0 0 1-2.322-1.166c-.781-.43-1.533-.876-2.258-1.334.725-.45 1.477-.89 2.258-1.32.788-.43 1.563-.823 2.324-1.18z" style="marker:none" color="#000" overflow="visible" fill="gray"/>
+=======
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
+ <title id="title9167">
+  Gnome Symbolic Icon Theme
+ </title>
+ <g id="layer9" transform="translate(-180.99995,-277)">
+  <path d="m 183,284 0,2 12.96875,0 0,-2 L 183,284 z" style="fill:#bebebe"/>
+  <path d="m 184.875,282 a 1.0001,1.0001 0 0 0 -0.59375,0.28125 l -2,2 -0.6875,0.71875 0.6875,0.71875 2,2 a 1.016466,1.016466 0 1 0 1.4375,-1.4375 L 184.4375,285 l 1.28125,-1.28125 A 1.0001,1.0001 0 0 0 184.875,282 z" style="fill:#bebebe"/>
+  <rect width="1" height="1" x="-186" y="282" transform="scale(-1,1)" style="fill:#bebebe"/>
+  <rect width="1" height="1" x="-186" y="287" transform="scale(-1,1)" style="fill:#bebebe"/>
+ </g>
+>>>>>>> f4df92982ddae1fb1c24e8beef3779edd3d688b9
 </svg>

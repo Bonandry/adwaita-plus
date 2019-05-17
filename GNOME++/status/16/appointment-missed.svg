@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version='1.0' encoding='UTF-8' standalone='no'?>
 <svg xmlns:cc='http://creativecommons.org/ns#' xmlns:dc='http://purl.org/dc/elements/1.1/' height='16.000275' id='svg7384' xmlns:osb='http://www.openswatchbook.org/uri/2009/osb' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:svg='http://www.w3.org/2000/svg' version='1.1' width='16.0002' xmlns='http://www.w3.org/2000/svg'>
   <metadata id='metadata20854'>
@@ -33,4 +34,15 @@
   <g id='layer3' style='display:inline' transform='translate(-911.9998,-199.99973)'/>
   <g id='g1833' style='display:inline' transform='translate(-911.9998,-199.99973)'/>
   <g id='layer1' transform='translate(-911.9998,-199.99973)'/>
+=======
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
+ <title id="title9167">
+  Gnome Symbolic Icon Theme
+ </title>
+ <g id="layer9" transform="translate(-221 -397)">
+  <path d="m227.41 402a0.50005 0.50005 0 0 0-0.40625 0.5v2.5h-1.5a0.50005 0.50005 0 1 0 0 1h2a0.50005 0.50005 0 0 0 0.5-0.5v-3a0.50005 0.50005 0 0 0-0.59375-0.5z" style="fill:#241f31"/>
+  <path d="m232 408h1.375l1.125 1.0938 1.0938-1.0938h1.4062v1.4688l-1.0938 1.0625 1.0938 1.0625v1.4062h-1.4375l-1.0625-1.0625-1.0625 1.0625h-1.4375v-1.4062l1.0625-1.0625-1.0625-1.0625v-1.4688z" style="fill:#241f31"/>
+  <path d="m227.5 399c-3.578 0-6.5 2.922-6.5 6.5s2.922 6.5 6.5 6.5c1.2912 0 2.4851-0.37561 3.5-1.0312v-2.6562c-0.82069 1.0272-2.071 1.6875-3.5 1.6875-2.4971 0-4.5-2.0029-4.5-4.5 0-2.4971 2.0029-4.5 4.5-4.5 2.4971 0 4.5 2.0029 4.5 4.5 0 0.53296-0.11393 1.0272-0.28125 1.5h2.0938c0.11483-0.48186 0.1875-0.98435 0.1875-1.5 0-3.578-2.922-6.5-6.5-6.5z" style="fill:#241f31"/>
+ </g>
+>>>>>>> f4df92982ddae1fb1c24e8beef3779edd3d688b9
 </svg>

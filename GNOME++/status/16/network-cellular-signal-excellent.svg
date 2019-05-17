@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version='1.0' encoding='UTF-8' standalone='no'?>
 <svg xmlns:cc='http://creativecommons.org/ns#' xmlns:dc='http://purl.org/dc/elements/1.1/' height='16' id='svg7384' xmlns:osb='http://www.openswatchbook.org/uri/2009/osb' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:svg='http://www.w3.org/2000/svg' version='1.1' width='15.999999' xmlns='http://www.w3.org/2000/svg'>
   <metadata id='metadata20854'>
@@ -24,4 +25,16 @@
   <g id='layer2' transform='translate(-511.99998,-79.999939)'/>
   <g id='layer3' transform='translate(-511.99998,-79.999939)'/>
   <g id='layer1' transform='translate(-511.99998,-79.999939)'/>
+=======
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
+ <title id="title9167">
+  Gnome Symbolic Icon Theme
+ </title>
+ <g id="layer9" transform="translate(-41 -257)">
+  <path d="m53 257v1.5 12 1.5h3v-1.5-12-1.5h-3z" style="fill-rule:evenodd;fill:#241f31"/>
+  <path d="m49 260v1.5 9 1.5h3v-1.5-9-1.5h-3z" style="fill-rule:evenodd;fill:#241f31"/>
+  <path d="m45 263v1.5 6 1.5h3v-1.5-6-1.5h-3z" style="fill-rule:evenodd;fill:#241f31"/>
+  <path d="m41 266v1.5 3 1.5h3v-1.5-3-1.5h-3z" style="fill-rule:evenodd;fill:#241f31"/>
+ </g>
+>>>>>>> f4df92982ddae1fb1c24e8beef3779edd3d688b9
 </svg>

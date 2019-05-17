@@ -1,6 +1,18 @@
+<<<<<<< HEAD
 <svg width="16" height="16" xmlns="http://www.w3.org/2000/svg">
  <g fill="gray">
   <path d="m8 16a8 8 0 0 1-8-8 8 8 0 0 1 8-8 8 8 0 0 1 8 8 8 8 0 0 1-8 8zm0-1a7 7 0 0 0 7-7 7 7 0 0 0-7-7 7 7 0 0 0-7 7 7 7 0 0 0 7 7z"/>
   <path d="M8 3.75c-.386 0-.69.124-.914.373A1.27 1.27 0 0 0 6.75 5c0 .336.112.628.336.877.224.249.528.373.914.373s.69-.124.914-.373A1.27 1.27 0 0 0 9.25 5a1.27 1.27 0 0 0-.336-.877C8.69 3.874 8.386 3.75 8 3.75zM7 7v5h2V7z" font-family="Ubuntu" font-weight="400" letter-spacing="0" word-spacing="0"/>
+=======
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
+ <title id="title9167">
+  Gnome Symbolic Icon Theme
+ </title>
+ <g id="layer9" transform="translate(-261 -257)">
+  <path d="m269 257c-2.7496 0-5 2.2504-5 5 0 1.5862 0.84459 2.9034 2 3.8125v2.1875 1h1 4 1v-1-2.1875c1.1554-0.90914 2-2.2263 2-3.8125 0-2.7496-2.2504-5-5-5zm0 2c1.6687 0 3 1.3313 3 3 0 1.1158-0.59507 2.0379-1.5 2.5625l-0.5 0.3125v0.5625 1.5625h-2v-1.5625-0.5625l-0.5-0.3125c-0.90493-0.52462-1.5-1.4466-1.5-2.5625 0-1.6687 1.3313-3 3-3z" style="fill:#241f31"/>
+  <path d="m267 272v1h4v-1h-4z" style="fill:#241f31"/>
+  <path d="m266 270v1h6v-1h-6z" style="fill:#241f31"/>
+  <path d="m268 262v1h2v-1h-2z" style="fill:#241f31;opacity:.35"/>
+>>>>>>> f4df92982ddae1fb1c24e8beef3779edd3d688b9
  </g>
 </svg>

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version='1.0' encoding='UTF-8' standalone='no'?>
 <svg xmlns:cc='http://creativecommons.org/ns#' xmlns:dc='http://purl.org/dc/elements/1.1/' height='16' id='svg7384' xmlns:osb='http://www.openswatchbook.org/uri/2009/osb' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:svg='http://www.w3.org/2000/svg' version='1.1' width='16.000061' xmlns='http://www.w3.org/2000/svg'>
   <metadata id='metadata20854'>
@@ -27,4 +28,17 @@
     <path d='m 557.00001,380 10e-4,5 c 0.76044,-0.34766 1.53457,-0.73665 2.32276,-1.1664 0.78078,-0.43079 1.53391,-0.8751 2.25893,-1.33339 -0.72502,-0.44911 -1.47815,-0.88917 -2.25893,-1.31996 -0.78861,-0.42999 -1.5632,-0.82331 -2.32404,-1.18025 z' id='path8907' style='color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#241f31;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.99940634;marker:none;enable-background:accumulate'/>
     <path d='m 558.11688,386.24675 c 0.16739,-0.0693 0.34055,-0.14718 0.51948,-0.23376 0.18471,-0.0924 0.36364,-0.19048 0.5368,-0.29438 0.17316,-0.10967 0.33766,-0.22222 0.49351,-0.33766 0.16161,-0.12121 0.30591,-0.2482 0.4329,-0.38095 H 561 v 6 h -1 v -4.6518 c -0.4484,0.34643 -1.01209,0.56553 -1.49351,0.76164 z' id='path8915' style='font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:medium;line-height:1000%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#241f31;fill-opacity:1;stroke:none;stroke-width:4.62000036px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1'/>
   </g>
+=======
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
+ <title id="title9167">
+  Gnome Symbolic Icon Theme
+ </title>
+ <g id="layer9" transform="translate(-60.99995,-277)">
+  <path d="m 70.875,286 a 1.0001,1.0001 0 0 0 -0.59375,0.28125 l -2,2 -0.6875,0.71875 0.6875,0.71875 2,2 a 1.016466,1.016466 0 1 0 1.4375,-1.4375 L 70.4375,289 71.71875,287.71875 A 1.0001,1.0001 0 0 0 70.875,286 z" style="fill:#241f31"/>
+  <path d="m 62.0002,286.00549 0,0.99451 c 0,1.6447 1.355297,3 3,3 l 1,0 0,-2 -1,0 c -0.571297,0 -1,-0.4287 -1,-1 l 0,-0.98346 z M 70.007523,282 73.0002,282 c 0.571297,0 1,0.4287 1,1 l 0,4 c 0,0.5713 -0.428703,1 -1,1 l -4,0 0,2 4,0 c 1.644703,0 3,-1.3553 3,-3 l 0,-4 c 0,-1.6447 -1.355297,-3 -3,-3 l -2.981628,0 z" style="fill:#241f31"/>
+  <rect width="1" height="1" x="71" y="286" style="fill:#241f31"/>
+  <rect width="1" height="1" x="71" y="291" style="fill:#241f31"/>
+  <path d="m 65.0002,277 c -2.209143,0 -4,1.79086 -4,4 0,2.20915 1.790857,4 4,4 2.209143,0 4,-1.79085 4,-4 0,-2.20914 -1.790857,-4 -4,-4 z m -1,2 2,0 0,4 -2,0 0,-2 -1,0 0,-1 z" style="fill:#241f31"/>
+ </g>
+>>>>>>> f4df92982ddae1fb1c24e8beef3779edd3d688b9
 </svg>

@@ -1,5 +1,15 @@
+<<<<<<< HEAD
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
  <g fill="#241f31">
   <path d="M2 9v1h12V9zM3 3v2h4v3h2V5h4V3zm4 8v3h2v-3z"/>
+=======
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
+ <title id="title9167">
+  Gnome Symbolic Icon Theme
+ </title>
+ <g id="layer12" transform="translate(-200 -706)">
+  <path d="m204 709v2h6c0.42816 0 1 0.61414 1 1h2c0-1.6343-1.3198-3-3-3h-6zm-1 7c6e-3 0.72062 0.26893 1.4527 0.78125 2.0312s1.3105 0.96875 2.2188 0.96875h6 1v-1-2h-2v1h-5c-0.39787 0-0.56691-0.10979-0.71875-0.28125s-0.27877-0.43937-0.28125-0.71875h-2z" style="fill:#241f31"/>
+  <path d="m201 713v2h14v-2h-14z" style="fill:#241f31"/>
+>>>>>>> f4df92982ddae1fb1c24e8beef3779edd3d688b9
  </g>
 </svg>

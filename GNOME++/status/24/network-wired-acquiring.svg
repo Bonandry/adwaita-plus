@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
@@ -112,4 +113,19 @@
        style="display:block;fill-opacity:1;fill:#241f31"
        id="rect16" />
   </g>
+=======
+<svg xmlns="http://www.w3.org/2000/svg" width="16.04" height="16" version="1.1">
+ <title id="title2">
+  Gnome Symbolic Icon Theme
+ </title>
+ <g style="fill:#241f31" transform="translate(-260.98 -177)">
+  <rect style="fill:#241f31;opacity:0.35" width="5.016" height="4.972" x="260.98" y="187.99"/>
+  <rect style="fill:#241f31;opacity:0.35" width="5.016" height="4.972" x="266" y="178.03"/>
+  <rect style="fill:#241f31;opacity:0.35" width="5.016" height="4.972" x="272" y="188.03"/>
+  <rect style="display:block;fill:#241f31" width="2.992" height="2.997" x="263.02" y="184.04" rx="1.496" ry="1.496"/>
+  <rect style="display:block;fill:#241f31" width="2.992" height="2.997" x="267.02" y="184.04" rx="1.496" ry="1.496"/>
+  <rect style="display:block;fill:#241f31" width="2.992" height="2.997" x="267.02" y="184.04" rx="1.496" ry="1.496"/>
+  <rect style="display:block;fill:#241f31" width="2.992" height="2.997" x="271.02" y="184.04" rx="1.496" ry="1.496"/>
+ </g>
+>>>>>>> f4df92982ddae1fb1c24e8beef3779edd3d688b9
 </svg>

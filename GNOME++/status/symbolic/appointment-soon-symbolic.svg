@@ -1,4 +1,16 @@
+<<<<<<< HEAD
 <svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
     <path d="M6 0L5 .25V1h1zm0 1v1H5V1c-1.258.015-2.179-.03-2.931.385-.377.208-.676.56-.84.998-.165.439-.223.96-.223 1.617v8c0 .658.058 1.179.223 1.617.164.44.463.789.84.997.752.415 1.673.372 2.931.386h3.004v-1H5c-1.26-.014-2.087-.06-2.453-.261-.183-.102-.29-.213-.387-.473C2.062 13.006 2 12.593 2 12V7c0-.592.063-1.005.16-1.265.098-.26.204-.372.387-.473.367-.202 1.195-.247 2.459-.262H11c1.26.015 2.087.06 2.453.262.184.101.29.213.387.473C13.938 5.995 14 7 14 7v2h1V4c0-.657-.06-1.178-.225-1.617a1.88 1.88 0 0 0-.837-.998c-.753-.415-1.674-.37-2.932-.385v1h-1V1zm4 0h1V0l-1 .25z" style="line-height:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;isolation:auto;mix-blend-mode:normal;marker:none" color="#000" font-weight="400" font-family="sans-serif" white-space="normal" overflow="visible" fill="gray"/>
     <path class="warning" d="M12.48 9.729a.443.443 0 0 0-.36.22l-3.061 5.397a.437.437 0 0 0 .379.654h6.125a.437.437 0 0 0 .379-.654l-3.059-5.397a.442.442 0 0 0-.402-.22zM12 11h1v.168c0 .349-.016.668-.047.957-.03.29-.069.581-.115.875h-.666a12.898 12.898 0 0 1-.125-.875 9.146 9.146 0 0 1-.047-.957zm.5 3a.5.5 0 1 1 0 1 .5.5 0 0 1 0-1z" style="line-height:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;isolation:auto;mix-blend-mode:normal" color="#000" font-weight="400" font-family="sans-serif" white-space="normal" overflow="visible" fill="#fdc92b" fill-rule="evenodd"/>
+=======
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
+ <title id="title9167">
+  Gnome Symbolic Icon Theme
+ </title>
+ <g id="layer9" transform="translate(-161.0002,-397)">
+  <path d="m 167.5002,397 c -3.578,0 -6.5,2.92199 -6.5,6.5 0,3.57801 2.922,6.5 6.5,6.5 0.1705,0 0.33269,-0.0182 0.5,-0.0312 l 0,-2.03125 c -0.16732,0.0186 -0.32741,0.0625 -0.5,0.0625 -2.49712,0 -4.5,-2.00288 -4.5,-4.5 0,-2.49712 2.00288,-4.5 4.5,-4.5 2.49712,0 4.5,2.00288 4.5,4.5 0,0.1726 -0.0439,0.33268 -0.0625,0.5 l 2.03125,0 c 0.013,-0.16731 0.0312,-0.3295 0.0312,-0.5 0,-3.57801 -2.922,-6.5 -6.5,-6.5 z" style="fill:#bebebe"/>
+  <path d="M 167.40625,400 A 0.50005,0.50005 0 0 0 167,400.5 l 0,2.5 -1.5,0 a 0.50005,0.50005 0 1 0 0,1 l 2,0 a 0.50005,0.50005 0 0 0 0.5,-0.5 l 0,-3 a 0.50005,0.50005 0 0 0 -0.59375,-0.5 z" style="fill:#bebebe"/>
+  <path class="warning" d="m 169.8752,405.06918 c -0.49245,0 -0.875,0.37924 -0.875,0.8674 l 0,6.19571 c 0,0.48816 0.38255,0.8674 0.875,0.8674 l 6.25,0 c 0.49245,0 0.875,-0.37924 0.875,-0.8674 l 0,-6.19571 c 0,-0.48816 -0.38255,-0.8674 -0.875,-0.8674 l -6.25,0 z m 2.125,0.99131 2,0 0,3.96526 -2,0 0,-3.96526 z m 0,4.95657 2,0 0,0.99132 -2,0 0,-0.99132 z" style="fill:#f57900"/>
+ </g>
+>>>>>>> f4df92982ddae1fb1c24e8beef3779edd3d688b9
 </svg>

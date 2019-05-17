@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version='1.0' encoding='UTF-8' standalone='no'?>
 <svg xmlns:cc='http://creativecommons.org/ns#' xmlns:dc='http://purl.org/dc/elements/1.1/' height='16' id='svg7384' xmlns:osb='http://www.openswatchbook.org/uri/2009/osb' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:svg='http://www.w3.org/2000/svg' version='1.1' width='16.000061' xmlns='http://www.w3.org/2000/svg'>
   <metadata id='metadata20854'>
@@ -25,4 +26,16 @@
     
     <path d='m 603,381 v 2 h -11 v 1 h 11 0.002 v 2 c 0.76044,-0.34766 1.53408,-0.73627 2.32227,-1.16602 0.78078,-0.43079 1.53279,-0.87569 2.25781,-1.33398 -0.72502,-0.44911 -1.47703,-0.88952 -2.25781,-1.32031 C 604.53561,381.7497 603.76084,381.35694 603,381 Z m 0,9 v 2 h -11 v 1 h 11 0.002 v 2 c 0.76044,-0.34766 1.53408,-0.73627 2.32227,-1.16602 0.78078,-0.43079 1.53279,-0.87569 2.25781,-1.33398 -0.72502,-0.44911 -1.47703,-0.88952 -2.25781,-1.32031 C 604.53561,390.7497 603.76084,390.35694 603,390 Z' id='path9092' style='color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#241f31;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.99940634;marker:none;enable-background:accumulate'/>
   </g>
+=======
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
+ <title id="title9167">
+  Gnome Symbolic Icon Theme
+ </title>
+ <g id="layer9" transform="translate(-101 -277)">
+  <path d="m102.03 284v2h12.969v-2h-12.969z" style="fill:#241f31"/>
+  <path d="m112.78 282a1.0001 1.0001 0 0 0-0.5 1.7188l1.2812 1.2812-1.2812 1.2812a1.0165 1.0165 0 1 0 1.4375 1.4375l2-2 0.6875-0.71875-0.6875-0.71875-2-2a1.0001 1.0001 0 0 0-0.9375-0.28125z" style="fill:#241f31"/>
+  <rect width="1" height="1" x="112" y="282" style="fill:#241f31"/>
+  <rect width="1" height="1" x="112" y="287" style="fill:#241f31"/>
+ </g>
+>>>>>>> f4df92982ddae1fb1c24e8beef3779edd3d688b9
 </svg>

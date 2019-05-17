@@ -1,8 +1,26 @@
+<<<<<<< HEAD
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
  <g style="fill:#241f31">
   <path d="M14 5V3h-2.002z" overflow="visible" style="fill:#241f31"/>
   <path d="M2 7v8h9v-1H3V6.333zm11.002-1L13 15h1V7z" font-family="Ubuntu" font-size="15" font-weight="400" letter-spacing="0" text-anchor="middle" word-spacing="0" style="fill:#241f31"/>
   <path d="M8 8.986a8.47 8.47 0 0 1 .607-.122 5.24 5.24 0 0 1 .872-.064c.295 0 .54.043.735.129.195.08.35.197.465.35.119.147.202.326.25.535.047.21.071.44.071.693V14.2H8z" font-family="Ubuntu" font-weight="400" letter-spacing="0" text-anchor="end" word-spacing="0" style="fill:#241f31"/>
   <path fill-rule="evenodd" d="M8 .293L.146 8.146l.708.708L8 1.707l7.146 7.147.708-.708z" font-family="sans-serif" font-weight="400" overflow="visible" style="fill:#241f31"/>
+=======
+<svg xmlns="http://www.w3.org/2000/svg" width="16.013" height="16" version="1.1">
+ <title id="title9167">
+  Gnome Symbolic Icon Theme
+ </title>
+ <g id="layer12" transform="translate(-44.993672,-949.00003)">
+  <g transform="matrix(1,0,0,0.99999871,-112.37982,189.09791)">
+   <title id="title5275">
+    go-home
+   </title>
+  </g>
+  <path d="M 47.78125,954 A 1.0001,1.0001 0 0 0 47,955 l 0,7 a 1.0001,1.0001 0 0 0 1,1 l 10,0 a 1.0001,1.0001 0 0 0 1,-1 l 0,-7 a 1.0001,1.0001 0 1 0 -2,0 l 0,6 -8,0 0,-6 a 1.0001,1.0001 0 0 0 -1.21875,-1 z" style="fill:#241f31"/>
+  <path d="m 52.90625,950 a 1.0001,1.0001 0 0 0 -0.5,0.1875 l -7,5 a 1.0063276,1.0063276 0 1 0 1.1875,1.625 L 53,952.25 l 6.40625,4.5625 a 1.0063276,1.0063276 0 1 0 1.1875,-1.625 l -7,-5 A 1.0001,1.0001 0 0 0 52.90625,950 z" style="fill:#241f31"/>
+  <rect width="3" height="6" x="51" y="957" style="fill:#241f31"/>
+  <rect width="1" height="1" x="-61" y="956" rx="0" ry="1" transform="scale(-1,1)" style="fill:#241f31"/>
+  <rect width="1" height="1" x="-46" y="956" rx="0" ry="1" transform="scale(-1,1)" style="fill:#241f31"/>
+>>>>>>> f4df92982ddae1fb1c24e8beef3779edd3d688b9
  </g>
 </svg>

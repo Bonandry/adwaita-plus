@@ -1,6 +1,41 @@
+<<<<<<< HEAD
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
  <g fill="#808080" font-weight="400">
   <path d="M8 1c-.529 0-1.032.098-1.494.295-.46.188-.868.463-1.207.82l-.002.004-.002.002a3.82 3.82 0 0 0-.766 1.28 4.551 4.551 0 0 0-.27 1.6c0 .58.087 1.122.27 1.612.18.482.436.908.766 1.266l.002.002.002.002c.338.356.743.636 1.201.832l.004.002.004.002C6.97 8.907 7.472 9 8 9s1.028-.093 1.49-.281v-.002a3.47 3.47 0 0 0 1.19-.834c.34-.358.6-.786.78-1.27.185-.49.272-1.031.272-1.613h.008c0-.573-.087-1.109-.27-1.598a3.692 3.692 0 0 0-.78-1.283 3.332 3.332 0 0 0-1.196-.824A3.78 3.78 0 0 0 8 1zm0 1c.406 0 .77.073 1.102.215l.01.004.01.002a2.3 2.3 0 0 1 .837.576v.01c.24.253.431.564.569.94v.005c.13.351.194.753.199 1.202V5c0 .482-.072.9-.207 1.262v.002a2.708 2.708 0 0 1-.57.931l-.01.004v.004c-.234.253-.514.45-.848.594A2.889 2.889 0 0 1 8 8c-.41 0-.777-.072-1.11-.207h-.003a2.58 2.58 0 0 1-.838-.582l-.051-.07-.008-.006a2.798 2.798 0 0 1-.523-.871A3.595 3.595 0 0 1 5.259 5c0-.471.071-.886.208-1.25l.002-.002v-.004c.137-.376.324-.684.554-.936l.012-.01c.24-.25.52-.443.85-.578l.006-.004.008-.002C7.229 2.074 7.594 2 8 2zm.03 9.025c-2.882 0-4.43.266-5.579 1.133-.575.434-.954 1.025-1.168 1.713-.214.688-.281 1.212-.283 2.127L2 16c.002-.865.072-1.3.238-1.834.166-.534.412-.903.817-1.209.81-.61 2.162-.934 4.974-.934.77 0 1.407.031 1.971.079v-1.014a27.464 27.464 0 0 0-1.97-.063z" font-family="Ubuntu" letter-spacing="0" overflow="visible" word-spacing="0"/>
   <path d="m13 11v2h-2v1h2v2h1v-2h2v-1h-2v-2z" font-family="sans-serif" overflow="visible"/>
  </g>
+=======
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg xmlns:cc='http://creativecommons.org/ns#' xmlns:dc='http://purl.org/dc/elements/1.1/' sodipodi:docname='contact-new-symbolic.svg' inkscape:export-filename='/home/sam/dev/RESOURCES/gnome-icon-theme-symbolic/src/gnome-stencils.png' inkscape:export-xdpi='90' inkscape:export-ydpi='90' height='16' id='svg7384' xmlns:inkscape='http://www.inkscape.org/namespaces/inkscape' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:sodipodi='http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd' xmlns:svg='http://www.w3.org/2000/svg' version='1.1' inkscape:version='0.48.5 r10040' width='16' xmlns='http://www.w3.org/2000/svg'>
+  <metadata id='metadata90'>
+    <rdf:RDF>
+      <cc:Work rdf:about=''>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource='http://purl.org/dc/dcmitype/StillImage'/>
+        <dc:title>Gnome Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview inkscape:bbox-nodes='false' inkscape:bbox-paths='true' bordercolor='#666666' borderopacity='1' inkscape:current-layer='layer12' inkscape:cx='12.236067' inkscape:cy='5.87665' gridtolerance='10' inkscape:guide-bbox='true' guidetolerance='10' id='namedview88' inkscape:object-nodes='false' inkscape:object-paths='false' objecttolerance='10' pagecolor='#3a3b39' inkscape:pageopacity='1' inkscape:pageshadow='2' showborder='false' showgrid='true' showguides='true' inkscape:snap-bbox='true' inkscape:snap-bbox-midpoints='false' inkscape:snap-global='true' inkscape:snap-grids='true' inkscape:snap-nodes='true' inkscape:snap-others='false' inkscape:snap-to-guides='true' inkscape:window-height='1375' inkscape:window-maximized='1' inkscape:window-width='2560' inkscape:window-x='0' inkscape:window-y='27' inkscape:zoom='45.254834'>
+    <inkscape:grid dotted='false' empspacing='2' enabled='true' id='grid4866' originx='-19.999998px' originy='510px' snapvisiblegridlinesonly='true' spacingx='1px' spacingy='1px' type='xygrid' visible='true'/>
+  </sodipodi:namedview>
+  <title id='title9167'>Gnome Symbolic Icon Theme</title>
+  <defs id='defs7386'/>
+  <g inkscape:groupmode='layer' id='layer9' inkscape:label='status' style='display:inline' transform='translate(-261.0002,-727)'/>
+  <g inkscape:groupmode='layer' id='layer10' inkscape:label='devices' style='display:inline' transform='translate(-261.0002,-727)'/>
+  <g inkscape:groupmode='layer' id='layer11' inkscape:label='apps' transform='translate(-261.0002,-727)'/>
+  <g inkscape:groupmode='layer' id='layer13' inkscape:label='places' style='display:inline' transform='translate(-261.0002,-727)'/>
+  <g inkscape:groupmode='layer' id='layer14' inkscape:label='mimetypes' transform='translate(-261.0002,-727)'/>
+  <g inkscape:groupmode='layer' id='layer15' inkscape:label='emblems' style='display:inline' transform='translate(-261.0002,-727)'/>
+  <g inkscape:groupmode='layer' id='g71291' inkscape:label='emotes' style='display:inline' transform='translate(-261.0002,-727)'/>
+  <g inkscape:groupmode='layer' id='g4953' inkscape:label='categories' style='display:inline' transform='translate(-261.0002,-727)'/>
+  <g inkscape:groupmode='layer' id='layer12' inkscape:label='actions' style='display:inline' transform='translate(-261.0002,-727)'>
+    
+    <path inkscape:connector-curvature='0' d='m 269.55489,735.09373 c -0.70541,0.62353 -1.53918,0.90625 -2.55469,0.90625 -1.01551,0 -1.85318,-0.29053 -2.55859,-0.91406 -1.10938,0.36328 -2.43603,1.28775 -2.4375,2.90234 l -0.004,3.01172 c -7.2e-4,0.554 0.446,1.00002 1,1.00002 l 8,0 c 0.554,0 1,-0.44602 1,-1.00002 l 0,-3 c 0,-1.38672 -1.10231,-2.5558 -2.44531,-2.90625 z' id='path3940-5-0' sodipodi:nodetypes='csccsssscc' style='fill:#bebebe;fill-opacity:1;stroke:none'/>
+    <path sodipodi:cx='49.5' sodipodi:cy='342.5' d='m 52,342.5 a 2.5,2.5 0 1 1 -5,0 2.5,2.5 0 1 1 5,0 z' id='path3942-6-0' sodipodi:rx='2.5' sodipodi:ry='2.5' style='color:#bebebe;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate' transform='matrix(1.2,0,0,1.2,207.6002,320.99997)' sodipodi:type='arc'/>
+    <path inkscape:connector-curvature='0' d='m 273.00019,728.00327 0,1.99673 -1.99999,0 0,1.99673 1.99999,0 0,1.99673 2.00001,0 0,-1.99673 2,0 0,-1.99673 -2,0 0,-1.99673 -2.00001,0 z' id='path26815-7' style='fill:#bebebe;fill-opacity:1;stroke:none;display:inline'/>
+  </g>
+>>>>>>> f4df92982ddae1fb1c24e8beef3779edd3d688b9
 </svg>

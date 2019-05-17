@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version='1.0' encoding='UTF-8' standalone='no'?>
 <svg xmlns:cc='http://creativecommons.org/ns#' xmlns:dc='http://purl.org/dc/elements/1.1/' height='16.000032' id='svg7384' xmlns:osb='http://www.openswatchbook.org/uri/2009/osb' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:svg='http://www.w3.org/2000/svg' version='1.1' width='16' xmlns='http://www.w3.org/2000/svg'>
   <metadata id='metadata20854'>
@@ -30,4 +31,21 @@
   <g id='layer3' style='display:inline' transform='translate(-772.00004,-220)'/>
   <g id='g1833' style='display:inline' transform='translate(-772.00004,-220)'/>
   <g id='layer1' transform='translate(-772.00004,-220)'/>
+=======
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
+ <title id="title9167">
+  Gnome Symbolic Icon Theme
+ </title>
+ <g id="layer9" transform="translate(-81,-317)">
+  <rect width="3" height="2" x="81" y="324" rx=".5" ry=".5" style="fill:#241f31"/>
+  <rect width="3" height="2" x="94" y="324" rx=".5" ry=".5" style="fill:#241f31"/>
+  <rect width="3" height="2" x="-174.88" y="291.74" rx=".5" ry=".5" transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)" style="fill:#241f31"/>
+  <rect width="3" height="2" x="-161.88" y="291.74" rx=".5" ry=".5" transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)" style="fill:#241f31"/>
+  <rect width="3" height="2" x="-333" y="88" rx=".5" ry=".5" transform="matrix(0,-1,1,0,0,0)" style="fill:#241f31"/>
+  <rect width="3" height="2" x="-320" y="88" rx=".5" ry=".5" transform="matrix(0,-1,1,0,0,0)" style="fill:#241f31"/>
+  <rect width="3" height="2" x="-300.74" y="-167.88" rx=".5" ry=".5" transform="matrix(-0.70710678,-0.70710678,0.70710678,-0.70710678,0,0)" style="fill:#241f31"/>
+  <rect width="3" height="2" x="-287.74" y="-167.88" rx=".5" ry=".5" transform="matrix(-0.70710678,-0.70710678,0.70710678,-0.70710678,0,0)" style="fill:#241f31"/>
+  <path d="m 88.988538,321.00774 c -2.197297,0 -3.979304,1.78201 -3.979304,3.9793 0,2.1973 1.782007,4.00857 3.979304,4.00857 2.197297,0 4.008564,-1.81127 4.008564,-4.00857 0,-2.19729 -1.811267,-3.9793 -4.008564,-3.9793 z m 0,1.98965 c 1.116415,0 2.018912,0.87324 2.018912,1.98965 0,1.11642 -0.902497,2.01891 -2.018912,2.01891 -1.116415,0 -1.989652,-0.90249 -1.989652,-2.01891 0,-1.11641 0.873237,-1.98965 1.989652,-1.98965 z" style="fill:#241f31"/>
+ </g>
+>>>>>>> f4df92982ddae1fb1c24e8beef3779edd3d688b9
 </svg>

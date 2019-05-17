@@ -1,6 +1,11 @@
-<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
-    <g color="#000" font-weight="400" font-family="sans-serif" white-space="normal" fill="gray">
-        <path d="M15 15H.293l.853-.854L15 .293zm-1-1V2.707L2.707 14z" style="line-height:normal;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;shape-padding:0;isolation:auto;mix-blend-mode:normal;marker:none" overflow="visible"/>
-        <path d="M6 14.5V10l-3.793 4.5z" style="line-height:normal;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;shape-padding:0;isolation:auto;mix-blend-mode:normal;marker:none" overflow="visible"/>
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
+ <title id="title9167">
+  Gnome Symbolic Icon Theme
+ </title>
+ <g id="layer9" transform="translate(-101 -257)">
+  <path d="m113 257v1.5 12 1.5h3v-1.5-12-1.5h-3z" style="fill-rule:evenodd;fill:#bebebe;opacity:.35"/>
+  <path d="m109 260v1.5 9 1.5h3v-1.5-9-1.5h-3z" style="fill-rule:evenodd;fill:#bebebe;opacity:.35"/>
+  <path d="m105 263v1.5 6 1.5h3v-1.5-6-1.5h-3z" style="fill-rule:evenodd;fill:#bebebe;opacity:.35"/>
+  <path d="m101 266v1.5 3 1.5h3v-1.5-3-1.5h-3z" style="fill-rule:evenodd;fill:#bebebe"/>
+ </g>
 </svg>

@@ -1,7 +1,9 @@
-<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
-    <g color="#000" fill="gray" font-family="sans-serif" font-weight="400" white-space="normal">
-        <path d="M3.994 1c-1.258.015-2.179-.029-2.932.387a1.878 1.878 0 0 0-.84.996C.058 2.821 0 3.343 0 4v8c0 .658.058 1.179.223 1.617.164.439.463.79.84.998.526.29 1.188.342 1.937.36L4 15v-1l-1-.04c-.666-.031-1.204-.084-1.453-.222-.184-.1-.29-.212-.387-.472C1.063 13.006 1 12.592 1 12V4c0-.592.063-1.006.16-1.266.098-.26.203-.371.387-.472.367-.203 1.195-.247 2.459-.262h2.53l2.02 2h3.436c1.264.015 2.092.06 2.46.262.183.1.288.212.386.472.098.26.162.674.162 1.266v6h1V6c0-.658-.06-1.179-.225-1.617a1.88 1.88 0 0 0-.837-.998c-.753-.416-1.674-.37-2.932-.385H8.967L6.945 1H3.996z" overflow="visible" style="line-height:normal;font-variant-ligatures:none;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;shape-padding:0;isolation:auto;mix-blend-mode:normal;marker:none"/>
-        <path d="M9 5c-2.755 0-5 2.245-5 5s2.245 5 5 5 5-2.245 5-5-2.245-5-5-5zm0 1.04A3.954 3.954 0 0 1 12.96 10 3.954 3.954 0 0 1 9 13.96 3.954 3.954 0 0 1 5.04 10 3.954 3.954 0 0 1 9 6.04z" overflow="visible" style="line-height:normal;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;shape-padding:0;isolation:auto;mix-blend-mode:normal"/>
-        <path d="M12.354 12.646l-.708.708 2.5 2.5.708-.708z" fill-rule="evenodd" overflow="visible" style="line-height:normal;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;shape-padding:0;isolation:auto;mix-blend-mode:normal"/>
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
+ <title id="title9167">
+  Gnome Symbolic Icon Theme
+ </title>
+ <g id="layer13" transform="translate(-441.0004,-195)">
+  <path d="m 447.50781,195.99554 c -3.02886,0 -5.51073,2.47905 -5.51073,5.50447 0,3.02541 2.48187,5.50446 5.51073,5.50446 3.02885,0 5.51072,-2.47905 5.51072,-5.50446 0,-3.02542 -2.48187,-5.50447 -5.51072,-5.50447 z m 0,2.00893 c 1.94735,0 3.49951,1.55039 3.49951,3.49554 0,1.94514 -1.55216,3.49553 -3.49951,3.49553 -1.94736,0 -3.49952,-1.55039 -3.49952,-3.49553 0,-1.94515 1.55216,-3.49554 3.49952,-3.49554 z" style="fill:#bebebe"/>
+  <path d="m 450.8125,204 a 1.0001,1.0001 0 0 0 -0.5,1.71875 l 4,4 a 1.0054782,1.0054782 0 1 0 1.40625,-1.4375 l -4,-4 A 1.0001,1.0001 0 0 0 450.8125,204 z" style="fill:#bebebe"/>
+ </g>
 </svg>

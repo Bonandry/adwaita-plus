@@ -5,11 +5,7 @@ set -e
 # these variables can be overwritten
 : "${DESTDIR:=/usr/share/icons}"
 : "${TAG:=master}"
-<<<<<<< HEAD
-: "${THEMES:=GNOME++}"
-=======
 : "${THEMES:=GNOME++ GNOME++-Colorful GNOME++-Dark}"
->>>>>>> f4df92982ddae1fb1c24e8beef3779edd3d688b9
 : "${uninstall:=false}"
 
 gh_url="https://github.com/Bonandry"

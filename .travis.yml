@@ -1,0 +1,19 @@
+dist: xenial
+sudo: required
+language: generic
+
+branches:
+    - beta
+notifications:
+  email:
+    recipients:
+      - bonandry@gmail.com
+      - gusbemacbe@gmail.com
+      
+addons:
+  apt:
+    packages:
+      - xmlstarlet
+
+script:
+    - make -k test-all

@@ -1,13 +1,17 @@
 [Icon Theme]
-Name=GNOME++
+Name = GNOME++ Colorful
+Name[en_GB] = GNOME++ Colourful
+Name[it] = GNOME++ Colorito
 
-Comment=Third-party icons theme based on Sam Hewitt's Suru icons theme
+Comment = Designed for users who 16px icons to be colorful
+Comment[en_GB] = Designed for users who 16px icons to be colourful
+Comment[it] = Progettato per utenti che voglio che le icone 16px siano colorate
 
 DisplayDepth=32
 Encoding=UTF-8
 Example=folder
 
-Inherits=Suru
+Inherits=GNOME++,Suru
 
 DesktopDefault=48
 DesktopSizes=16,22,32,48,64,128,256

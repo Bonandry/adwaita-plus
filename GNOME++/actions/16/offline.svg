@@ -4,10 +4,6 @@
    .ColorScheme-Text { color:#241f31; } .ColorScheme-NegativeText { color:#da4453; }
   </style>
  </defs>
-<<<<<<< HEAD
- <path class="ColorScheme-NegativeText" d="M 9.333984,16.5 8.5,17.333984 10.166016,19 8.5,20.666016 9.333984,21.5 11,19.833984 12.666016,21.5 13.5,20.666016 11.833984,19 13.5,17.333984 12.666016,16.5 11,18.166016 Z" style="fill:currentColor;"/>
-=======
  <path class="ColorScheme-NegativeText" d="M 9.333984,16.5 8.5,17.333984 10.166016,19 8.5,20.666016 9.333984,21.5 11,19.833984 12.666016,21.5 13.5,20.666016 11.833984,19 13.5,17.333984 12.666016,16.5 11,18.166016 Z" style="fill:currentColor"/>
->>>>>>> f4df92982ddae1fb1c24e8beef3779edd3d688b9
  <path style="fill:#241f31" d="M 4 9 L 4 12 L 0 12 L 0 13 L 4 13 L 4 16 L 9 16 L 9 9 L 4 9 z M 11 9 L 11 16 L 18 16 L 18 13 L 22 13 L 22 12 L 18 12 L 18 9 L 11 9 z"/>
 </svg>

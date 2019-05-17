@@ -1,77 +1,3 @@
-<<<<<<< HEAD
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="16px"
-   height="16px"
-   id="svg6558"
-   version="1.1"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="photocollage-symbolic.svg">
-  <defs
-     id="defs6560" />
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="22.197802"
-     inkscape:cx="-1.7134796"
-     inkscape:cy="7.9992784"
-     inkscape:current-layer="g11537"
-     showgrid="false"
-     inkscape:grid-bbox="true"
-     inkscape:document-units="px"
-     inkscape:snap-nodes="false"
-     inkscape:snap-bbox="true"
-     inkscape:window-width="1920"
-     inkscape:window-height="1009"
-     inkscape:window-x="0"
-     inkscape:window-y="34"
-     inkscape:window-maximized="1">
-    <inkscape:grid
-       type="xygrid"
-       id="grid7892" />
-  </sodipodi:namedview>
-  <metadata
-     id="metadata6563">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     id="layer1"
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer">
-    <g
-       transform="translate(-20,-276)"
-       id="g11537"
-       inkscape:label="camera-photo"
-       style="display:inline">
-      <path
-         style="color:#bebebe;fill:#241f31;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         d="m 26,278 c -0.549959,0 -1,0.45004 -1,1 l 0,1 -3,0 c -0.552014,0 -1,0.45004 -1,1 l 0,8 c 0,0.54996 0.447986,1 1,1 l 12,0 c 0.552014,0 1,-0.45004 1,-1 l 0,-8 c 0,-0.54996 -0.447986,-1 -1,-1 l -3,0 0,-1 c 0,-0.54996 -0.450041,-1 -1,-1 l -4,0 z m 2,3 c 2.209139,0 4,1.79086 4,4 0,2.20914 -1.790861,4 -4,4 -2.209139,0 -4,-1.79086 -4,-4 0,-2.20914 1.790861,-4 4,-4 z m 0,2 c -1.10457,0 -2,0.89543 -2,2 0,1.10457 0.89543,2 2,2 1.10457,0 2,-0.89543 2,-2 0,-1.10457 -0.89543,-2 -2,-2 z"
-         id="rect5238"
-         inkscape:connector-curvature="0" />
-    </g>
-  </g>
-=======
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
  <title id="title9167">
   Gnome Symbolic Icon Theme
@@ -81,5 +7,4 @@
   <path d="m 581.00019,474.49915 c 1.55209,6e-4 1.39367,-1.78749 2.14726,-2.28535 0.87328,-0.57692 1.63857,0.13795 1.79136,0.72627 0.19279,0.74234 -0.11685,1.63129 -1.12998,1.8846 -1.07336,0.26836 -2.66168,0.27633 -2.80864,-0.32552 z" style="fill:#241f31"/>
   <path d="m 595.03722,461.00274 c -1.79965,1.2988 -4.20634,3.30184 -6.11488,5.3335 -0.17324,0.18442 -0.34065,0.36235 -0.50432,0.54703 -0.10346,0.10788 -0.21177,0.19588 -0.3152,0.30771 -0.0653,0.0767 -0.12585,0.16279 -0.18912,0.23932 -1.87306,2.07016 -3.71972,4.68066 -4.91712,6.6327 2.97729,-2.29737 4.91603,-4.16475 6.1464,-5.47026 0.2404,-0.24587 0.52929,-0.56636 0.85103,-0.92311 1.20361,-1.33456 2.92519,-3.43748 5.04321,-6.66689 z" style="fill:#241f31"/>
  </g>
->>>>>>> f4df92982ddae1fb1c24e8beef3779edd3d688b9
 </svg>

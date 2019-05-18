@@ -1,54 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="16"
-   height="16"
-   version="1.1"
-   id="svg8"
-   sodipodi:docname="energia.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
-  <metadata
-     id="metadata14">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs12" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1009"
-     id="namedview10"
-     showgrid="false"
-     inkscape:zoom="14.75"
-     inkscape:cx="8"
-     inkscape:cy="8"
-     inkscape:window-x="0"
-     inkscape:window-y="34"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg8" />
-  <path
-     style="fill:#241f31;fill-opacity:1;stroke-width:0.07140389"
-     d="m 11.00173,13.00052 v -1.49948 h 0.499827 0.499827 V 13.00052 14.5 H 11.501557 11.00173 Z m 1.999309,0 v -1.49948 h 0.499827 0.499827 V 13.00052 14.5 H 13.500866 13.001039 Z M 0.02061773,8.5556299 c 0.02217,-5.3173401 0.01103,-5.1620401 0.400028,-5.5785101 0.325988,-0.34901 0.68516697,-0.46959 1.40568397,-0.47189 l 0.642635,-0.002 0.16907,-0.24827 c 0.227411,-0.33394 0.739574,-0.66196 1.123439,-0.71952 0.172691,-0.0259 0.643758,-0.0349 1.046816,-0.02 0.629592,0.0233 0.79191,0.056 1.152175,0.23229 0.343535,0.16808 0.438914,0.25499 0.527614,0.4808 l 0.108272,0.27564 0.542549,4e-4 c 0.298402,2.2e-4 0.67097,0.0361 0.827929,0.0796 0.372557,0.10343 0.852143,0.58301 0.95557,0.95557 0.05442,0.19605 0.07935,1.79975 0.07962,5.1229901 l 3.98e-4,4.8376201 H 4.5012077 -2.2711864e-6 Z M 7.0031117,8.0022499 V 4.5034598 h -0.999654 -0.999655 v -0.49983 -0.49983 h -0.499827 -0.499827 v 0.49983 0.49983 H 3.0044937 2.0048397 V 8.0022499 11.50104 h 2.499136 2.499136 z M 3.0044937,10.00156 V 9.5017299 h 1.499482 1.499482 v 0.4998301 0.49982 h -1.499482 -1.499482 z m 0,-1.9993101 V 7.5024198 h 1.499482 1.499482 v 0.4998301 0.49982 H 4.5039757 3.0044937 Z M 15.000348,12.01027 v -1.50889 h -2.499136 -2.499137 v -1.0244001 -1.0244 l 0.262776,-0.27058 c 0.309297,-0.31847 0.676196,-0.4923701 1.290259,-0.6115501 l 0.446274,-0.0866 v -0.99037 -0.99036 H 11.00173 10.002075 v -0.49983 -0.49982 h 1.144756 c 1.819508,0 1.854208,0.0344 1.854208,1.83966 v 1.13022 l 0.574135,0.0837 c 1.023984,0.14925 1.890332,0.6859401 2.240015,1.3876701 0.184449,0.37014 0.184813,0.37449 0.184813,2.2122201 v 1.84136 l -0.196361,0.21974 c -0.14074,0.1575 -0.282319,0.23128 -0.499827,0.26044 l -0.303466,0.0407 z"
-     id="path817"
-     inkscape:connector-curvature="0" />
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
+ <title id="title9167">
+  Gnome Symbolic Icon Theme
+ </title>
+ <g id="layer11" transform="translate(-142 -530)">
+  <path d="m145.47 530c-0.49032 0-0.79606 0.2289-1.0312 0.46967-0.23518 0.24077-0.4375 0.5596-0.4375 1.0333l4e-5 0.49706h-2v14h7.0001v-2l-4.9507 0.0494-0.04935-10.049h1.9999c0-0.66536 7e-5 -2 7e-5 -2h3l-1.3e-4 2h2l1.6e-4 1h2l-2e-4 -3h-2v-0.37182-0.0313c-0.0239-0.43144-0.17024-0.75376-0.40625-1.0333-0.22372-0.26496-0.62668-0.53034-1.1562-0.53229v-0.0313h-0.0625-3.9062z" style="fill:#241f31"/>
+  <path d="m148 540h2c0.27642-1.1035 1.0651-3.7242 3-4h3v2h2v2h-2v2h2v2h-2v2h-3c-1.9349-0.27585-2.7236-2.8966-3-4h-2z" style="fill-rule:evenodd;fill:#241f31"/>
+ </g>
 </svg>

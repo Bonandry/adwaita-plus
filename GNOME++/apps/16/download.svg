@@ -49,7 +49,7 @@
     <style
        id="current-color-scheme"
        type="text/css">
-   .ColorScheme-Text { color:#241f31; } .ColorScheme-Highlight { color:#5294e2; }
+   .ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#5294e2; }
   </style>
     <linearGradient
        id="arrongin"
@@ -222,7 +222,7 @@
      transform="translate(-272 -112)"
      id="g67">
     <path
-       style="color:#241f31;overflow:visible;fill:currentColor"
+       style="color:#444444;overflow:visible;fill:currentColor"
        class="ColorScheme-Text"
        d="m 278,112 v 5 h -2.156 c 0,0 2.078,5.312 4.156,8.156 2.078,-2.844 4.156,-8.156 4.156,-8.156 H 282 v -5 z"
        overflow="visible"

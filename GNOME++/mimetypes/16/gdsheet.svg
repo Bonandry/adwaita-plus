@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" style="isolation:isolate" width="16" height="16" version="1.1" viewBox="0 0 16 16">
  <defs>
   <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#241f31; } .ColorScheme-Highlight { color:#5294e2; }
+   .ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#5294e2; }
   </style>
   <linearGradient id="arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
    <stop style="stop-color:#dd9b44" id="stop3" offset="0%"/>
@@ -48,7 +48,7 @@
    <stop style="stop-color:#ea00d9" id="stop58" offset="1"/>
   </linearGradient>
  </defs>
- <g transform="matrix(0.12660207,0,0,0.12660207,-247.40059,-36.711072)" style="enable-background:new;fill:#241f31">
-  <path style="fill:#241f31" d="M 2080.5394,300.76711 V 406.08398 H 1954.1591 V 300.76711 Z m -9.0268,8.10134 h -63.1901 v 24.30378 h 63.1901 z m -72.2178,0 h -36.1086 v 24.30378 h 36.1086 z m 72.2178,32.40528 h -63.1901 v 24.30363 h 63.1901 z m -72.2178,0 h -36.1086 v 24.30363 h 36.1086 z m 72.2178,32.40513 h -63.1901 v 24.30362 h 63.1901 z m -72.2178,0 h -36.1086 v 24.30362 h 36.1086 z"/>
+ <g transform="matrix(0.12660207,0,0,0.12660207,-247.40059,-36.711072)" style="enable-background:new;fill:#444444">
+  <path style="fill:#444444" d="M 2080.5394,300.76711 V 406.08398 H 1954.1591 V 300.76711 Z m -9.0268,8.10134 h -63.1901 v 24.30378 h 63.1901 z m -72.2178,0 h -36.1086 v 24.30378 h 36.1086 z m 72.2178,32.40528 h -63.1901 v 24.30363 h 63.1901 z m -72.2178,0 h -36.1086 v 24.30363 h 36.1086 z m 72.2178,32.40513 h -63.1901 v 24.30362 h 63.1901 z m -72.2178,0 h -36.1086 v 24.30362 h 36.1086 z"/>
  </g>
 </svg>

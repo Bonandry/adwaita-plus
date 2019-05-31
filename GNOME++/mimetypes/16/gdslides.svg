@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" style="isolation:isolate" width="16" height="16" version="1.1" viewBox="0 0 16 16">
  <defs>
   <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#241f31; } .ColorScheme-Highlight { color:#5294e2; }
+   .ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#5294e2; }
   </style>
   <linearGradient id="arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
    <stop style="stop-color:#dd9b44" id="stop3" offset="0%"/>
@@ -48,8 +48,8 @@
    <stop style="stop-color:#ea00d9" id="stop58" offset="1"/>
   </linearGradient>
  </defs>
- <g style="fill:#241f31;enable-background:new" transform="matrix(0.08725891,0,0,0.08725891,-9.9395967,0.38411346)">
-  <path d="M 274.32079,95.877213 A 77.328384,77.328384 0 0 1 226.58469,167.31932 77.328384,77.328384 0 0 1 142.31298,150.55664 77.328384,77.328384 0 0 1 125.55029,66.28492 77.328384,77.328384 0 0 1 196.9924,18.548828 l 0,77.328385 z" style="fill:#241f31;stroke:#204a87;stroke-width:0.04493247px"/>
-  <path d="m 214.17998,1.3612366 a 77.328384,77.328384 0 0 1 77.32838,77.3283844 l -77.32838,0 z" style="opacity:0.75;fill:#241f31;stroke:#204a87;stroke-width:0.04493247px"/>
+ <g style="fill:#444444;enable-background:new" transform="matrix(0.08725891,0,0,0.08725891,-9.9395967,0.38411346)">
+  <path d="M 274.32079,95.877213 A 77.328384,77.328384 0 0 1 226.58469,167.31932 77.328384,77.328384 0 0 1 142.31298,150.55664 77.328384,77.328384 0 0 1 125.55029,66.28492 77.328384,77.328384 0 0 1 196.9924,18.548828 l 0,77.328385 z" style="fill:#444444;stroke:#204a87;stroke-width:0.04493247px"/>
+  <path d="m 214.17998,1.3612366 a 77.328384,77.328384 0 0 1 77.32838,77.3283844 l -77.32838,0 z" style="opacity:0.75;fill:#444444;stroke:#204a87;stroke-width:0.04493247px"/>
  </g>
 </svg>

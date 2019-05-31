@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" style="isolation:isolate" width="16" height="16" version="1.1" viewBox="0 0 16 16">
  <defs>
   <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#241f31; } .ColorScheme-Highlight { color:#5294e2; }
+   .ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#5294e2; }
   </style>
   <linearGradient id="arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
    <stop style="stop-color:#dd9b44" id="stop3" offset="0%"/>
@@ -48,8 +48,8 @@
    <stop style="stop-color:#ea00d9" id="stop58" offset="1"/>
   </linearGradient>
  </defs>
- <g transform="matrix(0.12660207,0,0,0.12660207,-247.40059,-36.711072)" style="enable-background:new;fill:#241f31">
-  <path style="fill:#241f31" d="m 1989.7838,303.99112 a 34.833504,34.833504 0 0 0 -34.8348,34.83479 34.833504,34.833504 0 0 0 34.8348,34.83478 34.833504,34.833504 0 0 0 19.7931,-6.21719 v -26.16466 c 0,-0.53605 0.4205,-0.97192 0.9565,-0.97192 h 14.008 a 34.833504,34.833504 0 0 0 0.077,-1.48101 34.833504,34.833504 0 0 0 -34.8347,-34.83479 z"/>
-  <rect style="opacity:0.75;fill:#241f31" width="63.862" height="63.862" x="2015.46" y="344.59" rx=".968"/>
+ <g transform="matrix(0.12660207,0,0,0.12660207,-247.40059,-36.711072)" style="enable-background:new;fill:#444444">
+  <path style="fill:#444444" d="m 1989.7838,303.99112 a 34.833504,34.833504 0 0 0 -34.8348,34.83479 34.833504,34.833504 0 0 0 34.8348,34.83478 34.833504,34.833504 0 0 0 19.7931,-6.21719 v -26.16466 c 0,-0.53605 0.4205,-0.97192 0.9565,-0.97192 h 14.008 a 34.833504,34.833504 0 0 0 0.077,-1.48101 34.833504,34.833504 0 0 0 -34.8347,-34.83479 z"/>
+  <rect style="opacity:0.75;fill:#444444" width="63.862" height="63.862" x="2015.46" y="344.59" rx=".968"/>
  </g>
 </svg>

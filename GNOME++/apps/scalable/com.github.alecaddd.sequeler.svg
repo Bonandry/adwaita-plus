@@ -618,7 +618,8 @@
            style="stroke-width:1.20833337">
           <g
              id="g44"
-             style="opacity:0.2;stroke-width:1.20833337">
+             style="opacity:0.6;stroke-width:1.20833337"
+             transform="matrix(0.83333333,0,0,0.83333333,22.215235,16.812238)">
             <path
                d="m 200.495,187.786 v -22.607 c 0,-6.623 -5.377,-12 -12,-12 h -121 c -6.623,0 -12,5.377 -12,12 v 22.607 c 0,6.623 5.377,12 12,12 h 121 c 6.623,0 12,-5.377 12,-12 z"
                id="path42"
@@ -643,9 +644,9 @@
                id="stop1052" />
           </linearGradient>
           <path
-             d="M 200.495,184.846 V 162.94 c 0,-6.816 -5.534,-12.351 -12.351,-12.351 H 67.846 c -6.817,0 -12.351,5.535 -12.351,12.351 v 21.906 c 0,6.816 5.534,12.35 12.351,12.35 h 120.298 c 6.817,0 12.351,-5.534 12.351,-12.35 z"
+             d="m 189.2944,170.85057 v -18.255 c 0,-5.68 -4.61166,-10.2925 -10.2925,-10.2925 H 78.753568 c -5.680833,0 -10.2925,4.6125 -10.2925,10.2925 v 18.255 c 0,5.68 4.611667,10.29167 10.2925,10.29167 H 179.0019 c 5.68084,0 10.2925,-4.61167 10.2925,-10.29167 z"
              id="path51"
-             style="fill:#9a9996;stroke-width:1.20833337;fill-opacity:1"
+             style="fill:#9a9996;fill-opacity:1;stroke-width:1.00694442"
              inkscape:connector-curvature="0" />
           <linearGradient
              id="linearGradient1069"
@@ -708,7 +709,7 @@
           </linearGradient>
           <g
              id="g1005"
-             transform="matrix(-1,0,0,1,257.07668,0)">
+             transform="matrix(-0.83333333,0,0,0.83333333,236.4458,16.812238)">
             <g
                style="opacity:0.2;stroke-width:1.20833337"
                id="g55">
@@ -787,15 +788,16 @@
         </g>
         <g
            id="g147"
-           style="stroke-width:1.20833337">
+           style="stroke-width:1.20833337"
+           transform="matrix(0.83333333,0,0,0.83333333,22.215235,16.812238)">
           <g
              id="g103"
-             style="opacity:0.2;stroke-width:1.20833337;fill:#000000;fill-opacity:1">
+             style="opacity:0.2;fill:#000000;fill-opacity:1;stroke-width:1.20833337">
             <path
                d="m 200.495,140.786 v -22.607 c 0,-6.623 -5.377,-12 -12,-12 h -121 c -6.623,0 -12,5.377 -12,12 v 22.607 c 0,6.623 5.377,12 12,12 h 121 c 6.623,0 12,-5.377 12,-12 z"
                id="path101"
                inkscape:connector-curvature="0"
-               style="stroke-width:1.20833337;fill:#000000;fill-opacity:1" />
+               style="fill:#000000;fill-opacity:1;stroke-width:1.20833337" />
           </g>
           <linearGradient
              id="linearGradient1103"
@@ -817,7 +819,7 @@
           <path
              d="M 200.495,137.846 V 115.94 c 0,-6.816 -5.534,-12.351 -12.351,-12.351 H 67.846 c -6.817,0 -12.351,5.535 -12.351,12.351 v 21.906 c 0,6.816 5.534,12.35 12.351,12.35 h 120.298 c 6.817,0 12.351,-5.534 12.351,-12.35 z"
              id="path110"
-             style="fill:#c0bfbc;stroke-width:1.20833337;fill-opacity:1"
+             style="fill:#c0bfbc;fill-opacity:1;stroke-width:1.20833337"
              inkscape:connector-curvature="0" />
           <linearGradient
              id="linearGradient1116"
@@ -864,15 +866,16 @@
         </g>
         <g
            id="g182"
-           style="stroke-width:1.20833337">
+           style="stroke-width:1.20833337"
+           transform="matrix(0.83333333,0,0,0.83333333,22.215235,16.812238)">
           <g
              id="g151"
-             style="opacity:0.2;stroke-width:1.20833337;fill:#1a1a1a;fill-opacity:1">
+             style="opacity:0.2;fill:#1a1a1a;fill-opacity:1;stroke-width:1.20833337">
             <path
                d="M 200.495,93.786 V 71.179 c 0,-6.623 -5.377,-12 -12,-12 h -121 c -6.623,0 -12,5.377 -12,12 v 22.607 c 0,6.623 5.377,12 12,12 h 121 c 6.623,0 12,-5.377 12,-12 z"
                id="path149"
                inkscape:connector-curvature="0"
-               style="stroke-width:1.20833337;fill:#1a1a1a;fill-opacity:1" />
+               style="fill:#1a1a1a;fill-opacity:1;stroke-width:1.20833337" />
           </g>
           <linearGradient
              id="linearGradient1143"
@@ -894,7 +897,7 @@
           <path
              d="M 200.495,90.846 V 68.94 c 0,-6.816 -5.534,-12.351 -12.351,-12.351 H 67.846 c -6.817,0 -12.351,5.535 -12.351,12.351 v 21.906 c 0,6.816 5.534,12.35 12.351,12.35 h 120.298 c 6.817,0 12.351,-5.534 12.351,-12.35 z"
              id="path158"
-             style="fill:#deddda;stroke-width:1.20833337;fill-opacity:1"
+             style="fill:#deddda;fill-opacity:1;stroke-width:1.20833337"
              inkscape:connector-curvature="0" />
           <linearGradient
              id="linearGradient1154"
@@ -921,7 +924,7 @@
         <g
            style="display:inline;isolation:isolate;stroke-width:1.20833337;enable-background:new"
            id="g1005-3"
-           transform="matrix(-1,0,0,1,256.53334,-42.571161)">
+           transform="matrix(-0.83333333,0,0,0.83333333,235.99302,-18.663729)">
           <g
              style="opacity:0.2;stroke-width:1.20833337"
              id="g55-6">
@@ -1000,7 +1003,7 @@
         <g
            style="display:inline;isolation:isolate;stroke-width:1.20833337;enable-background:new"
            id="g1005-3-3"
-           transform="matrix(-1,0,0,1,256.53334,-89.571161)">
+           transform="matrix(-0.83333333,0,0,0.83333333,235.99302,-57.830396)">
           <g
              style="opacity:0.2;stroke-width:1.20833337"
              id="g55-6-6">
@@ -1080,6 +1083,7 @@
     </g>
     <g
        style="fill:url(#linearGradient1496);fill-opacity:1"
-       id="g1480" />
+       id="g1480"
+       transform="matrix(0.83333333,0,0,0.83333333,11.397206,35.69022)" />
   </g>
 </svg>

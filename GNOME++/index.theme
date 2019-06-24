@@ -7,7 +7,7 @@ DisplayDepth=32
 Encoding=UTF-8
 Example=folder
 
-Inherits=Suru
+Inherits=Adwaita,Suru,gnome,hicolor
 
 DesktopDefault=48
 DesktopSizes=16,22,32,48,64,128,256
@@ -22,7 +22,7 @@ PanelSizes=16,22,32,48,64,128,256
 DialogDefault=32
 DialogSizes=16,22,32,48,64,128,256
 
-Directories=actions/16,actions/22,actions/24,actions/32,actions/scalable,actions/symbolic,animations/16,animations/24,apps/16,apps/24,apps/scalable,apps/symbolic,categories/16,categories/24,categories/32,categories/scalable,categories/symbolic,devices/16,devices/24,devices/32,devices/scalable,devices/symbolic,emblems/16,emblems/symbolic,emotes/16,emotes/symbolic,mimetypes/16,mimetypes/24,mimetypes/32,mimetypes/scalable,mimetypes/symbolic,places/16,places/24,places/32,places/scalable,places/symbolic,status/16,status/24,status/32,status/scalable,status/symbolic,scalable-max-32/status
+Directories=actions/16,actions/22,actions/24,actions/32,actions/scalable,actions/symbolic,animations/16,animations/24,apps/16,apps/22,apps/24,apps/32,apps/48,apps/scalable,apps/symbolic,categories/16,categories/22,categories/24,categories/32,categories/48,categories/scalable,categories/symbolic,devices/16,devices/22,devices/24,devices/32,devices/48,devices/scalable,devices/symbolic,emblems/16,emblems/symbolic,emotes/16,emotes/symbolic,mimetypes/16,mimetypes/22,mimetypes/24,mimetypes/32,mimetypes/48,mimetypes/scalable,mimetypes/symbolic,places/16,places/22,places/24,places/32,places/48,places/scalable,places/symbolic,status/16,status/24,status/32,status/scalable,status/symbolic,scalable-max-32/status
 
 [actions/16]
 Context=Actions
@@ -75,13 +75,28 @@ MaxSize=31
 Type=Scalable
 
 [apps/16]
-Context=Actions
+Context=Applications
 Size=16
 Type=Fixed
 
+[apps/22]
+Context=Applications
+Size=22
+Type=Fixed
+
 [apps/24]
-Context=Actions
+Context=Applications
 Size=24
+Type=Fixed
+
+[apps/32]
+Context=Applications
+Size=32
+Type=Fixed
+
+[apps/48]
+Context=Applications
+Size=48
 Type=Fixed
 
 [apps/scalable]
@@ -94,13 +109,18 @@ Type=Scalable
 [apps/symbolic]
 Context=Applications
 Size=16
-MinSize=1
+MinSize=16
 MaxSize=512
 Type=Scalable
 
 [categories/16]
 Context=Categories
 Size=16
+Type=Fixed
+
+[categories/22]
+Context=Categories
+Size=22
 Type=Fixed
 
 [categories/24]
@@ -113,6 +133,11 @@ Context=Categories
 Size=32
 Type=Fixed
 
+[categories/48]
+Context=Categories
+Size=48
+Type=Fixed
+
 [categories/scalable]
 Context=Categories
 Size=512
@@ -123,13 +148,18 @@ Type=Scalable
 [categories/symbolic]
 Context=Categories
 Size=16
-MinSize=8
+MinSize=16
 MaxSize=512
 Type=Scalable
 
 [devices/16]
 Context=Devices
 Size=16
+Type=Fixed
+
+[devices/22]
+Context=Devices
+Size=22
 Type=Fixed
 
 [devices/24]
@@ -142,6 +172,11 @@ Context=Devices
 Size=32
 Type=Fixed
 
+[devices/48]
+Context=Devices
+Size=48
+Type=Fixed
+
 [devices/scalable]
 Context=Devices
 Size=512
@@ -150,9 +185,9 @@ MaxSize=512
 Type=Scalable
 
 [devices/symbolic]
-Size=16
 Context=Devices
-MinSize=8
+Size=16
+MinSize=16
 MaxSize=512
 Type=Scalable
 
@@ -181,34 +216,52 @@ MaxSize=512
 Type=Scalable
 
 [mimetypes/16]
+Context=MimeTypes
 Size=16
 Type=Fixed
 
+[mimetypes/22]
+Context=MimeTypes
+Size=22
+Type=Fixed
+
 [mimetypes/24]
+Context=MimeTypes
 Size=24
 Type=Fixed
 
 [mimetypes/32]
+Context=MimeTypes
 Size=32
 Type=Fixed
 
+[mimetypes/48]
+Context=MimeTypes
+Size=48
+Type=Fixed
+
 [mimetypes/scalable]
-Context=Mimetypes
-Size=512
+Context=MimeTypes
+Size=64
 MinSize=1
 MaxSize=512
 Type=Scalable
 
 [mimetypes/symbolic]
-Size=16
 Context=MimeTypes
-MinSize=8
+Size=16
+MinSize=16
 MaxSize=512
 Type=Scalable
 
 [places/16]
 Context=Places
 Size=16
+Type=Fixed
+
+[places/22]
+Context=Places
+Size=22
 Type=Fixed
 
 [places/24]
@@ -221,6 +274,11 @@ Context=Places
 Size=32
 Type=Fixed
 
+[places/48]
+Context=Places
+Size=48
+Type=Fixed
+
 [places/scalable]
 Context=Places
 Size=512
@@ -229,9 +287,9 @@ MaxSize=512
 Type=Scalable
 
 [places/symbolic]
-Size=16
 Context=Places
-MinSize=8
+Size=16
+MinSize=16
 MaxSize=512
 Type=Scalable
 

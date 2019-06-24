@@ -1,73 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="16"
-   height="16"
-   version="1.1"
-   id="svg8"
-   sodipodi:docname="yast-timezone-symbolic.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
-  <metadata
-     id="metadata14">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>
-  Gnome Symbolic Icon Theme
- </dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs12" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1009"
-     id="namedview10"
-     showgrid="true"
-     inkscape:zoom="55.766228"
-     inkscape:cx="7.500195"
-     inkscape:cy="8.5"
-     inkscape:window-x="0"
-     inkscape:window-y="34"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="layer11">
-    <inkscape:grid
-       type="xygrid"
-       id="grid821" />
-  </sodipodi:namedview>
-  <title
-     id="title9167">
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
+ <title id="title9167">
   Gnome Symbolic Icon Theme
  </title>
-  <g
-     id="layer11"
-     transform="translate(-223,-649)">
-    <path
-       d="m 230.5002,649.01339 c -4.13029,0 -7.48661,3.35631 -7.48661,7.48661 0,4.13029 3.35632,7.48661 7.48661,7.48661 4.13029,0 7.4866,-3.35632 7.4866,-7.48661 0,-4.1303 -3.35631,-7.48661 -7.4866,-7.48661 z m 0,1.97322 c 3.04941,0 5.51339,2.46398 5.51339,5.51339 0,3.04941 -2.46398,5.51339 -5.51339,5.51339 -3.04941,0 -5.5134,-2.46398 -5.5134,-5.51339 0,-3.04941 2.46399,-5.51339 5.5134,-5.51339 z"
-       style="fill:#241f31"
-       id="path3" />
-    <path
-       style="fill:#241f31;stroke-width:0.97587794"
-       d="M 7.4902344 2.4921875 A 0.50005 0.50005 0 0 0 6.9960938 2.9980469 L 6.9785156 7.0917969 L 2.9980469 7.1074219 A 0.50005 0.50005 0 1 0 3.0019531 8.1074219 L 4.9882812 8.0996094 L 6.9746094 8.0996094 L 6.9589844 11.998047 A 0.50005 0.50005 0 1 0 7.9589844 12.001953 L 7.9746094 8.0878906 L 12.001953 8.0722656 A 0.50005 0.50005 0 1 0 11.998047 7.0722656 L 8.5429688 7.0859375 L 10.6875 5.0644531 A 0.50005 0.47621651 0 0 0 10.46875 4.2617188 A 0.50005 0.47621651 0 0 0 10 4.4101562 L 7.9824219 6.2714844 L 7.9960938 3.0019531 A 0.50005 0.50005 0 0 0 7.4902344 2.4921875 z "
-       transform="translate(223,649)"
-       id="path5" />
-  </g>
+ <g id="layer11" transform="translate(-223,-649)">
+  <path fill="#241f31" d="m 230.5002,649.01339 c -4.13029,0 -7.48661,3.35631 -7.48661,7.48661 0,4.13029 3.35632,7.48661 7.48661,7.48661 4.13029,0 7.4866,-3.35632 7.4866,-7.48661 0,-4.1303 -3.35631,-7.48661 -7.4866,-7.48661 z m 0,1.97322 c 3.04941,0 5.51339,2.46398 5.51339,5.51339 0,3.04941 -2.46398,5.51339 -5.51339,5.51339 -3.04941,0 -5.5134,-2.46398 -5.5134,-5.51339 0,-3.04941 2.46399,-5.51339 5.5134,-5.51339 z"/>
+  <path fill="#241f31" d="M 7.4902344 2.4921875 A 0.50005 0.50005 0 0 0 6.9960938 2.9980469 L 6.9785156 7.0917969 L 2.9980469 7.1074219 A 0.50005 0.50005 0 1 0 3.0019531 8.1074219 L 4.9882812 8.0996094 L 6.9746094 8.0996094 L 6.9589844 11.998047 A 0.50005 0.50005 0 1 0 7.9589844 12.001953 L 7.9746094 8.0878906 L 12.001953 8.0722656 A 0.50005 0.50005 0 1 0 11.998047 7.0722656 L 8.5429688 7.0859375 L 10.6875 5.0644531 A 0.50005 0.47621651 0 0 0 10.46875 4.2617188 A 0.50005 0.47621651 0 0 0 10 4.4101562 L 7.9824219 6.2714844 L 7.9960938 3.0019531 A 0.50005 0.50005 0 0 0 7.4902344 2.4921875 z" transform="translate(223,649)"/>
+ </g>
 </svg>

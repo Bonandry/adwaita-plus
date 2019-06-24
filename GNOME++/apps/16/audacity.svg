@@ -1,82 +1,10 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="16"
-   height="16"
-   version="1.1"
-   id="svg10"
-   sodipodi:docname="audacity-symbolic.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
-  <metadata
-     id="metadata16">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs14" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1345"
-     inkscape:window-height="889"
-     id="namedview12"
-     showgrid="false"
-     inkscape:zoom="14.75"
-     inkscape:cx="8"
-     inkscape:cy="8"
-     inkscape:window-x="0"
-     inkscape:window-y="34"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg10" />
-  <title
-     id="title9167">
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
+ <title id="title9167">
   Gnome Symbolic Icon Theme
  </title>
-  <g
-     id="layer10"
-     transform="translate(-61.0002,-467)"
-     style="fill:#444444;fill-opacity:1">
-    <rect
-       width="3.568"
-       height="6.052"
-       x="-77.76"
-       y="475.24"
-       rx="1.863"
-       ry="1.863"
-       transform="matrix(0.95982607,-0.28059566,0.29019891,0.95696635,0,0)"
-       style="fill:#444444;fill-opacity:1"
-       id="rect3" />
-    <path
-       d="m 68.968788,468 c -3.305456,0 -6.023914,3.00835 -5.968586,5.71875 0.04825,2.36557 0.808593,4.69547 1,5.28125 1.583096,0 0,0 1.525504,0 -1.16149,-2.29152 -1.049064,-5.1562 -1.049064,-5.1562 0,-2.37255 2.006651,-4.31249 4.492146,-4.3125 2.485496,0 4.499787,1.82687 4.492147,4.28125 -0.02342,1.67413 -0.171684,2.65858 -1.005236,5.1875 l 1.570681,0 c 0.224499,-0.64458 0.973822,-3.19046 0.973822,-5.28125 0,-2.8298 -2.725958,-5.71875 -6.031414,-5.71875 z"
-       style="fill:#444444;fill-opacity:1"
-       id="path5" />
-    <rect
-       width="3.568"
-       height="6.052"
-       x="-209.84"
-       y="436.55"
-       rx="1.863"
-       ry="1.863"
-       transform="matrix(-0.95982607,-0.28059566,-0.29019891,0.95696635,0,0)"
-       style="fill:#444444;fill-opacity:1"
-       id="rect7" />
-  </g>
+ <g id="layer10" fill="#444" transform="translate(-61.0002,-467)">
+  <rect fill="#444" width="3.568" height="6.052" x="-77.76" y="475.24" rx="1.863" ry="1.863" transform="matrix(0.95982607,-0.28059566,0.29019891,0.95696635,0,0)"/>
+  <path fill="#444" d="m 68.968788,468 c -3.305456,0 -6.023914,3.00835 -5.968586,5.71875 0.04825,2.36557 0.808593,4.69547 1,5.28125 1.583096,0 0,0 1.525504,0 -1.16149,-2.29152 -1.049064,-5.1562 -1.049064,-5.1562 0,-2.37255 2.006651,-4.31249 4.492146,-4.3125 2.485496,0 4.499787,1.82687 4.492147,4.28125 -0.02342,1.67413 -0.171684,2.65858 -1.005236,5.1875 l 1.570681,0 c 0.224499,-0.64458 0.973822,-3.19046 0.973822,-5.28125 0,-2.8298 -2.725958,-5.71875 -6.031414,-5.71875 z"/>
+  <rect fill="#444" width="3.568" height="6.052" x="-209.84" y="436.55" rx="1.863" ry="1.863" transform="matrix(-0.95982607,-0.28059566,-0.29019891,0.95696635,0,0)"/>
+ </g>
 </svg>

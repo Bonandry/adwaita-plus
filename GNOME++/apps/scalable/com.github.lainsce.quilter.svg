@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" version="1.0">
+ <defs>
+  <linearGradient id="e" x1="43.844" x2="-60" y1="234" y2="234" gradientTransform="matrix(1.0015 0 0 .99993 72.09 -115.985)" gradientUnits="userSpaceOnUse">
+   <stop offset="0" stop-color="#d5d3cf"/>
+   <stop offset=".038" stop-color="#e3e2df"/>
+   <stop offset=".077" stop-color="#c0bfbc"/>
+   <stop offset=".923" stop-color="#c0bfbc"/>
+   <stop offset=".962" stop-color="#e3e2df"/>
+   <stop offset="1" stop-color="#d5d3cf"/>
+  </linearGradient>
+ </defs>
+ <rect width="104" height="48" x="12" y="68" rx="8" ry="8" style="fill:url(#e)"/>
+ <path d="m20 10c-4.432 0-8 3.568-8 8v84c0 4.432 3.568 8 8 8h88c4.432 0 8-3.568 8-8v-84c0-4.432-3.568-8-8-8z" style="fill:#f6f5f4"/>
+ <g transform="matrix(.94117647 0 0 .94117647 1.1716405 -157.59998)">
+  <rect width="70" height="6" x="19.92" y="197.41" style="fill:#c0bfbc"/>
+  <rect width="85" height="6" x="19.92" y="209.41" style="fill:#5e5c64"/>
+  <rect width="80" height="6" x="19.92" y="221.41" style="fill:#5e5c64"/>
+  <rect width="60" height="6" x="19.92" y="233.41" style="fill:#c0bfbc"/>
+  <rect width="70" height="6" x="19.92" y="245.41" style="fill:#c0bfbc"/>
+  <rect width="70" height="6" x="19.92" y="257.41" style="fill:#c0bfbc"/>
+ </g>
+ <rect width="5.271" height="23.102" x="104.57" y="36.2" ry="2.636" style="fill:#3584e4;opacity:.7"/>
+</svg>

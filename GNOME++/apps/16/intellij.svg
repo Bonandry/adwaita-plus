@@ -1,61 +1,6 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="16"
-   height="16"
-   version="1.1"
-   id="svg10"
-   sodipodi:docname="intellij-symbolic.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
-  <metadata
-     id="metadata16">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>
-  Gnome Symbolic Icon Theme
- </dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs14" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1313"
-     inkscape:window-height="980"
-     id="namedview12"
-     showgrid="false"
-     inkscape:zoom="14.75"
-     inkscape:cx="-5.3898305"
-     inkscape:cy="8"
-     inkscape:window-x="0"
-     inkscape:window-y="34"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg10" />
-  <title
-     id="title9167">
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
+ <title id="title9167">
   Gnome Symbolic Icon Theme
  </title>
-  <path
-     style="fill:#444444;fill-opacity:1;stroke-width:0.6000073"
-     d="M 0.50000063,0.49953694 V 15.5 H 15.5 V 0.49953694 Z M 3.199852,2.2995903 h 3.0000916 v 1.125209 H 5.3954261 v 3.89989 h 0.8045175 v 1.125209 H 3.199852 v -1.125209 h 0.9002589 v -3.89989 H 3.199852 Z m 6.7503233,0 H 11.29987 v 3.975182 c 0,0.374406 1.08e-4,0.9751 -0.449898,1.575107 -0.315005,0.420006 -1.0497541,0.749673 -1.724763,0.749673 -1.1250123,0 -1.7227744,-0.658607 -1.9501753,-0.92861 l 0.8468095,-0.963005 c 0.1530008,0.169214 0.5783597,0.616752 1.1033658,0.616752 0.6750089,0 0.8249663,-0.674914 0.8249663,-1.049917 z M 2.300057,12.799685 h 5.4001668 v 0.900259 H 2.300057 Z"
-     id="path840"
-     inkscape:connector-curvature="0" />
+ <path fill="#444" d="M 0.50000063,0.49953694 V 15.5 H 15.5 V 0.49953694 Z M 3.199852,2.2995903 h 3.0000916 v 1.125209 H 5.3954261 v 3.89989 h 0.8045175 v 1.125209 H 3.199852 v -1.125209 h 0.9002589 v -3.89989 H 3.199852 Z m 6.7503233,0 H 11.29987 v 3.975182 c 0,0.374406 1.08e-4,0.9751 -0.449898,1.575107 -0.315005,0.420006 -1.0497541,0.749673 -1.724763,0.749673 -1.1250123,0 -1.7227744,-0.658607 -1.9501753,-0.92861 l 0.8468095,-0.963005 c 0.1530008,0.169214 0.5783597,0.616752 1.1033658,0.616752 0.6750089,0 0.8249663,-0.674914 0.8249663,-1.049917 z M 2.300057,12.799685 h 5.4001668 v 0.900259 H 2.300057 Z"/>
 </svg>

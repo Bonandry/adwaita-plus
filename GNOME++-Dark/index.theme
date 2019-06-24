@@ -1,15 +1,21 @@
 [Icon Theme]
 Name = GNOME++ Dark
 Name[it] = GNOME++ Scuro
+Name[pt] = GNOME++ Escuro
+Name[pt_BR] = GNOME++ Escuro
+Name[pt_PT] = GNOME++ Escuro
 
 Comment = Designed for users with dark environment 
 Comment[it] = Progettato per utenti con l’ambiente grafico scuro
+Comment[pt] = Designado para utilizadores do ambiente gráfico escuro
+Comment[pt_BR] = Designado para usuários do ambiente gráfico escuro
+Comment[pt_PT] = Designado para utilizadores do ambiente gráfico escuro
 
 DisplayDepth=32
 Encoding=UTF-8
 Example=folder
 
-Inherits=GNOME++,Suru
+Inherits=GNOME++,Adwaita,Suru,gnome,hicolor
 
 DesktopDefault=48
 DesktopSizes=16,22,32,48,64,128,256

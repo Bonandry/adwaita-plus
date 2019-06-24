@@ -1,8 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 22 22">
- <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#e6ddff; }
-  </style>
- </defs>
- <path style="fill:currentColor" class="ColorScheme-Text" d="M 11 3 A 8 8 0 0 0 3 11 L 3 19 L 4 19 L 4 17 L 6 19 L 7 19 L 7 13 L 6 13 L 4 15 L 4 11 A 7 7 0 0 1 11 4 A 7 7 0 0 1 18 11 L 18 15 L 16 13 L 15 13 L 15 19 L 16 19 L 18 17 L 18 19 L 19 19 L 19 11 A 8 8 0 0 0 11 3 z"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
+ <title id="title9167">
+  Gnome Symbolic Icon Theme
+ </title>
+ <g id="layer10" fill="#e6ddff" transform="translate(-61.0002,-467)">
+  <rect fill="#e6ddff" width="3.568" height="6.052" x="-77.76" y="475.24" rx="1.863" ry="1.863" transform="matrix(0.95982607,-0.28059566,0.29019891,0.95696635,0,0)"/>
+  <path fill="#e6ddff" d="m 68.968788,468 c -3.305456,0 -6.023914,3.00835 -5.968586,5.71875 0.04825,2.36557 0.808593,4.69547 1,5.28125 1.583096,0 0,0 1.525504,0 -1.16149,-2.29152 -1.049064,-5.1562 -1.049064,-5.1562 0,-2.37255 2.006651,-4.31249 4.492146,-4.3125 2.485496,0 4.499787,1.82687 4.492147,4.28125 -0.02342,1.67413 -0.171684,2.65858 -1.005236,5.1875 l 1.570681,0 c 0.224499,-0.64458 0.973822,-3.19046 0.973822,-5.28125 0,-2.8298 -2.725958,-5.71875 -6.031414,-5.71875 z"/>
+  <rect fill="#e6ddff" width="3.568" height="6.052" x="-209.84" y="436.55" rx="1.863" ry="1.863" transform="matrix(-0.95982607,-0.28059566,-0.29019891,0.95696635,0,0)"/>
+ </g>
 </svg>

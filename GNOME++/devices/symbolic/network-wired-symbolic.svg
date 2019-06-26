@@ -1,21 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg id="svg7384" width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
- <metadata id="metadata90">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title>Gnome Symbolic Icon Theme</dc:title>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <title id="title9167">Gnome Symbolic Icon Theme</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
+ <title id="title9167">
+  Gnome Symbolic Icon Theme
+ </title>
  <g id="layer10" transform="translate(-61 -567)">
-  <rect id="rect8421" x="61" y="578" width="5" height="4.9375" ry="0" style="color:#bebebe;fill:#bebebe"/>
-  <rect id="rect8425" x="71" y="578" width="5" height="5" ry="0" style="color:#bebebe;fill:#bebebe"/>
-  <path id="path8427" d="m63.031 575v3.5312h1v-2.5312h8.9688v2.5312h1v-3.5312h-10.969z" style="block-progression:tb;color-rendering:auto;color:#000000;fill:#bebebe;image-rendering:auto;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"/>
-  <path id="path9198" d="m68 572v3.5h1v-3.5h-1z" style="block-progression:tb;color-rendering:auto;color:#000000;fill:#bebebe;image-rendering:auto;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"/>
-  <rect id="rect9200" x="66" y="568" width="5" height="5" ry="0" style="color:#bebebe;fill:#bebebe"/>
+  <rect fill="#444" width="5" height="4.938" x="61" y="578" ry="0"/>
+  <rect fill="#444" width="5" height="5" x="71" y="578" ry="0"/>
+  <path fill="#444" d="m63.031 575v3.5312h1v-2.5312h8.9688v2.5312h1v-3.5312h-10.969z"/>
+  <path fill="#444" d="m68 572v3.5h1v-3.5h-1z"/>
+  <rect fill="#444" width="5" height="5" x="66" y="568" ry="0"/>
  </g>
 </svg>

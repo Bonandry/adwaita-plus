@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" width="16" height="16" version="1.1" viewBox="0 0 16 16">
+ <path fill="#3584E4" d="m 12,10 v 2 h -2 v 2 h 2 v 2 h 2 v -2 h 2 v -2 h -2 v -2 z"/>
+ <path fill="#3584E4" d="m 0,10 v 3 h 9 v -3 z"/>
+ <path fill="#e6ddff" fill-rule="evenodd" d="m 4,2 h 2 v 4 h 1 v -2 h 2 v 2 h 1 v -2 h 2 v 2 h 1 v -4 h 2 v 4 h 1 v 2 h -16 v -2 h 1 v -2 h 2 v 2 h 1 z" clip-rule="evenodd"/>
+ <defs>
+  <clipPath id="clip0">
+   <rect fill="#fff" width="16" height="16"/>
+  </clipPath>
+ </defs>
+</svg>

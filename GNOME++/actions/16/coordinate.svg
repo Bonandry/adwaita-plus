@@ -4,5 +4,5 @@
    .ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#4285f4; }
   </style>
  </defs>
- <path d="M 5.078125,1 5,11 H 15 M 1.7,14.3 5,11 v 0" style="fill:none;stroke:currentColor;stroke-width:2" class="ColorScheme-Text"/>
+ <path style="fill:none;stroke:currentColor;stroke-width:2" class="ColorScheme-Text" d="M 5.078125,1 5,11 H 15 M 1.7,14.3 5,11 v 0"/>
 </svg>

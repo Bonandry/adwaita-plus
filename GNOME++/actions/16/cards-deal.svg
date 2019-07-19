@@ -1,8 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 24 24">
- <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#444444; }
-  </style>
- </defs>
- <path style="fill:currentColor" class="ColorScheme-Text" d="M 11.466617,3.4490897 V 16.448707 l -3.5943371,-3.594335 -1.108304,1.108304 5.1618831,5.161883 0.324531,0.324531 0.324531,-0.324531 5.161883,-5.161883 -1.108304,-1.108304 -3.594337,3.594335 V 3.4490897 Z"/>
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0)">
+<path d="M7 1H9V13.46L8 14.8L7 13.4336V1Z" fill="#444444"/>
+<rect x="3.23999" y="8.39999" width="2" height="7" transform="rotate(-36.7068 3.23999 8.39999)" fill="#444444"/>
+<path d="M12.7875 8.39999L11.1841 7.20455L7.00003 12.8165L8.59 14.0119L12.7875 8.39999Z" fill="#444444"/>
+</g>
+<defs>
+<clipPath id="clip0">
+<rect width="16" height="16" fill="white"/>
+</clipPath>
+</defs>
 </svg>

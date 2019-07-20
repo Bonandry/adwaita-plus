@@ -1,16 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" width="16" height="16" version="1.1">
- <title id="title9167">
-  Gnome Symbolic Icon Theme
- </title>
- <defs>
-  <linearGradient id="linearGradient19282" gradientTransform="matrix(-2.7365795,0.28202934,-0.18908311,-0.99988321,239.54008,-879.45557)" osb:paint="solid">
-   <stop id="stop19284" offset="0" style="stop-color:#666666"/>
-  </linearGradient>
- </defs>
- <g id="layer12" transform="translate(-41.000401,-867)">
-  <rect width="6" height="2" x="49" y="871" style="fill:#444444"/>
-  <rect width="6" height="2" x="49" y="876.98" style="fill:#444444"/>
-  <rect width="4" height="4" x="43" y="870" rx=".385" ry=".379" style="fill:#444444"/>
-  <rect width="4" height="3.979" x="43" y="876" rx=".385" ry=".379" style="fill:#444444"/>
- </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
+ <path style="fill:#444444" d="M 8,10 H 14 V 12 H 8 Z"/>
+ <path style="fill:#444444" d="M 8,4 H 14 V 6 H 8 Z"/>
+ <path style="fill:#444444" d="M 2.25,3 H 5.75 C 5.8885,3 6,3.1115 6,3.25 V 6.75 C 6,6.8885 5.8885,7 5.75,7 H 2.25 C 2.1115,7 2,6.8885 2,6.75 V 3.25 C 2,3.1115 2.1115,3 2.25,3 Z"/>
+ <path style="fill:#444444" d="M 2.25,9 H 5.75 C 5.8885,9 6,9.1115 6,9.25 V 12.75 C 6,12.889 5.8885,13 5.75,13 H 2.25 C 2.1115,13 2,12.889 2,12.75 V 9.25 C 2,9.1115 2.1115,9 2.25,9 Z"/>
 </svg>

@@ -84,31 +84,31 @@ You will receive daily or weekly the latest commits directly from this repositor
 ### ROOT directory (recommended)
 
 ```
-wget -qO- https://raw.githubusercontent.com/Bonandry/gnome-plus/master/install.sh | TAG=beta sh
+wget -qO- https://raw.githubusercontent.com/Bonandry/gnome-plus/beta/install.sh | TAG=beta sh
 ```
 
 ### HOME directory for GTK
 
 ```
-wget -qO- https://raw.githubusercontent.com/Bonandry/gnome-plus/master/install.sh | TAG=beta env DESTDIR="$HOME/.icons" sh
+wget -qO- https://raw.githubusercontent.com/Bonandry/gnome-plus/beta/install.sh | TAG=beta env DESTDIR="$HOME/.icons" sh
 ```
 
 ### HOME directory for KDE
 
 ```
-wget -qO- https://raw.githubusercontent.com/Bonandry/gnome-plus/master/install.sh | TAG=beta env DESTDIR="$HOME/.local/share/icons" sh
+wget -qO- https://raw.githubusercontent.com/Bonandry/gnome-plus/beta/install.sh | TAG=beta env DESTDIR="$HOME/.local/share/icons" sh
 ```
 
 ### \*BSD systems
 
 ```
-wget -qO- https://raw.githubusercontent.com/Bonandry/gnome-plus/master/install.sh | TAG=beta env DESTDIR="/usr/local/share/icons" sh
+wget -qO- https://raw.githubusercontent.com/Bonandry/gnome-plus/beta/install.sh | TAG=beta env DESTDIR="/usr/local/share/icons" sh
 ```
 
 ### Uninstall
 
 ```
-wget -qO- https://raw.githubusercontent.com/Bonandry/gnome-plus/master/install.sh | TAG=beta env uninstall=true sh
+wget -qO- https://raw.githubusercontent.com/Bonandry/gnome-plus/beta/install.sh | TAG=beta env uninstall=true sh
 ```
 
 # Alternative icons of Firefox

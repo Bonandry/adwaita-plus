@@ -1,34 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="15.974" version="1.1">
- <title id="title9167">
-  Gnome Symbolic Icon Theme
- </title>
- <g id="layer12" transform="translate(-281.0002,-767)">
-  <rect width="1" height="1" x="282" y="768" style="fill:#444444"/>
-  <rect width="1" height="1" x="284" y="768" style="fill:#444444"/>
-  <rect width="1" height="1" x="286" y="768" style="fill:#444444"/>
-  <rect width="1" height="1" x="288" y="768" style="fill:#444444"/>
-  <rect width="1" height="1" x="290" y="768" style="fill:#444444"/>
-  <rect width="1" height="1" x="292" y="768" style="fill:#444444"/>
-  <rect width="1" height="1" x="294" y="768" style="fill:#444444"/>
-  <rect width="1" height="1" x="294" y="770" style="fill:#444444"/>
-  <rect width="1" height="1" x="294" y="772" style="fill:#444444"/>
-  <rect width="1" height="1" x="294" y="774" style="fill:#444444"/>
-  <rect width="1" height="1" x="294" y="776" style="fill:#444444"/>
-  <rect width="1" height="1" x="294" y="778" style="fill:#444444"/>
-  <rect width="1" height="1" x="294" y="780" style="fill:#444444"/>
-  <rect width="1" height="1" x="292" y="780" style="fill:#444444"/>
-  <rect width="1" height="1" x="290" y="780" style="fill:#444444"/>
-  <rect width="1" height="1" x="288" y="780" style="fill:#444444"/>
-  <rect width="1" height="1" x="286" y="780" style="fill:#444444"/>
-  <rect width="1" height="1" x="284" y="780" style="fill:#444444"/>
-  <rect width="1" height="1" x="282" y="780" style="fill:#444444"/>
-  <rect width="1" height="1" x="282" y="778" style="fill:#444444"/>
-  <rect width="1" height="1" x="282" y="776" style="fill:#444444"/>
-  <rect width="1" height="1" x="282" y="774" style="fill:#444444"/>
-  <rect width="1" height="1" x="282" y="772" style="fill:#444444"/>
-  <rect width="1" height="1" x="282" y="770" style="fill:#444444"/>
-  <rect width="4" height="4" x="284" y="775.1" style="fill:#444444"/>
-  <rect width="4" height="4" x="289" y="775.1" style="fill:#444444"/>
-  <rect width="9" height="4" x="284" y="770" style="fill:#444444"/>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" width="16" height="16" viewBox="0 0 16 16">
+ <g clip-path="url(#clip0)">
+  <path fill="#444" d="M2 1C2 1 1 1.0186 1 2V3H3V1H2ZM5 1V3H7V1H5ZM9 1V3H11V1H9ZM13 1V3H15V2C15 1.01859 14 1 14 1H13ZM4 4V8H12V4H4ZM1 5V7H3V5H1ZM13 5V7H15V5H13ZM1 9V11H3V9H1ZM13 9V11H15V9H13ZM9 9V12H12V9H9ZM1 13V14C1 14.9814 2 15 2 15H3V13H1ZM5 13V15H7V13H5ZM9 13V15H11V13H9ZM13 13V15H14C14 15 15 14.9814 15 14V13H13Z"/>
+  <path fill="#444" d="M4 12V9H7V12H4Z"/>
  </g>
+ <defs>
+  <clipPath id="clip0">
+   <rect fill="#fff" width="16" height="16"/>
+  </clipPath>
+ </defs>
 </svg>

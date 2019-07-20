@@ -1,8 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" width="16" height="16" viewBox="0 0 16 16">
+ <g clip-path="url(#clip0)">
+  <rect fill="#444" width="5" height="5" y="11"/>
+  <rect fill="#444" width="5" height="5" x="11"/>
+  <path fill="#444" fill-rule="evenodd" d="M15.8839 1.88389L1.88386 15.8839L0.116089 14.1161L14.1161 0.116119L15.8839 1.88389Z" clip-rule="evenodd"/>
+ </g>
  <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#4285f4; }
-  </style>
+  <clipPath id="clip0">
+   <rect fill="#fff" width="16" height="16"/>
+  </clipPath>
  </defs>
- <path style="fill:currentColor" class="ColorScheme-Text" d="m11 1v1 2.3125l-6.6875 6.6875h-2.3125-1v4h4v-1-2.312l6.688-6.688h3.312v-4h-4z"/>
 </svg>

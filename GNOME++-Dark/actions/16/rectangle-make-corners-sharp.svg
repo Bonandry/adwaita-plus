@@ -1,11 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
- <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#e6ddff; } .ColorScheme-Highlight { color:#f34f17; }
-  </style>
- </defs>
- <g transform="translate(-421.71-531.79)">
-  <path fill="#e6ddff" class="ColorScheme-Text" d="m423.71 533.79v1h2c4.971 0 9 4.03 9 9v2h1v-2c0-5.523-4.477-10-10-10z"/>
-  <path fill="#e6ddff" class="ColorScheme-Highlight" d="m423.71 533.79v1h11v11h1v-12z"/>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" width="16" height="16" viewBox="0 0 16 16">
+ <g clip-path="url(#clip0)">
+  <rect fill="#e6ddff" width="16" height="2"/>
+  <rect fill="#e6ddff" width="2" height="16" x="14"/>
+  <path fill="#e6ddff" fill-rule="evenodd" d="M10.1476 6.18922C8.40886 4.34176 5.37721 3.47369 0 3.47368V2C5.42981 2 9.02974 2.85122 11.2208 5.17921C13.4009 7.49563 14 11.0842 14 16H12.5263C12.5263 11.0912 11.8973 8.04823 10.1476 6.18922Z" clip-rule="evenodd"/>
  </g>
+ <defs>
+  <clipPath id="clip0">
+   <rect fill="#fff" width="16" height="16"/>
+  </clipPath>
+ </defs>
 </svg>

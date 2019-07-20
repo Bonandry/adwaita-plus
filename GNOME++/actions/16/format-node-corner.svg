@@ -1,8 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" width="16" height="16" viewBox="0 0 16 16">
+ <g clip-path="url(#clip0)">
+  <rect fill="#444" width="5" height="5" x=".5" y="11" rx=".5"/>
+  <rect fill="#444" width="5" height="5" x="11" y="1" rx=".5"/>
+  <rect fill="#444" width="2" height="10" x="2" y="1.5"/>
+  <rect fill="#444" width="10" height="2" x="2" y="2.5"/>
+  <circle fill="#444" cx="3" cy="3.5" r="3"/>
+ </g>
  <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#4285f4; }
-  </style>
+  <clipPath id="clip0">
+   <rect fill="#fff" width="16" height="16"/>
+  </clipPath>
  </defs>
- <path style="fill:currentColor" class="ColorScheme-Text" d="M 2.5 1 C 1.67157 1 1 1.67157 1 2.5 C 1.00089 3.1349 1.40141 3.7005094 2 3.9121094 L 2 12 L 1 12 L 1 15 L 4 15 L 4 12 L 3 12 L 3 3.9121094 C 3.42591 3.7609994 3.7609994 3.42591 3.9121094 3 L 12 3 L 12 4 L 15 4 L 15 1 L 12 1 L 12 2 L 3.9121094 2 C 3.7004794 1.40141 3.13489 1.00089 2.5 1 z"/>
 </svg>

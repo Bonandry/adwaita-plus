@@ -1,8 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 22 22">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" width="16" height="16" viewBox="0 0 16 16">
+ <g clip-path="url(#clip0)">
+  <rect fill="#e6ddff" width="6" height="8" x="2" y="2"/>
+  <rect fill="#e6ddff" width="5" height="8" x="8" y="2"/>
+  <rect fill="#e6ddff" width="2" height="2" y="5"/>
+  <rect fill="#e6ddff" width="3" height="2" x="13" y="5"/>
+ </g>
  <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#e6ddff; } .ColorScheme-NegativeText { color:#da4453; }
-  </style>
+  <clipPath id="clip0">
+   <rect fill="#fff" width="16" height="16"/>
+  </clipPath>
  </defs>
- <path style="fill:#e6ddff" d="m 4,9 v 3 H 0 v 1 h 4 v 3 h 7 V 9 Z m 7,0 v 7 h 7 v -3 h 4 V 12 H 18 V 9 Z"/>
 </svg>

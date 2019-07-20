@@ -1,7 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
- <g transform="translate(0,-6)">
-  <rect width="5.333" height="16" x="0" y="6" rx="0" ry="0" style="fill:#fdbc4b"/>
-  <rect style="fill:#f67400" width="5.333" height="16" x="5.33" y="6" rx="0" ry="0"/>
-  <path style="fill:#ed1515" d="m 10.667187,6 0,16 L 16,22 16,12.132812 10.676562,6.0546875 10.723438,6 10.667187,6 Z"/>
- </g>
+ <rect style="fill:#f6d32d" width="5.333" height="16" x="0" y="0" rx="0" ry="0"/>
+ <rect style="fill:#ff7800" width="5.333" height="16" x="5.33" y="0" rx="0" ry="0"/>
+ <path style="fill:#ed333b" d="m 10.667187,0 v 16 h 5.332813 v -9.867188 l -5.323438,-6.0781245 0.046876,-0.0546875 z"/>
 </svg>

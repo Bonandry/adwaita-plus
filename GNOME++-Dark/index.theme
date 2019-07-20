@@ -258,8 +258,8 @@ Type=Fixed
 
 [categories/scalable]
 Context=Categories
-Size=512
-MinSize=1
+Size=64
+MinSize=64
 MaxSize=512
 Type=Scalable
 

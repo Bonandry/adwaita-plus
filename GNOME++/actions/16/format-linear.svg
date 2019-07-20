@@ -1,6 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
- <g transform="translate(-31.97559,-220.36218)">
-  <rect width="14" height="14" x="1.02" y="1" transform="translate(31.97559,220.36218)" style="fill:#444444;opacity:.25"/>
-  <path d="m45.88184 221.86218a0.50005 0.50005 0 0 0-0.25 0.15625l-12 12a0.50005 0.50005 0 1 0 0.71875 0.6875l12-12a0.50005 0.50005 0 0 0-0.46875-0.84375z" style="fill:#444444"/>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" width="16" height="16" viewBox="0 0 16 16">
+ <g clip-path="url(#clip0)">
+  <rect fill="#444" opacity=".4" width="16" height="16" rx="1"/>
+  <path fill="#444" d="M16 1.41422V0.999994C16 0.447709 15.5523 -6.31809e-06 15 -6.31809e-06H14.5858L7.62939e-06 14.5858V15C7.62939e-06 15.5523 0.447723 16 1.00001 16H1.41422L16 1.41422Z"/>
  </g>
+ <defs>
+  <clipPath id="clip0">
+   <rect fill="#fff" width="16" height="16"/>
+  </clipPath>
+ </defs>
 </svg>

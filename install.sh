@@ -5,7 +5,7 @@ set -e
 # these variables can be overwritten
 : "${DESTDIR:=/usr/share/icons}"
 : "${TAG:=master}"
-: "${THEMES:=GNOME++ GNOME++-Colorful GNOME++-Dark}"
+: "${THEMES:=GNOME++ GNOME++-Colorful GNOME++-Dark GNOME++ Light}"
 : "${uninstall:=false}"
 
 gh_url="https://github.com/Bonandry"
@@ -158,6 +158,8 @@ _install() {
         _sudo cp -f \
             "$temp_dir/$gh_repo-$tag/AUTHORS" \
             "$temp_dir/$gh_repo-$tag/COPYING" \
+            "$temp_dir/$gh_repo-$tag/COPYING_CCBYSA3" \
+            "$temp_dir/$gh_repo-$tag/COPYING_LGPL" \
             "$temp_dir/$gh_repo-$tag/CREDITS" \
             "$temp_dir/$gh_repo-$tag/LICENSE" \
             "$DESTDIR/$theme" || true

@@ -1,7 +1,56 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1">
- <g fill="#c2352a" transform="matrix(.036253 0 0 .039410 .00003586 -.69673)">
-  <g>
-   <path transform="matrix(27.583924,0,0,25.37427,-9.8915952e-4,17.679015)" d="M 4.6152344 0 C 2.0658509 0 0 2.3527391 0 5.2539062 C 0 6.0333966 0.12009621 6.7817307 0.33203125 7.4980469 C 0.33203125 7.4980469 0.52506841 8.1461596 0.6953125 8.5019531 C 2.6410473 13.051049 8 16 8 16 C 8 16 13.358953 13.051049 15.304688 8.5019531 C 15.474932 8.1461596 15.667969 7.4980469 15.667969 7.4980469 C 15.879904 6.7817307 16 6.0333966 16 5.2539062 C 16 2.3527391 13.934149 0 11.384766 0 C 10.047755 -5.9211895e-16 8.8432448 0.96631511 8 2 C 7.1567552 0.96631511 5.952245 -5.9211895e-16 4.6152344 0 z"/>
-  </g>
- </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0alpha2 (883c7bc, 2019-06-02)"
+   sodipodi:docname="emote-love.svg"
+   id="svg8"
+   version="1"
+   height="16"
+   width="16">
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     inkscape:current-layer="svg8"
+     inkscape:window-maximized="1"
+     inkscape:window-y="30"
+     inkscape:window-x="0"
+     inkscape:cy="8"
+     inkscape:cx="8"
+     inkscape:zoom="48.90984848"
+     showgrid="false"
+     id="namedview10"
+     inkscape:window-height="979"
+     inkscape:window-width="2560"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     inkscape:document-rotation="0"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <path
+     inkscape:label="heart"
+     inkscape:connector-curvature="0"
+     id="path2"
+     d="m 4.6152344,0 c -2.5493835,0 -4.6152344,2.3527391 -4.6152344,5.2539062 0,0.7794904 0.12009621,1.5278245 0.33203125,2.2441407 0,0 0.19303716,0.6481127 0.36328125,1.0039062 1.9457348,4.5490959 7.3046875,7.4980469 7.3046875,7.4980469 0,0 5.358953,-2.948951 7.304688,-7.4980469 0.170244,-0.3557935 0.363281,-1.0039062 0.363281,-1.0039062 0.211935,-0.7163162 0.332031,-1.4646503 0.332031,-2.2441407 0,-2.9011671 -2.065851,-5.2539062 -4.615234,-5.2539062 -1.337011,0 -2.5415212,0.96631511 -3.384766,2 -0.8432448,-1.03368489 -2.047755,-2 -3.3847656,-2 z"
+     style="opacity:1;fill:#e01b24;stop-opacity:1" />
 </svg>

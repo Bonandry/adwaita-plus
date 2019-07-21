@@ -1,17 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg id="svg7384" width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
- <metadata id="metadata90">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title>Gnome Symbolic Icon Theme</dc:title>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <title id="title9167">Gnome Symbolic Icon Theme</title>
- <g id="g71291" transform="translate(-461 -519)">
-  <path id="path87316" d="m469 520c-3.866 0-7 3.134-7 7s3.134 7 7 7 7-3.134 7-7-3.134-7-7-7zm-4 4.125s0.47388 0.83875 1.25 0.84375h1.75v1.0312c0 0.55616-0.66683 1-1.5 1-0.83315 0-1.5-0.44384-1.5-1zm8 0v1.875c0 0.55616-0.66685 1-1.5 1-0.83317 0-1.5-0.44384-1.5-1v-1.0312h1.7188c0.77612-5e-3 1.2812-0.84375 1.2812-0.84375zm-3.9688 3.875c3.2558 0 3 0.38381 3 0.76164v0.26609h-6.0312v-0.28818c0-0.34953-0.2246-0.73955 3.0312-0.73955z" style="fill:#444444"/>
- </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1">
+ <path style="fill:#d4453a" d="M 8,1 C 4.122,1 1,4.122 1,8 c 0,3.878 3.122,7 7,7 3.878,0 7,-3.122 7,-7 C 15,4.122 11.878,1 8,1 Z"/>
+ <path style="fill:#3f3f3f" d="M 6.8398753,6.6866307 C 7.2607724,6.2688047 6.7658626,6.00689 6.3449659,5.5890643 5.9240689,5.1712382 5.7365696,4.7557228 5.3156725,5.173549 c -0.4208967,0.4178259 -0.4208967,1.0952557 0,1.5130817 0.4208971,0.4178257 1.1033058,0.4178257 1.5242028,0 z"/>
+ <path style="fill:none;stroke:#3f3f3f;stroke-linecap:round;stroke-linejoin:round" d="m 5.05,11.696 c 0,0 0.85,-1.199707 2.95,-1.199707 2.1,0 2.95,1.199707 2.95,1.199707 v 0 0"/>
+ <path style="fill:#3f3f3f" d="M 9.1601253,6.6866307 C 8.739228,6.2688047 9.2341353,6.00689 9.6550353,5.5890643 10.075932,5.1712382 10.263431,4.7557228 10.684328,5.173549 c 0.420896,0.4178259 0.420896,1.0952557 0,1.5130817 -0.420897,0.4178257 -1.1033057,0.4178257 -1.5242027,0 z"/>
 </svg>

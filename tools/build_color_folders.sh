@@ -38,10 +38,10 @@ else
 	exit 128
 fi
 
-DEFAULT_COLOR="blue"
-SIZES_REGEX="(16|64)"
+DEFAULT_COLOR="adwaita"
+SIZES_REGEX="(16|scalable)"
 MONOCHROME_SIZES_REGEX="(16)"
-COLOR_SIZES_REGEX="(64)"
+COLOR_SIZES_REGEX="(scalable)"
 FILES_REGEX="(folder|user)-"
 
 declare -A COLORS
@@ -53,28 +53,26 @@ COLORS=(
 	#
 	# | name      | [0]   | [1]   | [2]   |
 	# |-----------|-------|-------|-------|
-	[blue]="       #37a6e6 #1463a5 #b8dff6"
+	# official Adwaita colours
+	[adwaita]="    #c9b8a7 #a89888 #908478"
+	[blue]="       #62a0ea #3584e4 #1c71d8"
+	[brown]="      #b5835a #986a44 #63452c"
+	[green]="      #57e389 #33d17a #2ec27e"
+	[grey]="       #c0bfbc #9a9996 #77767b"
+	[orange]="     #ffa348 #ff7800 #e66100"
+	[red]="        #f66151 #ed333b #a51d2d"
+	[purple]="     #8f76e4 #7839b7 #d7cff5"
+	[yellow]="     #f8e45c #f6d32d #e5a50a"
+	# unofficial colours
 	[aubergine]="  #a0649a #4f1748 #ddc8db"
 	[black]="      #1a1a1a #333333 #aeaeae"
 	[bluegrey]="   #78909c #455a64 #cfd8dc"
 	[bordeaux]="   #c2655b #7f372f #edd3d0"
-	[brown]="      #ae8e6c #957552 #e2d7cb"
 	[canonical]="  #853e64 #4c1a35 #ddcad4"
-	[cyan]="       #31c6b7 #2b898f #b6ebe6"
-	[green]="      #76c22b #28851e #cfe9b4"
-	[grey]="       #999999 #666666 #dbdbdb"
 	[indigo]="     #5c6bc0 #3f51b5 #b6bde3"
-	[magenta]="    #f74761 #c61b34 #fcbec7"
 	[manjaro]="    #16a085 #12816b #a6dbd1"
 	[mint]="       #7aaf65 #579140 #d0e3c9"
-	[orange]="     #fb7c38 #f34f17 #fdd1b9"
-	[pink]="       #f06292 #ec407a #f9c3d6"
-	[red]="        #f22c42 #bc1938 #fab4bc"
-	[teal]="       #26a69a #00796b #b2dfdb"
-	[vermillion]=" #f76363 #991f15 #fac3ba"
-	[violet]="     #8f76e4 #7839b7 #d7cff5"
 	[white]="      #ececec #b3b3b3 #4c5561"
-	[yellow]="     #fdc92b #eab305 #33290c"
 	[custom]="     #value_light #value_dark #323232"
 )
 

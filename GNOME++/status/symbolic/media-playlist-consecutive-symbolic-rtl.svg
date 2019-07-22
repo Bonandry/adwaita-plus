@@ -3,9 +3,9 @@
   Gnome Symbolic Icon Theme
  </title>
  <g id="layer9" transform="translate(-180.99995,-277)">
-  <path d="m 183,284 0,2 12.96875,0 0,-2 L 183,284 z" style="fill:#bebebe"/>
-  <path d="m 184.875,282 a 1.0001,1.0001 0 0 0 -0.59375,0.28125 l -2,2 -0.6875,0.71875 0.6875,0.71875 2,2 a 1.016466,1.016466 0 1 0 1.4375,-1.4375 L 184.4375,285 l 1.28125,-1.28125 A 1.0001,1.0001 0 0 0 184.875,282 z" style="fill:#bebebe"/>
-  <rect width="1" height="1" x="-186" y="282" transform="scale(-1,1)" style="fill:#bebebe"/>
-  <rect width="1" height="1" x="-186" y="287" transform="scale(-1,1)" style="fill:#bebebe"/>
+  <path fill="#444" d="m 183,284 0,2 12.96875,0 0,-2 L 183,284 z"/>
+  <path fill="#444" d="m 184.875,282 a 1.0001,1.0001 0 0 0 -0.59375,0.28125 l -2,2 -0.6875,0.71875 0.6875,0.71875 2,2 a 1.016466,1.016466 0 1 0 1.4375,-1.4375 L 184.4375,285 l 1.28125,-1.28125 A 1.0001,1.0001 0 0 0 184.875,282 z"/>
+  <rect fill="#444" width="1" height="1" x="-186" y="282" transform="scale(-1,1)"/>
+  <rect fill="#444" width="1" height="1" x="-186" y="287" transform="scale(-1,1)"/>
  </g>
 </svg>

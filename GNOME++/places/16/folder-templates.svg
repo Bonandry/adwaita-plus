@@ -1,24 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
- <title id="title9167">
-  Gnome Symbolic Icon Theme
- </title>
- <g id="layer13" transform="translate(-561,-195.00012)">
-  <rect width="1" height="1" x="564" y="204" style="fill:#444444;fill-rule:evenodd"/>
-  <rect width="1" height="1" x="563" y="205" style="fill:#444444;fill-rule:evenodd"/>
-  <rect width="1" height="1" x="564" y="206" style="fill:#444444;fill-rule:evenodd"/>
-  <rect width="1" height="1" x="563" y="207" style="fill:#444444;fill-rule:evenodd"/>
-  <rect width="1" height="1" x="564" y="208" style="fill:#444444;fill-rule:evenodd"/>
-  <rect width="1" height="1" x="563" y="209" style="fill:#444444;fill-rule:evenodd"/>
-  <rect width="1" height="1" x="565" y="209" style="fill:#444444;fill-rule:evenodd"/>
-  <rect width="1" height="1" x="567" y="209" style="fill:#444444;fill-rule:evenodd"/>
-  <rect width="1" height="1" x="569" y="209" style="fill:#444444;fill-rule:evenodd"/>
-  <rect width="1" height="1" x="571" y="209" style="fill:#444444;fill-rule:evenodd"/>
-  <path d="m 563.8127,196 c -0.4584,0.0875 -0.82072,0.5334 -0.8125,1 l 0,8 2,0 0,-7 5,0 0,3 3,0 0,7.99746 2,0 0,-8.43496 c 0.006,-0.26406 -0.0976,-0.52897 -0.28125,-0.71875 l -3.5625,-3.5625 C 570.96667,196.09754 570.70176,195.99388 570.4377,196 l -6.4375,0 c -0.0312,-0.001 -0.0625,-0.001 -0.0937,0 -0.0312,-0.001 -0.0625,-0.001 -0.0937,0 z" style="fill:#444444"/>
-  <rect width="1" height="1" x="564" y="210" style="fill:#444444;fill-rule:evenodd"/>
-  <rect width="1" height="1" x="566" y="210" style="fill:#444444;fill-rule:evenodd"/>
-  <rect width="1" height="1" x="568" y="210" style="fill:#444444;fill-rule:evenodd"/>
-  <rect width="1" height="1" x="570" y="210" style="fill:#444444;fill-rule:evenodd"/>
-  <rect width="1" height="1" x="572" y="210" style="fill:#444444;fill-rule:evenodd"/>
-  <rect width="1" height="1.188" x="573" y="208.81" style="fill:#444444;fill-rule:evenodd"/>
- </g>
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#4285f4; }
+  </style>
+ </defs>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="M 3,1 C 2.446,1 2,1.446 2,2 V 11 H 3 V 10 H 4 V 3 H 9 V 6 H 12 V 14 15 H 13 V 14 H 14 V 5 L 10,1 Z M 13,15 V 16 H 14 V 15 Z M 12,15 H 11 V 16 H 12 Z M 11,15 V 14 H 10 V 15 Z M 10,15 H 9 V 16 H 10 Z M 9,15 V 14 H 8 V 15 Z M 8,15 H 7 V 16 H 8 Z M 7,15 V 14 H 6 V 15 Z M 6,15 H 5 V 16 H 6 Z M 5,15 V 14 H 4 V 15 Z M 4,15 H 3 V 16 H 4 Z M 3,15 V 14 H 2 V 15 Z M 3,14 H 4 V 13 H 3 Z M 3,13 V 12 H 2 V 13 Z M 3,12 H 4 V 11 H 3 Z"/>
 </svg>

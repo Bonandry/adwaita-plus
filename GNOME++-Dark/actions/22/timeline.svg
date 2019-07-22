@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1">
  <defs>
   <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color: #e6ddff; } .ColorScheme-Highlight { color: #3daee9; } .ColorScheme-Background { color: #eff0f1; } .ColorScheme-PositiveText { color: #2ecc71; } .ColorScheme-NeutralText { color: #f67400; } .ColorScheme-NegativeText { color: #da4453; }
+   .ColorScheme-Text { color:#4d4d4d; } .ColorScheme-Highlight { color:#3daee9; } .ColorScheme-Background { color:#eff0f1; } .ColorScheme-PositiveText { color:#2ecc71; } .ColorScheme-NeutralText { color:#f67400; } .ColorScheme-NegativeText { color:#da4453; }
   </style>
  </defs>
- <path fill="currentColor" class="ColorScheme-Text" d="M 6 3 L 6 7 L 5 7 L 5 5 L 4 5 L 4 7 L 3 7 L 3 8 L 19 8 L 19 7 L 18.976562 7 L 18.976562 5.0058594 L 17.976562 5.0058594 L 17.976562 7 L 17 7 L 17 3 L 16 3 L 16 7 L 15 7 L 15 5 L 14 5 L 14 7 L 13 7 L 13 5 L 12 5 L 12 7 L 11 7 L 11 5 L 10 5 L 10 7 L 9 7 L 9 5 L 8 5 L 8 7 L 7 7 L 7 3 L 6 3 z M 7 9 L 7 12 L 3 12 L 3 15 L 8 15 L 8 12 L 11 12 L 11 15 L 16 15 L 16 12 L 12 12 L 12 9 L 7 9 z M 16 15 L 16 18 L 19 18 L 19 15 L 16 15 z"/>
- <rect fill="currentColor" class="ColorScheme-Text" width="0" height="0" x="0" y="0"/>
- <rect fill="currentColor" class="ColorScheme-Text" width="0" height="0" x="0" y="0"/>
+ <path style="fill:currentColor;filter-blend-mode:normal;filter-gaussianBlur-deviation:0" class="ColorScheme-Text" d="M 6 3 L 6 7 L 5 7 L 5 5 L 4 5 L 4 7 L 3 7 L 3 8 L 19 8 L 19 7 L 18.976562 7 L 18.976562 5.0058594 L 17.976562 5.0058594 L 17.976562 7 L 17 7 L 17 3 L 16 3 L 16 7 L 15 7 L 15 5 L 14 5 L 14 7 L 13 7 L 13 5 L 12 5 L 12 7 L 11 7 L 11 5 L 10 5 L 10 7 L 9 7 L 9 5 L 8 5 L 8 7 L 7 7 L 7 3 L 6 3 z M 7 9 L 7 12 L 3 12 L 3 15 L 8 15 L 8 12 L 11 12 L 11 15 L 16 15 L 16 12 L 12 12 L 12 9 L 7 9 z M 16 15 L 16 18 L 19 18 L 19 15 L 16 15 z"/>
+ <rect style="fill:currentColor" class="ColorScheme-Text" width="0" height="0" x="0" y="0"/>
+ <rect style="fill:currentColor" class="ColorScheme-Text" width="0" height="0" x="0" y="0"/>
 </svg>

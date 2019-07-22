@@ -16,7 +16,7 @@ Encoding=UTF-8
 Example=folder
 FollowsColorScheme=true
 
-Inherits=Adwaita,Suru,gnome,hicolor
+Inherits=breeze,gnome,hicolor
 
 DesktopDefault=48
 DesktopSizes=16,22,32,48,64,128,256

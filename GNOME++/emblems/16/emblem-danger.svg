@@ -1,90 +1,12 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="16"
-   height="16"
-   version="1.1"
-   viewBox="0 0 16 16"
-   id="svg8"
-   sodipodi:docname="emblem-danger.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
-  <metadata
-     id="metadata14">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs12">
-    <linearGradient
-       id="linearGradient5237">
-      <stop
-         id="stop5239"
-         offset="0"
-         style="stop-color:#ffffff;stop-opacity:1;" />
-      <stop
-         id="stop5247"
-         offset="0.5"
-         style="stop-color:#ffffff;stop-opacity:1;" />
-      <stop
-         id="stop5241"
-         offset="1"
-         style="stop-color:#9c9c9c;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1009"
-     id="namedview10"
-     showgrid="true"
-     inkscape:zoom="52.5625"
-     inkscape:cx="8"
-     inkscape:cy="6.4780024"
-     inkscape:window-x="0"
-     inkscape:window-y="34"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg8">
-    <inkscape:grid
-       type="xygrid"
-       id="grid1590" />
-  </sodipodi:namedview>
-  <rect
-     style="opacity:1;fill:#9a9996;fill-opacity:1;stroke:none;stroke-width:1.12016714"
-     id="rect833"
-     width="14"
-     height="14"
-     x="2"
-     y="2"
-     rx="1.4"
-     ry="1.4" />
-  <g
-     transform="matrix(0.06954295,0,0,0.06954295,-1.5701967,-1.8416077)"
-     style="fill:#ffffff;enable-background:new"
-     id="g6">
-    <path
-       inkscape:connector-curvature="0"
-       d="m 159.13404,123.36543 q 0,8.77054 -0.40793,16.52125 -0.20397,7.54674 -0.81586,14.68555 -0.6119,7.13881 -1.42777,13.86969 -0.61189,6.73088 -1.42776,13.46176 h -6.11898 q -1.83569,-13.66573 -3.05949,-27.33145 -1.01983,-13.66572 -1.01983,-31.2068 V 83.999994 h 14.27762 z m 4.07932,93.21247 q 0,4.69121 -3.05949,7.95467 -2.85552,3.26346 -8.15864,3.26346 -5.30311,0 -8.3626,-3.26346 -2.85553,-3.26346 -2.85553,-7.95467 0,-4.69122 2.85553,-7.95468 3.05949,-3.26345 8.3626,-3.26345 5.30312,0 8.15864,3.26345 3.05949,3.26346 3.05949,7.95468 z"
-       style="fill:#ffffff"
-       id="path4" />
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" width="16" height="16" viewBox="0 0 16 16">
+ <path fill="url(#paint0_linear)" d="M13.6 1H2.4C1.6268 1 1 1.6268 1 2.4V13.6C1 14.3732 1.6268 15 2.4 15H13.6C14.3732 15 15 14.3732 15 13.6V2.4C15 1.6268 14.3732 1 13.6 1Z"/>
+ <path fill="url(#paint1_linear)" d="M8.95042 5.53541C8.95042 6.30028 8.9221 7.01322 8.86544 7.67422C8.80878 8.33522 8.73324 9.00567 8.63881 9.68555H7.02408C6.92965 9.00567 6.84939 8.33522 6.78329 7.67422C6.72663 7.01322 6.6983 6.30028 6.6983 5.53541V3H8.95042V5.53541ZM9.13456 11.6969C9.13456 12.1124 8.99764 12.4334 8.7238 12.6601C8.4594 12.8867 8.15722 13 7.81728 13C7.47734 13 7.17044 12.8867 6.8966 12.6601C6.6322 12.4334 6.5 12.1124 6.5 11.6969C6.5 11.2814 6.6322 10.9603 6.8966 10.7337C7.17044 10.5071 7.47734 10.3938 7.81728 10.3938C8.15722 10.3938 8.4594 10.5071 8.7238 10.7337C8.99764 10.9603 9.13456 11.2814 9.13456 11.6969Z"/>
+ <defs>
+  <linearGradient id="paint0_linear" x1="1" x2="15" y1="8" y2="8" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#ED333B"/>
+  </linearGradient>
+  <linearGradient id="paint1_linear" x1="6.5" x2="9.135" y1="8" y2="8" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#F6F5F4"/>
+  </linearGradient>
+ </defs>
 </svg>

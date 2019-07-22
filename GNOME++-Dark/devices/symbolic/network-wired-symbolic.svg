@@ -3,10 +3,10 @@
   Gnome Symbolic Icon Theme
  </title>
  <g id="layer10" transform="translate(-61 -567)">
-  <rect fill="#bebebe" width="5" height="4.938" x="61" y="578" ry="0"/>
-  <rect fill="#bebebe" width="5" height="5" x="71" y="578" ry="0"/>
-  <path fill="#bebebe" d="m63.031 575v3.5312h1v-2.5312h8.9688v2.5312h1v-3.5312h-10.969z"/>
-  <path fill="#bebebe" d="m68 572v3.5h1v-3.5h-1z"/>
-  <rect fill="#bebebe" width="5" height="5" x="66" y="568" ry="0"/>
+  <rect width="5" height="4.938" x="61" y="578" ry="0" style="fill:#E6DDFF"/>
+  <rect width="5" height="5" x="71" y="578" ry="0" style="fill:#E6DDFF"/>
+  <path d="m63.031 575v3.5312h1v-2.5312h8.9688v2.5312h1v-3.5312h-10.969z" style="fill:#E6DDFF"/>
+  <path d="m68 572v3.5h1v-3.5h-1z" style="fill:#E6DDFF"/>
+  <rect width="5" height="5" x="66" y="568" ry="0" style="fill:#E6DDFF"/>
  </g>
 </svg>

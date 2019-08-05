@@ -1,32 +1,22 @@
-# Icon Theme Profile
-
-# The FreeDesktop Adwaita icon set is designed and developed by:
-# - GNOME Project
-# - under GPL3
-
-# Core developers (in order of appearance):
-# - Andrea Bonanni (original author) <bonandry@gmail.com>
-# - Gustavo Costa <gusbemacbe@gmail.com>
-
-# * Devices and places icons and several apps icons are inspired by Papirus icons created by:
-# - Alexey Varfolomeev <https://github.com/varlesh>
-# - under GPL3
-
 [Icon Theme]
-Name = GNOME++
+Name = Adwaita++ Dark
+Name[it] = Adwaita++ Scuro
+Name[pt] = Adwaita++ Escuro
+Name[pt_BR] = Adwaita++ Escuro
+Name[pt_PT] = Adwaita++ Escuro
 
-Comment = Third-party icons theme based on GNOME Project's Adwaita icons theme
-Comment[it] = Tema di icone di terze parti basato sul tema delle icone Adwaita del Progetto GNOME
-Comment[pt] = Tema de ícones terceirizados baseado no tema de ícones Adwaita do Projeto GNOME
-Comment[pt_BR] = Tema de ícones terceirizados baseado no tema de ícones Adwaita do Projeto GNOME
-Comment[pt_PT] = Tema de ícones terceirizados baseado no tema de ícones Adwaita do Projeto GNOME
+Comment = Designed for users with dark environment 
+Comment[it] = Progettato per utenti con l’ambiente grafico scuro
+Comment[pt] = Designado para utilizadores do ambiente gráfico escuro
+Comment[pt_BR] = Designado para usuários do ambiente gráfico escuro
+Comment[pt_PT] = Designado para utilizadores do ambiente gráfico escuro
 
 DisplayDepth=32
 Encoding=UTF-8
 Example=folder
 FollowsColorScheme=true
 
-Inherits=breeze,gnome,hicolor
+Inherits=breeze-dark,gnome,hicolor
 
 DesktopDefault=48
 DesktopSizes=16,22,32,48,64,128,256

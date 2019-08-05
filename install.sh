@@ -5,25 +5,21 @@ set -e
 # these variables can be overwritten
 : "${DESTDIR:=/usr/share/icons}"
 : "${TAG:=master}"
-: "${THEMES:=GNOME++ GNOME++-Colorful GNOME++-Dark GNOME++-Light}"
+: "${THEMES:=Adwaita++ Adwaita++-Colorful Adwaita++-Dark Adwaita++-Light}"
 : "${uninstall:=false}"
 
 gh_url="https://github.com/Bonandry"
-gh_repo="gnome-plus"
-gh_desc="GNOME++ icon theme"
+gh_repo="adwaita-plus"
+gh_desc="Adwaita++ icon theme"
 
 cat <<- EOF
-
-
-   ____ _   _  ___  __  __ _____            
-  / ___| \ | |/ _ \|  \/  | ____| _     _   
- | |  _|  \| | | | | |\/| |  _| _| |_ _| |_ 
- | |_| | |\  | |_| | |  | | |__|_   _|_   _|
-  \____|_| \_|\___/|_|  |_|_____||_|   |_|  
+    ___     __            _ __         __    __
+   / _ |___/ /    _____ _(_) /____ ___/ /___/ /_
+  / __ / _  / |/|/ / _ `/ / __/ _ `/_  __/_  __/
+ /_/ |_\_,_/|__,__/\_,_/_/\__/\_,_/ /_/   /_/
                                             
   $gh_desc
   $gh_url/$gh_repo
-
 
 EOF
 

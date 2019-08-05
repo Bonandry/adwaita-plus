@@ -1,10 +1,10 @@
 [Icon Theme]
-Name = GNOME++ Colorful
-Name[en_GB] = GNOME++ Colourful
-Name[it] = GNOME++ Colorato
-Name[pt] = GNOME++ Colorido
-Name[pt_BR] = GNOME++ Colorido
-Name[pt_PT] = GNOME++ Colorido
+Name = Adwaita++ Colorful
+Name[en_GB] = Adwaita++ Colourful
+Name[it] = Adwaita++ Colorato
+Name[pt] = Adwaita++ Colorido
+Name[pt_BR] = Adwaita++ Colorido
+Name[pt_PT] = Adwaita++ Colorido
 
 Comment = Designed for users who want 16px icons to be colorful
 Comment[en_GB] = Designed for users who want 16px icons to be colourful
@@ -18,7 +18,7 @@ Encoding=UTF-8
 Example=folder
 FollowsColorScheme=true
 
-Inherits=Adwaita,Suru,gnome,hicolor
+Inherits=Adwaita++,Adwaita,Suru,gnome,hicolor
 
 DesktopDefault=48
 DesktopSizes=16,22,32,48,64,128,256

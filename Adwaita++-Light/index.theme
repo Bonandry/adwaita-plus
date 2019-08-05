@@ -1,7 +1,7 @@
 [Icon Theme]
-Name = GNOME++ Light
-Name[it] = GNOME++ Chiaro
-Name[pt] = GNOME++ Claro
+Name = Adwaita++ Light
+Name[it] = Adwaita++ Chiaro
+Name[pt] = Adwaita++ Claro
 
 Comment = Third-party icons theme based on GNOME Project's Adwaita icons theme
 Comment[it] = Tema di icone di terze parti basato sul tema delle icone Adwaita del Progetto GNOME
@@ -14,7 +14,7 @@ Encoding=UTF-8
 Example=folder
 FollowsColorScheme=true
 
-Inherits=GNOME++,Adwaita,Suru,gnome,hicolor
+Inherits=Adwaita++,Adwaita,Suru,gnome,hicolor
 
 DesktopDefault=48
 DesktopSizes=16,22,24,32,48,64

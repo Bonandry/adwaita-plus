@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
+ <defs>
+  <linearGradient id="linearGradient3946">
+   <stop id="stop3948" offset="0" style="stop-color:#000000;stop-opacity:0.74698794"/>
+   <stop id="stop3950" offset="1" style="stop-color:#000000;stop-opacity:0.02409638"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3830-9">
+   <stop style="stop-color:#000000;stop-opacity:0.74698794" id="stop3832-7" offset="0"/>
+   <stop style="stop-color:#000000;stop-opacity:0.02409638" id="stop3834-5" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3984">
+   <stop style="stop-color:#f4deba" id="stop3986" offset="0"/>
+   <stop style="stop-color:#de9625;stop-opacity:0" id="stop3988" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g id="layer1" transform="translate(-31.97559,-220.36218)">
+  <path fill="#444" d="m 35,220.375 0,12 0,1 1,0 12,0 0,-2 -11,0 0,-11 -2,0 z"/>
+  <path fill="#444" d="m 32,223.375 0,2 11,0 0,11 2,0 0,-12 0,-1 -1,0 -12,0 z"/>
+  <path fill="#444" d="m 46.88184,220.86218 a 0.50005,0.50005 0 0 0 -0.25,0.15625 l -10,10 a 0.50005,0.50005 0 1 0 0.71875,0.6875 l 10,-10 a 0.50005,0.50005 0 0 0 -0.46875,-0.84375 z"/>
+ </g>
+</svg>

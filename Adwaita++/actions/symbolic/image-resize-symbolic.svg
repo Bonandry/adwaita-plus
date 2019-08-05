@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
+ <defs>
+  <linearGradient id="linearGradient3946">
+   <stop id="stop3948" offset="0" style="stop-color:#000000;stop-opacity:0.74698794"/>
+   <stop id="stop3950" offset="1" style="stop-color:#000000;stop-opacity:0.02409638"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3830-9">
+   <stop style="stop-color:#000000;stop-opacity:0.74698794" id="stop3832-7" offset="0"/>
+   <stop style="stop-color:#000000;stop-opacity:0.02409638" id="stop3834-5" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3984">
+   <stop style="stop-color:#f4deba" id="stop3986" offset="0"/>
+   <stop style="stop-color:#de9625;stop-opacity:0" id="stop3988" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g id="layer1" transform="translate(-31.97559,-220.36218)">
+  <path fill="#444" d="m 44.350589,222.64343 -10,10 1.40625,1.4375 10,-10 -1.40625,-1.4375 z"/>
+  <path fill="#444" d="m 41.906249,221.375 a 1.001098,1.001098 0 1 0 0.09375,2 l 3,0 0,3 a 1.0001,1.0001 0 1 0 2,0 l 0,-4 0,-1 -1,0 -4,0 a 1.0001,1.0001 0 0 0 -0.09375,0 z"/>
+  <path fill="#444" d="m 33.812499,229.375 a 1.0001,1.0001 0 0 0 -0.78125,1 l 0,4 0,1 1,0 4,0 a 1.0001,1.0001 0 1 0 0,-2 l -3,0 0,-3 a 1.0001,1.0001 0 0 0 -1.21875,-1 z"/>
+  <rect fill="#444" width="1" height="1" x="41" y="221.36"/>
+  <rect fill="#444" width="1" height="1" x="45.99" y="226.37"/>
+  <rect fill="#444" width="1" height="1" x="33.02" y="229.37"/>
+  <rect fill="#444" width="1" height="1" x="38.04" y="234.37"/>
+ </g>
+</svg>

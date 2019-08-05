@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" width="16" height="16" version="1.1">
+ <title id="title9167">
+  Gnome Symbolic Icon Theme
+ </title>
+ <defs>
+  <linearGradient id="linearGradient7212" osb:paint="solid">
+   <stop id="stop7214" offset="0" style="stop-color:#000000"/>
+  </linearGradient>
+  <filter id="filter4520" width="1.12" height="1.12" x="-.06" y="-.06" style="color-interpolation-filters:sRGB">
+   <feGaussianBlur id="feGaussianBlur23" stdDeviation="1.2"/>
+  </filter>
+ </defs>
+ <g id="layer9" transform="translate(-523.0002,105)">
+  <path fill="#E6DDFF" d="M 8.0273438 0.50195312 C 7.3413437 0.50195312 6.6559694 0.73433188 6.0996094 1.2011719 C 4.9868794 2.1348619 4.7034075 3.74205 5.4296875 5 L 6.2949219 4.5 C 5.8079719 3.65657 5.9961275 2.59477 6.7421875 1.96875 C 7.4882375 1.34273 8.56644 1.34273 9.3125 1.96875 C 10.05856 2.59477 10.246716 3.65657 9.7597656 4.5 L 10.625 5 C 11.35128 3.74205 11.067798 2.1348619 9.9550781 1.2011719 C 9.3987181 0.73433187 8.7133437 0.50195312 8.0273438 0.50195312 z M 8 5 C 5.23858 5 3 7.23858 3 10 C 3 12.76142 5.23858 15 8 15 C 10.76142 15 13 12.76142 13 10 C 13 7.23858 10.76142 5 8 5 z M 8 6.5429688 L 9.2304688 9.0683594 A 2.3165417 2.3770187 0 0 1 10.316406 11.080078 A 2.3165417 2.3770187 0 0 1 8 13.457031 A 2.3165417 2.3770187 0 0 1 5.6835938 11.080078 A 2.3165417 2.3770187 0 0 1 6.7675781 9.0703125 L 8 6.5429688 z" transform="translate(523.0002,-105)"/>
+ </g>
+</svg>

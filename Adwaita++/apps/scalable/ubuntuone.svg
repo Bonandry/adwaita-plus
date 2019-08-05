@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="128"
+   height="128"
+   version="1.0"
+   id="svg28"
+   sodipodi:docname="ubuntuone.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata32">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1699"
+     inkscape:window-height="777"
+     id="namedview30"
+     showgrid="false"
+     inkscape:zoom="1.84375"
+     inkscape:cx="2.440678"
+     inkscape:cy="64"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g26" />
+  <defs
+     id="defs18">
+    <linearGradient
+       id="a">
+      <stop
+         id="stop2"
+         offset="0"
+         stop-color="#68676b" />
+      <stop
+         id="stop4"
+         offset=".8"
+         stop-color="#424048" />
+      <stop
+         id="stop6"
+         offset="1"
+         stop-color="#241f31" />
+    </linearGradient>
+    <radialGradient
+       id="d"
+       cx="279.422"
+       cy="446.483"
+       r="224"
+       fx="279.422"
+       fy="446.483"
+       gradientTransform="matrix(1.34416 .0006 -.00062 1.38763 -121.22 -718.103)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#a" />
+    <linearGradient
+       id="e"
+       x1="43.844"
+       x2="-60"
+       y1="234"
+       y2="234"
+       gradientTransform="matrix(1.0015 0 0 .99993 72.09 56.015)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#b" />
+    <linearGradient
+       id="b">
+      <stop
+         id="stop11"
+         offset="0"
+         stop-color="#d5d3cf" />
+      <stop
+         id="stop13"
+         offset=".038"
+         stop-color="#e3e2df" />
+      <stop
+         id="stop15"
+         offset=".077"
+         stop-color="#c0bfbc" />
+      <stop
+         id="stop17"
+         offset=".923"
+         stop-color="#c0bfbc" />
+      <stop
+         id="stop19"
+         offset=".962"
+         stop-color="#e3e2df" />
+      <stop
+         id="stop21"
+         offset="1"
+         stop-color="#d5d3cf" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient947"
+       x1="208"
+       x2="96"
+       y1="284"
+       y2="28"
+       gradientTransform="matrix(0.5,0,0,0.5,-136.80999,150.50264)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         style="stop-color:#f37e40"
+         id="stop999"
+         offset="0" />
+      <stop
+         style="stop-color:#f34f17"
+         id="stop1001"
+         offset="1" />
+    </linearGradient>
+  </defs>
+  <g
+     transform="translate(0 -172)"
+     id="g26">
+    <rect
+       fill="url(#e)"
+       width="104"
+       height="48"
+       x="12"
+       y="240"
+       rx="8"
+       ry="8"
+       id="rect20"
+       style="fill:#b44614;fill-opacity:1" />
+    <path
+       style="fill:#f37034"
+       d="M 20 10 C 15.568 10 12 13.568 12 18 L 12 60 L 12 102 C 12 106.432 15.568 110 20 110 L 64 110 L 108 110 C 112.432 110 116 106.432 116 102 L 116 60 L 116 18 C 116 13.568 112.432 10 108 10 L 20 10 z"
+       transform="translate(0,172)"
+       id="path22" />
+    <path
+       style="fill:#ffffff"
+       d="m 30.896577,192.05473 v 26.15213 c 0,21.74561 0.763877,26.95167 1.614345,30.5137 3.197325,13.39133 11.798941,21.06749 25.660552,22.92035 7.503553,1.00299 22.658433,-0.16361 34.576977,-2.64807 l 4.354972,-0.89463 v -76.04348 l -22.068945,-0.0547 v 60.68954 H 52.965527 v -42.75849 h -8.275855 l 11.034472,-17.93101 z"
+       id="path24" />
+  </g>
+</svg>

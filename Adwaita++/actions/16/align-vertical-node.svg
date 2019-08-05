@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" width="16" height="16" viewBox="0 0 16 16">
+ <g clip-path="url(#clip0)">
+  <rect fill="#444" width="2" height="16" y="9" rx=".5" transform="rotate(-90 0 9)"/>
+  <rect fill="#444" width="4" height="4" y="10" transform="rotate(-90 0 10)"/>
+  <rect fill="#444" width="4" height="4" x="6" y="10" transform="rotate(-90 6 10)"/>
+  <rect fill="#444" width="4" height="4" x="12" y="10" transform="rotate(-90 12 10)"/>
+  <path fill="#444" fill-rule="evenodd" d="M2.25 3.5L2.25 13.75C2.25 14.1642 1.91421 14.5 1.5 14.5C1.08579 14.5 0.75 14.1642 0.75 13.75L0.75 3.5C0.75 1.98122 1.98122 0.75 3.5 0.75H6C7.51878 0.75 8.75 1.98122 8.75 3.5V12.5C8.75 13.1904 9.30964 13.75 10 13.75H12C12.6904 13.75 13.25 13.1904 13.25 12.5V2.75C13.25 2.33579 13.5858 2 14 2C14.4142 2 14.75 2.33579 14.75 2.75V12.5C14.75 14.0188 13.5188 15.25 12 15.25H10C8.48122 15.25 7.25 14.0188 7.25 12.5L7.25 3.5C7.25 2.80964 6.69036 2.25 6 2.25H3.5C2.80964 2.25 2.25 2.80964 2.25 3.5Z" clip-rule="evenodd"/>
+ </g>
+ <defs>
+  <clipPath id="clip0">
+   <rect fill="#fff" width="16" height="16"/>
+  </clipPath>
+ </defs>
+</svg>

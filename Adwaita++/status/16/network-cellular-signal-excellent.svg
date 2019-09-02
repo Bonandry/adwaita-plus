@@ -1,11 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
- <title id="title9167">
-  Gnome Symbolic Icon Theme
- </title>
- <g id="layer9" transform="translate(-41 -257)">
-  <path d="m53 257v1.5 12 1.5h3v-1.5-12-1.5h-3z" style="fill-rule:evenodd;fill:#444444"/>
-  <path d="m49 260v1.5 9 1.5h3v-1.5-9-1.5h-3z" style="fill-rule:evenodd;fill:#444444"/>
-  <path d="m45 263v1.5 6 1.5h3v-1.5-6-1.5h-3z" style="fill-rule:evenodd;fill:#444444"/>
-  <path d="m41 266v1.5 3 1.5h3v-1.5-3-1.5h-3z" style="fill-rule:evenodd;fill:#444444"/>
- </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
+    <g color="#000" font-weight="400" font-family="sans-serif" white-space="normal" fill="#474747" fill-rule="evenodd">
+        <path d="M12 1v14h3V1zM8 4v11h3V4zM4 7v8h3V7zM0 10v5h3v-5z" style="line-height:normal;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;shape-padding:0;isolation:auto;mix-blend-mode:normal" overflow="visible"/>
+    </g>
 </svg>

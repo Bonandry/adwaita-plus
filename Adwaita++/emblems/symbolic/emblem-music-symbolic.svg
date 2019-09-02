@@ -1,12 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
- <title id="title9167">
-  Gnome Symbolic Icon Theme
- </title>
- <g id="layer15" transform="translate(-582,-381.99998)">
-  <path d="m 585.50413,390.01363 c -1.92115,0 -3.50339,1.5501 -3.50339,3.47125 0,1.92115 1.58224,3.50339 3.50339,3.50339 1.92115,0 3.50339,-1.58224 3.50339,-3.50339 0,-1.92115 -1.58224,-3.47125 -3.50339,-3.47125 z m 0,1.99275 c 0.84027,0 1.51064,0.63823 1.51064,1.4785 0,0.84027 -0.67037,1.51063 -1.51064,1.51063 -0.84027,0 -1.51064,-0.67036 -1.51064,-1.51063 0,-0.84027 0.67037,-1.4785 1.51064,-1.4785 z" style="fill:#444444"/>
-  <path d="m 593.50413,390.01363 c -1.92115,0 -3.50339,1.5501 -3.50339,3.47125 0,1.92115 1.58224,3.50339 3.50339,3.50339 1.92115,0 3.50339,-1.58224 3.50339,-3.50339 0,-1.92115 -1.58224,-3.47125 -3.50339,-3.47125 z m 0,1.99275 c 0.84027,0 1.51064,0.63823 1.51064,1.4785 0,0.84027 -0.67037,1.51063 -1.51064,1.51063 -0.84027,0 -1.51064,-0.67036 -1.51064,-1.51063 0,-0.84027 0.67037,-1.4785 1.51064,-1.4785 z" style="fill:#444444"/>
-  <rect width="2" height="9.516" x="587" y="384" style="fill:#444444"/>
-  <rect width="2" height="9.563" x="595" y="384" style="fill:#444444"/>
-  <rect width="10" height="2" x="587" y="384" style="fill:#444444"/>
- </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
+    <g color="#000" fill="#474747">
+        <path d="M3.5 8A3.515 3.515 0 0 0 0 11.5C0 13.421 1.58 15 3.5 15 5.423 15 7 13.421 7 11.5S5.423 8 3.5 8zm0 2c.841 0 1.5.66 1.5 1.5S4.342 13 3.5 13c-.84 0-1.5-.66-1.5-1.5S2.66 10 3.5 10zM11.5 8A3.515 3.515 0 0 0 8 11.5c0 1.921 1.58 3.5 3.5 3.5 1.922 0 3.5-1.579 3.5-3.5S13.423 8 11.5 8zm0 2c.841 0 1.5.66 1.5 1.5s-.659 1.5-1.5 1.5c-.84 0-1.5-.66-1.5-1.5s.66-1.5 1.5-1.5z" style="line-height:normal;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;shape-padding:0;isolation:auto;mix-blend-mode:normal;marker:none" font-weight="400" font-family="sans-serif" white-space="normal" overflow="visible"/>
+        <path d="M5 2h2v9.516H5zM13 2h2v9.563h-2z" style="marker:none" overflow="visible"/>
+        <path d="M5 2h10v2H5z" style="marker:none" overflow="visible"/>
+    </g>
 </svg>

@@ -1,12 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
- <title id="title9167">
-  Gnome Symbolic Icon Theme
- </title>
- <g id="layer9" transform="translate(-201 -257)">
-  <path d="m213 257v1.5 6.9375 1.5h3v-1.5-6.9375-1.5h-3z" style="fill-rule:evenodd;fill:#444444;opacity:.35"/>
-  <path d="m209 260v12h2l0.0143-5.0625h0.98575v-6.9375z" style="fill-rule:evenodd;fill:#444444;opacity:.35"/>
-  <path d="m205 263v1.5 6 1.5h3v-1.5-6-1.5h-3z" style="fill-rule:evenodd;fill:#444444;opacity:.35"/>
-  <path d="m201 266v1.5 3 1.5h3v-1.5-3-1.5h-3z" style="fill-rule:evenodd;fill:#444444;opacity:.35"/>
-  <path fill="#444" d="m212 268h1.375l1.125 1.0938 1.0938-1.0938h1.4062v1.4688l-1.0938 1.0625 1.0938 1.0625v1.4062h-1.4375l-1.0625-1.0625-1.0625 1.0625h-1.4375v-1.4062l1.0625-1.0625-1.0625-1.0625v-1.4688z"/>
- </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
+    <g fill="#474747">
+        <path d="M12 1V9.938h3V1z" style="line-height:normal;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;shape-padding:0;isolation:auto;mix-blend-mode:normal" color="#000" font-weight="400" font-family="sans-serif" white-space="normal" overflow="visible" opacity=".35" fill-rule="evenodd"/>
+        <path d="M8 4v11h2l.014-5.063H11V4z" style="line-height:normal;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration-line:none;text-transform:none;marker:none" color="#000" font-weight="400" font-family="Sans" overflow="visible" opacity=".35" fill-rule="evenodd"/>
+        <path d="M4 7v8h3V7zM0 10v5h3v-5z" style="line-height:normal;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;shape-padding:0;isolation:auto;mix-blend-mode:normal" color="#000" font-weight="400" font-family="sans-serif" white-space="normal" overflow="visible" opacity=".35" fill-rule="evenodd"/>
+        <path d="M11 11h1.375l1.125 1.094L14.594 11H16v1.469l-1.094 1.062L16 14.594V16h-1.438L13.5 14.937 12.437 16H11v-1.406l1.063-1.063L11 12.47z" style="marker:none" color="#bebebe" overflow="visible"/>
+    </g>
 </svg>

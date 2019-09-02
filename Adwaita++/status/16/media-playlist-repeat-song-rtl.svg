@@ -1,12 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
- <title id="title9167">
-  Gnome Symbolic Icon Theme
- </title>
- <g id="layer9" transform="translate(-141 -277)">
-  <path d="m146.78 286a1.0001 1.0001 0 0 0-0.5 1.7188l1.2812 1.2812-1.2812 1.2812a1.0165 1.0165 0 1 0 1.4375 1.4375l2-2 0.6875-0.71875-0.6875-0.71875-2-2a1.0001 1.0001 0 0 0-0.9375-0.28125z" style="fill:#444444"/>
-  <path d="m156 286.01v0.99451c0 1.6447-1.3553 3-3 3h-1v-2h1c0.5713 0 1-0.4287 1-1v-0.98346zm-8.0073-4.0055h-2.9927c-0.5713 0-1 0.4287-1 1v4c0 0.5713 0.4287 1 1 1h4v2h-4c-1.6447 0-3-1.3553-3-3v-4c0-1.6447 1.3553-3 3-3h2.9816z" style="fill:#444444"/>
-  <rect width="1" height="1" x="-147" y="286" transform="scale(-1,1)" style="fill:#444444"/>
-  <rect width="1" height="1" x="-147" y="291" transform="scale(-1,1)" style="fill:#444444"/>
-  <path d="m153 277c-2.2091 0-4 1.7909-4 4 0 2.2092 1.7909 4 4 4s4-1.7908 4-4c0-2.2091-1.7909-4-4-4zm-1 2h2v4h-2l-4e-3 -1.9886-0.9959-0.0114v-1z" style="fill:#444444"/>
- </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
+    <g color="#000" fill="#474747">
+        <path d="M5.99 8.99a1 1 0 0 0-.697 1.717L6.586 12l-1.293 1.293a1 1 0 1 0 1.414 1.414L9.414 12 6.707 9.293a1 1 0 0 0-.717-.303z" style="line-height:normal;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;shape-padding:0;isolation:auto;mix-blend-mode:normal" font-weight="400" font-family="sans-serif" white-space="normal" overflow="visible"/>
+        <path d="M15 9.005V10c0 1.645-1.355 3-3 3h-1v-2h1c.572 0 1-.429 1-1v-.983zM6.993 5H4c-.571 0-1 .429-1 1v4c0 .571.429 1 1 1h4v2H4c-1.644 0-3-1.355-3-3V6c0-1.645 1.356-3 3-3h2.982z" style="line-height:normal;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration-line:none;text-transform:none;marker:none" font-weight="400" font-family="Sans" overflow="visible"/>
+        <path d="M6 9H5v1h1zM6 14H5v1h1zM12 0a4 4 0 1 0 0 8 4 4 0 0 0 0-8zm-1 2h2v4h-2l-.004-1.989L10 4V3z" style="marker:none" overflow="visible"/>
+    </g>
 </svg>

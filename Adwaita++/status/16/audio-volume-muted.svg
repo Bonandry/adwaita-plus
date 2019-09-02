@@ -1,13 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" width="16" height="16" version="1.1">
- <defs>
-  <linearGradient id="linearGradient5606" osb:paint="solid">
-   <stop id="stop5608" offset="0" style="stop-color:#000000"/>
-  </linearGradient>
-  <linearGradient id="linearGradient4526" osb:paint="solid">
-   <stop id="stop4528" offset="0" style="stop-color:#ffffff"/>
-  </linearGradient>
- </defs>
- <g id="layer9" label="status" transform="translate(-813.00024,327)">
-  <path d="m 827.26582,-325.73633 -13,13 0.47071,0.47266 3.23828,-3.23828 3.02539,3.16797 v -6.19336 l 2.3125,-2.3125 c 0.46625,0.54225 0.73633,1.22708 0.73633,1.94726 0,0.79584 -0.31616,1.55836 -0.87891,2.1211 l -0.35351,0.35351 0.70703,0.70703 0.35351,-0.35351 c 0.75001,-0.75 1.17188,-1.76746 1.17188,-2.82813 0,-0.98504 -0.37667,-1.92341 -1.0293,-2.65429 l 1.42188,-1.42188 c 1.02759,1.10751 1.60742,2.55981 1.60742,4.07617 0,1.59149 -0.63246,3.11683 -1.75781,4.24219 l -0.35352,0.35352 0.70703,0.70703 0.35352,-0.35352 c 1.31262,-1.31262 2.05078,-3.0929 2.05078,-4.94922 0,-1.78129 -0.68564,-3.48797 -1.90039,-4.7832 l 1.58789,-1.58789 z m -6.26562,0.0703 -3.5,3.66602 h -2.62891 c 0,0 -0.87109,0.89365 -0.87109,3.00195 0,2.10835 0.87109,2.99805 0.87109,2.99805 h 1.42188 l 4.70703,-4.70703 z" style="opacity:0.5;fill:#444444"/>
- </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
+    <g fill="#474747">
+        <path d="M11 11h1.375l1.125 1.094L14.594 11H16v1.469l-1.094 1.062L16 14.594V16h-1.438L13.5 14.937 12.437 16H11v-1.406l1.062-1.063L11 12.47zM0 5h2.484l2.97-3H6v12h-.475l-3.04-3H0z" style="marker:none" color="#bebebe" overflow="visible"/>
+        <path d="M11 1v1.48C12.265 4 13 5.7 13 8c0 .723-.085 1.382-.229 2h2.034c.124-.645.195-1.314.195-2 0-2.814-1-5.172-2.586-7z" style="marker:none" color="#000" overflow="visible" opacity=".35"/>
+        <path d="M9 3v2c.607.789 1 1.759 1 3s-.393 2.22-1 3v2h1v-3h1.75c.158-.626.25-1.297.25-2 0-2.167-.739-4.02-2-5z" style="marker:none" color="#000" overflow="visible" opacity=".35"/>
+        <path d="M9 8c0-1.257-.312-2.216-1-3H7v6h1c.672-.837 1-1.742 1-3z" style="line-height:normal;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration-line:none;text-transform:none;marker:none" color="#000" font-weight="400" font-family="Sans" overflow="visible" opacity=".35"/>
+    </g>
 </svg>

@@ -1,15 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" width="16" height="16" version="1.1">
- <title id="title9167">
-  Gnome Symbolic Icon Theme
- </title>
- <defs>
-  <linearGradient id="linearGradient19282" gradientTransform="matrix(-2.7365795,0.28202934,-0.18908311,-0.99988321,239.54008,-879.45557)" osb:paint="solid">
-   <stop id="stop19284" offset="0" style="stop-color:#666666"/>
-  </linearGradient>
- </defs>
- <g id="layer11" transform="translate(-283.02908,-629.02581)">
-  <path d="m 288.03089,639.02581 6.99819,-7 2,2 -7,7 -2,0 z" style="fill:#444444;fill-rule:evenodd"/>
-  <path fill="#444" d="m 284.12283,629.02581 c -0.56869,5e-5 -1.0937,0.50285 -1.09375,1.0625 l 0,12.84375 0,0.25 0,0.78125 c 5e-5,0.55965 0.52506,1.06245 1.09375,1.0625 l 4.34375,0 1.125,0 5.34375,0 c 0.55754,-5e-5 1.07398,-0.48468 1.09375,-1.03125 3.9e-4,-0.0109 0,-0.0204 0,-0.0312 l 0,-6.93755 -2,2 0,4 -9,0 0,-12 5,0 2,2 1.53125,-1.53125 -2.1875,-2.125 c -0.20046,-0.20837 -0.48969,-0.3416 -0.78125,-0.34375 z"/>
-  <path d="m 297.21904,630.03711 c -0.13169,0 -0.26338,0.0504 -0.36429,0.15136 l -1.16217,1.16089 2.00493,2.00493 1.16217,-1.16217 c 0.20182,-0.20182 0.20182,-0.52678 0,-0.7286 l -1.27634,-1.27505 c -0.10087,-0.10088 -0.2326,-0.15136 -0.3643,-0.15136 z" style="fill:#444444;fill-rule:evenodd"/>
- </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
+    <g fill="#474747">
+        <path d="M5.002 10L12 3l2 2-7 7H5z" fill-rule="evenodd"/>
+        <path d="M1.094 0C.525 0 0 .503 0 1.063v13.874C0 15.498.525 16 1.094 16H11.906c.558 0 1.074-.485 1.094-1.031V8l-2 2v4H2V2h5l2 2 1.531-1.531L8.344.344A1.12 1.12 0 0 0 7.563 0z" style="line-height:normal;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration-line:none;text-transform:none;marker:none" color="#000" font-weight="400" font-family="Sans" overflow="visible"/>
+        <path d="M14.19 1.011a.513.513 0 0 0-.364.152l-1.162 1.16 2.004 2.005 1.163-1.162a.514.514 0 0 0 0-.728l-1.277-1.275a.514.514 0 0 0-.364-.152z" style="isolation:auto;mix-blend-mode:normal;marker:none" color="#000" overflow="visible" fill-rule="evenodd"/>
+    </g>
 </svg>

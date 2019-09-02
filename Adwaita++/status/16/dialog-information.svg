@@ -1,11 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
- <title id="title9167">
-  Gnome Symbolic Icon Theme
- </title>
- <g id="layer9" transform="translate(-261 -257)">
-  <path d="m269 257c-2.7496 0-5 2.2504-5 5 0 1.5862 0.84459 2.9034 2 3.8125v2.1875 1h1 4 1v-1-2.1875c1.1554-0.90914 2-2.2263 2-3.8125 0-2.7496-2.2504-5-5-5zm0 2c1.6687 0 3 1.3313 3 3 0 1.1158-0.59507 2.0379-1.5 2.5625l-0.5 0.3125v0.5625 1.5625h-2v-1.5625-0.5625l-0.5-0.3125c-0.90493-0.52462-1.5-1.4466-1.5-2.5625 0-1.6687 1.3313-3 3-3z" style="fill:#444444"/>
-  <path d="m267 272v1h4v-1h-4z" style="fill:#444444"/>
-  <path d="m266 270v1h6v-1h-6z" style="fill:#444444"/>
-  <path d="m268 262v1h2v-1h-2z" style="fill:#444444;opacity:.35"/>
- </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
+    <g fill="#2e3436">
+        <path d="M7.994 0a6.01 6.01 0 0 0-5.87 4.777c-.528 2.533.69 5.036 2.874 6.327l.002.898A1 1 0 0 0 6 13h4a1 1 0 0 0 1-.998l.002-.9c2.183-1.293 3.399-3.797 2.87-6.33A6.01 6.01 0 0 0 7.993 0zm.002 2c1.9 0 3.529 1.322 3.918 3.182a3.99 3.99 0 0 1-2.312 4.484 1 1 0 0 0-.6.914L9 11H6.998v-.418a1 1 0 0 0-.602-.914 3.992 3.992 0 0 1-2.314-4.484A3.99 3.99 0 0 1 7.996 2z" style="line-height:normal;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;shape-padding:0;isolation:auto;mix-blend-mode:normal" color="#000" font-weight="400" font-family="sans-serif" white-space="normal" overflow="visible"/>
+        <path d="M6 15c0 .554.446 1 1 1h2c.554 0 1-.446 1-1v-1H6z"/>
+        <path d="M6.992 5.994a.5.5 0 0 0-.347.86l1 1a.5.5 0 0 0 .707 0l1-1a.5.5 0 1 0-.707-.707l-.647.646-.646-.646a.5.5 0 0 0-.36-.153z" style="line-height:normal;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;shape-padding:0;isolation:auto;mix-blend-mode:normal" color="#000" font-weight="400" font-family="sans-serif" white-space="normal" overflow="visible" opacity=".35" fill-rule="evenodd"/>
+    </g>
 </svg>

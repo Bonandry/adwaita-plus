@@ -1,4 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" width="16" height="16" viewBox="0 0 16 16">
- <path fill="#444" d="M1.93756 4C2.11495 4.008 2.28874 4.0592 2.43756 4.15625L7.43756 7.15625C7.71996 7.33596 7.87506 7.66798 7.87506 8C7.87506 8.33202 7.71996 8.66404 7.43756 8.84375L2.43756 11.8438C2.28874 11.9408 2.11495 11.992 1.93756 12H1.78131H0.937561V4H1.78131H1.93756Z"/>
- <path fill="#444" d="M8.93756 4C9.11495 4.008 9.28874 4.0592 9.43756 4.15625L14.4376 7.15625C14.72 7.33596 14.8751 7.66798 14.8751 8C14.8751 8.33202 14.72 8.66404 14.4376 8.84375L9.43756 11.8438C9.28874 11.9408 9.11495 11.992 8.93756 12H8.78131H7.93756V4H8.78131H8.93756Z"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
+    <g color="#000" fill="#474747">
+        <path d="M9.04 4A1 1 0 0 0 8 5v6a1 1 0 0 0 1.514.857l5-3a1 1 0 0 0 0-1.714l-5-3A1 1 0 0 0 9.04 4zM10 6.768L12.055 8 10 9.232z" style="line-height:normal;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;shape-padding:0;isolation:auto;mix-blend-mode:normal;marker:none" font-weight="400" font-family="sans-serif" white-space="normal" overflow="visible"/>
+        <path d="M9 11H8v1h1zM9 4H8v1h1z" style="marker:none" overflow="visible"/>
+        <path d="M2.04 4A1 1 0 0 0 1 5v6a1 1 0 0 0 1.514.857l5-3a1 1 0 0 0 0-1.714l-5-3A1 1 0 0 0 2.04 4zM3 6.768L5.055 8 3 9.232z" style="line-height:normal;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;shape-padding:0;isolation:auto;mix-blend-mode:normal;marker:none" font-weight="400" font-family="sans-serif" white-space="normal" overflow="visible"/>
+        <path d="M2 11H1v1h1zM2 4H1v1h1zM9 5l5 3-5 3zM2 5l5 3-5 3z" style="marker:none" overflow="visible"/>
+    </g>
 </svg>

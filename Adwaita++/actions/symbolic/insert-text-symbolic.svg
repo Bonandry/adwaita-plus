@@ -1,9 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
- <title id="title9167">
-  Gnome Symbolic Icon Theme
- </title>
- <g id="layer12" transform="translate(-81 -807)">
-  <path fill="#444" d="m92 819h-0.99999c-0.2569 1e-5 -0.52845 0.11786-0.71876 0.28369l-1.2812 1.1631-1.2812-1.1631c-0.19004-0.16606-0.46185-0.28368-0.71877-0.28364h-0.99999l-1e-5 0.90779c0 0.28091 0.09021 0.50137 0.2813 0.68082l2.7187 2.4113 2.7187-2.4113c0.19093-0.17949 0.28126-0.39993 0.28126-0.68084v-0.90778z"/>
-  <path fill="#444" d="m85 807v2h6c0.42816 0 1 0.61414 1 1v1h-5c-0.91927 0-1.7356 0.38396-2.25 0.96875s-0.75639 1.3106-0.75 2.0312c0.0064 0.72062 0.26893 1.4527 0.78125 2.0312s1.3105 0.96875 2.2188 0.96875h6 1v-1-6c0-1.6343-1.3198-3-3-3h-6zm2 6h5v2h-5c-0.39787 0-0.56691-0.10979-0.71875-0.28125s-0.27877-0.43937-0.28125-0.71875c-0.0025-0.27938 0.10467-0.55354 0.25-0.71875s0.32764-0.28125 0.75-0.28125z"/>
- </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
+    <g font-weight="400" fill="#474747">
+        <path d="M11 12h-1c-.257 0-.528.118-.719.284l-1.28 1.163-1.282-1.163A1.145 1.145 0 0 0 6 12H5v.908c0 .28.09.501.281.68L8.001 16l2.718-2.411a.88.88 0 0 0 .281-.681V12z" style="line-height:normal;-inkscape-font-specification:'Bitstream Vera Sans';text-indent:0;text-align:start;text-decoration-line:none;text-transform:none;marker:none" color="#bebebe" font-family="Bitstream Vera Sans" overflow="visible"/>
+        <path d="M4 0v2h6c.428 0 1 .614 1 1v1H6c-.92 0-1.736.38-2.25.965a3.037 3.037 0 0 0-.736 2.045 3.08 3.08 0 0 0 .758 2.027C4.284 9.616 5.092 10 6 10h7V3a3 3 0 0 0-3-3zm2 6h5v2H6c-.398 0-.579-.116-.73-.287a1.138 1.138 0 0 1-.256-.723c-.003-.28.093-.54.238-.705C5.397 6.12 5.578 6 6 6z" style="line-height:normal;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;shape-padding:0;isolation:auto;mix-blend-mode:normal;marker:none" color="#000" font-family="sans-serif" white-space="normal" overflow="visible"/>
+    </g>
 </svg>

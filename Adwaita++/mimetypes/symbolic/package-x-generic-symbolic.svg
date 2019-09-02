@@ -1,10 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
- <title id="title9167">
-  Gnome Symbolic Icon Theme
- </title>
- <g id="layer14" transform="translate(-482,-300)">
-  <path fill="#444" d="m 485.0002,308 10,0 0,7.05898 c 0,0.4922 -0.47266,0.9375 -0.99609,0.9375 l -8.00391,0 c -0.53906,0 -1,-0.42964 -1,-1 z"/>
-  <path fill="#444" d="m 488.6875,302.96875 a 1.0001,1.0001 0 0 0 -0.65625,0.375 l -2.8125,3.46875 A 1.0001,1.0001 0 0 0 485,307.4375 l 0,1 a 1.0001,1.0001 0 1 0 2,0 l 0,-0.65625 2.59375,-3.15625 a 1.0001,1.0001 0 0 0 -0.90625,-1.65625 z"/>
-  <path fill="#444" d="m 490.90625,305.96875 a 1.0001221,1.0001221 0 1 0 -0.0312,2 l 2.15625,0.375 0,0.15625 a 1.0001,1.0001 0 1 0 2,0 l 0,-1 a 1.0001,1.0001 0 0 0 -0.8125,-1 l -3,-0.5 a 1.0001,1.0001 0 0 0 -0.3125,-0.0312 z"/>
- </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
+    <g fill="#474747">
+        <path d="M3 8h10v7.059c0 .492-.472.937-.996.937H4c-.539 0-1-.43-1-1z" style="marker:none" color="#bebebe" overflow="visible"/>
+        <path d="M6.794 2.97a1 1 0 0 0-.754.378L3.225 6.805a1 1 0 0 0-.224.633v1a1 1 0 1 0 2 0v-.645l2.592-3.181a1 1 0 0 0-.8-1.643zM9.007 5.973a1 1 0 0 0-.145 1.988l2.17.38v.16a1 1 0 1 0 2 0v-1a1 1 0 0 0-.828-.987l-2.998-.523a1 1 0 0 0-.2-.018z" style="line-height:normal;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;shape-padding:0;isolation:auto;mix-blend-mode:normal" color="#000" font-weight="400" font-family="sans-serif" white-space="normal" overflow="visible"/>
+    </g>
 </svg>

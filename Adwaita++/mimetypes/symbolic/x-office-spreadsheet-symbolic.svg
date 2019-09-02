@@ -1,16 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
- <title id="title9167">
-  Gnome Symbolic Icon Theme
- </title>
- <g id="layer14" transform="translate(-501,-321.00012)">
-  <path fill="#444" d="m 503.8127,322.00012 a 1.0000999,1.0000999 0 0 0 -0.8125,1 l 0,13 a 1.0000999,1.0000999 0 0 0 1,1 l 9.99999,0 a 1.0000999,1.0000999 0 0 0 1,-1 l 0,-9.4375 a 1.0000999,1.0000999 0 0 0 -0.28125,-0.71875 l -3.56249,-3.5625 a 1.0000999,1.0000999 0 0 0 -0.71875,-0.28125 l -6.4375,0 a 1.0000999,1.0000999 0 0 0 -0.0937,0 1.0000999,1.0000999 0 0 0 -0.0937,0 z m 1.1875,2 5,0 0,3 2.99999,0 0,8 -7.99999,0 0,-11 z"/>
-  <rect fill="#444" width="1" height="1" x="506" y="325"/>
-  <rect fill="#444" width="1" height="1" x="508" y="325"/>
-  <rect fill="#444" width="1" height="1" x="506" y="327"/>
-  <rect fill="#444" width="1" height="1" x="508" y="327"/>
-  <rect fill="#444" width="1" height="1" x="506" y="333"/>
-  <rect fill="#444" width="1" height="1" x="508" y="333"/>
-  <rect fill="#444" width="1" height="1" x="510" y="333"/>
-  <path fill="#444" d="m 506.0002,332.01126 6,0 0,-1.01126 -1.46875,-2.55124 -1.53125,2.04687 -1.46875,-1.0625 L 506.0002,331 z"/>
- </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
+    <g fill="#474747">
+        <path d="M3 1a1 1 0 0 0-1 1v13a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1V5.5a1 1 0 0 0-.293-.707l-3.5-3.5A1 1 0 0 0 9.5 1zm1 2h5.086L12 5.914V14H4z" style="line-height:normal;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;shape-padding:0;isolation:auto;mix-blend-mode:normal" color="#000" font-weight="400" font-family="sans-serif" white-space="normal" overflow="visible" fill-rule="evenodd"/>
+        <path d="M9 2v4h4z" fill-rule="evenodd"/>
+        <path d="M4.986 3.986h1v1h-1zM6.986 3.986h1v1h-1zM4.986 5.986h1v1h-1zM6.986 5.986h1v1h-1zM4.986 11.986h1v1h-1zM6.986 11.986h1v1h-1zM8.986 11.986h1v1h-1zM4.986 10.997h6V9.986L9.517 7.434 7.986 9.481 6.517 8.42 4.986 9.986z" style="marker:none" color="#000" overflow="visible"/>
+    </g>
 </svg>

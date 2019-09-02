@@ -1,10 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
- <title id="title9167">
-  Gnome Symbolic Icon Theme
- </title>
- <g id="layer9" transform="translate(-221 -397)">
-  <path d="m227.41 402a0.50005 0.50005 0 0 0-0.40625 0.5v2.5h-1.5a0.50005 0.50005 0 1 0 0 1h2a0.50005 0.50005 0 0 0 0.5-0.5v-3a0.50005 0.50005 0 0 0-0.59375-0.5z" style="fill:#444444"/>
-  <path d="m232 408h1.375l1.125 1.0938 1.0938-1.0938h1.4062v1.4688l-1.0938 1.0625 1.0938 1.0625v1.4062h-1.4375l-1.0625-1.0625-1.0625 1.0625h-1.4375v-1.4062l1.0625-1.0625-1.0625-1.0625v-1.4688z" style="fill:#444444"/>
-  <path d="m227.5 399c-3.578 0-6.5 2.922-6.5 6.5s2.922 6.5 6.5 6.5c1.2912 0 2.4851-0.37561 3.5-1.0312v-2.6562c-0.82069 1.0272-2.071 1.6875-3.5 1.6875-2.4971 0-4.5-2.0029-4.5-4.5 0-2.4971 2.0029-4.5 4.5-4.5 2.4971 0 4.5 2.0029 4.5 4.5 0 0.53296-0.11393 1.0272-0.28125 1.5h2.0938c0.11483-0.48186 0.1875-0.98435 0.1875-1.5 0-3.578-2.922-6.5-6.5-6.5z" style="fill:#444444"/>
- </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
+    <g fill="#474747">
+        <path d="M6.492 4.992A.5.5 0 0 0 6 5.5V8H4.5a.5.5 0 1 0 0 1h2a.5.5 0 0 0 .5-.5v-3a.5.5 0 0 0-.508-.508z" style="line-height:normal;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;shape-padding:0;isolation:auto;mix-blend-mode:normal" color="#000" font-weight="400" font-family="sans-serif" white-space="normal" overflow="visible"/>
+        <path d="M11 11h1.375l1.125 1.094L14.594 11H16v1.469l-1.094 1.062L16 14.594V16h-1.438L13.5 14.937 12.437 16H11v-1.406l1.062-1.063L11 12.47z" style="marker:none" color="#bebebe" overflow="visible"/>
+        <path d="M6.5 2C2.922 2 0 4.922 0 8.5S2.922 15 6.5 15a6.408 6.408 0 0 0 3.5-1.031v-2.656A4.452 4.452 0 0 1 6.5 13 4.485 4.485 0 0 1 2 8.5C2 6.003 4.003 4 6.5 4S11 6.003 11 8.5c0 .533-.114 1.027-.281 1.5h2.094A6.47 6.47 0 0 0 13 8.5C13 4.922 10.078 2 6.5 2z" style="line-height:normal;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration-line:none;text-transform:none;marker:none" color="#000" font-weight="400" font-size="xx-small" font-family="Sans" overflow="visible"/>
+    </g>
 </svg>

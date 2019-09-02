@@ -1,13 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
- <title id="title9167">
-  Gnome Symbolic Icon Theme
- </title>
- <g id="layer13" transform="translate(-442 -216)">
-  <g transform="translate(422 -1)">
-   <g>
-    <path d="m202.75 3c-0.9522 0-1.75 0.7978-1.75 1.75v4.5c0 0.9522 0.7978 1.75 1.75 1.75h0.125l-0.78125 1.5625-0.71875 1.4375h1.625 6 1.625l-0.71875-1.4375-0.78125-1.5625h0.125c0.9522 0 1.75-0.7978 1.75-1.75v-4.5c0-0.9522-0.7978-1.75-1.75-1.75h-6.5zm0.25 2h6v4h-6v-4z" transform="translate(-181 218)" style="fill:#444444"/>
-   </g>
-   <path d="m27.75 218c-0.9522 0-1.75 0.7978-1.75 1.75v0.25h2 0.25 5.75v4h-3v3.25c0 0.6591-0.25164 1.2698-0.65625 1.75h5.2812l-1.5-3h0.125c0.9522 0 1.75-0.7978 1.75-1.75v-4.5c0-0.9522-0.7978-1.75-1.75-1.75h-6.5z" style="fill:#444444"/>
-  </g>
- </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
+    <g color="#bebebe" font-weight="400" fill="#474747">
+        <path d="M1.75 4C.798 4 0 4.798 0 5.75v4.5C0 11.202.798 12 1.75 12h.125l-.781 1.563L.375 15h9.25l-.719-1.437L8.125 12h.125c.952 0 1.75-.798 1.75-1.75v-4.5C10 4.798 9.202 4 8.25 4zM2 6h6v4H2z" style="line-height:normal;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration-line:none;text-transform:none;marker:none" font-family="Sans" overflow="visible"/>
+        <path d="M7.75 1C6.798 1 6 1.798 6 2.75V3h8v4h-3v3.25c0 .66-.252 1.27-.656 1.75h5.28l-1.5-3h.126C15.202 9 16 8.202 16 7.25v-4.5C16 1.798 15.202 1 14.25 1z" style="line-height:normal;text-indent:0;text-align:start;text-decoration-line:none;text-transform:none;marker:none" font-family="Andale Mono" overflow="visible"/>
+    </g>
 </svg>

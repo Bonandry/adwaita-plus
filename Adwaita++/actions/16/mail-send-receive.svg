@@ -1,11 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
- <title id="title9167">
-  Gnome Symbolic Icon Theme
- </title>
- <g id="layer12" transform="translate(-81 -687)">
-  <path fill="#444" d="m90 694-1e-5 -1c-3e-5 -0.26531-0.0931-0.53058-0.28124-0.71876l-3-3-0.28125-0.28126h-0.87499l-0.28126 0.28126-3 3c-0.18821 0.18818-0.28121 0.45347-0.28121 0.71876l-1e-5 1h1c0.26531 4e-5 0.53059-0.0931 0.71877-0.28121l2.2812-2.2813 2.2812 2.2812c0.18817 0.18815 0.45345 0.28125 0.71875 0.28125h1z"/>
-  <path fill="#444" d="m85 691v7h2v-7h-2z"/>
-  <path fill="#444" d="m96 695-1e-5 1c-3e-5 0.26531-0.0931 0.53058-0.28124 0.71876l-3 3-0.28125 0.28126h-0.87499l-0.28126-0.28126-3-3c-0.18821-0.18818-0.28121-0.45347-0.28121-0.71876l-1e-5 -1h1c0.26531-4e-5 0.53059 0.0931 0.71877 0.28121l2.2812 2.2813 2.2812-2.2812c0.18817-0.18815 0.45345-0.28125 0.71875-0.28125h1z"/>
-  <path fill="#444" d="m91 691v7h2v-7h-2z"/>
- </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
+    <path d="M9 7V6c0-.265-.093-.53-.281-.719l-3-3L5.438 2h-.875l-.282.281-3 3a1.015 1.015 0 0 0-.28.719L1 7h1c.265 0 .53-.093.719-.281L5 4.438l2.281 2.28c.188.189.454.282.72.282h1z" style="line-height:normal;-inkscape-font-specification:'Bitstream Vera Sans';text-indent:0;text-align:start;text-decoration-line:none;text-transform:none;marker:none" color="#000" font-weight="400" font-family="Bitstream Vera Sans" overflow="visible" fill="#474747"/>
+    <path d="M4 4v7h2V4z" style="line-height:normal;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;shape-padding:0;isolation:auto;mix-blend-mode:normal;marker:none" color="#000" font-weight="400" font-family="sans-serif" white-space="normal" overflow="visible" fill="#474747"/>
+    <path d="M15 8v1c0 .265-.093.53-.281.719l-3 3-.281.281h-.875l-.282-.281-3-3A1.015 1.015 0 0 1 7.001 9L7 8h1c.265 0 .53.093.719.281L11 10.562l2.281-2.28c.188-.189.454-.282.72-.282h1z" style="line-height:normal;-inkscape-font-specification:'Bitstream Vera Sans';text-indent:0;text-align:start;text-decoration-line:none;text-transform:none;marker:none" color="#000" font-weight="400" font-family="Bitstream Vera Sans" overflow="visible" fill="#474747"/>
+    <path d="M10 4v7h2V4z" style="line-height:normal;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;shape-padding:0;isolation:auto;mix-blend-mode:normal;marker:none" color="#000" font-weight="400" font-family="sans-serif" white-space="normal" overflow="visible" fill="#474747"/>
 </svg>

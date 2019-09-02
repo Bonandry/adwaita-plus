@@ -1,9 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
- <title id="title9167">
-  Gnome Symbolic Icon Theme
- </title>
- <g id="layer12" transform="translate(-221.0002,-747)">
-  <rect fill="#444" width="2" height="12" x="-752" y="-235" rx="0" ry="0" transform="matrix(0,-1,-1,0,0,0)"/>
-  <path fill="#444" d="m 229.0002,752.5625 -5.71875,5.71875 c -0.19587,0.19587 -0.28125,0.46313 -0.28125,0.71875 l 0,1 1,0 c 0.25562,0 0.52288,-0.0854 0.71875,-0.28125 l 4.28125,-4.28125 4.28125,4.28125 C 233.47732,759.91462 233.74458,760 234.0002,760 l 1,0 0,-1 c 0,-0.25562 -0.0854,-0.52288 -0.28125,-0.71875 z"/>
- </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
+    <g color="#000" fill="#474747">
+        <path d="M8 5.586l-5.707 5.707 1.414 1.414L8 8.414l4.293 4.293 1.414-1.414zM13.998 2.998l-1 .002-10 .014-1 .002.004 2 1-.002 10-.014 1-.002z" style="line-height:normal;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;shape-padding:0;isolation:auto;mix-blend-mode:normal;marker:none" font-weight="400" font-family="sans-serif" white-space="normal" overflow="visible"/>
+        <path d="M3 12v1H2v-1zM14 12v1h-1v-1z" style="marker:none" overflow="visible"/>
+        <path d="M14 12c0 .554-.446 1-1 1s-1-.446-1-1 .446-1 1-1 1 .446 1 1zM4 12c0 .554-.446 1-1 1s-1-.446-1-1 .446-1 1-1 1 .446 1 1z" style="marker:none" overflow="visible"/>
+    </g>
 </svg>

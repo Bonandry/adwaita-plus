@@ -1,14 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" width="16" height="16" version="1.1" viewBox="0 0 16 16">
- <title id="title9167">
-  Gnome Symbolic Icon Theme
- </title>
- <defs>
-  <linearGradient id="linearGradient19282" gradientTransform="matrix(-2.7365795,0.28202934,-0.18908311,-0.99988321,239.54008,-879.45557)" osb:paint="solid">
-   <stop id="stop19284" offset="0" style="stop-color:#666666"/>
-  </linearGradient>
- </defs>
- <g id="layer12" transform="translate(-361.0002,-727)">
-  <path fill="#444" d="m 374.26576,737.47612 2.189,-2.47549 h 0.54564 v 5.00427 h -0.53372 z M 368.0002,734 h 5.0004 c 0.55389,0 0.9998,0.446 0.9998,1 v 5 c 0,0.554 -0.44591,1 -0.9998,1 h -5.0004 c -0.55389,0 -0.9998,-0.446 -0.9998,-1 v -5 c 0,-0.554 0.44591,-1 0.9998,-1 z"/>
-  <path d="m 365.0002,728.99415 c -0.55389,0 -1,0.446 -1,1 v 5.00781 c 0,0.554 0.44611,1 1,1 h 0.99804 V 735 c 0,-1.05007 0.95203,-2.00742 2.00196,-2.00196 h 3 v -3.00389 c 0,-0.554 -0.44611,-1 -1,-1 z m -4,1.00897 v 5.00569 h 0.47928 l 2.2551,-2.5873 -2.12321,-2.41839 z" style="opacity:0.5;fill:#c3c3c3"/>
- </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
+    <g color="#bebebe" fill="#474747">
+        <path d="M13.266 10.476l2.189-2.475H16v5.004h-.534zM7 7h5c.554 0 1 .446 1 1v5c0 .554-.446 1-1 1H7c-.554 0-1-.446-1-1V8c0-.554.446-1 1-1z" style="marker:none" overflow="visible"/>
+        <path d="M4 1.994c-.554 0-1 .446-1 1v5.008c0 .554.446 1 1 1h.998V8c0-1.05.952-2.007 2.002-2.002h3V2.994c0-.554-.446-1-1-1zm-4 1.01v5.005h.48l2.254-2.587L.611 3.003z" style="marker:none" overflow="visible" opacity=".5"/>
+    </g>
 </svg>

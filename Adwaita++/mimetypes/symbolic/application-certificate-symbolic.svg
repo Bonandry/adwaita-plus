@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
- <g id="layer14" transform="translate(-502 -300)">
-  <path fill="#444" d="m504 302c-0.52358 5e-5 -0.99995 0.47642-1 1v10c5e-5 0.52358 0.47642 0.99995 1 1h3.0001v-2s-1.9929-0.0211-2.0001 1e-4v-8h11l6.6e-4 7.9999h-1.0006v2h2.0006c0.5193 0 0.9993-0.43501 0.9993-0.99988v-10c7.5e-4 -0.46663-0.43709-1.0001-1-0.9999z"/>
-  <path fill="#444" d="m514 308.06a3 3 0 0 1-5.9987 0 3 3 0 1 1 5.9987 0z"/>
-  <path fill="#444" fill-rule="evenodd" d="m510 309-2.0002 7h1l2.0002-2 1.9998 2h1l-1.9999-7"/>
- </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
+    <g fill="#474747">
+        <path d="M2 2c-.524 0-1 .476-1 1v10c0 .524.476 1 1 1h3v-2s-1.993-.021-2 0V4h11v8h-1v2h2c.52 0 1-.435 1-1V3c0-.467-.437-1-1-1z" style="line-height:normal;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration-line:none;text-transform:none;marker:none" color="#000" font-weight="400" font-family="Sans" overflow="visible"/>
+        <path d="M12 8.063a3 3 0 0 1-6 0 3 3 0 1 1 6 0z"/>
+        <path d="M8 9l-2 7h1l2-2 2 2h1l-2-7" fill-rule="evenodd"/>
+    </g>
 </svg>

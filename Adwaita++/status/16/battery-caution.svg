@@ -1,10 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
- <title id="title9167">
-  Gnome Symbolic Icon Theme
- </title>
- <g id="layer9" transform="translate(-101 -217)">
-  <path class="error" d="m106 228v2h2.0002v-2l-2.0002 1e-5z" style="fill:#c00"/>
-  <path d="m106.47 217c-0.49033 0-0.79607 0.22846-1.0312 0.46875s-0.4375 0.5585-0.4375 1.0312v0.5h-1-1v1 12 1h1 4v-2h-3v-10h1 1v-1-1h4v1 1h1 1v3h2v-4-1h-1-1v-0.375-0.0312-0.0312c-0.0239-0.4306-0.17023-0.72105-0.40625-1-0.22374-0.26444-0.6267-0.52931-1.1562-0.53125v-0.0312h-0.0625-4.9062z" style="fill:#474747"/>
-  <path class="warning" d="m109.88 225c-0.49245 0-0.875 0.38256-0.875 0.875v6.25c0 0.49244 0.38255 0.875 0.875 0.875h6.25c0.49245 0 0.875-0.38256 0.875-0.875v-6.25c0-0.49244-0.38255-0.875-0.875-0.875h-6.25zm2.125 1h2v4h-2v-4zm0 5h2v1h-2v-1z" style="fill:#f57900"/>
- </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
+    <path class="error" d="M5 12v1h2v-1z" fill="#c00"/>
+    <path d="M5.469.012c-.49 0-.796.215-1.032.455C4.202.707 4 1.023 4 1.497V2H2v14h5v-2H4V4h2V2.012h4V4h2v3h2V2h-2v-.395l-.002-.027a1.622 1.622 0 0 0-.416-1.014c-.236-.278-.62-.584-1.2-.552z" style="line-height:normal;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;white-space:normal;shape-padding:0;isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1;marker:none" color="#bebebe" font-weight="400" font-family="sans-serif" overflow="visible" fill="#2e3436"/>
+    <path class="warning" d="M8.875 8A.863.863 0 0 0 8 8.875v6.25c0 .492.383.875.875.875h6.25a.863.863 0 0 0 .875-.875v-6.25A.863.863 0 0 0 15.125 8zM11 9h2v2.5s0 .5-.5.5h-1c-.5 0-.5-.5-.5-.5zm.5 4h1c.277 0 .5.223.5.5v1c0 .277-.223.5-.5.5h-1a.499.499 0 0 1-.5-.5v-1c0-.277.223-.5.5-.5z" style="marker:none" color="#bebebe" overflow="visible" fill="#f57900"/>
 </svg>

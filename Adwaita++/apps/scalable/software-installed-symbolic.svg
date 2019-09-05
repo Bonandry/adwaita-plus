@@ -6,12 +6,36 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    viewBox="0 0 128 128"
    style="display:inline;enable-background:new"
    version="1.0"
    id="svg11300"
    height="128"
-   width="128">
+   width="128"
+   sodipodi:docname="software-installed-symbolic.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     id="namedview21"
+     showgrid="false"
+     inkscape:zoom="6.5234375"
+     inkscape:cx="64"
+     inkscape:cy="64"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer9" />
   <title
      id="title4162">Adwaita Icon Template</title>
   <defs
@@ -140,13 +164,20 @@
          id="rect1044"
          d="m 50,200 v -8 c 0,-7.756 6.244,-14 14,-14 7.756,0 14,6.244 14,14 v 8"
          style="opacity:1;fill:none;fill-opacity:1;stroke:#62a0ea;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <path
-         style="display:inline;opacity:1;fill:#3584e4;fill-opacity:1;stroke:none;stroke-width:0.0112982px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;enable-background:new"
-         d="m 64,216 a 20,20.000002 0 0 0 -20,20 20,20.000002 0 0 0 20,20 20,20.000002 0 0 0 20,-20 20,20.000002 0 0 0 -20,-20 z m -8,10 a 1.9999997,2 0 0 1 2,2 1.9999997,2 0 0 1 -2,2 1.9999997,2 0 0 1 -2,-2 1.9999997,2 0 0 1 2,-2 z m 8,0 a 1.9999997,2 0 0 1 2,2 1.9999997,2 0 0 1 -2,2 1.9999997,2 0 0 1 -2,-2 1.9999997,2 0 0 1 2,-2 z m 8,0 a 1.9999997,2 0 0 1 2,2 1.9999997,2 0 0 1 -2,2 1.9999997,2 0 0 1 -2,-2 1.9999997,2 0 0 1 2,-2 z m -16,8 a 1.9999997,2 0 0 1 2,2 1.9999997,2 0 0 1 -2,2 1.9999997,2 0 0 1 -2,-2 1.9999997,2 0 0 1 2,-2 z m 8,0 a 1.9999997,2 0 0 1 2,2 1.9999997,2 0 0 1 -2,2 1.9999997,2 0 0 1 -2,-2 1.9999997,2 0 0 1 2,-2 z m 8,0 a 1.9999997,2 0 0 1 2,2 1.9999997,2 0 0 1 -2,2 1.9999997,2 0 0 1 -2,-2 1.9999997,2 0 0 1 2,-2 z m -16,8 a 1.9999997,2 0 0 1 2,2 1.9999997,2 0 0 1 -2,2 1.9999997,2 0 0 1 -2,-2 1.9999997,2 0 0 1 2,-2 z m 8,0 a 1.9999997,2 0 0 1 2,2 1.9999997,2 0 0 1 -2,2 1.9999997,2 0 0 1 -2,-2 1.9999997,2 0 0 1 2,-2 z m 8,0 a 1.9999997,2 0 0 1 2,2 1.9999997,2 0 0 1 -2,2 1.9999997,2 0 0 1 -2,-2 1.9999997,2 0 0 1 2,-2 z"
-         id="path920" />
     </g>
     <g
        style="fill:url(#linearGradient1496);fill-opacity:1"
        id="g1480" />
+  </g>
+  <g
+     id="g833"
+     style="fill:#1a5fb4;fill-opacity:1"
+     transform="matrix(3.5197605,0,0,3.5197605,35.841916,40.900599)">
+    <path
+       style="fill:#1a5fb4;fill-opacity:1;stroke:none;stroke-width:1"
+       inkscape:connector-curvature="0"
+       id="path8"
+       d="M 6.6919998,13.645333 2.4493333,9.3239998 a 0.33333333,0.33333333 0 0 1 0,-0.4706667 L 3.8799999,7.4506665 a 0.33333333,0.33333333 0 0 1 0.472,0 L 6.6373331,9.7826664 14.717333,1.0746666 A 3.9746666,3.9746666 0 0 0 12,-4.9999999e-8 H 3.9999999 A 3.9999999,3.9999999 0 0 0 -4.9999999e-8,3.9999999 V 12 A 3.9999999,3.9999999 0 0 0 3.9999999,16 H 12 a 3.9999999,3.9999999 0 0 0 4,-4 V 3.9999999 C 16,3.8813332 15.97467,3.7706666 15.96533,3.6546666 Z"
+       class="a" />
   </g>
 </svg>

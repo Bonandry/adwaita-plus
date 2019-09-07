@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="128" height="128" version="1.0" viewBox="0 0 128 128" style="enable-background:new">
+ <title id="title4162">
+  Adwaita Icon Template
+ </title>
+ <defs>
+  <linearGradient id="linearGradient1470">
+   <stop style="stop-color:#1b58a6" id="stop1466" offset="0"/>
+   <stop style="stop-color:#060b10" id="stop1468" offset="1"/>
+  </linearGradient>
+  <radialGradient id="radialGradient949" cx="256" cy="-174.134" r="144" fx="256" fy="-174.134" gradientTransform="matrix(0.56307875,0,0,0.56307875,-80.148138,-185.05465)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient947"/>
+  <linearGradient id="linearGradient947">
+   <stop style="stop-color:#424048" id="stop943" offset="0"/>
+   <stop style="stop-color:#000000" id="stop945" offset="1"/>
+  </linearGradient>
+  <radialGradient id="radialGradient2192" cx="320.707" cy="-31.995" r="50" fx="320.707" fy="-31.995" gradientTransform="matrix(2.9091888,0,0,2.9091888,-636.29051,14.67549)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1470"/>
+  <linearGradient id="linearGradient1075">
+   <stop id="stop1071" offset="0" style="stop-color:#ffffff"/>
+   <stop id="stop1073" offset="1" style="stop-color:#4a86cf;stop-opacity:0"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1061" x1="320" x2="320" y1="93" y2="13" gradientTransform="translate(-23.999948,-46.40897)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1075"/>
+  <clipPath id="clipPath898" clipPathUnits="userSpaceOnUse">
+   <rect width="126.999" height="31.75" x="140.6" y="214.22" rx="8.467" ry="8.467" style="opacity:0.1"/>
+  </clipPath>
+  <clipPath id="clipPath920" clipPathUnits="userSpaceOnUse">
+   <rect width="126.999" height="31.75" x="140.6" y="250.92" rx="8.467" ry="8.467" style="opacity:0.1"/>
+  </clipPath>
+  <clipPath id="clipPath924" clipPathUnits="userSpaceOnUse">
+   <rect style="opacity:0.1" width="126.999" height="31.75" x="140.6" y="288.2" rx="8.467" ry="8.467"/>
+  </clipPath>
+  <clipPath id="clipPath928" clipPathUnits="userSpaceOnUse">
+   <rect width="126.999" height="31.75" x="140.6" y="324.9" rx="8.467" ry="8.467" style="opacity:0.1"/>
+  </clipPath>
+  <clipPath id="clipPath932" clipPathUnits="userSpaceOnUse">
+   <rect style="opacity:0.1" width="126.999" height="31.75" x="140.6" y="362.19" rx="8.467" ry="8.467"/>
+  </clipPath>
+  <clipPath id="clipPath936" clipPathUnits="userSpaceOnUse">
+   <rect width="126.999" height="31.75" x="140.6" y="399.47" rx="8.467" ry="8.467" style="opacity:0.1"/>
+  </clipPath>
+  <clipPath id="clipPath940" clipPathUnits="userSpaceOnUse">
+   <rect style="opacity:0.1" width="126.999" height="31.75" x="140.6" y="436.17" rx="8.467" ry="8.467"/>
+  </clipPath>
+  <clipPath id="clipPath944" clipPathUnits="userSpaceOnUse">
+   <rect width="253.868" height="31.75" x="140.6" y="473.45" rx="8.467" ry="8.467" style="opacity:0.1"/>
+  </clipPath>
+ </defs>
+ <g id="layer1" transform="translate(0,-172)">
+  <g id="layer2" style="display:none">
+   <text style="font-size:18.30133247px;line-height:125%;font-family:Cantarell" id="context" x="7.86" y="-279.7" xml:space="preserve">
+    <tspan id="tspan2716" x="7.86" y="-279.7">apps</tspan>
+   </text>
+   <text id="text3021" x="7.26" y="-253.9" xml:space="preserve" style="font-weight:bold;font-size:18.30133247px;line-height:125%;font-family:Cantarell">
+    <tspan id="tspan3023" x="7.26" y="-253.9">org.gnome.Camera</tspan>
+   </text>
+   <rect style="fill:#f0f0f0" width="128" height="128" x="0" y="172"/>
+   <g style="enable-background:new" transform="matrix(0.25,0,0,0.25,6.9488522e-8,225)">
+    <rect width="320" height="448" x="96" y="-180" rx="32" ry="32" style="opacity:0.1;fill:#2864b0"/>
+    <rect width="416" height="416" x="48" y="-164" rx="32" ry="32" style="opacity:0.1;fill:#2864b0"/>
+    <rect width="448" height="320" x="32" y="-116" rx="32" ry="32" style="opacity:0.1;fill:#2864b0"/>
+    <circle cx="256" cy="44" r="240" style="opacity:0.1;fill:#2864b0"/>
+   </g>
+  </g>
+  <g id="layer9">
+   <circle style="fill:#f6f5f4" cx="64" cy="-236" r="60.125" transform="scale(1,-1)"/>
+   <circle style="fill:url(#radialGradient949)" cx="64" cy="-236" r="52.125" transform="scale(1,-1)"/>
+   <circle cx="64" cy="-236" r="45.875" transform="scale(1,-1)"/>
+   <g style="enable-background:new" transform="matrix(0.8025001,0,0,0.8025001,-173.54003,213.20164)">
+    <circle style="fill:url(#radialGradient2192)" cx="296" cy="-28.409" r="50" transform="scale(1,-1)"/>
+    <circle cx="296" cy="-28.409" r="22.586" transform="scale(1,-1)"/>
+    <circle style="fill:#2070d6" cx="278.555" cy="-10.808" r="14.953" transform="scale(1,-1)"/>
+    <ellipse style="fill:#2070d6" cx="318.43" cy="-50.683" rx="7.477" ry="7.477" transform="scale(1,-1)"/>
+    <ellipse style="fill:#2070d6" cx="307.215" cy="-39.468" rx="4.984" ry="4.984" transform="scale(1,-1)"/>
+    <circle style="opacity:0.66399997;fill:url(#linearGradient1061)" cx="296" cy="-28.409" r="50" transform="scale(1,-1)"/>
+   </g>
+  </g>
+ </g>
+</svg>

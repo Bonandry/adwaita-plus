@@ -1,30 +1,28 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
- <defs>
-  <marker id="DiamondS" orient="auto" refX="0" refY="0">
-   <path d="M 0,-7.0710768 L -7.0710894,0 L 0,7.0710589 L 7.0710462,0 L 0,-7.0710768 z" style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt" transform="scale(0.2)"/>
-  </marker>
-  <marker id="Arrow2Send" orient="auto" refX="0" refY="0">
-   <path style="fill-rule:evenodd" d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z" transform="scale(0.3) rotate(180) translate(-2.3,0)"/>
-  </marker>
-  <marker id="Arrow1Lend" orient="auto" refX="0" refY="0">
-   <path d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z" style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt" transform="scale(0.8) rotate(180) translate(12.5,0)"/>
-  </marker>
-  <linearGradient id="linearGradient3946">
-   <stop id="stop3948" offset="0" style="stop-color:#000000;stop-opacity:0.74698794"/>
-   <stop id="stop3950" offset="1" style="stop-color:#000000;stop-opacity:0.02409638"/>
-  </linearGradient>
-  <linearGradient id="linearGradient3830-9">
-   <stop style="stop-color:#000000;stop-opacity:0.74698794" id="stop3832-7" offset="0"/>
-   <stop style="stop-color:#000000;stop-opacity:0.02409638" id="stop3834-5" offset="1"/>
-  </linearGradient>
-  <linearGradient id="linearGradient3984">
-   <stop style="stop-color:#f4deba" id="stop3986" offset="0"/>
-   <stop style="stop-color:#de9625;stop-opacity:0" id="stop3988" offset="1"/>
-  </linearGradient>
- </defs>
- <g id="layer1" transform="translate(-31.97559,-220.36218)">
-  <path fill="#444" d="m 1.02441,15.00002 14,0 0,-7 -2,0 0,5 -10,0 0,-5 -2,0 z" transform="translate(31.97559,220.36218)"/>
-  <path fill="#444" d="m 36.421907,223.9731 a 1.001098,1.001098 0 1 0 1.480504,1.34792 l 2.121321,-2.12132 2.12132,2.12132 a 1.0001,1.0001 0 1 0 1.414214,-1.41421 l -2.828428,-2.82843 -0.707106,-0.70711 -0.707107,0.70711 -2.828427,2.82843 a 1.0001,1.0001 0 0 0 -0.06629,0.0663 z"/>
-  <path fill="#444" d="m 39,222.36783 0,8 2,0 0,-8 z"/>
- </g>
+<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <marker id="DiamondS" orient="auto" refX="0" refY="0">
+      <path d="m0-7.0710768-7.0710894 7.0710768 7.0710894 7.0710589 7.0710462-7.0710589z" fill-rule="evenodd" stroke="#000" stroke-width="1pt" transform="scale(.2)"/>
+    </marker>
+    <marker id="Arrow2Send" orient="auto" refX="0" refY="0">
+      <path d="m8.7185878 4.0337352-10.9258773-4.01772194 10.9258779-4.01772106c-1.7454984 2.3720609-1.7354408 5.6174519-.0000006 8.035443z" fill-rule="evenodd" transform="matrix(-.3 0 0 -.3 .69 0)"/>
+    </marker>
+    <marker id="Arrow1Lend" orient="auto" refX="0" refY="0">
+      <path d="m0 0 5-5-17.5 5 17.5 5z" fill-rule="evenodd" stroke="#000" stroke-width="1pt" transform="matrix(-.8 0 0 -.8 -10 0)"/>
+    </marker>
+    <linearGradient id="lg1">
+      <stop id="stop3948" offset="0" stop-opacity=".746988"/>
+      <stop id="stop3950" offset="1" stop-opacity=".024096"/>
+    </linearGradient>
+    <linearGradient id="linearGradient3946" xlink:href="#lg1"/>
+    <linearGradient id="linearGradient3830-9" xlink:href="#lg1"/>
+    <linearGradient id="linearGradient3984">
+      <stop id="stop3986" offset="0" stop-color="#f4deba"/>
+      <stop id="stop3988" offset="1" stop-color="#de9625" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="layer1" fill="#444" transform="translate(-31.97559 -220.36218)">
+    <path d="m1.02441 15.00002h14v-7h-2v5h-10v-5h-2z" transform="translate(31.97559 220.36218)"/>
+    <path d="m36.421907 223.9731a1.001098 1.001098 0 1 0 1.480504 1.34792l2.121321-2.12132 2.12132 2.12132a1.0001 1.0001 0 1 0 1.414214-1.41421l-2.828428-2.82843-.707106-.70711-.707107.70711-2.828427 2.82843a1.0001 1.0001 0 0 0 -.06629.0663z"/>
+    <path d="m39 222.36783v8h2v-8z"/>
+  </g>
 </svg>

@@ -1,14 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16.04" height="16" version="1.1">
- <title id="title2">
-  Gnome Symbolic Icon Theme
- </title>
- <g style="fill:#ffffff" transform="translate(-260.98 -177)">
-  <rect style="fill:#ffffff;opacity:0.35" width="5.016" height="4.972" x="260.98" y="187.99"/>
-  <rect style="fill:#ffffff;opacity:0.35" width="5.016" height="4.972" x="266" y="178.03"/>
-  <rect style="fill:#ffffff;opacity:0.35" width="5.016" height="4.972" x="272" y="188.03"/>
-  <rect style="display:block;fill:#ffffff" width="2.992" height="2.997" x="263.02" y="184.04" rx="1.496" ry="1.496"/>
-  <rect style="display:block;fill:#ffffff" width="2.992" height="2.997" x="267.02" y="184.04" rx="1.496" ry="1.496"/>
-  <rect style="display:block;fill:#ffffff" width="2.992" height="2.997" x="267.02" y="184.04" rx="1.496" ry="1.496"/>
-  <rect style="display:block;fill:#ffffff" width="2.992" height="2.997" x="271.02" y="184.04" rx="1.496" ry="1.496"/>
- </g>
+<svg height="16" width="16.04" xmlns="http://www.w3.org/2000/svg">
+  <g fill="#fff">
+    <path d="m0 10.99h5.016v4.972h-5.016z" opacity=".35"/>
+    <path d="m5.02 1.03h5.016v4.972h-5.016z" opacity=".35"/>
+    <path d="m11.02 11.03h5.016v4.972h-5.016z" opacity=".35"/>
+    <rect display="block" height="2.997" rx="1.496" width="2.992" x="2.04" y="7.04"/>
+    <rect display="block" height="2.997" rx="1.496" width="2.992" x="6.04" y="7.04"/>
+    <rect display="block" height="2.997" rx="1.496" width="2.992" x="6.04" y="7.04"/>
+    <rect display="block" height="2.997" rx="1.496" width="2.992" x="10.04" y="7.04"/>
+  </g>
 </svg>

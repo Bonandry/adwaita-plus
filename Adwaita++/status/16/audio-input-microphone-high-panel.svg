@@ -1,122 +1,16 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="16"
-   height="16"
-   version="1.1"
-   id="svg23"
-   sodipodi:docname="audio-input-microphone-high.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
-  <metadata
-     id="metadata27">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="770"
-     inkscape:window-height="480"
-     id="namedview25"
-     showgrid="false"
-     inkscape:zoom="14.75"
-     inkscape:cx="8"
-     inkscape:cy="8"
-     inkscape:window-x="0"
-     inkscape:window-y="34"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg23" />
-  <defs
-     id="defs5">
-    <clipPath
-       id="a">
-      <rect
-         y="281"
-         x="21"
-         width="14"
-         style="marker:none"
-         height="11"
-         color="#bebebe"
-         overflow="visible"
-         fill="none"
-         stroke="#fff"
-         stroke-width="2"
-         stroke-linecap="round"
-         stroke-linejoin="round"
-         id="rect2" />
+<svg id="svg23" height="16" width="16" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs id="defs5">
+    <clipPath id="a">
+      <path id="rect2" d="m21 281h14v11h-14z"/>
     </clipPath>
   </defs>
-  <g
-     fill="#474747"
-     id="g21">
-    <path
-       d="M5.5.987c1.385 0 2.5 1.115 2.5 2.5V8.5C8 9.885 6.885 11 5.5 11A2.495 2.495 0 0 1 3 8.5V3.487c0-1.385 1.115-2.5 2.5-2.5z"
-       style="marker:none"
-       color="#bebebe"
-       overflow="visible"
-       id="path7" />
-    <path
-       transform="matrix(.99397 0 0 1 -22.293 -275.486)"
-       clip-path="url(#a)"
-       d="M27.969 273.629a4.535 4.535 0 0 0-4.533 4.533v5.807a4.535 4.535 0 0 0 4.533 4.533 4.535 4.535 0 0 0 4.533-4.533v-5.807a4.535 4.535 0 0 0-4.533-4.533zm0 1.004a3.51 3.51 0 0 1 3.529 3.53v5.806a3.51 3.51 0 0 1-3.53 3.53 3.51 3.51 0 0 1-3.529-3.53v-5.807a3.51 3.51 0 0 1 3.53-3.53z"
-       style="line-height:normal;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;shape-padding:0;isolation:auto;mix-blend-mode:normal;marker:none"
-       color="#bebebe"
-       font-weight="400"
-       font-family="sans-serif"
-       white-space="normal"
-       overflow="visible"
-       id="path9" />
-    <path
-       d="M2 5.5a.5.5 0 0 1-.5.5.5.5 0 0 1-.5-.5.5.5 0 0 1 .5-.5.5.5 0 0 1 .5.5zM10 5.5a.5.5 0 0 1-.5.5.5.5 0 0 1-.5-.5.5.5 0 0 1 .5-.5.5.5 0 0 1 .5.5z"
-       style="marker:none"
-       color="#bebebe"
-       overflow="visible"
-       id="path11" />
-    <path
-       d="M1.988 14a1 1 0 1 0 0 2h7.047a1 1 0 1 0 0-2z"
-       style="line-height:normal;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;shape-padding:0;isolation:auto;mix-blend-mode:normal;marker:none"
-       color="#bebebe"
-       font-weight="400"
-       font-family="sans-serif"
-       white-space="normal"
-       overflow="visible"
-       id="path13" />
-    <path
-       d="M1 15h9v1H1z"
-       style="marker:none"
-       color="#bebebe"
-       overflow="visible"
-       id="path15" />
-    <path
-       d="M4 12h3v4H4z"
-       style="marker:none"
-       color="#bebebe"
-       overflow="visible"
-       id="path17" />
-    <path
-       d="M15 13a2 2 0 0 1-2 2 2 2 0 0 1-2-2 2 2 0 0 1 2-2 2 2 0 0 1 2 2zM15 8a2 2 0 0 1-2 2 2 2 0 0 1-2-2 2 2 0 0 1 2-2 2 2 0 0 1 2 2zM15 3a2 2 0 0 1-2 2 2 2 0 0 1-2-2 2 2 0 0 1 2-2 2 2 0 0 1 2 2z"
-       style="marker:none"
-       color="#000"
-       overflow="visible"
-       id="path19" />
+  <g id="g21" fill="#474747">
+    <path id="path7" d="m5.5.987c1.385 0 2.5 1.115 2.5 2.5v5.013c0 1.385-1.115 2.5-2.5 2.5a2.495 2.495 0 0 1 -2.5-2.5v-5.013c0-1.385 1.115-2.5 2.5-2.5z"/>
+    <path id="path9" clip-path="url(#a)" d="m27.969 273.629a4.535 4.535 0 0 0 -4.533 4.533v5.807a4.535 4.535 0 0 0 4.533 4.533 4.535 4.535 0 0 0 4.533-4.533v-5.807a4.535 4.535 0 0 0 -4.533-4.533zm0 1.004a3.51 3.51 0 0 1 3.529 3.53v5.806a3.51 3.51 0 0 1 -3.53 3.53 3.51 3.51 0 0 1 -3.529-3.53v-5.807a3.51 3.51 0 0 1 3.53-3.53z" transform="matrix(.99397 0 0 1 -22.293 -275.486)"/>
+    <path id="path11" d="m2 5.5a.5.5 0 0 1 -.5.5.5.5 0 0 1 -.5-.5.5.5 0 0 1 .5-.5.5.5 0 0 1 .5.5zm8 0a.5.5 0 0 1 -.5.5.5.5 0 0 1 -.5-.5.5.5 0 0 1 .5-.5.5.5 0 0 1 .5.5z"/>
+    <path id="path13" d="m1.988 14a1 1 0 1 0 0 2h7.047a1 1 0 1 0 0-2z"/>
+    <path id="path15" d="m1 15h9v1h-9z"/>
+    <path id="path17" d="m4 12h3v4h-3z"/>
+    <path id="path19" d="m15 13a2 2 0 0 1 -2 2 2 2 0 0 1 -2-2 2 2 0 0 1 2-2 2 2 0 0 1 2 2zm0-5a2 2 0 0 1 -2 2 2 2 0 0 1 -2-2 2 2 0 0 1 2-2 2 2 0 0 1 2 2zm0-5a2 2 0 0 1 -2 2 2 2 0 0 1 -2-2 2 2 0 0 1 2-2 2 2 0 0 1 2 2z"/>
   </g>
 </svg>

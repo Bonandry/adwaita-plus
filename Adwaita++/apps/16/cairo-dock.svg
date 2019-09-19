@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
- <g transform="translate(0.04145226,0.29015376)">
-  <ellipse style="opacity:0.5;fill:#474747" id="ellipse2" cx="7.959" cy="7.306" rx="7.5" ry="7.604"/>
-  <path style="fill:#474747;fill-rule:evenodd" d="M -0.04145226,12.753642 C 6.5902573,13.151836 6.936399,7.1175748 8.3694981,7.1791598 c 1.7948749,0.0781 1.1190836,6.0568202 7.5890499,5.6586152"/>
- </g>
+<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
+  <g fill="#474747" transform="translate(.041452 .290154)">
+    <ellipse cx="7.959" cy="7.306" opacity=".5" rx="7.5" ry="7.604"/>
+    <path d="m-.04145226 12.753642c6.63170956.398194 6.97785126-5.6360672 8.41095036-5.5744822 1.7948749.0781 1.1190836 6.0568202 7.5890499 5.6586152" fill-rule="evenodd"/>
+  </g>
 </svg>

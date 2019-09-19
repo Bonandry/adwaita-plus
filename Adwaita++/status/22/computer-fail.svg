@@ -7,7 +7,9 @@
     <path d="m-16-19h12v16h-12z" fill="#e64b39"/>
   </g>
   <path d="m8 7.5v2h1v-2zm5 0v2h1v-2zm-5 4v1h1 4 1v-1h-1-4zm6 1v1h1v-1zm-6 0h-1v1h1z" opacity=".2"/>
-  <path d="m8 7v2h1v-2zm5 0v2h1v-2zm-5 4v1h1 4 1v-1h-1-4zm6 1v1h1v-1zm-6 0h-1v1h1z" fill="#fff"/>
-  <path d="m2 2c-.554 0-1 .446-1 1v.5c0-.554.446-1 1-1h18c.554 0 1 .446 1 1v-.5c0-.554-.446-1-1-1z" fill="#fff" opacity=".1"/>
-  <path d="m3 16h16v.5h-16z" fill="#fff" opacity=".1"/>
+  <g fill="#fff">
+    <path d="m8 7v2h1v-2zm5 0v2h1v-2zm-5 4v1h1 4 1v-1h-1-4zm6 1v1h1v-1zm-6 0h-1v1h1z"/>
+    <path d="m2 2c-.554 0-1 .446-1 1v.5c0-.554.446-1 1-1h18c.554 0 1 .446 1 1v-.5c0-.554-.446-1-1-1z" opacity=".1"/>
+    <path d="m3 16h16v.5h-16z" opacity=".1"/>
+  </g>
 </svg>

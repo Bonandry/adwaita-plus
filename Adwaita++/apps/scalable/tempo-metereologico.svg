@@ -1,42 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="128" height="128" version="1.0" viewBox="0 0 128 128" style="enable-background:new">
- <title id="title4162">
-  Adwaita Icon Template
- </title>
- <defs>
-  <linearGradient id="linearGradient963">
-   <stop style="stop-color:#eef4fc" id="stop959" offset="0"/>
-   <stop style="stop-color:#ffffff" id="stop961" offset="1"/>
+<svg enable-background="new" height="128" viewBox="0 0 128 128" width="128" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <radialGradient id="radialGradient927" cx="280.994" cy="488.848" gradientTransform="matrix(.34700543 0 0 .3422335 -33.50647 42.517937)" gradientUnits="userSpaceOnUse" r="224">
+    <stop offset="0" stop-color="#fdfacf"/>
+    <stop offset=".4" stop-color="#f9f06b"/>
+    <stop offset="1" stop-color="#f6d32d"/>
+  </radialGradient>
+  <linearGradient id="linearGradient965" gradientUnits="userSpaceOnUse" x1="79" x2="79" y1="283.162" y2="262">
+    <stop offset="0" stop-color="#eef4fc"/>
+    <stop offset="1" stop-color="#fff"/>
   </linearGradient>
-  <linearGradient id="linearGradient906">
-   <stop style="stop-color:#fdfacf" id="stop900" offset="0"/>
-   <stop id="stop902" offset=".4" style="stop-color:#f9f06b"/>
-   <stop style="stop-color:#f6d32d" id="stop904" offset="1"/>
-  </linearGradient>
-  <radialGradient id="radialGradient927" cx="280.994" cy="488.848" r="224" fx="280.994" fy="488.848" gradientTransform="matrix(0.34700543,0,0,0.3422335,-33.50647,42.517937)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient906"/>
-  <linearGradient id="linearGradient965" x1="85" x2="85" y1="107.162" y2="86" gradientTransform="translate(-6,176)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient963"/>
- </defs>
- <g id="layer1" transform="translate(0,-172)">
-  <g id="layer2" style="display:none">
-   <text style="font-size:6.08791494px;line-height:125%;font-family:Cantarell" id="context" x="7.95" y="148.65" xml:space="preserve">
-    <tspan id="tspan2716" x="7.95" y="148.65">apps</tspan>
-   </text>
-   <text id="text3021" x="7.75" y="157.23" xml:space="preserve" style="font-weight:bold;font-size:6.08791494px;line-height:125%;font-family:Cantarell">
-    <tspan id="tspan3023" x="7.75" y="157.23">org.gnome.Weather</tspan>
-   </text>
-   <rect style="fill:#f0f0f0" width="128" height="128" x="0" y="172"/>
-   <g transform="matrix(0.25,0,0,0.25,6.9488522e-8,225)">
-    <rect width="320" height="448" x="96" y="-180" rx="32" ry="32" style="opacity:0.1;fill:#2864b0"/>
-    <rect width="416" height="416" x="48" y="-164" rx="32" ry="32" style="opacity:0.1;fill:#2864b0"/>
-    <rect width="448" height="320" x="32" y="-116" rx="32" ry="32" style="opacity:0.1;fill:#2864b0"/>
-    <circle cx="256" cy="44" r="240" style="opacity:0.1;fill:#2864b0"/>
-   </g>
+  <g transform="translate(0 -172)">
+    <path d="m20 192h88v88h-88z" fill="#f5c211"/>
+    <path d="m77.78-255.97h87.681v87.681h-87.681z" fill="#f6d32d" transform="matrix(-.70710703 .70710653 -.70710653 -.70710703 0 0)"/>
+    <ellipse cx="64" cy="236" fill="url(#radialGradient927)" rx="48" ry="48"/>
+    <path d="m90 244c-7.812106.009-14.903479 4.56615-18.158203 11.66797-2.115817-1.0908-4.461357-1.66286-6.841797-1.66797-7.890651.009-14.424464 6.12876-14.949219 14.00195-.01667-.00071-.034111-.00095-.050781-.00195-4.099536 0-7.618346 2.46971-9.162109 6h-.837891v4c0 5.52285 4.477153 10 10 10h56a11.999999 11.999999 0 0 0 12-12v-4h-.70703a11.999999 11.999999 0 0 0 -7.32813-7.3125c.0154-.22879.0276-.45831.0352-.6875 0-11.04569-8.95431-20-20-20z" fill="#dceafa"/>
+    <path d="m90 240c-7.812106.009-14.903479 4.56615-18.158203 11.66797-2.115817-1.0908-4.461357-1.66286-6.841797-1.66797-7.890651.009-14.424464 6.12876-14.949219 14.00195-.01667-.00071-.034111-.00095-.050781-.00195-5.522847 0-10 4.47715-10 10s4.477153 10 10 10h56a11.999999 11.999999 0 0 0 12-12 11.999999 11.999999 0 0 0 -8.03516-11.3125c.0154-.22879.0276-.45831.0352-.6875 0-11.04569-8.95431-20-20-20z" fill="url(#linearGradient965)"/>
   </g>
-  <g id="layer9">
-   <rect width="88" height="88" x="20" y="192" style="fill:#f5c211"/>
-   <rect width="87.681" height="87.681" x="77.78" y="-255.97" transform="rotate(135.00002)" style="fill:#f6d32d"/>
-   <ellipse cx="64" cy="236" rx="48" ry="48" style="fill:url(#radialGradient927)"/>
-   <path style="fill:#dceafa" d="m 90,244 c -7.812106,0.009 -14.903479,4.56615 -18.158203,11.66797 C 69.72598,254.57717 67.38044,254.00511 65,254 57.109349,254.009 50.575536,260.12876 50.050781,268.00195 50.034111,268.00124 50.01667,268.001 50,268 c -4.099536,0 -7.618346,2.46971 -9.162109,6 H 40 v 4 c 0,5.52285 4.477153,10 10,10 h 56 a 11.999999,11.999999 0 0 0 12,-12 v -4 h -0.70703 a 11.999999,11.999999 0 0 0 -7.32813,-7.3125 c 0.0154,-0.22879 0.0276,-0.45831 0.0352,-0.6875 0,-11.04569 -8.95431,-20 -20,-20 z"/>
-   <path style="fill:url(#linearGradient965)" d="m 90,240 c -7.812106,0.009 -14.903479,4.56615 -18.158203,11.66797 C 69.72598,250.57717 67.38044,250.00511 65,250 57.109349,250.009 50.575536,256.12876 50.050781,264.00195 50.034111,264.00124 50.01667,264.001 50,264 c -5.522847,0 -10,4.47715 -10,10 0,5.52285 4.477153,10 10,10 h 56 a 11.999999,11.999999 0 0 0 12,-12 11.999999,11.999999 0 0 0 -8.03516,-11.3125 c 0.0154,-0.22879 0.0276,-0.45831 0.0352,-0.6875 0,-11.04569 -8.95431,-20 -20,-20 z"/>
-  </g>
- </g>
 </svg>

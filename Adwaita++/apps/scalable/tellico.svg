@@ -1,25 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="enable-background:new" width="128" height="128" version="1.0" viewBox="0 0 128 128">
- <title id="title4162">
-  Adwaita Icon Template
- </title>
- <defs>
-  <linearGradient id="linearGradient1879">
-   <stop style="stop-color:#e8e7e4" id="stop1873" offset="0"/>
-   <stop id="stop1875" offset=".5" style="stop-color:#ffffff"/>
-   <stop style="stop-color:#c9c6c1" id="stop1877" offset="1"/>
+<svg enable-background="new" height="128" viewBox="0 0 128 128" width="128" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <linearGradient id="linearGradient1037" gradientUnits="userSpaceOnUse" x1="96" x2="104" y1="255" y2="255">
+    <stop offset="0" stop-color="#e8e7e4"/>
+    <stop offset=".5" stop-color="#fff"/>
+    <stop offset="1" stop-color="#c9c6c1"/>
   </linearGradient>
-  <linearGradient id="linearGradient1037" x1="384" x2="416" y1="120" y2="120" gradientTransform="matrix(0.25,0,0,0.25,6.9488522e-8,225)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1879"/>
- </defs>
- <g id="layer1" transform="translate(0,-172)">
-  <g id="layer9">
-   <path d="m 24,200 v 92 h 72 c 4.432,0 8,-3.568 8,-8 v -76 c 0,-4.432 -3.568,-8 -8,-8 z" style="fill:#00894a"/>
-   <rect style="fill:#191622" width="8" height="18" x="24" y="274"/>
-   <path d="m 26,220 v 70 h 70 c 4.432,0 8,-3.568 8,-8 v -54 c 0,-4.432 -3.568,-8 -8,-8 z" style="fill:url(#linearGradient1037)"/>
-   <path d="m 24,200 v 76 h 72 c 4.432,0 8,-3.568 8,-8 v -60 c 0,-4.432 -3.568,-8 -8,-8 z" style="fill:#00894a"/>
-   <path d="m 24,180 v 94 h 72 c 4.432,0 8,-3.568 8,-8 v -78 c 0,-4.432 -3.568,-8 -8,-8 z" style="fill:#26a269"/>
-   <rect style="fill:#424048" width="8" height="94" x="24" y="180"/>
-   <path style="opacity:0.22300002;fill:#ffffff" d="m 26,180.00001 h 2 v 94 h -2 z"/>
-   <rect style="fill:#191622" width="8" height="2" x="24" y="274"/>
+  <g transform="translate(0 -172)">
+    <path d="m24 200v92h72c4.432 0 8-3.568 8-8v-76c0-4.432-3.568-8-8-8z" fill="#00894a"/>
+    <path d="m24 274h8v18h-8z" fill="#191622"/>
+    <path d="m26 220v70h70c4.432 0 8-3.568 8-8v-54c0-4.432-3.568-8-8-8z" fill="url(#linearGradient1037)"/>
+    <path d="m24 200v76h72c4.432 0 8-3.568 8-8v-60c0-4.432-3.568-8-8-8z" fill="#00894a"/>
+    <path d="m24 180v94h72c4.432 0 8-3.568 8-8v-78c0-4.432-3.568-8-8-8z" fill="#26a269"/>
+    <path d="m24 180h8v94h-8z" fill="#424048"/>
+    <path d="m26 180.00001h2v94h-2z" fill="#fff" opacity=".223"/>
+    <path d="m24 274h8v2h-8z" fill="#191622"/>
   </g>
- </g>
 </svg>

@@ -1,15 +1,3 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" width="16.262" height="16" version="1.1">
- <defs>
-  <linearGradient id="linearGradient5606" osb:paint="solid">
-   <stop id="stop5608" offset="0" style="stop-color:#000000"/>
-  </linearGradient>
-  <linearGradient id="linearGradient4526" osb:paint="solid">
-   <stop id="stop4528" offset="0" style="stop-color:#ffffff"/>
-  </linearGradient>
-  <linearGradient id="linearGradient3600-4" osb:paint="gradient">
-   <stop id="stop3602-7" offset="0" style="stop-color:#f4f4f4"/>
-   <stop id="stop3604-6" offset="1" style="stop-color:#dbdbdb"/>
-  </linearGradient>
- </defs>
- <path fill="#444" d="m 6.785637,1.2531986 c -1.803723,0 -3.255818,1.4521 -3.255818,3.25582 V 10.498369 H 2.367532 L 2.367326,5.2735686 H 0.010183 v 0 L 2.9996646e-6,11.080709 C -0.001797,12.082779 0.806722,12.889499 1.80879,12.889499 h 1.891455 c 0.01222,0 0.02429,-7.5e-4 0.03646,-9.9e-4 0.462051,1.23443 1.649364,2.10893 3.048937,2.10893 h 5.22033 C 14.914747,15.060039 16,13.974789 16,11.789529 V 6.5338686 h -4.341089 v 2.01454 h 2.170544 L 9.488366,13.251259 5.509034,8.5484086 h 1.993905 v -6.14988 h 4.155972 v 2.89406 H 16 v -4.03939 z"/>
+<svg height="16" width="16.262" xmlns="http://www.w3.org/2000/svg">
+  <path d="m6.785637 1.2531986c-1.803723 0-3.255818 1.4521-3.255818 3.25582v5.9893504h-1.162287l-.000206-5.2248004h-2.357143l-.01018 5.8071404c-.0018 1.00207.806719 1.80879 1.808787 1.80879h1.891455c.01222 0 .02429-.00075.03646-.00099.462051 1.23443 1.649364 2.10893 3.048937 2.10893h5.22033c2.908775.0626 3.994028-1.02265 3.994028-3.20791v-5.2556604h-4.341089v2.01454h2.170544l-4.341089 4.7028504-3.979332-4.7028504h1.993905v-6.14988h4.155972v2.89406h4.341089v-4.03939z" fill="#444"/>
 </svg>

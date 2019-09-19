@@ -1,5 +1,5 @@
-<svg height="128" width="128" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <linearGradient id="e" gradientTransform="matrix(1.0015 0 0 .99993 72.09 56.015)" gradientUnits="userSpaceOnUse" x1="43.844" x2="-60" y1="234" y2="234">
+<svg fill="none" height="128" viewBox="0 0 128 128" width="128" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <linearGradient id="paint0_linear" gradientUnits="userSpaceOnUse" x1="116" x2="12" y1="117.999" y2="117.999">
     <stop offset="0" stop-color="#d5d3cf"/>
     <stop offset=".038" stop-color="#e3e2df"/>
     <stop offset=".077" stop-color="#c0bfbc"/>
@@ -7,17 +7,8 @@
     <stop offset=".962" stop-color="#e3e2df"/>
     <stop offset="1" stop-color="#d5d3cf"/>
   </linearGradient>
-  <clipPath id="clip0">
-    <path d="m0 0h16v16h-16z"/>
-  </clipPath>
-  <g transform="translate(0 -172)">
-    <rect fill="url(#e)" height="48" rx="8" width="104" x="12" y="240"/>
-    <path d="m20 10c-4.432 0-8 3.568-8 8v42 42c0 4.432 3.568 8 8 8h44 44c4.432 0 8-3.568 8-8v-42-42c0-4.432-3.568-8-8-8z" fill="#4f4f4f" transform="translate(0 172)"/>
-    <g clip-path="url(#clip0)" opacity=".4" transform="matrix(4.6875 0 0 4.6875 26.499999 198.42773)">
-      <path d="m2.90909 8.19038v2.03942l5.09091 1.9477 5.0909-1.9477v-2.03942l-5.0909 1.94762zm5.09091-5.19038-8 3.05916 8 3.05916 6.5455-2.50341v3.52309h1.4545v-4.07884z"/>
-    </g>
-    <g clip-path="url(#clip0)" fill="#f3f1ea" transform="matrix(4.6875 0 0 4.6875 26.499999 196.42773)">
-      <path d="m2.90909 8.19038v2.03942l5.09091 1.9477 5.0909-1.9477v-2.03942l-5.0909 1.94762zm5.09091-5.19038-8 3.05916 8 3.05916 6.5455-2.50341v3.52309h1.4545v-4.07884z" fill="#f3f1ea"/>
-    </g>
-  </g>
+  <path d="m108 68h-88c-4.4183 0-8 3.5817-8 8v32c0 4.418 3.5817 8 8 8h88c4.418 0 8-3.582 8-8v-32c0-4.4183-3.582-8-8-8z" fill="url(#paint0_linear)"/>
+  <path d="m20 10c-4.432 0-8 3.568-8 8v42 42c0 4.432 3.568 8 8 8h44 44c4.432 0 8-3.568 8-8v-42-42c0-4.432-3.568-8-8-8z" fill="#3d3846"/>
+  <path d="m40.1364 63.8201v9.5598l23.8636 9.1299 23.8636-9.1299v-9.5598l-23.8636 9.1295zm23.8636-24.3299-37.5 14.3398 37.5 14.3399 30.682-11.7348v16.5145h6.818v-19.1196z" fill="#241f31" opacity=".4"/>
+  <path d="m40.1364 61.8201v9.5598l23.8636 9.1299 23.8636-9.1299v-9.5598l-23.8636 9.1295zm23.8636-24.3299-37.5 14.3398 37.5 14.3399 30.682-11.7348v16.5145h6.818v-19.1196z" fill="#f6f5f4"/>
 </svg>

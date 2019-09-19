@@ -1,5 +1,3 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
- <g transform="translate(-612,-260)">
-  <path fill="#E6DDFF" d="m 615,262 v 12 c 0,0 6.33268,-2.83333 10.66601,-6 C 621.33268,264.83333 615,262 615,262 Z"/>
- </g>
+<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
+  <path d="m615 262v12s6.33268-2.83333 10.66601-6c-4.33333-3.16667-10.66601-6-10.66601-6z" fill="#e6ddff" transform="translate(-612 -260)"/>
 </svg>

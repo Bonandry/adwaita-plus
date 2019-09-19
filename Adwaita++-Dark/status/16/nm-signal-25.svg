@@ -1,14 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" width="16" height="16" version="1.1">
- <defs>
-  <linearGradient id="linearGradient5606" osb:paint="solid">
-   <stop id="stop5608" offset="0" style="stop-color:#000000"/>
-  </linearGradient>
-  <linearGradient id="linearGradient4526" osb:paint="solid">
-   <stop id="stop4528" offset="0" style="stop-color:#ffffff"/>
-  </linearGradient>
- </defs>
- <g id="layer9" label="status" transform="translate(-813.00018,287.00006)">
-  <path d="m 828.00035,-272.00006 h -14.70703 l 0.85319,-0.8535 13.85384,-13.85357 z m -1.00032,-0.99993 v -11.29273 l -11.29265,11.29273 z" style="fill:#E6DDFF"/>
-  <path d="m 819.0002,-272.5 v -4.5 l -3.79282,4.50001 z" style="fill:#E6DDFF"/>
- </g>
+<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
+  <g fill="#e6ddff" transform="translate(-813.00018 287.00006)">
+    <path d="m828.00035-272.00006h-14.70703l.85319-.8535 13.85384-13.85357zm-1.00032-.99993v-11.29273l-11.29265 11.29273z"/>
+    <path d="m819.0002-272.5v-4.5l-3.79282 4.50001z"/>
+  </g>
 </svg>

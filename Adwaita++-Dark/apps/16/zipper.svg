@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
- <g fill="#E6DDFF" label="status" transform="translate(-993.0002,-73)">
-  <g transform="translate(501.0002,-207)">
-   <path d="m 507.5,292 c 0,2.5 -0.97827,2.47086 -3.5,2.5 h -8 c -2.52174,-0.0302 -3.5,0 -3.5,-2.5 v -8 c 0,-2.5 0.97826,-2.47087 3.5,-2.5 h 8 c 2.52173,0.0302 3.5,0 3.5,2.5 z" style="fill:none;stroke:#E6DDFF;stroke-width:1.00000012"/>
-   <path d="m 494.33331,290 c -0.18466,0 -0.33333,0.1115 -0.33333,0.25 v 2.5 c 0,0.1385 0.14867,0.25 0.33333,0.25 h 3.33334 c 0.18466,0 0.33333,-0.1115 0.33333,-0.25 v -2.5 c 0,-0.1385 -0.14867,-0.25 -0.33333,-0.25 z" style="opacity:0.5;fill:#E6DDFF"/>
-   <rect fill="#E6DDFF" width="4" height="1" x="502" y="292" rx=".25" ry=".25"/>
-   <rect fill="#E6DDFF" width="4" height="1" x="502" y="290" rx=".25" ry=".25"/>
-   <rect width="2" height="12" x="499" y="282" style="opacity:0.5;fill:#E6DDFF"/>
+<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
+  <g fill="#e6ddff" transform="translate(-492 -280)">
+    <path d="m507.5 292c0 2.5-.97827 2.47086-3.5 2.5h-8c-2.52174-.0302-3.5 0-3.5-2.5v-8c0-2.5.97826-2.47087 3.5-2.5h8c2.52173.0302 3.5 0 3.5 2.5z" fill="none" stroke="#e6ddff"/>
+    <g fill="#e6ddff">
+      <path d="m494.33331 290c-.18466 0-.33333.1115-.33333.25v2.5c0 .1385.14867.25.33333.25h3.33334c.18466 0 .33333-.1115.33333-.25v-2.5c0-.1385-.14867-.25-.33333-.25z" opacity=".5"/>
+      <rect height="1" rx=".25" width="4" x="502" y="292"/>
+      <rect height="1" rx=".25" width="4" x="502" y="290"/>
+      <path d="m499 282h2v12h-2z" opacity=".5"/>
+    </g>
   </g>
- </g>
 </svg>

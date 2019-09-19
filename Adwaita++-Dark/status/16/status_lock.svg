@@ -1,14 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" width="16" height="16" version="1.1">
- <defs>
-  <linearGradient id="linearGradient5606" osb:paint="solid">
-   <stop id="stop5608" offset="0" style="stop-color:#000000"/>
-  </linearGradient>
-  <linearGradient id="linearGradient4526" osb:paint="solid">
-   <stop id="stop4528" offset="0" style="stop-color:#ffffff"/>
-  </linearGradient>
- </defs>
- <g id="layer9" label="status" transform="translate(-893.0002,327)">
-  <path d="m 895.00016,-319.9999 -3e-5,9.0001 h 12 v -9 z m 0.99997,1.0001 h 10 v 7 h -10 z" style="fill:#E6DDFF"/>
-  <path d="m 901.0002,-327 c -2.76214,0 -5,2.23787 -5,5 v 2 h -1 v 9 h 12 v -9 h -1 v -2 c 0,-2.76213 -2.23786,-5 -5,-5 z m 0,1 c 2.22201,0 4,1.778 4,4 v 2 h -8 v -2 c 0,-2.222 1.77799,-4 4,-4 z m 1,8.75 v 3.25 h -2 v -3 z" style="fill:#E6DDFF"/>
- </g>
+<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
+  <g fill="#e6ddff" transform="translate(-893.0002 327)">
+    <path d="m895.00016-319.9999-.00003 9.0001h12v-9zm.99997 1.0001h10v7h-10z"/>
+    <path d="m901.0002-327c-2.76214 0-5 2.23787-5 5v2h-1v9h12v-9h-1v-2c0-2.76213-2.23786-5-5-5zm0 1c2.22201 0 4 1.778 4 4v2h-8v-2c0-2.222 1.77799-4 4-4zm1 8.75v3.25h-2v-3z"/>
+  </g>
 </svg>

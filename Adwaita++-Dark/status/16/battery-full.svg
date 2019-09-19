@@ -1,11 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
- <title id="title9167">
-  Gnome Symbolic Icon Theme
- </title>
- <g id="layer9" transform="translate(-41 -217)">
-  <rect width="2" height="6" x="222" y="46" transform="matrix(0,1,1,0,0,0)" style="fill:#E6DDFF"/>
-  <path d="m46.469 217c-0.49033 0-0.79607 0.22846-1.0312 0.46875s-0.4375 0.52725-0.4375 1v0.53125h-1-1v1 12 1h1 10 1v-1-12-1h-1-1v-0.375-0.0312-0.0312c-0.02393-0.4306-0.17023-0.72105-0.40625-1-0.22374-0.26444-0.6267-0.52931-1.1562-0.53125v-0.0312h-0.0625-4.9062zm0.53125 2h4v1 1h1 1v10h-8v-10h1 1v-1-1z" style="fill:#E6DDFF"/>
-  <rect width="2" height="6" x="225" y="46" transform="matrix(0,1,1,0,0,0)" style="fill:#E6DDFF"/>
-  <rect width="2" height="6" x="228" y="46" transform="matrix(0,1,1,0,0,0)" style="fill:#E6DDFF"/>
- </g>
+<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
+  <g fill="#e6ddff" transform="translate(-41 -217)">
+    <path d="m222 46h2v6h-2z" transform="matrix(0 1 1 0 0 0)"/>
+    <path d="m46.469 217c-.49033 0-.79607.22846-1.0312.46875s-.4375.52725-.4375 1v.53125h-1-1v1 12 1h1 10 1v-1-12-1h-1-1v-.375-.0312-.0312c-.02393-.4306-.17023-.72105-.40625-1-.22374-.26444-.6267-.52931-1.1562-.53125v-.0312h-.0625-4.9062zm.53125 2h4v1 1h1 1v10h-8v-10h1 1v-1z"/>
+    <g transform="matrix(0 1 1 0 0 0)">
+      <path d="m225 46h2v6h-2z"/>
+      <path d="m228 46h2v6h-2z"/>
+    </g>
+  </g>
 </svg>

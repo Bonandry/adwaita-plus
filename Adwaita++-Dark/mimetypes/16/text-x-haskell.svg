@@ -1,8 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
- <g style="fill:#E6DDFF;enable-background:new" transform="matrix(0.11239534,0,0,0.11239534,-8.9409053,-9.4286494)">
-  <path style="fill:#E6DDFF" d="M 83.997302,204 115.9973,156 83.997302,108 H 107.9973 l 32,48 -32,48 z"/>
-  <path style="fill:#E6DDFF" d="m 115.9973,204 32,-48 -32,-48 h 24 l 64,96 h -24 l -20,-30 -20,30 z"/>
-  <path style="fill:#E6DDFF" d="m 179.59961,160 10.66601,16 H 212 v -16 z" transform="matrix(1.0909091,0,0,1.0909091,-13.817937,-14.181817)"/>
-  <path style="fill:#E6DDFF" d="m 163.59961,136 10.66601,16 H 212 v -16 z" transform="matrix(1.0909091,0,0,1.0909091,-13.817937,-14.181817)"/>
- </g>
+<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
+  <g enable-background="new" fill="#e6ddff" transform="matrix(.11239534 0 0 .11239534 -8.940905 -9.428649)">
+    <path d="m83.997302 204 31.999998-48-31.999998-48h23.999998l32 48-32 48z"/>
+    <path d="m115.9973 204 32-48-32-48h24l64 96h-24l-20-30-20 30z"/>
+    <g transform="matrix(1.0909091 0 0 1.0909091 -13.817937 -14.181817)">
+      <path d="m179.59961 160 10.66601 16h21.73438v-16z"/>
+      <path d="m163.59961 136 10.66601 16h37.73438v-16z"/>
+    </g>
+  </g>
 </svg>

@@ -1,14 +1,12 @@
-<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
-  <circle cx="2.5" cy="6.5" fill="#63452c" r="2.5"/>
-  <circle cx="13.5" cy="6.5" fill="#63452c" r="2.5"/>
-  <path d="m8 1c-3.878 0-7 3.122-7 7s3.122 7 7 7 7-3.122 7-7-3.122-7-7-7z" fill="#986a44"/>
-  <g fill="#cdab8f">
-    <ellipse cx="8" cy="11.15" rx="5" ry="3.85"/>
-    <circle cx="5.5" cy="6.5" r="2.5"/>
-    <path d="m5.9 5.9h4.2v2.8h-4.2z"/>
-    <circle cx="10.5" cy="6.5" r="2.5"/>
-  </g>
-  <circle cx="6" cy="6" fill="#5e5c64" r="1"/>
-  <circle cx="10.05" cy="5.95" fill="#5e5c64" r="1.05"/>
-  <path d="m4.8530047 11.1s1.05 1.4 3.15 1.4c2.1000003 0 3.1500003-1.4 3.1500003-1.4" fill="none" stroke="#5e5c64" stroke-linecap="round" stroke-linejoin="round"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1">
+ <circle cx="2.5" cy="6.5" r="2.5" style="fill:#63452c"/>
+ <circle cx="13.5" cy="6.5" r="2.5" style="fill:#63452c"/>
+ <path d="M 8,1 C 4.122,1 1,4.122 1,8 c 0,3.878 3.122,7 7,7 3.878,0 7,-3.122 7,-7 C 15,4.122 11.878,1 8,1 Z" style="fill:#986a44"/>
+ <ellipse id="ellipse8" cx="8" cy="11.15" rx="5" ry="3.85" style="fill:#cdab8f"/>
+ <circle cx="5.5" cy="6.5" r="2.5" style="fill:#cdab8f"/>
+ <rect width="4.2" height="2.8" x="5.9" y="5.9" style="fill:#cdab8f"/>
+ <circle cx="10.5" cy="6.5" r="2.5" style="fill:#cdab8f"/>
+ <circle cx="6" cy="6" r="1" style="fill:#5e5c64"/>
+ <circle cx="10.05" cy="5.95" r="1.05" style="fill:#5e5c64"/>
+ <path d="m 4.8530047,11.1 c 0,0 1.05,1.4 3.15,1.4 2.1000003,0 3.1500003,-1.4 3.1500003,-1.4 v 0 0" style="fill:none;stroke:#5e5c64;stroke-linecap:round;stroke-linejoin:round"/>
 </svg>

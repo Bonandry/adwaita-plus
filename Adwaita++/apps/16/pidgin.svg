@@ -1,6 +1,14 @@
-<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
-  <g transform="translate(-323.0002 125)">
-    <path d="m336.0002-122v5.5625c0 .51569-.0522 1.10849-.4375 1.625-.38532.5165-1.09467.8384-2.0625.8125h-4.0625l-1.03125 1h4.59375l3 3v-3h1c.554 0 1-.446 1-1v-7c0-.554-.446-1-1-1z" fill="#474747" fill-opacity=".364706"/>
-    <path d="m325.0002-124c-.554 0-1 .446-1 1v7c0 .554.446 1 1 1h1v3l3-3h5c.554 0 1-.446 1-1v-7c0-.554-.446-1-1-1z" fill="#444"/>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" width="16" height="16" version="1.1">
+ <title id="title9167">
+  Gnome Symbolic Icon Theme
+ </title>
+ <defs>
+  <linearGradient id="linearGradient7212" osb:paint="solid">
+   <stop id="stop7214" offset="0" style="stop-color:#000000"/>
+  </linearGradient>
+ </defs>
+ <g id="layer9" transform="translate(-323.0002,125)">
+  <path style="fill:#474747;fill-opacity:0.36470589" d="m 336.0002,-122 0,5.5625 c 0,0.51569 -0.0522,1.10849 -0.4375,1.625 -0.38532,0.5165 -1.09467,0.8384 -2.0625,0.8125 l -4.0625,0 -1.03125,1 4.59375,0 3,3 0,-3 1,0 c 0.554,0 1,-0.446 1,-1 l 0,-7 c 0,-0.554 -0.446,-1 -1,-1 z"/>
+  <path fill="#444" d="m 325.0002,-124 c -0.554,0 -1,0.446 -1,1 v 7 c 0,0.554 0.446,1 1,1 h 1 v 3 l 3,-3 h 5 c 0.554,0 1,-0.446 1,-1 v -7 c 0,-0.554 -0.446,-1 -1,-1 z"/>
+ </g>
 </svg>

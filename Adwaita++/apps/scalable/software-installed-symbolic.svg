@@ -1,14 +1,183 @@
-<svg enable-background="new" height="128" viewBox="0 0 128 128" width="128" xmlns="http://www.w3.org/2000/svg">
-  <linearGradient gradientUnits="userSpaceOnUse" x1="280" x2="280" y1="172" y2="20">
-    <stop offset="0" stop-color="#babdb6"/>
-    <stop offset="1" stop-color="#babdb6" stop-opacity="0"/>
-  </linearGradient>
-  <g transform="translate(0 -172)">
-    <rect fill="#98c1f1" height="44" rx="8" width="104" x="12" y="244"/>
-    <path d="m12 192h104v88h-104z" fill="#e7f0fc"/>
-    <circle cx="50" cy="201" fill="#1a5fb4" r="5"/>
-    <circle cx="78" cy="201" fill="#1a5fb4" r="5"/>
-    <path d="m50 200v-8c0-7.756 6.244-14 14-14s14 6.244 14 14v8" fill="none" stroke="#62a0ea" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 128 128"
+   style="display:inline;enable-background:new"
+   version="1.0"
+   id="svg11300"
+   height="128"
+   width="128"
+   sodipodi:docname="software-installed-symbolic.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     id="namedview21"
+     showgrid="false"
+     inkscape:zoom="6.5234375"
+     inkscape:cx="64"
+     inkscape:cy="64"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer9" />
+  <title
+     id="title4162">Adwaita Icon Template</title>
+  <defs
+     id="defs3">
+    <linearGradient
+       id="linearGradient1494">
+      <stop
+         id="stop1490"
+         offset="0"
+         style="stop-color:#babdb6;stop-opacity:1;" />
+      <stop
+         id="stop1492"
+         offset="1"
+         style="stop-color:#babdb6;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="20"
+       x2="280"
+       y1="172"
+       x1="280"
+       id="linearGradient1496"
+       xlink:href="#linearGradient1494" />
+  </defs>
+  <metadata
+     id="metadata4">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>GNOME Design Team</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:source />
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
+        <dc:title>Adwaita Icon Template</dc:title>
+        <dc:subject>
+          <rdf:Bag />
+        </dc:subject>
+        <dc:date />
+        <dc:rights>
+          <cc:Agent>
+            <dc:title />
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title />
+          </cc:Agent>
+        </dc:publisher>
+        <dc:identifier />
+        <dc:relation />
+        <dc:language />
+        <dc:coverage />
+        <dc:description />
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title />
+          </cc:Agent>
+        </dc:contributor>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-172)"
+     style="display:inline"
+     id="layer1">
+    <g
+       style="display:inline"
+       id="layer9">
+      <rect
+         style="opacity:1;vector-effect:none;fill:#98c1f1;fill-opacity:1;stroke:none;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.6732283"
+         id="rect1127"
+         width="104"
+         height="44"
+         x="12"
+         y="244"
+         rx="8"
+         ry="8" />
+      <g
+         transform="rotate(-30,403.50258,307.81151)"
+         id="g1710" />
+      <rect
+         style="opacity:1;vector-effect:none;fill:#e7f0fc;fill-opacity:1;stroke:none;stroke-width:27.71278;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal"
+         id="rect1051"
+         width="104"
+         height="88"
+         x="12"
+         y="192" />
+      <g
+         id="g1292">
+        <circle
+           style="opacity:1;fill:#1a5fb4;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="path1047"
+           cx="50"
+           cy="201"
+           r="5" />
+        <circle
+           r="5"
+           cy="201"
+           cx="78"
+           id="circle1049"
+           style="opacity:1;fill:#1a5fb4;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      </g>
+      <path
+         id="rect1044"
+         d="m 50,200 v -8 c 0,-7.756 6.244,-14 14,-14 7.756,0 14,6.244 14,14 v 8"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#62a0ea;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <g
+       style="fill:url(#linearGradient1496);fill-opacity:1"
+       id="g1480" />
   </g>
-  <path d="m6.6919998 13.645333-4.2426665-4.3213332a.33333333.33333333 0 0 1 0-.4706667l1.4306666-1.4026666a.33333333.33333333 0 0 1 .472 0l2.2853332 2.3319999 8.0799999-8.7079998a3.9746666 3.9746666 0 0 0 -2.717333-1.07466665h-8.0000001a3.9999999 3.9999999 0 0 0 -3.99999995 3.99999995v8.0000001a3.9999999 3.9999999 0 0 0 3.99999995 4h8.0000001a3.9999999 3.9999999 0 0 0 4-4v-8.0000001c0-.1186667-.02533-.2293333-.03467-.3453333z" fill="#1a5fb4" transform="matrix(3.5197605 0 0 3.5197605 35.841916 40.900599)"/>
+  <g
+     id="g833"
+     style="fill:#1a5fb4;fill-opacity:1"
+     transform="matrix(3.5197605,0,0,3.5197605,35.841916,40.900599)">
+    <path
+       style="fill:#1a5fb4;fill-opacity:1;stroke:none;stroke-width:1"
+       inkscape:connector-curvature="0"
+       id="path8"
+       d="M 6.6919998,13.645333 2.4493333,9.3239998 a 0.33333333,0.33333333 0 0 1 0,-0.4706667 L 3.8799999,7.4506665 a 0.33333333,0.33333333 0 0 1 0.472,0 L 6.6373331,9.7826664 14.717333,1.0746666 A 3.9746666,3.9746666 0 0 0 12,-4.9999999e-8 H 3.9999999 A 3.9999999,3.9999999 0 0 0 -4.9999999e-8,3.9999999 V 12 A 3.9999999,3.9999999 0 0 0 3.9999999,16 H 12 a 3.9999999,3.9999999 0 0 0 4,-4 V 3.9999999 C 16,3.8813332 15.97467,3.7706666 15.96533,3.6546666 Z"
+       class="a" />
+  </g>
 </svg>

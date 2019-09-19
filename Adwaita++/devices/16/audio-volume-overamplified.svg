@@ -1,7 +1,15 @@
-<svg height="16.016" viewBox="0 0 16 16.02" width="16" xmlns="http://www.w3.org/2000/svg">
-  <g fill="#474747" transform="translate(-21.0002 -196.98437)">
-    <path d="m21.000202 201.99979h2.484375l2.968754-2.99979h.546871v11.99917l-.475297.00083-3.040328-3.00062h-2.484375z"/>
-    <path d="m36.031452 197-2 .73736v14.52528l2 .73736zm-3 1.10605-2 .73736v12.31318l2 .73736zm-3.03125 1.11793-2 .74133v10.06938l2 .74133z"/>
-    <path d="m36.03145 197h-2v4.42187l2-.36328zm-3 0h-2v4.9668l2-.36328zm-3.03125 0-2-.0156v5.53516l2-.36524zm-2 10.48047v5.51953h2v-5.1543zm3.03125.55273v4.9668h2v-4.60352zm3 .54492v4.42188h2v-4.05859z" opacity=".35"/>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" width="16" height="16.016" version="1.1" viewBox="0 0 16 16.02">
+ <title id="title9167">
+  Gnome Symbolic Icon Theme
+ </title>
+ <defs>
+  <linearGradient id="linearGradient19282" gradientTransform="matrix(-2.7365795,0.28202934,-0.18908311,-0.99988321,239.54008,-879.45557)" osb:paint="solid">
+   <stop id="stop19284" offset="0" style="stop-color:#666666"/>
+  </linearGradient>
+ </defs>
+ <g id="layer10" transform="translate(-21.0002,-196.98437)">
+  <path d="m 21.000202,201.99979 h 2.484375 L 26.453331,199 h 0.546871 v 11.99917 L 26.524905,211 23.484577,207.99938 h -2.484375 z" style="fill:#474747"/>
+  <path d="m 36.031452,197 -2,0.73736 v 14.52528 l 2,0.73736 z m -3,1.10605 -2,0.73736 v 12.31318 l 2,0.73736 z m -3.03125,1.11793 -2,0.74133 v 10.06938 l 2,0.74133 z" style="fill:#474747"/>
+  <path d="m 36.03145,197 h -2 v 4.42187 l 2,-0.36328 z m -3,0 h -2 v 4.9668 l 2,-0.36328 z m -3.03125,0 -2,-0.0156 v 5.53516 l 2,-0.36524 z m -2,10.48047 V 213 h 2 v -5.1543 z m 3.03125,0.55273 V 213 h 2 v -4.60352 z m 3,0.54492 V 213 h 2 v -4.05859 z" style="opacity:0.35;fill:#474747"/>
+ </g>
 </svg>

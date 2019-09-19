@@ -1,8 +1,103 @@
-<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
-  <g fill="#444" transform="translate(-512 -32)">
-    <path d="m526 37v-2h-2.002z"/>
-    <path d="m514 39v8h9v-1h-8v-7.667zm11.002-1-.002 9h1v-8z"/>
-    <path d="m520 40.986a8.47 8.47 0 0 1 .607-.122c.253-.043.543-.064.872-.064.295 0 .54.043.735.129.195.08.35.197.465.35.119.147.202.326.25.535.047.21.071.44.071.693v3.693h-3z"/>
-    <path d="m520 32.293-7.854 7.853.708.708 7.146-7.147 7.146 7.147.708-.708z" fill-rule="evenodd"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16.013"
+   height="16"
+   version="1.1"
+   id="svg17"
+   sodipodi:docname="internet-archive-symbolic.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata23">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>
+  Gnome Symbolic Icon Theme
+ </dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs21" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="793"
+     inkscape:window-height="480"
+     id="namedview19"
+     showgrid="false"
+     inkscape:zoom="14.75"
+     inkscape:cx="8.0065002"
+     inkscape:cy="8"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg17" />
+  <title
+     id="title9167">
+  Gnome Symbolic Icon Theme
+ </title>
+  <g
+     id="layer13"
+     transform="translate(-562.99367,-175.00002)">
+    <g
+       transform="matrix(1,0,0,0.99999871,405.62018,-584.9021)"
+       id="g4">
+      <title
+         id="title5390">
+    go-home
+   </title>
+    </g>
+    <path
+       d="M 565.78125,180 A 1.0001,1.0001 0 0 0 565,181 l 0,7 a 1.0001,1.0001 0 0 0 1,1 l 10,0 a 1.0001,1.0001 0 0 0 1,-1 l 0,-7 a 1.0001,1.0001 0 1 0 -2,0 l 0,6 -8,0 0,-6 a 1.0001,1.0001 0 0 0 -1.21875,-1 z"
+       style="fill:#474747"
+       id="path6" />
+    <path
+       d="m 570.90625,176 a 1.0001,1.0001 0 0 0 -0.5,0.1875 l -7,5 a 1.0063276,1.0063276 0 1 0 1.1875,1.625 L 571,178.25 l 6.40625,4.5625 a 1.0063276,1.0063276 0 1 0 1.1875,-1.625 l -7,-5 A 1.0001,1.0001 0 0 0 570.90625,176 z"
+       style="fill:#474747"
+       id="path8" />
+    <rect
+       width="3"
+       height="6"
+       x="569"
+       y="183"
+       style="fill:#474747"
+       id="rect10" />
+    <rect
+       width="1"
+       height="1"
+       x="-579"
+       y="182"
+       rx="0"
+       ry="1"
+       transform="scale(-1,1)"
+       style="fill:#474747"
+       id="rect12" />
+    <rect
+       width="1"
+       height="1"
+       x="-564"
+       y="182"
+       rx="0"
+       ry="1"
+       transform="scale(-1,1)"
+       style="fill:#474747"
+       id="rect14" />
   </g>
 </svg>

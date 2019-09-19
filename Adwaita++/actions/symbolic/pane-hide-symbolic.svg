@@ -1,6 +1,4 @@
-<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
-  <g fill="#474747">
-    <path d="m6 5 4 3-4 3v-2h-4v-2h4z"/>
-    <path d="m13 15h-10v-2h8v-10h-8v-2h10z"/>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
+ <path style="fill:#474747" d="M 6,5 10,8 6,11 V 9 H 2 V 7 H 6 Z"/>
+ <path style="fill:#474747" d="M 13,15 H 3 V 13 H 11 V 3 3 H 3 V 1 H 13 Z"/>
 </svg>

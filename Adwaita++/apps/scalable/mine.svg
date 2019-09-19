@@ -1,36 +1,43 @@
-<svg height="128" width="128" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <linearGradient id="e" gradientTransform="matrix(1.0015 0 0 .99993 72.09 56.015)" gradientUnits="userSpaceOnUse" x1="43.844" x2="-60" y1="234" y2="234">
-    <stop offset="0" stop-color="#d5d3cf"/>
-    <stop offset=".038" stop-color="#e3e2df"/>
-    <stop offset=".077" stop-color="#c0bfbc"/>
-    <stop offset=".923" stop-color="#c0bfbc"/>
-    <stop offset=".962" stop-color="#e3e2df"/>
-    <stop offset="1" stop-color="#d5d3cf"/>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="128" height="128" version="1.0">
+ <defs>
+  <linearGradient id="a">
+   <stop id="stop2" offset="0" stop-color="#68676b"/>
+   <stop id="stop4" offset=".8" stop-color="#424048"/>
+   <stop id="stop6" offset="1" stop-color="#241f31"/>
   </linearGradient>
-  <g transform="translate(0 -172)">
-    <rect fill="url(#e)" height="48" rx="8" width="104" x="12" y="240"/>
-    <path d="m62 218v66h46c4.432 0 8-3.568 8-8v-50c0-4.432-3.568-8-8-8z" fill="#deddda"/>
-    <path d="m20 182c-4.432 0-8 3.568-8 8v84c0 4.432 3.568 8 8 8h44v-50h52v-42c0-4.432-3.568-8-8-8h-42v2h-4v-2z" fill="#f6f5f4"/>
-    <g fill="none">
-      <path d="m12 232h104" stroke="#deddda" stroke-width="4"/>
-      <path d="m12 231h104" stroke="#c0bfbc" stroke-width="2"/>
-      <path d="m64 184v100" stroke="#deddda" stroke-width="4"/>
-    </g>
-    <path d="m28 189.57v32.454h4.103v-12.304l17.897-8.777z" fill="#2dc0af"/>
-    <path d="m28 270h18v-6h-6v-20h-3.196l-10.069 5.225 2.193 5.206 5.072-2.431-.02 12h-5.98z" fill="#1a5fb4"/>
-    <g fill="#a51d2d" transform="translate(-2 1)">
-      <circle cx="91" cy="257" r="15"/>
-      <rect height="38" rx="2" width="6" x="88" y="238"/>
-      <rect height="38" rx="2" transform="rotate(90)" width="6" x="254" y="-110"/>
-      <rect height="38" rx="2" transform="matrix(.70710678 .70710678 -.70710678 .70710678 0 0)" width="6" x="243.07" y="98.38"/>
-      <rect height="38" rx="2" transform="matrix(-.70710678 .70710678 -.70710678 -.70710678 0 0)" width="6" x="114.38" y="-265.07"/>
-    </g>
-    <g fill="#ed333b" transform="translate(-2 -1)">
-      <circle cx="91" cy="257" r="15"/>
-      <rect height="38" rx="2" width="6" x="88" y="238"/>
-      <rect height="38" rx="2" transform="rotate(90)" width="6" x="254" y="-110"/>
-      <rect height="38" rx="2" transform="matrix(.70710678 .70710678 -.70710678 .70710678 0 0)" width="6" x="243.07" y="98.38"/>
-      <rect height="38" rx="2" transform="matrix(-.70710678 .70710678 -.70710678 -.70710678 0 0)" width="6" x="114.38" y="-265.07"/>
-    </g>
+  <radialGradient id="d" cx="279.422" cy="446.483" r="224" fx="279.422" fy="446.483" gradientTransform="matrix(1.34416 .0006 -.00062 1.38763 -121.22 -718.103)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <linearGradient id="e" x1="43.844" x2="-60" y1="234" y2="234" gradientTransform="matrix(1.0015 0 0 .99993 72.09 56.015)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
+  <linearGradient id="b">
+   <stop id="stop11" offset="0" stop-color="#d5d3cf"/>
+   <stop id="stop13" offset=".038" stop-color="#e3e2df"/>
+   <stop id="stop15" offset=".077" stop-color="#c0bfbc"/>
+   <stop id="stop17" offset=".923" stop-color="#c0bfbc"/>
+   <stop id="stop19" offset=".962" stop-color="#e3e2df"/>
+   <stop id="stop21" offset="1" stop-color="#d5d3cf"/>
+  </linearGradient>
+ </defs>
+ <g transform="translate(0 -172)">
+  <rect fill="url(#e)" width="104" height="48" x="12" y="240" rx="8" ry="8"/>
+  <path fill="#deddda" d="M62 218v66h46c4.432 0 8-3.568 8-8v-50c0-4.432-3.568-8-8-8H62z"/>
+  <path fill="#f6f5f4" d="M20 182c-4.432 0-8 3.568-8 8v84c0 4.432 3.568 8 8 8h44v-50h52v-42c0-4.432-3.568-8-8-8H66v2h-4v-2z"/>
+  <path fill="none" stroke="#deddda" stroke-width="4" d="M12 232h104"/>
+  <path fill="none" stroke="#c0bfbc" stroke-width="2" d="M12 231h104"/>
+  <path fill="none" stroke="#deddda" stroke-width="4" d="M64 184v100"/>
+  <path fill="#2dc0af" d="M28 189.57v32.454h4.103V209.72L50 200.943z"/>
+  <path fill="#1a5fb4" d="M28 270h18v-6h-6v-20h-3.196l-10.069 5.225 2.193 5.206L34 252l-.02 12H28z" font-family="Cantarell" font-weight="800" letter-spacing="0" word-spacing="0"/>
+  <g fill="#a51d2d" transform="translate(-2 1)">
+   <circle cx="91" cy="257" r="15"/>
+   <rect width="6" height="38" x="88" y="238" rx="2" ry="2"/>
+   <rect width="6" height="38" x="254" y="-110" rx="2" ry="2" transform="rotate(90)"/>
+   <rect width="6" height="38" x="243.07" y="98.38" rx="2" ry="2" transform="rotate(45)"/>
+   <rect width="6" height="38" x="114.38" y="-265.07" rx="2" ry="2" transform="rotate(135)"/>
   </g>
+  <g fill="#ed333b" transform="translate(-2 -1)">
+   <circle cx="91" cy="257" r="15"/>
+   <rect width="6" height="38" x="88" y="238" rx="2" ry="2"/>
+   <rect width="6" height="38" x="254" y="-110" rx="2" ry="2" transform="rotate(90)"/>
+   <rect width="6" height="38" x="243.07" y="98.38" rx="2" ry="2" transform="rotate(45)"/>
+   <rect width="6" height="38" x="114.38" y="-265.07" rx="2" ry="2" transform="rotate(135)"/>
+  </g>
+ </g>
 </svg>

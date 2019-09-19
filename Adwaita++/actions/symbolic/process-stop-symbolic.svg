@@ -1,6 +1,6 @@
-<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
-  <g fill="#474747">
-    <path d="m5.682 2-.291.29-3.391 3.357v4.645l3.678 3.708h4.648l3.674-3.707v-4.645l-3.68-3.648zm.824 2h2.992l2.502 2.482v2.988l-2.508 2.53h-2.982l-2.51-2.531v-2.987z"/>
-    <path d="m6.856 5-1.856 1.84v2.288l1.856 1.872h2.29l1.854-1.872v-2.288l-1.855-1.84z"/>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
+    <g color="#bebebe" fill="#474747">
+        <path d="M5.682 2l-.291.29L2 5.647v4.645L5.678 14h4.648L14 10.293V5.648L10.32 2zm.824 2h2.992L12 6.482V9.47L9.492 12H6.51L4 9.469V6.482z" style="line-height:normal;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;shape-padding:0;isolation:auto;mix-blend-mode:normal;marker:none" font-weight="400" font-family="sans-serif" white-space="normal" overflow="visible"/>
+        <path d="M6.856 5L5 6.84v2.288L6.856 11h2.29L11 9.128V6.84L9.145 5z" style="marker:none" overflow="visible"/>
+    </g>
 </svg>

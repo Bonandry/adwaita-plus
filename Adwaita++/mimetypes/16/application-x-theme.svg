@@ -1,3 +1,50 @@
-<svg height="16" viewBox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg">
-  <path d="m45.174022 258.03675h-1.386905v-2.10348c0-.79652-.620183-1.39716-1.442752-1.39716h-19.319794c-.820046 0-1.462454.61367-1.462454 1.39716v5.10833c0 .81207.656085 1.47272 1.462454 1.47272h19.319794c.79554 0 1.442752-.66065 1.442752-1.47272v-1.70228h1.386905c.07571 0 .125046.006.154761.0125.0027.0194.0051.0472.0051.085v5.40467c0 .24333-.0968.44083-.15989.44083h-11.243134c-1.017873 0-1.785408.6267-1.785408 1.45782v.82167h-.398748c-.208166 0-.393456.13188-.461595.32857l-1.22954 3.54957c-.01783.0514-.02686.10551-.02686.15989v8.9062c0 .26979.218749.48846.488461.48846h4.803205c.269794 0 .488461-.21867.488461-.48846v-8.9062c0-.0526-.0085-.10477-.02516-.1546l-1.184356-3.54957c-.06651-.19937-.253105-.33386-.463306-.33386h-.688731l-.0011-.81874c.02296-.0436.206863-.15818.484472-.15818h11.243142c.8474 0 1.462455-.73319 1.462455-1.7434v-5.40467c.000161-.87663-.546589-1.40001-1.462293-1.40001z" fill="#474747" transform="matrix(.56692792 0 0 .56692792 -11.224166 -143.80363)"/>
+<svg xmlns="http://www.w3.org/2000/svg" style="isolation:isolate" width="16" height="16" version="1.1" viewBox="0 0 16 16">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#474747; } .ColorScheme-Highlight { color:#5294e2; }
+  </style>
+  <linearGradient id="arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop style="stop-color:#dd9b44" id="stop3" offset="0%"/>
+   <stop style="stop-color:#ad6c16" id="stop5" offset="100%"/>
+  </linearGradient>
+  <linearGradient id="aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop style="stop-color:#09D4DF" id="stop8" offset="0%"/>
+   <stop style="stop-color:#9269F4" id="stop10" offset="100%"/>
+  </linearGradient>
+  <linearGradient id="fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop style="stop-color:#1AD6AB" id="stop13" offset="0%"/>
+   <stop style="stop-color:#329DB6" id="stop15" offset="100%"/>
+  </linearGradient>
+  <linearGradient id="oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop style="stop-color:#efefe7" id="stop18" offset="0%"/>
+   <stop style="stop-color:#8f8f8b" id="stop20" offset="100%"/>
+  </linearGradient>
+  <linearGradient id="rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop style="stop-color:#00F260" id="stop23" offset="0%"/>
+   <stop style="stop-color:#0575E6" id="stop25" offset="100%"/>
+  </linearGradient>
+  <linearGradient id="sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop style="stop-color:#FF8501" id="stop28" offset="0%"/>
+   <stop style="stop-color:#FFCB01" id="stop30" offset="100%"/>
+  </linearGradient>
+  <linearGradient id="telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop style="stop-color:#b2ced6" id="stop33" offset="0%"/>
+   <stop style="stop-color:#6da5b7" id="stop35" offset="100%"/>
+  </linearGradient>
+  <linearGradient id="60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop style="stop-color:#df5940" id="stop38" offset="0%"/>
+   <stop style="stop-color:#d8d15f" id="stop40" offset="25%"/>
+   <stop style="stop-color:#e9882a" id="stop42" offset="50%"/>
+   <stop style="stop-color:#279362" id="stop44" offset="100%"/>
+  </linearGradient>
+  <linearGradient id="90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop style="stop-color:#f618c7" id="stop47" offset="0%"/>
+   <stop style="stop-color:#94ffab" id="stop49" offset="20%"/>
+   <stop style="stop-color:#fbfd54" id="stop51" offset="50%"/>
+   <stop style="stop-color:#0f83ae" id="stop53" offset="100%"/>
+  </linearGradient>
+ </defs>
+ <g style="fill:#474747;enable-background:new" transform="matrix(0.56692792,0,0,0.56692792,-11.224166,-143.80363)">
+  <path style="fill:#474747" d="m 45.174022,258.03675 h -1.386905 v -2.10348 c 0,-0.79652 -0.620183,-1.39716 -1.442752,-1.39716 H 23.024571 c -0.820046,0 -1.462454,0.61367 -1.462454,1.39716 v 5.10833 c 0,0.81207 0.656085,1.47272 1.462454,1.47272 h 19.319794 c 0.79554,0 1.442752,-0.66065 1.442752,-1.47272 v -1.70228 h 1.386905 c 0.07571,0 0.125046,0.006 0.154761,0.0125 0.0027,0.0194 0.0051,0.0472 0.0051,0.085 v 5.40467 c 0,0.24333 -0.0968,0.44083 -0.15989,0.44083 H 33.930859 c -1.017873,0 -1.785408,0.6267 -1.785408,1.45782 v 0.82167 h -0.398748 c -0.208166,0 -0.393456,0.13188 -0.461595,0.32857 l -1.22954,3.54957 c -0.01783,0.0514 -0.02686,0.10551 -0.02686,0.15989 v 8.9062 c 0,0.26979 0.218749,0.48846 0.488461,0.48846 h 4.803205 c 0.269794,0 0.488461,-0.21867 0.488461,-0.48846 v -8.9062 c 0,-0.0526 -0.0085,-0.10477 -0.02516,-0.1546 l -1.184356,-3.54957 c -0.06651,-0.19937 -0.253105,-0.33386 -0.463306,-0.33386 h -0.688731 l -0.0011,-0.81874 c 0.02296,-0.0436 0.206863,-0.15818 0.484472,-0.15818 h 11.243142 c 0.8474,0 1.462455,-0.73319 1.462455,-1.7434 v -5.40467 c 1.61e-4,-0.87663 -0.546589,-1.40001 -1.462293,-1.40001 z"/>
+ </g>
 </svg>

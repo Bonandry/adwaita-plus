@@ -1,6 +1,10 @@
-<svg height="16" viewBox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg">
-  <g fill="#444" transform="matrix(.35 0 0 .37821044 -.4188744 -370.4397355788)">
-    <path d="m25 983.36228v8.9999l9 8.00002-9 8v8.9999l19-16.9999z"/>
-    <path d="m4 994.36218v12.00002h9v11l19-17-19-17.00002v11z"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1" viewBox="0 0 16 16">
+ <g transform="translate(0,-1036.3622)">
+  <g fill="#444" transform="matrix(0.175,0,0,0.18910522,-4.7648646,1040.1439)">
+   <g fill="#444" transform="matrix(2,0,0,2,24.834232,-1978.9059)">
+    <path fill="#444" d="m 25,983.36228 v 8.9999 l 9,8.00002 -9,8 v 8.9999 l 19,-16.9999 z"/>
+    <path fill="#444" d="m 4,994.36218 v 12.00002 h 9 v 11 l 19,-17 -19,-17.00002 v 11 z"/>
+   </g>
   </g>
+ </g>
 </svg>

@@ -1,7 +1,9 @@
 <svg height="16" width="16" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <clipPath id="a">
-    <path d="m21 281h14v11h-14z"/>
-  </clipPath>
+  <defs>
+    <clipPath id="a">
+      <path d="m21 281h14v11h-14z"/>
+    </clipPath>
+  </defs>
   <g fill="#474747">
     <path d="m13 1a2 2 0 1 0 0 4 2 2 0 0 0 0-4zm0 1a1 1 0 1 1 0 2 1 1 0 0 1 0-2z" opacity=".5"/>
     <path d="m5.5.987c1.385 0 2.5 1.115 2.5 2.5v5.013c0 1.385-1.115 2.5-2.5 2.5a2.495 2.495 0 0 1 -2.5-2.5v-5.013c0-1.385 1.115-2.5 2.5-2.5z"/>

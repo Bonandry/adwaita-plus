@@ -1,7 +1,9 @@
 <svg height="32" width="32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <clipPath id="clipPath4483">
-    <path d="m91.5 254c-.831 0-1.5.669-1.5 1.5v25c0 .831.669 1.5 1.5 1.5h16.5l10-10v-16.5c0-.831-.669-1.5-1.5-1.5z"/>
-  </clipPath>
+  <defs>
+    <clipPath id="clipPath4483">
+      <path d="m91.5 254c-.831 0-1.5.669-1.5 1.5v25c0 .831.669 1.5 1.5 1.5h16.5l10-10v-16.5c0-.831-.669-1.5-1.5-1.5z"/>
+    </clipPath>
+  </defs>
   <path d="m3.4999 4c-.831 0-1.5.669-1.5 1.5v21c0 .831.669 1.5 1.5 1.5h16.5l10-10v-12.5c0-.831-.669-1.5-1.5-1.5z" fill="#e4e4e4"/>
   <path d="m11 13.125 6.625 7.5 4.25-4.125 4.125 4.125-3 3.375h-17v-5z" opacity=".3"/>
   <path clip-path="url(#clipPath4483)" d="m118 272h-8.5c-.82843 0-1.5.67158-1.5 1.5v8.5z" opacity=".2" transform="translate(-88 -254)"/>

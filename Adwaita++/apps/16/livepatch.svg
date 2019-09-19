@@ -1,6 +1,74 @@
-<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
-  <g fill="#474747" transform="matrix(-1 0 0 -1 16.286 15.998846)">
-    <path d="m13.909 1.307-3.304 3.307c.732.273 1.5.527 2.306.764.8.231 1.592.436 2.375.612a48.514 48.514 0 0 0 -.621-2.366 40.298 40.298 0 0 0 -.756-2.316z"/>
-    <path d="m8.102 1a7.003 7.003 0 0 0 -7.102 7 7.003 7.003 0 0 0 4.895 6.676 7.005 7.005 0 0 0 7.84-2.66l.287-.41-.82-.575-.288.41a5.996 5.996 0 0 1 -6.719 2.282 5.996 5.996 0 0 1 -4.195-5.723 5.996 5.996 0 0 1 4.195-5.723 5.996 5.996 0 0 1 6.72 2.282l.286.41.82-.574-.287-.41a7.006 7.006 0 0 0 -5.632-2.985z"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   version="1.1"
+   id="svg10"
+   sodipodi:docname="livepatch.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata16">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="793"
+     inkscape:window-height="480"
+     id="namedview12"
+     showgrid="false"
+     inkscape:zoom="14.75"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg10" />
+  <g
+     id="g8"
+     transform="rotate(90,8.3389831,8.3959746)"
+     style="color:#000000;fill:#474747">
+    <path
+       d="M 9.98,8.99 A 1,1 0 0 0 9.293,9.293 L 6.586,12 9.293,14.707 a 1,1 0 1 0 1.414,-1.414 L 9.414,12 10.707,10.707 A 1,1 0 0 0 9.981,8.99 Z"
+       style="font-weight:400;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;white-space:normal;shape-padding:0;overflow:visible;isolation:auto;mix-blend-mode:normal"
+       font-weight="400"
+       overflow="visible"
+       id="path2"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 4,3 C 2.356,3 1,4.355 1,6 v 4 c 0,1.645 1.356,3 3,3 H 5 V 11 H 4 C 3.429,11 3,10.571 3,10 V 6 C 3,5.429 3.429,5 4,5 h 8 c 0.572,0 1,0.429 1,1 v 4 c 0,0.571 -0.428,1 -1,1 H 8 v 2 h 4 c 1.645,0 3,-1.355 3,-3 V 6 C 15,4.355 13.645,3 12,3 Z"
+       style="font-weight:400;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;white-space:normal;shape-padding:0;overflow:visible;isolation:auto;mix-blend-mode:normal"
+       font-weight="400"
+       overflow="visible"
+       id="path4"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 10,9 h 1 v 1 h -1 z m 0,5 h 1 v 1 h -1 z"
+       style="overflow:visible;marker:none"
+       overflow="visible"
+       id="path6"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>

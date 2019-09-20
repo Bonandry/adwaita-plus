@@ -1,3 +1,7 @@
 <svg height="22" viewBox="0 0 22 22" width="22" xmlns="http://www.w3.org/2000/svg">
-  <path d="m8 1a5 5 0 0 0 -5 5 5 5 0 0 0 0 .0078125 5 5 0 0 0 -2 3.9921875 5 5 0 0 0 5 5 5 5 0 0 0 1.9960938-.421875 5 5 0 0 0 2.0039062.421875 5 5 0 0 0 5-5 5 5 0 0 0 -2-3.9921875 5 5 0 0 0 0-.0078125 5 5 0 0 0 -5-5z" fill="#e6ddff" transform="translate(3 3)"/>
+  <g fill="#e6ddff">
+    <circle cx="7.5" cy="14.5" opacity=".6" r="4.5"/>
+    <circle cx="10.5" cy="7.5" opacity=".8" r="4.5"/>
+    <circle cx="14.5" cy="14.5" r="4.5"/>
+  </g>
 </svg>

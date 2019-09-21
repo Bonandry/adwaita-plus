@@ -1,7 +1,6 @@
 <svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
-  <g fill="#e6ddff" font-size="7.9973" letter-spacing="0" transform="translate(-181 -237)" word-spacing="0">
-    <text x="190.88" xml:space="preserve" y="252">    <tspan x="190.88" y="252">Z</tspan>   </text>
-    <text x="183.14" xml:space="preserve" y="245.66">    <tspan x="183.14" y="245.66">Z</tspan>   </text>
-    <text x="187.14" xml:space="preserve" y="248.66">    <tspan x="187.14" y="248.66">Z</tspan>   </text>
+  <g fill="#e6ddff">
+    <path d="m8 3a4 4 0 0 1 4 4c0 2.21-1.813 4.312-4 4h-4v-4a4 4 0 0 1 4-4zm0 2a2 2 0 1 0 0 4 2 2 0 0 0 0-4z" opacity=".369"/>
+    <path d="m3.197 0a2.217 2.217 0 0 0 -2.197 2.201v11.599c0 1.199.995 2.2 2.197 2.2h9.607a2.215 2.215 0 0 0 2.196-2.201v-11.599c0-1.199-.994-2.2-2.196-2.2zm0 2h9.607c.124 0 .196.07.196.201v11.599c0 .13-.072.201-.196.201h-9.607c-.124-.001-.197-.071-.197-.202v-11.599c0-.13.073-.201.197-.201z"/>
   </g>
 </svg>

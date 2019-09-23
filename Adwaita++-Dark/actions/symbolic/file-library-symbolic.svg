@@ -7,7 +7,9 @@
       <path d="m3.6239223 4.0012818v4.0216698h-1.6130874z" opacity=".15"/>
     </g>
     <path d="m44.394153 224.36346v4.02167h1.613087z" opacity=".15"/>
-    <path d="m4.0216698 4.0454759 8.0027402-.0454559v4h-8z" opacity=".25" transform="translate(31.97559 220.36218)"/>
-    <path d="m1.03125 8v7h14v-7zm4 3h1v1h4v-1h1v2h-6z" transform="translate(31.97559 220.36218)"/>
+    <g transform="translate(31.97559 220.36218)">
+      <path d="m4.0216698 4.0454759 8.0027402-.0454559v4h-8z" opacity=".25"/>
+      <path d="m1.03125 8v7h14v-7zm4 3h1v1h4v-1h1v2h-6z"/>
+    </g>
   </g>
 </svg>

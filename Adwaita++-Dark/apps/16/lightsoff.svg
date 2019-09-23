@@ -1,8 +1,10 @@
 <svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
-  <rect fill="#e6ddff" fill-opacity=".392157" height="6" rx="1.031" width="6" x=".9998" y="1"/>
-  <rect fill="#e6ddff" fill-opacity=".392157" height="6" rx="1.031" width="6" x="7.9998" y="8"/>
   <g fill="#e6ddff">
-    <rect height="6" rx="1.031" width="6" x="7.9998" y="1"/>
-    <rect height="6" rx="1.031" width="6" x=".9998" y="8"/>
+    <rect fill-opacity=".392157" height="6" rx="1.031" width="6" x=".9998" y="1"/>
+    <rect fill-opacity=".392157" height="6" rx="1.031" width="6" x="7.9998" y="8"/>
+    <g>
+      <rect height="6" rx="1.031" width="6" x="7.9998" y="1"/>
+      <rect height="6" rx="1.031" width="6" x=".9998" y="8"/>
+    </g>
   </g>
 </svg>

@@ -1,12 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
- <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#4285f4; }
-  </style>
- </defs>
- <g transform="translate(1,1)">
-  <rect style="opacity:0" width="22" height="22" x="0" y="0"/>
-  <path style="fill:none;stroke:currentColor;stroke-width:1.99999976;stroke-linecap:round;stroke-linejoin:bevel" class="ColorScheme-Text" d="m 5,14.999898 4.0000001,0 M 5,10.9999 l 4.0000001,0 M 5,6.9999014 l 4.0000001,0 M 5.0000998,15 l 0,-8.0000003"/>
-  <path style="fill:none;stroke:currentColor;stroke-width:1.99999976;stroke-linecap:round;stroke-linejoin:round" class="ColorScheme-Text" d="m 13.000051,14.000066 c 0,1 0,1 0.999998,1 0.359093,0 0.425299,2.18e-4 1.00001,3.2e-5 0.454553,-1.11e-4 -1.1e-5,-3.2e-5 0.999992,-3.2e-5 0,0 0.999991,0 0.999998,-1 l 8e-6,-1.000449 c 0,-4.2143851 -3.999999,0.211162 -3.988018,-3.9907051 -0.0025,-0.4205455 -0.01209,-0.7453845 -0.01209,-1.0088458 0,-0.9999999 0.999999,-0.9999999 0.999999,-0.9999999 0.251868,0 0.631707,-4.498e-4 1.00001,-4.491e-4 0.347679,0 0.741252,4.491e-4 0.999991,4.491e-4 0.999999,0 0.999999,0 0.999999,0.9999999"/>
- </g>
+<svg height="24" width="24" xmlns="http://www.w3.org/2000/svg">
+  <g transform="translate(1 1)">
+    <path d="m0 0h22v22h-22z" opacity="0"/>
+    <g fill="none" stroke="#444" stroke-linecap="round" stroke-width="2">
+      <path d="m5 14.999898h4.0000001m-4.0000001-3.999998h4.0000001m-4.0000001-3.9999986h4.0000001m-3.9999003 8.0000986v-8.0000003" stroke-linejoin="bevel"/>
+      <path d="m13.000051 14.000066c0 1 0 1 .999998 1 .359093 0 .425299.000218 1.00001.000032.454553-.000111-.000011-.000032.999992-.000032 0 0 .999991 0 .999998-1l.000008-1.000449c0-4.2143851-3.999999.211162-3.988018-3.9907051-.0025-.4205455-.01209-.7453845-.01209-1.0088458 0-.9999999.999999-.9999999.999999-.9999999.251868 0 .631707-.0004498 1.00001-.0004491.347679 0 .741252.0004491.999991.0004491.999999 0 .999999 0 .999999.9999999" stroke-linejoin="round"/>
+    </g>
+  </g>
 </svg>

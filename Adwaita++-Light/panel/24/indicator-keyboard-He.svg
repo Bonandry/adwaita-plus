@@ -1,12 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
- <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#4285f4; }
-  </style>
- </defs>
- <g transform="translate(1,1)">
-  <rect style="opacity:0" width="22" height="22" x="0" y="0"/>
-  <path style="fill:none;stroke:currentColor;stroke-width:1.99999976;stroke-linecap:round" class="ColorScheme-Text" d="m 4.9999989,10.999998 4.0000022,0 m 0,4.000002 0,-8.0000003 M 4.9999988,15 l 0,-8.0000003 0,0"/>
-  <path style="fill:none;stroke:currentColor;stroke-width:1.99999976;stroke-linecap:round;stroke-linejoin:bevel" class="ColorScheme-Text" d="m 13,14.999898 4,0 m -4,-3.999999 4,0 m -4,-3.9999977 4,0 M 13.0001,15 l 0,-8.0000004"/>
- </g>
+<svg height="24" width="24" xmlns="http://www.w3.org/2000/svg">
+  <g transform="translate(1 1)">
+    <path d="m0 0h22v22h-22z" opacity="0"/>
+    <g fill="none" stroke="#444" stroke-linecap="round" stroke-width="2">
+      <path d="m4.9999989 10.999998h4.0000022m0 4.000002v-8.0000003m-4.0000023 8.0000003v-8.0000003"/>
+      <path d="m13 14.999898h4m-4-3.999999h4m-4-3.9999977h4m-3.9999 8.0000987v-8.0000004" stroke-linejoin="bevel"/>
+    </g>
+  </g>
 </svg>

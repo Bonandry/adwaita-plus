@@ -1,13 +1,13 @@
 <svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
-  <g transform="translate(-31.97559 -220.36218)">
-    <g fill="#e6ddff" transform="translate(31.97559 220.36218)">
-      <path d="m8 0v5a3 3 0 0 1 .0234375 0 3 3 0 0 1 3.0000005 3h4.976562a8 8 0 0 0 -8-8z" opacity=".8"/>
-      <path d="m8 0a8 8 0 0 0 -8 8h5.0234375a3 3 0 0 1 2.9765625-3z" opacity=".4"/>
-      <path d="m0 8a8 8 0 0 0 8 8v-5.001953a3 3 0 0 1 -2.9765625-2.998047z" opacity=".2"/>
-      <path d="m11.023438 8a3 3 0 0 1 -3.0000005 3 3 3 0 0 1 -.0234375-.001953v5.001953a8 8 0 0 0 8-8z" opacity=".6"/>
-    </g>
-    <circle cx="40" cy="228.362" fill="none" r="7.515" stroke="#e6ddff" stroke-linecap="round"/>
-    <circle cx="40" cy="228.362" fill="none" r="4"/>
-    <circle cx="40" cy="228.362" fill="none" r="3" stroke="#e6ddff" stroke-linecap="round"/>
+  <g fill="#e6ddff">
+    <path d="m8 0v5a3 3 0 0 1 .0234375 0 3 3 0 0 1 3.0000005 3h4.976562a8 8 0 0 0 -8-8z" opacity=".8"/>
+    <path d="m8 0a8 8 0 0 0 -8 8h5.0234375a3 3 0 0 1 2.9765625-3z" opacity=".4"/>
+    <path d="m0 8a8 8 0 0 0 8 8v-5.001953a3 3 0 0 1 -2.9765625-2.998047z" opacity=".2"/>
+    <path d="m11.023438 8a3 3 0 0 1 -3.0000005 3 3 3 0 0 1 -.0234375-.001953v5.001953a8 8 0 0 0 8-8z" opacity=".6"/>
+  </g>
+  <g fill="none">
+    <circle cx="8.02441" cy="7.99982" r="7.515" stroke="#e6ddff" stroke-linecap="round"/>
+    <circle cx="8.02441" cy="7.99982" r="4"/>
+    <circle cx="8.02441" cy="7.99982" r="3" stroke="#e6ddff" stroke-linecap="round"/>
   </g>
 </svg>

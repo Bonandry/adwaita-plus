@@ -1,12 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
- <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#4285f4; }
-  </style>
- </defs>
- <g transform="translate(1,1)">
-  <rect style="opacity:0" width="22" height="22" x="0" y="0"/>
-  <path style="fill:none;stroke:currentColor;stroke-width:1.99999976;stroke-linecap:round;stroke-linejoin:bevel" class="ColorScheme-Text" d="m 9.0000034,7.0048001 -3.8e-6,5.9999999 c 0,1.000449 -3.8e-6,2.000449 -1.0000062,2.000449 -0.3954482,0 -0.610938,0.0096 -0.9999912,-4.48e-4 -0.3838563,0.0015 -7.5e-6,4.48e-4 -1.0000062,4.48e-4 -1.0000025,0 -0.999995,-1 -0.999995,-2.000449 l 3.8e-6,-5.9999999"/>
-  <path style="fill:none;stroke:currentColor;stroke-width:1.99999976;stroke-linecap:round;stroke-linejoin:round" class="ColorScheme-Text" d="m 13,6.9999994 3.999999,0 L 13,15.000001 l 3.999999,0 0,0"/>
- </g>
+<svg height="24" width="24" xmlns="http://www.w3.org/2000/svg">
+  <g transform="translate(1 1)">
+    <path d="m0 0h22v22h-22z" opacity="0"/>
+    <g fill="none" stroke="#444" stroke-linecap="round" stroke-width="2">
+      <path d="m9.0000034 7.0048001-.0000038 5.9999999c0 1.000449-.0000038 2.000449-1.0000062 2.000449-.3954482 0-.610938.0096-.9999912-.000448-.3838563.0015-.0000075.000448-1.0000062.000448-1.0000025 0-.999995-1-.999995-2.000449l.0000038-5.9999999" stroke-linejoin="bevel"/>
+      <path d="m13 6.9999994h3.999999l-3.999999 8.0000016h3.999999" stroke-linejoin="round"/>
+    </g>
+  </g>
 </svg>

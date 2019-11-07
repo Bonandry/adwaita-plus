@@ -1,99 +1,71 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="enable-background:new" width="128" height="128" version="1.0" viewBox="0 0 128 128">
- <title id="title4162">
-  Adwaita Icon Template
- </title>
- <defs>
-  <linearGradient id="linearGradient1574" x1="344" x2="340" y1="76" y2="72" gradientTransform="matrix(0.25,0,0,0.25,180,83)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1351-3"/>
-  <linearGradient id="linearGradient1351-3">
-   <stop id="stop1347" offset="0" style="stop-color:#d5d3cf"/>
-   <stop id="stop1349-6" offset="1" style="stop-color:#ffffff"/>
+<svg enable-background="new" height="128" viewBox="0 0 128 128" width="128" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <linearGradient id="linearGradient1572" gradientUnits="userSpaceOnUse" x1="256" x2="256" y1="268" y2="-180">
+    <stop offset="0" stop-color="#eeeeec"/>
+    <stop offset="1" stop-color="#fff"/>
   </linearGradient>
-  <clipPath id="clipPath1609" clipPathUnits="userSpaceOnUse">
-   <path style="fill:#e74747" d="m 252,116 28,-28 v -8 h -36 v 36 z"/>
-  </clipPath>
-  <linearGradient id="linearGradient1572" x1="256" x2="256" y1="268" y2="-180" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1187"/>
-  <linearGradient id="linearGradient1187">
-   <stop id="stop1183" offset="0" style="stop-color:#eeeeec"/>
-   <stop id="stop1185" offset="1" style="stop-color:#ffffff"/>
+  <linearGradient id="linearGradient917" gradientUnits="userSpaceOnUse" x1="103.436" x2="102.252" y1="264.437" y2="263.286">
+    <stop offset="0" stop-color="#d5d3cf"/>
+    <stop offset="1" stop-color="#fff"/>
   </linearGradient>
-  <linearGradient id="linearGradient979" x1="261.503" x2="261.23" y1="105.838" y2="105.559" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1351-3"/>
-  <clipPath id="clipPath1609-7-3" clipPathUnits="userSpaceOnUse">
-   <path style="fill:#e74747" d="m 252,116 28,-28 v -8 h -36 v 36 z"/>
-  </clipPath>
-  <linearGradient id="linearGradient917" x1="103.436" x2="102.252" y1="264.437" y2="263.286" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1351-3"/>
- </defs>
- <g id="layer1" transform="translate(0,-172)">
-  <g style="display:none" id="layer2">
-   <rect width="128" height="128" x="0" y="172" style="fill:#f0f0f0"/>
-   <rect style="fill:#f0f0f0" width="16" height="16" x="160" y="172"/>
-   <text id="text863" x="0" y="164" xml:space="preserve" style="font-weight:bold;font-size:4px;line-height:125%;font-family:Cantarell">
-    <tspan id="tspan861" x="0" y="164" style="font-size:4px">Hicolor</tspan>
-   </text>
-   <text style="font-weight:bold;font-size:4px;line-height:125%;font-family:Cantarell" id="text867" x="160" y="164" xml:space="preserve">
-    <tspan style="font-size:4px" id="tspan865" x="160" y="164">Symbolic</tspan>
-   </text>
+  <g transform="translate(0 -172)">
+    <g enable-background="new" fill="url(#linearGradient1572)" transform="matrix(.3 0 0 -.21279762 -12.799997 247.3631)">
+      <rect fill="#1a5fb4" height="451.133" rx="26.667" ry="44.432" transform="scale(-1 1)" width="346.667" x="-429.33" y="-190.97"/>
+      <rect fill="#d5d3cf" height="451.133" rx="26.667" ry="44.432" transform="scale(-1 1)" width="346.667" x="-429.33" y="-181.57"/>
+      <rect fill="#f6f5f4" height="451.133" rx="26.667" ry="37.594" transform="scale(-1 1)" width="346.667" x="-429.33" y="-153.37"/>
+    </g>
+    <g enable-background="new" fill="#d5d3cf">
+      <circle cx="108.000003" cy="252.000003" r="2"/>
+      <circle cx="108.000003" cy="242.000003" r="2"/>
+      <circle cx="108.000003" cy="232.000003" r="2"/>
+      <circle cx="108.000003" cy="222.000003" r="2"/>
+      <circle cx="108.000003" cy="212.000003" r="2"/>
+      <circle cx="108.000003" cy="202.000003" r="2"/>
+      <circle cx="108.000003" cy="192.000003" r="2"/>
+    </g>
+    <g enable-background="new" fill="#d5d3cf">
+      <circle cx="20.000003" cy="272.000003" r="2"/>
+      <circle cx="20.000003" cy="262.000003" r="2"/>
+      <circle cx="20.000003" cy="252.000003" r="2"/>
+      <circle cx="20.000003" cy="242.000003" r="2"/>
+      <circle cx="20.000003" cy="232.000003" r="2"/>
+      <circle cx="20.000003" cy="222.000003" r="2"/>
+      <circle cx="20.000003" cy="212.000003" r="2"/>
+      <circle cx="20.000003" cy="202.000003" r="2"/>
+      <circle cx="20.000003" cy="192.000003" r="2"/>
+    </g>
+    <g enable-background="new" fill="none" opacity=".3" stroke="#d5d3cf" stroke-width="2" transform="translate(.000003 -.999997)">
+      <path d="m28 192h72"/>
+      <path d="m28 202h72"/>
+      <path d="m28 212h72"/>
+      <path d="m28 222h72"/>
+      <path d="m28 232h72"/>
+      <path d="m28 242h72"/>
+      <path d="m28 252h72"/>
+      <path d="m28 262h72"/>
+      <path d="m28 272h66"/>
+    </g>
+    <g enable-background="new" transform="translate(-19.999997 .000003)">
+      <g fill="none" opacity=".1" stroke="#00000f" transform="translate(14.00001 -11.999987)">
+        <path d="m35.99999 249.99999-8 8" stroke-width="6" transform="translate(0 -.000003)"/>
+        <path d="m27.99999 257.99999-14 14" stroke-linecap="round" stroke-width="12" transform="translate(0 -.000003)"/>
+        <circle cx="58" cy="228" r="30.118" stroke-linejoin="round" stroke-width="3.764706"/>
+      </g>
+      <g enable-background="new" fill="none" transform="translate(14.00001 -13.999987)">
+        <path d="m11.890335 268.55054 15.45714-15.45715" opacity=".154" stroke="#fff" stroke-linecap="round" stroke-width="1.637843"/>
+        <path d="m35.99999 249.99999-8 8" stroke="#949390" stroke-width="6"/>
+        <path d="m35.99999 247.99999-8 8" stroke="#d5d3cf" stroke-width="6"/>
+        <g stroke-linecap="round" stroke-width="12">
+          <path d="m27.99999 257.99999-14 14" stroke="#241f31"/>
+          <path d="m27.99999 255.99999-14 14" stroke="#424048"/>
+        </g>
+      </g>
+      <circle cx="-72" cy="212.062" fill="#fff" opacity=".5" r="29.938" transform="scale(-1 1)"/>
+      <g fill="none">
+        <circle cx="72" cy="214" r="30.118" stroke="#1a5fb4" stroke-linejoin="round" stroke-width="3.764706"/>
+        <circle cx="72" cy="212" r="30.118" stroke="#62a0ea" stroke-linejoin="round" stroke-width="3.764706"/>
+        <path d="m25 255 16-16" opacity=".154" stroke="#fff" stroke-linecap="round" stroke-width="2"/>
+      </g>
+    </g>
+    <path d="m99 251.75c-6.094 0-11 4.906-11 11v14c0 1.13268.16928 2.22328.48438 3.25l27.57421-27.81445c-.97142-.27911-1.99503-.43555-3.05859-.43555z" fill="url(#linearGradient917)"/>
   </g>
-  <g style="display:none" id="layer3">
-   <circle style="opacity:0.1;fill:none;stroke:#000000;stroke-width:0.99000001;stroke-dasharray:0.99000001, 0.99000001" cx="64" cy="236" r="59.504"/>
-   <rect style="opacity:0.1;fill:none;stroke:#000000;stroke-width:0.99000001;stroke-dasharray:0.99000001, 0.99000001" width="87.01" height="111.01" x="20.5" y="180.5" rx="8.701" ry="7.929"/>
-   <rect style="opacity:0.1;fill:none;stroke:#000000;stroke-width:0.99000001;stroke-dasharray:0.99000001, 0.99000001" width="103.01" height="103.01" x="12.49" y="184.5" rx="7.924" ry="7.924"/>
-   <rect style="opacity:0.1;fill:none;stroke:#000000;stroke-width:0.99000001;stroke-dasharray:0.99000001, 0.99000001" width="111.01" height="87.01" x="8.49" y="200.5" rx="7.929" ry="8.701"/>
-   <path style="fill:none;stroke:#62a0ea;stroke-width:2" d="M 2.6203015e-5,288.99999 H 128.00003"/>
-  </g>
-  <g style="fill:url(#linearGradient1572);enable-background:new" transform="matrix(0.3,0,0,-0.21279762,-12.799997,247.3631)">
-   <rect width="346.667" height="451.133" x="-429.33" y="-190.97" rx="26.667" ry="44.432" transform="scale(-1,1)" style="fill:#1a5fb4"/>
-   <rect style="fill:#d5d3cf" width="346.667" height="451.133" x="-429.33" y="-181.57" rx="26.667" ry="44.432" transform="scale(-1,1)"/>
-   <rect style="fill:#f6f5f4" width="346.667" height="451.133" x="-429.33" y="-153.37" rx="26.667" ry="37.594" transform="scale(-1,1)"/>
-  </g>
-  <g transform="translate(3.05e-6,3.3e-6)" style="enable-background:new">
-   <circle cx="108" cy="252" r="2" style="fill:#d5d3cf"/>
-   <circle style="fill:#d5d3cf" cx="108" cy="242" r="2"/>
-   <circle cx="108" cy="232" r="2" style="fill:#d5d3cf"/>
-   <circle style="fill:#d5d3cf" cx="108" cy="222" r="2"/>
-   <circle cx="108" cy="212" r="2" style="fill:#d5d3cf"/>
-   <circle style="fill:#d5d3cf" cx="108" cy="202" r="2"/>
-   <circle cx="108" cy="192" r="2" style="fill:#d5d3cf"/>
-  </g>
-  <g transform="translate(3.05e-6,3.3e-6)" style="enable-background:new">
-   <circle style="fill:#d5d3cf" cx="20" cy="272" r="2"/>
-   <circle cx="20" cy="262" r="2" style="fill:#d5d3cf"/>
-   <circle style="fill:#d5d3cf" cx="20" cy="252" r="2"/>
-   <circle cx="20" cy="242" r="2" style="fill:#d5d3cf"/>
-   <circle style="fill:#d5d3cf" cx="20" cy="232" r="2"/>
-   <circle cx="20" cy="222" r="2" style="fill:#d5d3cf"/>
-   <circle style="fill:#d5d3cf" cx="20" cy="212" r="2"/>
-   <circle cx="20" cy="202" r="2" style="fill:#d5d3cf"/>
-   <circle style="fill:#d5d3cf" cx="20" cy="192" r="2"/>
-  </g>
-  <g transform="translate(3.05e-6,-0.9999967)" style="opacity:0.3;stroke:#d5d3cf;enable-background:new">
-   <path d="m 28,192 h 72" style="fill:none;stroke:#d5d3cf;stroke-width:2"/>
-   <path style="fill:none;stroke:#d5d3cf;stroke-width:2" d="m 28,202 h 72"/>
-   <path d="m 28,212 h 72" style="fill:none;stroke:#d5d3cf;stroke-width:2"/>
-   <path d="m 28,222 h 72" style="fill:none;stroke:#d5d3cf;stroke-width:2"/>
-   <path style="fill:none;stroke:#d5d3cf;stroke-width:2" d="m 28,232 h 72"/>
-   <path style="fill:none;stroke:#d5d3cf;stroke-width:2" d="m 28,242 h 72"/>
-   <path d="m 28,252 h 72" style="fill:none;stroke:#d5d3cf;stroke-width:2"/>
-   <path d="m 28,262 h 72" style="fill:none;stroke:#d5d3cf;stroke-width:2"/>
-   <path style="fill:none;stroke:#d5d3cf;stroke-width:2" d="M 28,272 H 94"/>
-  </g>
-  <g transform="translate(-19.999997,3.3e-6)" style="enable-background:new">
-   <g transform="translate(14.00001,-11.999987)" style="opacity:0.1;stroke:#00000f">
-    <path style="fill:none;stroke:#00000f;stroke-width:6" d="m 35.99999,249.99999 -8,8" transform="translate(0,-3e-6)"/>
-    <path d="m 27.99999,257.99999 -14,14" transform="translate(0,-3e-6)" style="fill:none;stroke:#00000f;stroke-width:12;stroke-linecap:round"/>
-    <circle cx="58" cy="228" r="30.118" style="fill:none;stroke:#00000f;stroke-width:3.76470613;stroke-linejoin:round"/>
-   </g>
-   <g transform="translate(14.00001,-13.999987)" style="enable-background:new">
-    <path style="opacity:0.15400002;fill:none;stroke:#ffffff;stroke-width:1.63784266;stroke-linecap:round" d="m 11.890335,268.55054 15.45714,-15.45715"/>
-    <path d="m 35.99999,249.99999 -8,8" style="fill:none;stroke:#949390;stroke-width:6"/>
-    <path style="fill:none;stroke:#d5d3cf;stroke-width:6" d="m 35.99999,247.99999 -8,8"/>
-    <path style="fill:none;stroke:#241f31;stroke-width:12;stroke-linecap:round" d="m 27.99999,257.99999 -14,14"/>
-    <path d="m 27.99999,255.99999 -14,14" style="fill:none;stroke:#424048;stroke-width:12;stroke-linecap:round"/>
-   </g>
-   <circle style="opacity:0.5;fill:#ffffff" cx="-72" cy="212.062" r="29.938" transform="scale(-1,1)"/>
-   <circle cx="72" cy="214" r="30.118" style="fill:none;stroke:#1a5fb4;stroke-width:3.76470613;stroke-linejoin:round"/>
-   <circle style="fill:none;stroke:#62a0ea;stroke-width:3.76470613;stroke-linejoin:round" cx="72" cy="212" r="30.118"/>
-   <path style="opacity:0.15400002;fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round" d="M 25,255 41,239"/>
-  </g>
-  <path style="fill:url(#linearGradient917)" d="m 99,251.75 c -6.094,0 -11,4.906 -11,11 v 14 c 0,1.13268 0.16928,2.22328 0.48438,3.25 l 27.57421,-27.81445 C 115.08717,251.90644 114.06356,251.75 113,251.75 Z"/>
- </g>
 </svg>

@@ -1,20 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" style="enable-background:new" width="128" height="128" version="1.0" viewBox="0 0 128 128">
- <title id="title4162">
-  Adwaita Icon Template
- </title>
- <g id="layer1" transform="translate(0,-172)">
-  <g id="layer9">
-   <g transform="translate(-220)">
-    <rect width="104" height="96" x="232" y="194" rx="8" ry="8" style="fill:#1a5fb4"/>
-    <rect width="104" height="104" x="232" y="184" rx="8" ry="8" style="fill:#3584e4"/>
-    <rect style="fill:#1a5fb4" width="88.125" height="48" x="239.94" y="212"/>
-    <path d="m 244.00006,192 h 80 c 2.216,0 4,1.784 4,4 v 36 l -4,4 h -80 l -4,-4 v -36 c 0,-2.216 1.784,-4 4,-4 z" style="fill:#edece9"/>
-    <path d="m 328.00006,240 v 36 c 0,2.216 -1.784,4 -4,4 h -80 c -2.216,0 -4,-1.784 -4,-4 v -36 l 4,-4 h 80 z" style="fill:#f3f2f0"/>
-    <path d="m 240.00006,274 v 2 c 0,2.216 1.784,4 4,4 h 80 c 2.216,0 4,-1.784 4,-4 v -2 c 0,2.216 -1.784,4 -4,4 h -80 c -2.216,0 -4,-1.784 -4,-4 z" style="opacity:0.1"/>
-    <path style="fill:#241f31" d="m 256,216 -4,8 h 8 v 36 h 10 v -44 z m 21.99999,0 v 20 c 0,8 6.00001,8 10.00001,8 h 14 v 16 h 10 v -24 -20 h -10 v 20 h -12 c -2,0 -2,-2 -2,-2 v -18 z"/>
-    <path style="opacity:0.05" d="m 328.00006,232 0.0625,-34 c 0.004,-2.216 -1.784,-4 -4,-4 h -80 c -2.216,0 -3.99593,1.784 -4,4 l -0.0625,34 4,4 h 80 z"/>
-    <path d="m 328.00006,240 0.0625,34 c 0.004,2.216 -1.784,4 -4,4 h -80 c -2.216,0 -3.99593,-1.78399 -4,-4 l -0.0625,-34 4,-4 h 80 z" style="opacity:0.2;fill:#ffffff"/>
-   </g>
+<svg enable-background="new" height="128" viewBox="0 0 128 128" width="128" xmlns="http://www.w3.org/2000/svg">
+  <g transform="translate(-220 -172)">
+    <rect fill="#1a5fb4" height="96" rx="8" width="104" x="232" y="194"/>
+    <rect fill="#3584e4" height="104" rx="8" width="104" x="232" y="184"/>
+    <path d="m239.94 212h88.125v48h-88.125z" fill="#1a5fb4"/>
+    <path d="m244.00006 192h80c2.216 0 4 1.784 4 4v36l-4 4h-80l-4-4v-36c0-2.216 1.784-4 4-4z" fill="#edece9"/>
+    <path d="m328.00006 240v36c0 2.216-1.784 4-4 4h-80c-2.216 0-4-1.784-4-4v-36l4-4h80z" fill="#f3f2f0"/>
+    <path d="m240.00006 274v2c0 2.216 1.784 4 4 4h80c2.216 0 4-1.784 4-4v-2c0 2.216-1.784 4-4 4h-80c-2.216 0-4-1.784-4-4z" opacity=".1"/>
+    <path d="m256 216-4 8h8v36h10v-44zm21.99999 0v20c0 8 6.00001 8 10.00001 8h14v16h10v-24-20h-10v20h-12c-2 0-2-2-2-2v-18z" fill="#241f31"/>
+    <path d="m328.00006 232 .0625-34c.004-2.216-1.784-4-4-4h-80c-2.216 0-3.99593 1.784-4 4l-.0625 34 4 4h80z" opacity=".05"/>
+    <path d="m328.00006 240 .0625 34c.004 2.216-1.784 4-4 4h-80c-2.216 0-3.99593-1.78399-4-4l-.0625-34 4-4h80z" fill="#fff" opacity=".2"/>
   </g>
- </g>
 </svg>

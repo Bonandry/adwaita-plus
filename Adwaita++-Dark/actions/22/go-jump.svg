@@ -1,8 +1,3 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
- <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#E6DDFF; } .ColorScheme-Highlight { color:#4285f4; }
-  </style>
- </defs>
- <path style="fill:currentColor" class="ColorScheme-Text" d="M 7 1 C 4.2473 1 2 3.2473 2 6 L 2 11 L 4 11 L 4 6 C 4 4.3207 5.3207 3 7 3 C 8.6793 3 10 4.3207 10 6 L 10 9 L 8 9 L 11 14 L 14 9 L 12 9 L 12 6 C 12 3.2473 9.7527 1 7 1 z" transform="translate(3 3)"/>
+<svg height="22" viewBox="0 0 22 22" width="22" xmlns="http://www.w3.org/2000/svg">
+  <path clip-rule="evenodd" d="m9.5 5c.9283 0 1.8185.36875 2.4749 1.02513.6564.65637 1.0251 1.54661 1.0251 2.47487v5.0934l1.281-1.2804c.191-.183.462-.313.719-.313h1v1c0 .31-.091.552-.281.75l-3.719 3.656-3.719-3.656c-.191-.198-.281-.44-.281-.75v-1h1c.257 0 .529.13.719.313l1.281 1.2804v-5.0934c0-.39783-.158-.77936-.4393-1.06066s-.66287-.43934-1.0607-.43934-.77936.15804-1.06066.43934-.43934.66283-.43934 1.06066v.5h-2v-.5c0-.92826.36875-1.8185 1.02513-2.47487.65637-.65638 1.54661-1.02513 2.47487-1.02513z" fill="#e6ddff" fill-rule="evenodd"/>
 </svg>

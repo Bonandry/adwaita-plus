@@ -1,19 +1,39 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg id="svg7384" width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
- <metadata id="metadata90">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title>Gnome Symbolic Icon Theme</dc:title>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <title id="title9167">Gnome Symbolic Icon Theme</title>
- <g id="layer9" transform="translate(-181 -237)">
-  <text id="text3032-94" x="190.88081" y="252" style="fill:#444444;font-family:Sans;font-size:7.9973px;letter-spacing:0px;line-height:125%;word-spacing:0px" xml:space="preserve"><tspan id="tspan3034-5" x="190.88081" y="252">Z</tspan></text>
-  <text id="text3032-94-6" x="183.13588" y="245.66504" style="fill:#444444;font-family:Sans;font-size:7.9973px;letter-spacing:0px;line-height:125%;word-spacing:0px" xml:space="preserve"><tspan id="tspan3034-5-8" x="183.13588" y="245.66504">Z</tspan></text>
-  <text id="text3032-94-6-6" x="187.13588" y="248.66504" style="fill:#444444;font-family:Sans;font-size:7.9973px;letter-spacing:0px;line-height:125%;word-spacing:0px" xml:space="preserve"><tspan id="tspan3034-5-8-1" x="187.13588" y="248.66504">Z</tspan></text>
- </g>
+<svg enable-background="new" height="128" viewBox="0 0 128 128" width="128" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <linearGradient id="linearGradient1444-2-3" gradientUnits="userSpaceOnUse" x1="-156.05562" x2="-44.05562" xlink:href="#linearGradient1076" y1="252.6931245" y2="252.6931245"/>
+  <linearGradient id="linearGradient1076">
+    <stop offset="0" stop-color="#d5d3cf"/>
+    <stop offset=".03571428" stop-color="#e4e1de"/>
+    <stop offset=".07142857" stop-color="#d5d3cf"/>
+    <stop offset=".9285714" stop-color="#d5d3cf"/>
+    <stop offset=".96428573" stop-color="#e4e1de"/>
+    <stop offset="1" stop-color="#d5d3cf"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1106" gradientUnits="userSpaceOnUse" x1="-80.05562" x2="-140.05562" y1="222.08293875" y2="222.08293875">
+    <stop offset="0" stop-color="#4fd2fd"/>
+    <stop offset="1" stop-color="#4fd2fd" stop-opacity="0"/>
+  </linearGradient>
+  <radialGradient id="radialGradient1030" cx="63.999996" cy="194.19048" gradientTransform="matrix(-4.7272726 .00000111 -.0000003 -1.2272727 198.48987 -10.368527)" gradientUnits="userSpaceOnUse" r="44" xlink:href="#linearGradient1020"/>
+  <linearGradient id="linearGradient1020">
+    <stop offset="0" stop-color="#fff"/>
+    <stop offset="1" stop-color="#fff" stop-opacity=".094118"/>
+  </linearGradient>
+  <radialGradient id="radialGradient1030-8" cx="63.999996" cy="194.19048" gradientTransform="matrix(-4.7272726 .00000129 -.0000003 -1.4318182 490.54548 36.712059)" gradientUnits="userSpaceOnUse" r="44" xlink:href="#linearGradient1020"/>
+  <linearGradient id="linearGradient1444-2-3-3" gradientUnits="userSpaceOnUse" x1="135.99999" x2="247.99999" xlink:href="#linearGradient1076" y1="245.9999945" y2="245.9999945"/>
+  <g>
+    <g transform="translate(-128 -140)">
+      <rect fill="#f6f5f4" height="88" rx="8" width="112" x="136" y="168"/>
+      <rect fill="#241f31" height="78" rx="4" width="104" x="140" y="172"/>
+      <path d="m135.99999 246v4c0 4.432 3.568 8 8 8h96c4.432 0 8-3.568 8-8v-4c0 4.432-3.568 8-8 8h-96c-4.432 0-8-3.568-8-8z" fill="url(#linearGradient1444-2-3-3)"/>
+      <path d="m144-245.99998h96v70h-96z" fill="url(#radialGradient1030-8)" opacity=".05" transform="scale(1 -1)"/>
+      <path d="m33.603516 41v3.273438h17.738281l-18.179688 22.515624v2.964844h23.476563v-3.273437h-18.623047l18.179687-22.513672v-2.966797zm19.730468 14.796875v3.273437h17.738282l-18.181641 22.515626v2.964843h23.476563v-3.273437h-18.623047l18.18164-22.515625v-2.964844zm18.470704 16.447266v3.27539h17.738281l-18.181641 22.513672v2.966797h23.476563v-3.273438h-18.623047l18.18164-22.515624v-2.966797z" fill="#4ed2fd" fill-opacity=".6" stroke-width="4.932173" transform="matrix(1.00000000807 0 0 1.00000000807 127.99999529766 139.99999607962)"/>
+    </g>
+    <g enable-background="new" transform="translate(-55.94439 -146.69313)">
+      <rect fill="#f6f5f4" height="78" rx="8" width="112" x="-156.0556" y="184.69313"/>
+      <rect fill="#241f31" height="68" rx="4" width="104" x="-152.0556" y="188.69313"/>
+      <path d="m-156.05562 252.69313v4c0 4.432 3.568 8 8 8h96.000002c4.432 0 8-3.568 8-8v-4c0 4.432-3.568 8-8 8h-96.000002c-4.432 0-8-3.568-8-8z" fill="url(#linearGradient1444-2-3)"/>
+      <path d="m-148.05562 226.69313h40l8-20 4.000002 32 8-12h36" fill="none" opacity=".236" stroke="#4fd2fd" stroke-miterlimit="10" stroke-width="4"/>
+      <path d="m-148.05562 226.69313h40l8-20 4.000002 32 8-12h6" fill="none" stroke="url(#linearGradient1106)" stroke-linecap="round" stroke-miterlimit="10" stroke-width="4"/>
+      <path d="m-148.0556-252.69313h96v60h-96z" fill="url(#radialGradient1030)" opacity=".05" transform="scale(1 -1)"/>
+    </g>
+  </g>
 </svg>

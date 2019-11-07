@@ -1,21 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
- <path style="fill:#E6DDFF" d="M 1,1 H 3 V 3 H 1 Z"/>
- <path style="fill:#E6DDFF" d="M 3,1 H 5 V 3 H 3 Z"/>
- <path style="fill:#E6DDFF" d="M 5,1 H 7 V 3 H 5 Z"/>
- <path style="fill:#E6DDFF" d="M 5,3 H 7 V 5 H 5 Z"/>
- <path style="fill:#E6DDFF" d="M 3,5 H 5 V 7 H 3 Z"/>
- <path style="fill:#E6DDFF" d="M 1,7 H 3 V 9 H 1 Z"/>
- <path style="fill:#E6DDFF" d="M 3,9 H 5 V 11 H 3 Z"/>
- <path style="fill:#E6DDFF" d="M 5,7 H 7 V 9 H 5 Z"/>
- <path style="fill:#E6DDFF" d="M 7,5 H 9 V 7 H 7 Z"/>
- <path style="fill:#E6DDFF" d="M 9,5 H 11 V 7 H 9 Z"/>
- <path style="fill:#E6DDFF" d="M 9,1 H 11 V 3 H 9 Z"/>
- <path style="fill:#E6DDFF" d="M 11,3 H 13 V 5 H 11 Z"/>
- <path style="fill:#E6DDFF" d="M 11,9 H 13 V 11 H 11 Z"/>
- <path style="fill:#E6DDFF" d="M 7,11 H 9 V 13 H 7 Z"/>
- <path style="fill:#E6DDFF" d="M 9,13 H 11 V 15 H 9 Z"/>
- <path style="fill:#E6DDFF" d="M 3,13 H 5 V 15 H 3 Z"/>
- <path style="fill:#E6DDFF" d="M 13,11 H 15 V 13 H 13 Z"/>
- <path style="fill:#E6DDFF" d="M 13,13 H 15 V 15 H 13 Z"/>
- <path style="fill:#E6DDFF" d="M 13,13 H 15 V 15 H 13 Z"/>
+<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
+  <g fill="#e6ddff">
+    <path d="m1 1h2v2h-2z"/>
+    <path d="m3 1h2v2h-2z"/>
+    <path d="m5 1h2v2h-2z"/>
+    <path d="m5 3h2v2h-2z"/>
+    <path d="m3 5h2v2h-2z"/>
+    <path d="m1 7h2v2h-2z"/>
+    <path d="m3 9h2v2h-2z"/>
+    <path d="m5 7h2v2h-2z"/>
+    <path d="m7 5h2v2h-2z"/>
+    <path d="m9 5h2v2h-2z"/>
+    <path d="m9 1h2v2h-2z"/>
+    <path d="m11 3h2v2h-2z"/>
+    <path d="m11 9h2v2h-2z"/>
+    <path d="m7 11h2v2h-2z"/>
+    <path d="m9 13h2v2h-2z"/>
+    <path d="m3 13h2v2h-2z"/>
+    <path d="m13 11h2v2h-2z"/>
+    <path d="m13 13h2v2h-2z"/>
+    <path d="m13 13h2v2h-2z"/>
+  </g>
 </svg>

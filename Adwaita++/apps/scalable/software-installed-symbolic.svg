@@ -1,0 +1,14 @@
+<svg enable-background="new" height="128" viewBox="0 0 128 128" width="128" xmlns="http://www.w3.org/2000/svg">
+  <linearGradient gradientUnits="userSpaceOnUse" x1="280" x2="280" y1="172" y2="20">
+    <stop offset="0" stop-color="#babdb6"/>
+    <stop offset="1" stop-color="#babdb6" stop-opacity="0"/>
+  </linearGradient>
+  <g transform="translate(0 -172)">
+    <rect fill="#98c1f1" height="44" rx="8" width="104" x="12" y="244"/>
+    <path d="m12 192h104v88h-104z" fill="#e7f0fc"/>
+    <circle cx="50" cy="201" fill="#1a5fb4" r="5"/>
+    <circle cx="78" cy="201" fill="#1a5fb4" r="5"/>
+    <path d="m50 200v-8c0-7.756 6.244-14 14-14s14 6.244 14 14v8" fill="none" stroke="#62a0ea" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+  </g>
+  <path d="m6.6919998 13.645333-4.2426665-4.3213332a.33333333.33333333 0 0 1 0-.4706667l1.4306666-1.4026666a.33333333.33333333 0 0 1 .472 0l2.2853332 2.3319999 8.0799999-8.7079998a3.9746666 3.9746666 0 0 0 -2.717333-1.07466665h-8.0000001a3.9999999 3.9999999 0 0 0 -3.99999995 3.99999995v8.0000001a3.9999999 3.9999999 0 0 0 3.99999995 4h8.0000001a3.9999999 3.9999999 0 0 0 4-4v-8.0000001c0-.1186667-.02533-.2293333-.03467-.3453333z" fill="#1a5fb4" transform="matrix(3.5197605 0 0 3.5197605 35.841916 40.900599)"/>
+</svg>

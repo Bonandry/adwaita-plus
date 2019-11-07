@@ -1,11 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
- <title id="title9167">
-  Gnome Symbolic Icon Theme
- </title>
- <g id="layer9" transform="translate(-61 -257)">
-  <path d="m73 257v1.5 12 1.5h3v-1.5-12-1.5h-3z" style="fill-rule:evenodd;fill:#444444;opacity:.35"/>
-  <path d="m69 260v1.5 9 1.5h3v-1.5-9-1.5h-3z" style="fill-rule:evenodd;fill:#444444"/>
-  <path d="m65 263v1.5 6 1.5h3v-1.5-6-1.5h-3z" style="fill-rule:evenodd;fill:#444444"/>
-  <path d="m61 266v1.5 3 1.5h3v-1.5-3-1.5h-3z" style="fill-rule:evenodd;fill:#444444"/>
- </g>
+<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
+  <g fill="#474747" fill-rule="evenodd">
+    <path d="m12 1v14h3v-14z" opacity=".35"/>
+    <path d="m8 3.992v11.008h3v-11.008zm-4 3.008v8h3v-8zm-4 3v5h3v-5z"/>
+  </g>
 </svg>

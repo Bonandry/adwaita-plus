@@ -1,22 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" version="1.0" viewBox="0 0 128 128" style="enable-background:new">
- <title id="title4162">
-  Adwaita Icon Template
- </title>
- <g id="layer1" transform="translate(0,-172)">
-  <g id="layer9">
-   <path style="fill:#c64600" d="M 60.003409,238 H 116 v 39.875 C 116,283.48425 113.41019,288 107.3339,288 H 59.996589 Z"/>
-   <path d="m 108.04004,184 c 4.432,0 8,3.568 8,8 v 84 c 0,4.432 -3.568,8 -8,8 H 60.040039 V 184 Z" style="fill:#ff7800"/>
-   <rect style="opacity:0.1" width="4" height="20" x="254" y="80" transform="matrix(0,1,1,0,0,0)"/>
-   <rect style="opacity:0.1" width="4" height="20" x="262" y="80" transform="matrix(0,1,1,0,0,0)"/>
-   <rect style="fill:#ffffff" width="4" height="20" x="252" y="80" transform="matrix(0,1,1,0,0,0)"/>
-   <rect style="fill:#ffffff" width="4" height="20" x="260" y="80" transform="matrix(0,1,1,0,0,0)"/>
-   <path d="m 20.040039,188 c -4.432,0 -8,3.568 -8,8 v 84 c 0,4.432 3.568,8 8,8 h 44 V 188 Z" style="fill:#5e5c64"/>
-   <path style="fill:#77767b" d="m 20.040039,184 c -4.432,0 -8,3.568 -8,8 v 84 c 0,4.432 3.568,8 8,8 h 44 V 184 Z"/>
-   <path style="opacity:0.2" d="m 36.000979,250 v 8 h -8 v 4 h 8 v 8 h 4 v -8 h 8 v -4 h -8 v -8 z"/>
-   <path d="m 36.000979,248 v 8 h -8 v 4 h 8 v 8 h 4 v -8 h 8 v -4 h -8 v -8 z" style="fill:#ffffff"/>
-   <rect width="4" height="20" x="210" y="28" transform="matrix(0,1,1,0,0,0)" style="opacity:0.1"/>
-   <rect width="4" height="20" x="208" y="28" transform="matrix(0,1,1,0,0,0)" style="fill:#ffffff"/>
-   <path style="fill:none;stroke:#5e5c64;stroke-width:2" d="M 12,235 H 63.96337"/>
+<svg enable-background="new" height="128" viewBox="0 0 128 128" width="128" xmlns="http://www.w3.org/2000/svg">
+  <g transform="translate(0 -172)">
+    <path d="m60.003409 238h55.996591v39.875c0 5.60925-2.58981 10.125-8.6661 10.125h-47.337311z" fill="#c64600"/>
+    <path d="m108.04004 184c4.432 0 8 3.568 8 8v84c0 4.432-3.568 8-8 8h-48.000001v-100z" fill="#ff7800"/>
+    <g transform="matrix(0 1 1 0 0 0)">
+      <path d="m254 80h4v20h-4z" opacity=".1"/>
+      <path d="m262 80h4v20h-4z" opacity=".1"/>
+      <path d="m252 80h4v20h-4z" fill="#fff"/>
+      <path d="m260 80h4v20h-4z" fill="#fff"/>
+    </g>
+    <path d="m20.040039 188c-4.432 0-8 3.568-8 8v84c0 4.432 3.568 8 8 8h44v-100z" fill="#5e5c64"/>
+    <path d="m20.040039 184c-4.432 0-8 3.568-8 8v84c0 4.432 3.568 8 8 8h44v-100z" fill="#77767b"/>
+    <path d="m36.000979 250v8h-8v4h8v8h4v-8h8v-4h-8v-8z" opacity=".2"/>
+    <path d="m36.000979 248v8h-8v4h8v8h4v-8h8v-4h-8v-8z" fill="#fff"/>
+    <path d="m210 28h4v20h-4z" opacity=".1" transform="matrix(0 1 1 0 0 0)"/>
+    <path d="m208 28h4v20h-4z" fill="#fff" transform="matrix(0 1 1 0 0 0)"/>
+    <path d="m12 235h51.96337" fill="none" stroke="#5e5c64" stroke-width="2"/>
   </g>
- </g>
 </svg>

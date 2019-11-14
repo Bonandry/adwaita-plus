@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="128" height="128" enable-background="new" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="f" color-interpolation-filters="sRGB">
+   <feBlend in2="BackgroundImage" mode="multiply"/>
+  </filter>
+  <filter id="g" color-interpolation-filters="sRGB">
+   <feBlend in2="BackgroundImage" mode="multiply"/>
+  </filter>
+  <linearGradient id="e" x1="63.109" x2="72.603" y1="65.067" y2="21.374" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#f6f5f4" offset="0"/>
+   <stop stop-color="#e9e7e4" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path d="M64.213 4.678c-2.663-.009-5.335 1.319-8.025 4.01L16 48v68h96V48L72.187 8.687c-2.656-2.656-5.311-4-7.974-4.01z" fill="#9a9996"/>
+ <path d="M24 16h80v88H24z" fill="url(#e)"/>
+ <path d="M16 48v68.001l96-.001V48L64 92z" fill="#d0d0cd"/>
+ <path d="M16 116h96L72.187 76.687c-5.312-5.312-10.618-5.381-16 0z" fill="#deddda"/>
+ <path transform="translate(-2.122 -187.61) scale(1.0505)" d="m69.953 251.55a28.557 28.557 0 0 0-7.01 18.714c3e-3 6.37 2.74 13.73 6.663 18.748h37.874z" enable-background="new" filter="url(#f)" opacity=".15"/>
+ <path d="M64.213 72.678c-2.663-.009-5.335 1.319-8.025 4.01L16 116h2.045l38.142-37.313c5.382-5.381 10.688-5.312 16 0L109.975 116H112L72.187 76.687c-2.656-2.656-5.311-4-7.974-4.01z" fill="#edeceb"/>
+ <g transform="matrix(1.1707 0 0 1.1707 -13.698 -11.07)">
+  <path d="M117.574 90.426A25.574 25.574 0 0 1 92 116a25.574 25.574 0 0 1-25.574-25.574A25.574 25.574 0 0 1 92 64.852a25.574 25.574 0 0 1 25.574 25.574z" enable-background="new" fill="#613583"/>
+  <rect x="68.131" y="65.705" width="47.738" height="48.59" rx="23.869" ry="23.869" enable-background="new" fill="#d5d3cf"/>
+  <path d="M118.476 89.574A26.476 26.476 0 0 1 92 116.05a26.476 26.476 0 0 1-26.476-26.476A26.476 26.476 0 0 1 92 63.098a26.476 26.476 0 0 1 26.476 26.476z" enable-background="new" fill="#9141ac"/>
+  <circle cx="92" cy="89.574" r="21.28" enable-background="new" fill="#f6f5f4"/>
+  <path d="m92 89.574 11.082-11.935" enable-background="new" fill="#949390" fill-rule="evenodd" stroke="#949390" stroke-linecap="round" stroke-width=".854"/>
+  <path d="m92 89.574-5.967 15.344" enable-background="new" fill="none" stroke="#ed333b" stroke-linecap="round" stroke-width=".854"/>
+  <path transform="matrix(.89735 0 0 .89735 9.889 -150.8)" d="m91.494 268.07-9.513-9.52" enable-background="new" fill="none" filter="url(#g)" stroke="#68676b" stroke-linecap="round" stroke-width="3.808"/>
+  <circle transform="rotate(-24.04)" cx="47.532" cy="119.28" r="2.557" enable-background="accumulate" fill="#11100f" overflow="visible"/>
+  <circle cx="92.012" cy="89.574" r=".854" enable-background="accumulate" fill="#131c1a" overflow="visible"/>
+ </g>
+</svg>

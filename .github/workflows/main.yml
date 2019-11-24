@@ -13,7 +13,7 @@ jobs:
 
     steps:
     - uses: actions/checkout@master
-    - name: Install xmlstarlet
-      run: sudo apt-get install xmlstarlet
-    - name: Run tests
-      run: make -k test-all
+    - name: Install neofetch and xmlstarlet
+      run: sudo apt-get install neofetch xmlstarlet
+    - name: Analysing and testing
+      run: neofetch && make -k test-all

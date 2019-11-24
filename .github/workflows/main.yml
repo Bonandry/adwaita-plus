@@ -17,5 +17,3 @@ jobs:
       run: sudo apt-get install xmlstarlet
     - name: Run tests
       run: make -k test-all
-
-        echo test, and deploy your project.

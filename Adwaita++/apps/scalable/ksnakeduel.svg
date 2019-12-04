@@ -1,0 +1,34 @@
+<svg height="128" width="128" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <linearGradient id="e" gradientTransform="matrix(1.0015 0 0 .99993 72.09 56.015)" gradientUnits="userSpaceOnUse" x1="43.844" x2="-60" y1="234" y2="234">
+    <stop offset="0" stop-color="#d5d3cf"/>
+    <stop offset=".038" stop-color="#e3e2df"/>
+    <stop offset=".077" stop-color="#c0bfbc"/>
+    <stop offset=".923" stop-color="#c0bfbc"/>
+    <stop offset=".962" stop-color="#e3e2df"/>
+    <stop offset="1" stop-color="#d5d3cf"/>
+  </linearGradient>
+  <g transform="translate(0 -172)">
+    <rect fill="url(#e)" height="48" rx="8" width="104" x="12" y="240"/>
+    <path d="m20 10c-4.432 0-8 3.568-8 8v42 42c0 4.432 3.568 8 8 8h44 44c4.432 0 8-3.568 8-8v-42-42c0-4.432-3.568-8-8-8z" fill="#626262" transform="translate(0 172)"/>
+    <path d="m106.74139 195.14062a10.271658 8.3572871 0 0 0 -10.415053-8.23077h-66.759095a10.271658 8.3572871 0 1 0 0 16.7129h66.759095a10.271658 8.3572871 0 0 0 10.415053-8.48213z" fill="#77ff76"/>
+    <path d="m106.91648 266.78228a8.3572871 8.3572871 0 0 1 -8.473968 8.23078h-54.316934a8.3572871 8.3572871 0 1 1 0-16.7129h54.316934a8.3572871 8.3572871 0 0 1 8.473968 8.48212z" fill="#f7f"/>
+    <path d="m98.384948 203.49707a8.3572871 8.3572871 0 0 0 -8.230783 8.47396v54.31694a8.3572871 8.3572871 0 1 0 16.712905 0v-54.31694a8.3572871 8.3572871 0 0 0 -8.482122-8.47396z" fill="#f7f"/>
+    <g transform="matrix(.83564514 0 0 .83564514 15.053178 175.92078)">
+      <ellipse cx="100.04554" cy="49.023426" rx="4.285714" ry="2.880573"/>
+      <path d="m97.474111 53s1.630767.821386 2.905489.733525c1.00775-.069462 2.23737-.733525 2.23737-.733525" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="bevel" stroke-width=".685714"/>
+      <ellipse cx="94.902679" cy="42.714287" fill="#fff" rx="4.285714" ry="3.428572"/>
+      <ellipse cx="104.84105" cy="42.387363" fill="#fff" rx="4.285714" ry="3.428572"/>
+      <circle cx="97.002113" cy="42.714287" r="1.714286"/>
+      <circle cx="103.01743" cy="42.583515" r="1.714286"/>
+    </g>
+    <g transform="matrix(0 -1.4317766 1.4317766 0 62.473423 314.81328)">
+      <ellipse cx="83.5" cy="25.680332" rx="2.5" ry="1.680334"/>
+      <path d="m85 28.431726s-.951283-.479142-1.694874-.42789c-.587848.04052-1.305126.42789-1.305126.42789" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="bevel" stroke-width=".4"/>
+      <ellipse cx="80.5" cy="22" fill="#fff" rx="2.5" ry="2"/>
+      <ellipse cx="86.297379" cy="21.809296" fill="#fff" rx="2.5" ry="2"/>
+      <circle cx="81.72467" cy="22" r="1"/>
+      <circle cx="85.233612" cy="21.923717" r="1"/>
+    </g>
+    <path d="m27.44393 186.84674a8.3572871 10.271658 0 0 1 8.23077 10.41505v66.7591a8.3572871 10.271658 0 1 1 -16.7129 0v-66.7591a8.3572871 10.271658 0 0 1 8.48213-10.41505z" fill="#77ff76"/>
+  </g>
+</svg>

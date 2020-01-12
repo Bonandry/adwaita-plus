@@ -1,26 +1,7 @@
-<svg enable-background="new" height="128" viewBox="0 0 128 128" width="128" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <linearGradient id="linearGradient965" gradientUnits="userSpaceOnUse" x1="48" x2="464" y1="44" y2="44">
-    <stop offset="0" stop-color="#77767b"/>
-    <stop offset=".05" stop-color="#c0bfbc"/>
-    <stop offset=".1" stop-color="#9a9996"/>
-    <stop offset=".9" stop-color="#9a9996"/>
-    <stop offset=".95" stop-color="#c0bfbc"/>
-    <stop offset="1" stop-color="#77767b"/>
-  </linearGradient>
-  <radialGradient id="radialGradient1030" cx="64" cy="194.19" gradientTransform="matrix(-4.7273 .00000079 -.0000003 -1.6364 238.55 49.766)" gradientUnits="userSpaceOnUse" r="44">
-    <stop offset="0" stop-color="#fff"/>
-    <stop offset="1" stop-color="#fff" stop-opacity=".094118"/>
-  </radialGradient>
-  <linearGradient id="linearGradient2151" gradientUnits="userSpaceOnUse" x1="16.016157417" x2="53.0981463927" y1="275.242985325" y2="252.9949131729">
-    <stop offset="0" stop-color="#6bcfff"/>
-    <stop offset="1" stop-color="#4aa5d2"/>
-  </linearGradient>
-  <rect fill="url(#linearGradient965)" height="376" rx="32" transform="matrix(.25 0 0 .25 0 53)" width="416" x="48" y="-124"/>
-  <rect fill="#deddda" height="96" rx="8" stroke-width=".25" width="104" x="12" y="12"/>
-  <rect fill="#241f31" height="88" rx="4" transform="matrix(1 0 0 -1 0 -172)" width="96" x="16" y="-276"/>
-  <g enable-background="new" transform="matrix(1.772331 0 0 1.772331 7.63425 -405.47598)">
-    <path d="m39.00611 248.54356-28.182666 28.18268h11.124736l12.608035-12.60804v12.60804l11.866385-11.8664v11.8664l6.734177-6.73419-.05934-21.44849-14.091333 14.09133z" fill="url(#linearGradient2151)" fill-rule="evenodd"/>
-    <path d="m39.00611 248.54356-28.182666 28.18268h11.124736l12.608035-12.60804v12.60804l11.866385-11.8664v11.8664l6.734177-6.73419-.05934-21.44849-14.091333 14.09133z" fill="none" stroke="#236c9a" stroke-width=".529167"/>
+<svg enable-background="new" height="128" viewBox="0 0 128 128" width="128" xmlns="http://www.w3.org/2000/svg">
+  <g enable-background="new" fill="#3584e4" transform="matrix(2.8346457 0 0 2.8346457 -28.180629 -686.42085)">
+    <path d="m39.00611 248.54356-28.182666 28.18268h11.124736l12.608035-12.60804v12.60804l11.866385-11.8664v11.8664l6.664993-6.80983.0098-21.37285-14.091333 14.09133z" fill="#3584e4" fill-rule="evenodd"/>
+    <path d="m39.00611 248.54356-28.182666 28.18268h11.124736l12.608035-12.60804v12.60804l11.866385-11.8664v11.8664l6.734177-6.73419-.05934-21.44849-14.091333 14.09133z" fill="#3587e1"/>
+    <path d="m69.773438 58.259766-35.738282 35.740234h-27.535156l-4 4h31.535156l35.738282-35.740234zm33.636722 2.103515-33.636722 33.636719v4l33.636722-33.636719zm19.07812 14.558594-19.07812 19.078125v4l19.08984-19.089844z" fill="#000" opacity=".2" transform="matrix(.35277777 0 0 .35277777 9.9415 242.15402)"/>
   </g>
-  <path d="m-108-272h88v78h-88z" fill="url(#radialGradient1030)" opacity=".05" transform="matrix(-1 0 0 -1 0 -172)"/>
 </svg>

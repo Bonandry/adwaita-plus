@@ -1,0 +1,16 @@
+---
+
+gnome: 'data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjQ4cHQiIHZpZXdCb3g9IjAgMCA0OCA0OCIgd2lkdGg9IjQ4cHQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiPgogICAgPHBhdGggZD0ibTM4LjU5NCAwYy05LjM3NiAwLTExLjEzNSAxNC4yNDMtNS44NiAxNC4yNDMgNS4yNzMgMCAxNS4yMzYtMTQuMjQzIDUuODYtMTQuMjQzem0tMTQuNDM4IDIuMTljLS4xNDgtLjAwMS0uMzA5LS4wMDEtLjQ3NS4wMzMtNS4zMTMuNjcxLTMuNDQ1IDkuNjYzLS42MTYgOS44MzEgMi43MzguMTY0IDUuNzMyLTkuODQyIDEuMDg0LTkuODU4em0tOS4yMTQgMy4zMjFjLS4zMjUtLjAzNC0uNjg0LjA0My0xLjA4NS4yMDgtNC4yNzEgMS43NTMtLjY1IDguOTkxIDEuNzQxIDguNTA0IDIuMTctLjQ0MSAyLjQ4Mi04LjUwOC0uNjU2LTguNzEyem0tNi45NzEgNS45MmMtLjM3MSAwLS43NzEuMTE1LTEuMTk5LjQzNS0zLjQxOCAyLjU1MSAxLjE0OSA4LjcxNyAzLjE2MSA3Ljc2MSAxLjc1OS0uODM3LjYzNy04LjEwMi0xLjk2Mi04LjE5NnptMjAuMTkgNS44NzljLTcuNDA3LS4xMjctMTcuMTc3IDMuNjMzLTE4Ljg0NCAxMS4xODMtMS44MDQgOC4xNyA3LjQyOSAxOS41MDcgMTcuMDYyIDE5LjUwNyA0LjczOSAwIDEwLjIwNy00LjMzMiAxMS4yMy05LjgxNy43ODEtNC4xODItOS4xOTctMi41MDUtOC44MzkuMjYxLjQzIDMuMzE3LTIuNCA0Ljk1Ny01LjE3NiAyLjgxOS04LjgzOC02LjgwNyAxNC42MzMtMTAuMjA2IDEzLjA4NC0xOS41MDYtLjQ4MS0yLjg5NS00LjA3My00LjM3MS04LjUxNy00LjQ0N3oiIGZpbGw9IiNlY2VjZWMiLz4KPC9zdmc+Cg=='
+
+icones:
+  - {nome: actions}
+  - {nome: apps}
+  - {nome: devices}
+  - {nome: mimetypes}
+  - {nome: places}
+  - {nome: status}
+  
+mais:
+  - {url: 'https://img.shields.io/github/search/Bonandry/adwaita-plus/extension:svg%20path:Adwaita++/$icones.nome$/scalable?style=for-the-badge&logo=$gnome$&logoColor=whitesmoke&label=actions%20icons&colorA=a89888&colorB=33D17A'}
+
+---

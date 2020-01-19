@@ -1,1 +1,30 @@
-gnome-keysign.svg
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" enable-background="new" viewBox="0 0 128 128" style="display:inline;enable-background:new" version="1.0" id="svg11300" height="128" width="128">
+  <title id="title4162">Adwaita Icon Template</title>
+  <defs id="defs3">
+    <linearGradient id="linearGradient1116">
+      <stop style="stop-color:#ef4c53;stop-opacity:1" offset="0" id="stop1112"/>
+      <stop style="stop-color:#e01b24;stop-opacity:1" offset="1" id="stop1114"/>
+    </linearGradient>
+    <radialGradient gradientTransform="matrix(1.1239805,0,0,1.1239805,-7.9347528,-7.9347528)" gradientUnits="userSpaceOnUse" r="61.995831" fy="64" fx="64" cy="64" cx="64" id="radialGradient1037" xlink:href="#linearGradient1116"/>
+  </defs>
+  <metadata id="metadata4">
+    
+  </metadata>
+  <g transform="translate(0,-172)" style="display:inline" id="layer1">
+    <g style="display:inline" id="layer9"/>
+  </g>
+  <g id="g1170">
+    <path style="opacity:1;vector-effect:none;fill:url(#radialGradient1037);fill-opacity:1;stroke:none;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" id="path1029" d="m 106.42641,106.42641 c -6.516991,6.51698 -13.4326,3.48719 -21.947455,7.01416 C 75.9641,116.96754 73.216413,124 64,124 54.783587,124 52.0359,116.96754 43.521045,113.44057 35.00619,109.9136 28.090581,112.94339 21.573593,106.42641 15.056605,99.909419 18.086398,92.99381 14.55943,84.478955 11.032461,75.9641 4,73.216413 4,64 3.9999999,54.783587 11.032461,52.0359 14.55943,43.521045 18.086398,35.00619 15.056605,28.090581 21.573593,21.573593 28.090581,15.056605 35.00619,18.086398 43.521045,14.55943 52.0359,11.032461 54.783587,4 64,4 c 9.216412,-10e-8 11.9641,7.032461 20.478955,10.55943 8.514855,3.526968 15.430464,0.497175 21.947455,7.014163 6.51698,6.516988 3.48719,13.432597 7.01416,21.947452 C 116.96754,52.0359 124,54.783587 124,64 c 0,9.216412 -7.03246,11.9641 -10.55943,20.478955 -3.52697,8.514855 -0.49718,15.430464 -7.01416,21.947455 z"/>
+    <circle r="37" cy="62" cx="63.999992" id="circle1184" style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#8a1826;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"/>
+    <circle style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#c01c28;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" id="path1090" cx="64.091629" cy="65.997223" r="36.997223"/>
+    <g id="g1110" transform="translate(0,-4)">
+      <g id="g1159" transform="translate(-11.908371)">
+        <circle r="10.001387" cy="55.001389" cx="76" id="circle1095" style="display:inline;opacity:1;vector-effect:none;fill:#8a1826;fill-opacity:1;stroke:none;stroke-width:0.99999988;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new" transform="translate(0,2.9972267)"/>
+        <path style="opacity:1;vector-effect:none;fill:#c01c28;fill-opacity:1;stroke:none;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" d="m 72,64 h 8 v 24 h -8 z" id="rect1056"/>
+        <circle style="opacity:1;vector-effect:none;fill:#c01c28;fill-opacity:1;stroke:none;stroke-width:0.99999988;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" id="path1065" cx="76" cy="61.998615" r="10.001387"/>
+      </g>
+    </g>
+    <path style="opacity:1;vector-effect:none;fill:#c01c28;fill-opacity:1;stroke:none;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" d="M 4.1328125 62 C 4.0548487 62.636221 4 63.293212 4 64 C 4.0000004 73.216414 11.031625 75.96366 14.558594 84.478516 C 18.085562 92.99337 15.057231 99.908794 21.574219 106.42578 C 28.091208 112.94277 35.006628 109.91444 43.521484 113.44141 C 52.036339 116.96837 54.783588 124 64 124 C 73.216414 124 75.96366 116.96838 84.478516 113.44141 C 92.99337 109.91444 99.908794 112.94277 106.42578 106.42578 C 112.94277 99.908792 109.91444 92.993372 113.44141 84.478516 C 116.96837 75.963661 124 73.216412 124 64 C 124 63.293212 123.94515 62.636221 123.86719 62 C 122.92852 69.660004 116.6979 72.616648 113.44141 80.478516 C 109.91444 88.993372 112.94277 95.908792 106.42578 102.42578 C 99.908794 108.94277 92.99337 105.91444 84.478516 109.44141 C 75.96366 112.96838 73.216414 120 64 120 C 54.783588 120 52.036339 112.96837 43.521484 109.44141 C 35.006628 105.91444 28.091208 108.94277 21.574219 102.42578 C 15.057231 95.908794 18.085562 88.99337 14.558594 80.478516 C 11.302101 72.616647 5.0714854 69.660005 4.1328125 62 z " id="path1131"/>
+  </g>
+</svg>

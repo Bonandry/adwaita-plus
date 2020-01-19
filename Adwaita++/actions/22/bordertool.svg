@@ -1,3 +1,8 @@
-<svg height="22" viewBox="0 0 22 22" width="22" xmlns="http://www.w3.org/2000/svg">
-  <path d="m1 1.0058594v13.9980466h14v-13.9980466zm2 2h10v9.9980466h-10z" fill="#444" transform="translate(3 3)"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#4285f4; }
+  </style>
+ </defs>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="M 1 1.0058594 L 1 15.003906 L 15 15.003906 L 15 1.0058594 L 1 1.0058594 z M 3 3.0058594 L 13 3.0058594 L 13 13.003906 L 3 13.003906 L 3 3.0058594 z" transform="translate(3 3)"/>
 </svg>

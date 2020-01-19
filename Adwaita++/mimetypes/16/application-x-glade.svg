@@ -1,3 +1,68 @@
+<<<<<<< HEAD
 <svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
   <path d="m4.1115299 2.0486941c-.8234616 0-1.4910091.6717078-1.4910091 1.5003013s.6675475 1.5003013 1.4910091 1.5003013c.8234615 0 1.491009-.6717078 1.491009-1.5003013s-.6675475-1.5003013-1.491009-1.5003013zm2.4850151 1.0002009v1.0002008h4.97003v-1.0002008zm-2.4850151 3.0006025c-.8234616 0-1.4910091.6717078-1.4910091 1.5003013-.0000001.8285936.6675474 1.5003014 1.4910091 1.5003014.8234616 0 1.4910091-.6717078 1.491009-1.5003014 0-.8285935-.6675475-1.5003013-1.491009-1.5003013zm11.4310691.6915451-13.9160843 8.3102634h13.9160843zm-8.946054.3086558v1.0002009h4.97003v-1.0002009zm7.985526 1.9366748-.05678 4.9279848-8.8334529.152375z" fill="#474747" stroke="#474747" stroke-width=".897389"/>
+=======
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="application-x-glade.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1212"
+     inkscape:window-height="897"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="14.75"
+     inkscape:cx="8.3367732"
+     inkscape:cy="8"
+     inkscape:window-x="386"
+     inkscape:window-y="98"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer9" />
+  <title
+     id="title9167">
+  Gnome Symbolic Icon Theme
+ </title>
+  <g
+     id="layer9"
+     transform="translate(-223.0002,-215)">
+    <path
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#444444;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.98025644;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 227.23712,216.77641 c -1.07695,0 -1.96051,0.88355 -1.96051,1.96051 0,1.07696 0.88356,1.96052 1.96051,1.96052 1.07696,0 1.96052,-0.88356 1.96052,-1.96052 0,-1.07696 -0.88356,-1.96051 -1.96052,-1.96051 z m 1.96052,1.96051 v 0.98026 h 5.88153 v -1.96051 h -5.88153 v 0.49012 z m -1.96052,1.96052 c -1.07695,0 -1.96051,0.88355 -1.96051,1.96051 0,1.07696 0.88356,1.96051 1.96051,1.96051 1.07696,0 1.96052,-0.88355 1.96052,-1.96051 0,-1.07696 -0.88356,-1.96051 -1.96052,-1.96051 z m 1.96052,1.96051 v 0.98026 h 5.36461 L 223.0002,230.5 h 16 v -9.49623 l -0.74094,0.44035 -3.18009,1.88775 v -1.65418 h -5.88153 v 0.49013 z m 7.86502,2.25535 -0.0402,3.49983 -6.31231,0.10912 z"
+       id="path3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ssssscccccccssssscccccccccccccccc" />
+  </g>
+>>>>>>> master
 </svg>

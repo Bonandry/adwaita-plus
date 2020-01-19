@@ -1,15 +1,19 @@
-<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <defs>
-    <linearGradient id="lg1">
-      <stop offset="0" stop-opacity=".746988"/>
-      <stop offset="1" stop-opacity=".024096"/>
-    </linearGradient>
-    <linearGradient xlink:href="#lg1"/>
-    <linearGradient xlink:href="#lg1"/>
-    <linearGradient>
-      <stop offset="0" stop-color="#f4deba"/>
-      <stop offset="1" stop-color="#de9625" stop-opacity="0"/>
-    </linearGradient>
-  </defs>
-  <path d="m47.00684 221.36218h-14v14h14zm-4.03125 4.40625v1h-1c-.25721.00004-.52849-.12938-.71875-.3125l-1.28125-1.28125-1.28125 1.28125c-.19051.18288-.46155.3125-.71875.3125h-1v-1c0-.30979.0901-.55207.28125-.75l2.71875-2.65625 2.71875 2.65625c.19132.19788.28125.4402.28125.75zm0 4.15625v1c0 .3098-.08993.55212-.28125.75l-2.71875 2.65625-2.71875-2.65625c-.19115-.19793-.28125-.44021-.28125-.75v-1h1c.2572 0 .52824.12962.71875.3125l1.28125 1.28125 1.28125-1.28125c.19026-.18312.46154-.31254.71875-.3125z" fill="#444" transform="translate(-31.97559 -220.36218)"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
+ <defs>
+  <linearGradient id="linearGradient3946">
+   <stop id="stop3948" offset="0" style="stop-color:#000000;stop-opacity:0.74698794"/>
+   <stop id="stop3950" offset="1" style="stop-color:#000000;stop-opacity:0.02409638"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3830-9">
+   <stop style="stop-color:#000000;stop-opacity:0.74698794" id="stop3832-7" offset="0"/>
+   <stop style="stop-color:#000000;stop-opacity:0.02409638" id="stop3834-5" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3984">
+   <stop style="stop-color:#f4deba" id="stop3986" offset="0"/>
+   <stop style="stop-color:#de9625;stop-opacity:0" id="stop3988" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g id="layer1" transform="translate(-31.97559,-220.36218)">
+  <path fill="#444" d="m 47.00684,221.36218 -14,0 0,14 14,0 0,-14 z m -4.03125,4.40625 0,1 -1,0 c -0.25721,4e-5 -0.52849,-0.12938 -0.71875,-0.3125 l -1.28125,-1.28125 -1.28125,1.28125 c -0.19051,0.18288 -0.46155,0.3125 -0.71875,0.3125 l -1,0 0,-1 c 0,-0.30979 0.0901,-0.55207 0.28125,-0.75 l 2.71875,-2.65625 2.71875,2.65625 c 0.19132,0.19788 0.28125,0.4402 0.28125,0.75 z m 0,4.15625 0,1 c 0,0.3098 -0.08993,0.55212 -0.28125,0.75 l -2.71875,2.65625 -2.71875,-2.65625 c -0.19115,-0.19793 -0.28125,-0.44021 -0.28125,-0.75 l 0,-1 1,0 c 0.2572,0 0.52824,0.12962 0.71875,0.3125 l 1.28125,1.28125 1.28125,-1.28125 c 0.19026,-0.18312 0.46154,-0.31254 0.71875,-0.3125 l 1,0 z"/>
+ </g>
 </svg>

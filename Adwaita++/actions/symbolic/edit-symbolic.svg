@@ -1,15 +1,19 @@
-<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <defs>
-    <linearGradient id="lg1">
-      <stop offset="0" stop-opacity=".746988"/>
-      <stop offset="1" stop-opacity=".024096"/>
-    </linearGradient>
-    <linearGradient xlink:href="#lg1"/>
-    <linearGradient xlink:href="#lg1"/>
-    <linearGradient>
-      <stop offset="0" stop-color="#f4deba"/>
-      <stop offset="1" stop-color="#de9625" stop-opacity="0"/>
-    </linearGradient>
-  </defs>
-  <path d="m41.148832 222.52187c-.858936-.0281-1.683881.31086-2.283784 1.07582-.337768.43071-.514207.88199-.585102 1.34008-.02667.17236-.04566.33789-.03775.50961.002.0449-.0044.0874 0 .13211.216095 1.01389.282714 2.10042-.232491 2.90385-1.013894 1.28403-1.968451 2.61547-3.011277 3.87639-.149275 1.49303.493705 2.00895 2.044067 1.40576l2.955006-4.03366c.313569-.60461 1.170163-.81103 2.151665-.90596.780179-.0209 1.510231-.35938 2.057294-1.05697.616644-.78631.747385-1.67307.509604-2.51027l-2.151664 1.56656c-1.423433-.20281-2.368817-.79094-1.849677-2.71789l1.981796-1.1702c-.497656-.25264-1.032326-.39835-1.547687-.41523z" fill="#444" transform="translate(-31.97559 -220.36218)"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
+ <defs>
+  <linearGradient id="linearGradient3946">
+   <stop id="stop3948" offset="0" style="stop-color:#000000;stop-opacity:0.74698794"/>
+   <stop id="stop3950" offset="1" style="stop-color:#000000;stop-opacity:0.02409638"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3830-9">
+   <stop style="stop-color:#000000;stop-opacity:0.74698794" id="stop3832-7" offset="0"/>
+   <stop style="stop-color:#000000;stop-opacity:0.02409638" id="stop3834-5" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3984">
+   <stop style="stop-color:#f4deba" id="stop3986" offset="0"/>
+   <stop style="stop-color:#de9625;stop-opacity:0" id="stop3988" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g id="layer1" transform="translate(-31.97559,-220.36218)">
+  <path fill="#444" d="m 41.148832,222.52187 c -0.858936,-0.0281 -1.683881,0.31086 -2.283784,1.07582 -0.337768,0.43071 -0.514207,0.88199 -0.585102,1.34008 -0.02667,0.17236 -0.04566,0.33789 -0.03775,0.50961 0.002,0.0449 -0.0044,0.0874 0,0.13211 0.216095,1.01389 0.282714,2.10042 -0.232491,2.90385 -1.013894,1.28403 -1.968451,2.61547 -3.011277,3.87639 -0.149275,1.49303 0.493705,2.00895 2.044067,1.40576 l 2.955006,-4.03366 c 0.313569,-0.60461 1.170163,-0.81103 2.151665,-0.90596 0.780179,-0.0209 1.510231,-0.35938 2.057294,-1.05697 0.616644,-0.78631 0.747385,-1.67307 0.509604,-2.51027 l -2.151664,1.56656 c -1.423433,-0.20281 -2.368817,-0.79094 -1.849677,-2.71789 l 1.981796,-1.1702 c -0.497656,-0.25264 -1.032326,-0.39835 -1.547687,-0.41523 z"/>
+ </g>
 </svg>

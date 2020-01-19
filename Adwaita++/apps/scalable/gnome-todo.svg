@@ -1,25 +1,41 @@
-<svg enable-background="new" height="128" viewBox="0 0 128 128" width="128" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <linearGradient id="linearGradient991-3" gradientUnits="userSpaceOnUse" x1="12.0000334432" x2="99.9999895904" y1="256.00007333824" y2="256.00007333824">
-    <stop offset="0" stop-color="#986a44"/>
-    <stop offset=".029" stop-color="#cdab8f"/>
-    <stop offset=".058" stop-color="#b5835a"/>
-    <stop offset=".942" stop-color="#b5835a"/>
-    <stop offset=".971" stop-color="#cdab8f"/>
-    <stop offset="1" stop-color="#986a44"/>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="enable-background:new" width="128" height="128" version="1.0" viewBox="0 0 128 128">
+ <title id="title4162">
+  Adwaita Icon Template
+ </title>
+ <defs>
+  <linearGradient id="linearGradient991-3" x1="66.56" x2="389.445" y1="118.992" y2="118.992" gradientTransform="matrix(0.27254272,0,0,0.27254272,-6.14041,223.56967)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1357-6"/>
+  <linearGradient id="linearGradient1357-6">
+   <stop id="stop1345" offset="0" style="stop-color:#986a44"/>
+   <stop style="stop-color:#cdab8f" id="stop1347" offset=".029"/>
+   <stop id="stop1349-7" offset=".058" style="stop-color:#b5835a"/>
+   <stop style="stop-color:#b5835a" id="stop1351-5" offset=".942"/>
+   <stop id="stop1353-3" offset=".971" style="stop-color:#cdab8f"/>
+   <stop id="stop1355-5" offset="1" style="stop-color:#986a44"/>
   </linearGradient>
-  <g transform="translate(8 -172)">
-    <rect fill="url(#linearGradient991-3)" height="76" rx="8.721" width="88" x="12" y="212"/>
-    <rect fill="#cdab8f" height="98" rx="8.721" width="88" x="12" y="188"/>
-    <path d="m20 198h72v82h-72z" fill="#deddda"/>
-    <path d="m20 192h72v86h-72z" fill="#fff"/>
-    <path d="m36 184c-2.216 0-4 1.784-4 4v6h48v-6c0-2.216-1.784-4-4-4h-14l-6 4-6-4z" fill="#c0bfbc"/>
-    <circle cx="56" cy="182" fill="none" r="6" stroke="#c0bfbc" stroke-linejoin="round" stroke-width="4"/>
-    <path d="m32 194h48v4h-48z" fill="#9a9996"/>
-    <path d="m32 220 6 6 10-10" fill="none" stroke="#3d3846" stroke-width="4" transform="translate(0 16)"/>
-    <path d="m56 212h24v4h-24z" fill="#deddda"/>
-    <path d="m56 236h18v4h-18z" fill="#deddda"/>
-    <path d="m32 218 6 6 10-10" fill="none" stroke="#3d3846" stroke-width="4" transform="translate(0 -6)"/>
-    <path d="m32 220 6 6 10-10" fill="none" stroke="#3d3846" stroke-width="4" transform="translate(0 40)"/>
-    <path d="m56 260h24v4h-24z" fill="#deddda"/>
+ </defs>
+ <g id="layer1" transform="translate(0,-172)">
+  <g id="layer9">
+   <g transform="translate(8)">
+    <rect style="fill:url(#linearGradient991-3)" width="88" height="76" x="12" y="212" rx="8.721" ry="8.721"/>
+    <rect width="88" height="98" x="12" y="188" rx="8.721" ry="8.721" style="fill:#cdab8f"/>
+    <rect width="72" height="82" x="20" y="198" style="fill:#deddda"/>
+    <rect style="fill:#ffffff" width="72" height="86" x="20" y="192"/>
+    <path style="fill:#c0bfbc" d="m 36,184 c -2.216,0 -4,1.784 -4,4 v 6 h 48 v -6 c 0,-2.216 -1.784,-4 -4,-4 H 62 l -6,4 -6,-4 z"/>
+    <circle style="fill:none;stroke:#c0bfbc;stroke-width:4;stroke-linejoin:round" cx="56" cy="182" r="6"/>
+    <rect style="fill:#9a9996" width="48" height="4" x="32" y="194"/>
+    <g transform="translate(0,16)" style="stroke:#3d3846;enable-background:new">
+     <path style="fill:none;stroke:#3d3846;stroke-width:4" d="m 32,220 6,6 10,-10"/>
+    </g>
+    <path d="m 56,212 h 24 v 4 H 56 Z" style="fill:#deddda"/>
+    <path d="m 56,236 h 18 v 4 H 56 Z" style="fill:#deddda"/>
+    <g style="stroke:#3d3846;enable-background:new" transform="translate(0,-6)">
+     <path d="m 32,218 6,6 10,-10" style="fill:none;stroke:#3d3846;stroke-width:4"/>
+    </g>
+    <g style="stroke:#3d3846;enable-background:new" transform="translate(0,40)">
+     <path d="m 32,220 6,6 10,-10" style="fill:none;stroke:#3d3846;stroke-width:4"/>
+    </g>
+    <path style="fill:#deddda" d="m 56,260 h 24 v 4 H 56 Z"/>
+   </g>
   </g>
+ </g>
 </svg>

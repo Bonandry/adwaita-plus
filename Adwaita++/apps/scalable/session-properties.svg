@@ -1,1 +1,91 @@
-preferences-system-login.svg
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="128" height="128" version="1.0" viewBox="0 0 128 128" style="enable-background:new">
+ <title id="title4162">
+  Adwaita Icon Template
+ </title>
+ <defs>
+  <linearGradient id="linearGradient1099" x1="32" x2="96" y1="236" y2="236" gradientTransform="translate(604.81684,170.58641)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1036"/>
+  <linearGradient id="linearGradient1036">
+   <stop id="stop1032" offset="0" style="stop-color:#d5d3cf"/>
+   <stop id="stop1034" offset="1" style="stop-color:#f6f5f4"/>
+  </linearGradient>
+  <radialGradient id="radialGradient1103" cx="-244" cy="-76" r="32" fx="-244" fy="-76" gradientTransform="matrix(0.88333331,0,0,0.88333331,-460.35018,463.11973)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1069"/>
+  <linearGradient id="linearGradient1069">
+   <stop id="stop1065" offset="0" style="stop-color:#d5d3cf"/>
+   <stop id="stop1067-1" offset="1" style="stop-color:#949390"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1027" x1="64" x2="64" y1="262.5" y2="232" gradientTransform="translate(-470.5864,432.81685)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1025"/>
+  <linearGradient id="linearGradient1025">
+   <stop id="stop1021" offset="0" style="stop-color:#9a9996"/>
+   <stop id="stop1023" offset="1" style="stop-color:#77767b"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1076">
+   <stop style="stop-color:#d5d3cf" id="stop1064" offset="0"/>
+   <stop id="stop1066" offset=".036" style="stop-color:#e4e1de"/>
+   <stop style="stop-color:#d5d3cf" id="stop1068" offset=".071"/>
+   <stop id="stop1070" offset=".929" style="stop-color:#d5d3cf"/>
+   <stop style="stop-color:#e4e1de" id="stop1072" offset=".964"/>
+   <stop style="stop-color:#d5d3cf" id="stop1074" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1020">
+   <stop style="stop-color:#ffffff" id="stop1016" offset="0"/>
+   <stop style="stop-color:#ffffff;stop-opacity:0.09411765" id="stop1018" offset="1"/>
+  </linearGradient>
+  <radialGradient id="radialGradient1030-8" cx="64" cy="194.19" r="44" fx="64" fy="194.19" gradientTransform="matrix(-4.1363634,1.2901346e-6,-2.6513804e-7,-1.4318182,319.22728,4.71204)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1020"/>
+  <linearGradient id="linearGradient1444-2-3-3" x1="120" x2="568" y1="619.964" y2="619.964" gradientTransform="matrix(0.25,0,0,0.25,-22.00001,123.00903)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1076"/>
+  <filter id="filter4569" width="1.023" height="1.025" x="-.01" y="-.01" style="color-interpolation-filters:sRGB">
+   <feGaussianBlur id="feGaussianBlur28" stdDeviation="1.16"/>
+  </filter>
+  <filter id="filter930" width="1.046" height="1.05" x="-.02" y="-.03" style="color-interpolation-filters:sRGB">
+   <feGaussianBlur id="feGaussianBlur25" stdDeviation="2.32"/>
+  </filter>
+  <linearGradient id="linearGradient933" x1="160" x2="160" y1="28" y2="284" gradientTransform="matrix(0.26458333,0,0,0.26458333,-6.993468,221.97263)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#5884f4" id="stop20" offset="0"/>
+   <stop style="stop-color:#80a3fa" id="stop22" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1108" x1="296" x2="296" y1="-212" y2="236" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#ffffff" id="stop8" offset="0"/>
+   <stop style="stop-color:#ffffff;stop-opacity:.09803922" id="stop10" offset=".125"/>
+   <stop style="stop-color:#000000;stop-opacity:.09803922" id="stop12" offset=".925"/>
+   <stop style="stop-color:#000000;stop-opacity:.49803922" id="stop14" offset="1"/>
+  </linearGradient>
+  <clipPath id="clipPath1082-3-3675">
+   <path style="fill:#8c59d9" d="M 361.9375,-212 C 507.2348,-212 528,-191.28677 528,-46.125 V 70.125 C 528,215.28618 507.2348,236 361.9375,236 H 214.0625 C 68.7652,236 48,215.28618 48,70.125 V -46.125 C 48,-191.28677 68.7652,-212 214.0625,-212 Z"/>
+  </clipPath>
+  <filter id="filter941" width="1.045" height="1.052" x="-.02" y="-.03" style="color-interpolation-filters:sRGB">
+   <feGaussianBlur id="feGaussianBlur5" stdDeviation="1.04"/>
+  </filter>
+  <filter id="filter927" width="1.111" height="1.13" x="-.06" y="-.07" style="color-interpolation-filters:sRGB">
+   <feGaussianBlur id="feGaussianBlur2" stdDeviation="2.6"/>
+  </filter>
+ </defs>
+ <g id="layer1" transform="translate(0,-172)">
+  <g id="layer9">
+   <rect width="112" height="88" x="8" y="200" rx="8" ry="8" style="fill:#f6f5f4"/>
+   <rect width="92" height="78" x="12" y="204" rx="4" ry="4" style="fill:#241f31"/>
+   <path d="m 7.99999,278 v 4 c 0,4.432 3.568,8 8,8 h 96 c 4.432,0 8,-3.568 8,-8 v -4 c 0,4.432 -3.568,8 -8,8 h -96 c -4.432,0 -8,-3.568 -8,-8 z" style="fill:url(#linearGradient1444-2-3-3)"/>
+   <path style="fill:#949390" d="m 115.99999,234 v 4 c 0,2.20914 -1.79086,4 -4,4 -2.20914,0 -4,-1.79086 -4,-4 v -2 l 4,-2 z"/>
+   <path d="m 115.99999,250 v 6 h -4 c -2.216,0 -4,-1.784 -4,-4 v -2 z" style="fill:#949390"/>
+   <path d="m 115.99999,254 v -4 a 4,3.9999998 0 0 0 -4,-4 4,3.9999998 0 0 0 -4,4 4,3.9999998 0 0 0 4,4 z" style="fill:#d5d3cf"/>
+   <ellipse id="ellipse1078" cx="-114" cy="252" rx="1" ry="1" transform="scale(-1,1)" style="fill:#68676b"/>
+   <path style="fill:#d5d3cf" d="m 115.99999,232 v 4 a 4,3.9999998 0 0 1 -4,4 4,3.9999998 0 0 1 -4,-4 4,3.9999998 0 0 1 4,-4 z"/>
+   <ellipse style="fill:#68676b" id="ellipse1082" cx="-114" cy="-234" rx="1" ry="1" transform="scale(-1)"/>
+   <path d="m 107.99999,220 v 4 c 0,2.20914 1.79086,4 4,4 2.20914,0 4,-1.79086 4,-4 v -2 l -4,-2 z" style="fill:#949390"/>
+   <path d="m 107.99999,218 v 4 a 4,3.9999998 0 0 0 4,4 4,3.9999998 0 0 0 4,-4 4,3.9999998 0 0 0 -4,-4 z" style="fill:#d5d3cf"/>
+   <ellipse id="ellipse1088" cx="110" cy="-220" rx="1" ry="1" transform="scale(1,-1)" style="fill:#68676b"/>
+   <path style="fill:#949390" d="m 115.99999,208 v 6 h -4 c -2.216,0 -4,-1.784 -4,-4 v -2 z"/>
+   <path style="fill:#d5d3cf" d="m 115.99999,212 v -4 a 4,3.9999998 0 0 0 -4,-4 4,3.9999998 0 0 0 -4,4 4,3.9999998 0 0 0 4,4 z"/>
+   <ellipse style="fill:#68676b" id="ellipse1094" cx="-114" cy="210" rx="1" ry="1" transform="scale(-1,1)"/>
+   <g style="opacity:0.2" transform="matrix(2.4228341,0,0,2.4228341,28.908743,213.90926)">
+    <g>
+     <path d="m 24.013,0.001 c 0,0 -3.601,-0.101 -7.2,1.7 -1.1,0.5 -2.3,1.3 -3.3,2.3 -1.617,1.617 -4.129,4.594 -6.107,7 H 3.013 l -2,3 3.392,0.917 c 0.01,0.121 0.042,0.292 0.136,0.523 L 4.014,16.6 c 0,0 -0.2,0.4 1.3,2 1.6,1.601 2.1,1.4 2.1,1.4 l 1.243,-0.564 c 0.186,0.058 0.324,0.078 0.414,0.078 l 0.943,3.486 3,-2 v -4.527 c 2.423,-1.959 5.396,-4.421 7,-5.973 1,-1 1.8,-2.2 2.399,-3.3 1.699,-3.599 1.6,-7.199 1.6,-7.199 z m -7,9 c -1.101,0 -2,-0.9 -2,-2 0,-1.101 0.899,-2 2,-2 1.1,0 2,0.899 2,2 0,1.1 -0.901,2 -2,2 z m -10.5,12 c 0.2,0.101 0.3,0.2 0.5,0.3 -0.2,0.2 -0.4,0.5 -0.601,0.7 -2.301,2.3 -6.399,2 -6.399,2 0,0 -0.3,-4.101 2,-6.399 0.2,-0.201 0.5,-0.399 0.7,-0.601 0.1,0.2 0.199,0.3 0.3,0.5 -1.5,1.899 -1.3,4.8 -1.3,4.8 0,0 2.899,0.2 4.8,-1.3 z"/>
+    </g>
+   </g>
+   <g style="fill:#ffffff" transform="matrix(2.4228341,0,0,2.4228341,28.908743,213.90926)">
+    <g>
+     <path d="m 24.013,0.001 c 0,0 -3.601,-0.101 -7.2,1.7 -1.1,0.5 -2.3,1.3 -3.3,2.3 -1.617,1.617 -4.129,4.594 -6.107,7 H 3.013 l -2,3 3.392,0.917 c 0.01,0.121 0.042,0.292 0.136,0.523 L 4.014,16.6 c 0,0 -0.2,0.4 1.3,2 1.6,1.601 2.1,1.4 2.1,1.4 l 1.243,-0.564 c 0.186,0.058 0.324,0.078 0.414,0.078 l 0.943,3.486 3,-2 v -4.527 c 2.423,-1.959 5.396,-4.421 7,-5.973 1,-1 1.8,-2.2 2.399,-3.3 1.699,-3.599 1.6,-7.199 1.6,-7.199 z m -7,9 c -1.101,0 -2,-0.9 -2,-2 0,-1.101 0.899,-2 2,-2 1.1,0 2,0.899 2,2 0,1.1 -0.901,2 -2,2 z m -10.5,12 c 0.2,0.101 0.3,0.2 0.5,0.3 -0.2,0.2 -0.4,0.5 -0.601,0.7 -2.301,2.3 -6.399,2 -6.399,2 0,0 -0.3,-4.101 2,-6.399 0.2,-0.201 0.5,-0.399 0.7,-0.601 0.1,0.2 0.199,0.3 0.3,0.5 -1.5,1.899 -1.3,4.8 -1.3,4.8 0,0 2.899,0.2 4.8,-1.3 z"/>
+    </g>
+   </g>
+   <rect style="opacity:0.05;fill:url(#radialGradient1030-8)" width="84" height="70" x="16" y="-278" transform="scale(1,-1)"/>
+  </g>
+ </g>
+</svg>

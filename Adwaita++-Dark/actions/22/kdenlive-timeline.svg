@@ -1,7 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" width="22" height="22" viewBox="0 0 22 22">
- <path fill="#E6DDFF" d="M4 10V11H5V10H4ZM6 10V11H7V10H6ZM14 10V11H15V10H14ZM16 10V11H17V10H16ZM18 10V11H19V10H18ZM18 13V14H19V13H18ZM10 15V16H11V15H10ZM4 18V19H5V18H4ZM6 18V19H7V18H6ZM8 18V19H9V18H8ZM10 18V19H11V18H10ZM12 18V19H13V18H12ZM14 18V19H15V18H14ZM16 18V19H17V18H16Z"/>
- <path fill="#E6DDFF" fill-rule="evenodd" d="M7 3H9V7H10V5H12V7H13V5H15V7H16V3H18V7H19V9H3V7H4V5H6V7H7V3Z" clip-rule="evenodd"/>
- <rect fill="#E6DDFF" width="5" height="3" x="8" y="10" rx=".5"/>
- <rect fill="#E6DDFF" width="5" height="3" x="4" y="14" rx=".5"/>
- <rect fill="#E6DDFF" width="5" height="3" x="12" y="14" rx=".5"/>
+<svg fill="none" height="22" viewBox="0 0 22 22" width="22" xmlns="http://www.w3.org/2000/svg">
+  <g fill="#e6ddff">
+    <path d="m4 10v1h1v-1zm2 0v1h1v-1zm8 0v1h1v-1zm2 0v1h1v-1zm2 0v1h1v-1zm0 3v1h1v-1zm-8 2v1h1v-1zm-6 3v1h1v-1zm2 0v1h1v-1zm2 0v1h1v-1zm2 0v1h1v-1zm2 0v1h1v-1zm2 0v1h1v-1zm2 0v1h1v-1z"/>
+    <path clip-rule="evenodd" d="m7 3h2v4h1v-2h2v2h1v-2h2v2h1v-4h2v4h1v2h-16v-2h1v-2h2v2h1z" fill-rule="evenodd"/>
+    <rect height="3" rx=".5" width="5" x="8" y="10"/>
+    <rect height="3" rx=".5" width="5" x="4" y="14"/>
+    <rect height="3" rx=".5" width="5" x="12" y="14"/>
+  </g>
 </svg>

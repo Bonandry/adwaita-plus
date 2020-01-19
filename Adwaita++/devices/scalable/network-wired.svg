@@ -1,0 +1,25 @@
+<svg fill="none" height="128" viewBox="0 0 128 128" width="128" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <linearGradient id="paint0_linear" gradientUnits="userSpaceOnUse" x1="12" x2="116" y1="64" y2="64">
+    <stop offset="0" stop-color="#77767b"/>
+    <stop offset=".05" stop-color="#c0bfbc"/>
+    <stop offset=".1" stop-color="#9a9996"/>
+    <stop offset=".9" stop-color="#9a9996"/>
+    <stop offset=".95" stop-color="#c0bfbc"/>
+    <stop offset="1" stop-color="#77767b"/>
+  </linearGradient>
+  <path d="m108 22h-88c-4.4183 0-8 3.5817-8 8v78c0 4.418 3.5817 8 8 8h88c4.418 0 8-3.582 8-8v-78c0-4.4183-3.582-8-8-8z" fill="url(#paint0_linear)"/>
+  <path d="m108 12h-88c-4.4183 0-8 3.5817-8 8v80c0 4.418 3.5817 8 8 8h88c4.418 0 8-3.582 8-8v-80c0-4.4183-3.582-8-8-8z" fill="#deddda"/>
+  <path clip-rule="evenodd" d="m28.3871 94.624c0 1.1046.8954 2 2 2h67.2258c1.1046 0 2-.8954 2-2v-50.1496c0-1.1046-.8954-2-2-2h-67.2258c-1.1046 0-2 .8955-2 2zm60.6655-52.1496v-7.5492c0-1.1046-.8954-2-2-2h-12.8293v-7.5492c0-1.1046-.8954-2-2-2h-16.6712c-1.1046 0-2 .8954-2 2v7.5492h-11.9306c-1.1046 0-2 .8954-2 2v7.5492z" fill="#5e5c64" fill-rule="evenodd"/>
+  <g fill="#e5a50a">
+    <rect height="25.3897" rx="1" transform="matrix(1 0 0 -1 34.6783 90.434)" width="8.31343"/>
+    <rect height="25.3897" rx="1" transform="matrix(1 0 0 -1 47.2607 90.434)" width="8.31343"/>
+    <rect height="25.3897" rx="1" transform="matrix(1 0 0 -1 59.8433 90.434)" width="8.31343"/>
+    <rect height="25.3897" rx="1" transform="matrix(1 0 0 -1 72.4258 90.434)" width="8.31343"/>
+    <rect height="25.3897" rx="1" transform="matrix(1 0 0 -1 85.0082 90.434)" width="8.31343"/>
+  </g>
+  <path d="m28.3871 44.45c0-1.1046.8954-2 2-2h1v54.124h-1c-1.1046 0-2-.8954-2-2z" fill="#3d3846" opacity=".7"/>
+  <path d="m39.6 34.938c0-1.1046.8954-2 2-2h1v12.512h-3z" fill="#3d3846" opacity=".7"/>
+  <path d="m53.5625 25.376c0-1.1046.8954-2 2-2h1v12.564h-3z" fill="#3d3846" opacity=".7"/>
+  <path d="m30.8125 42.45h8.875v3h-8.875z" fill="#3d3846" opacity=".7"/>
+  <path d="m42.6 32.938h10.9625v3h-10.9625z" fill="#3d3846" opacity=".7"/>
+</svg>

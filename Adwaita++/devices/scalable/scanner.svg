@@ -1,0 +1,49 @@
+<svg enable-background="new" height="128" viewBox="0 0 128 128" width="128" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <linearGradient id="linearGradient1137" gradientTransform="matrix(.26040102 0 0 .28124928 228.62254 9.99973)" gradientUnits="userSpaceOnUse" x1="-156" x2="220" y1="-256" y2="-256">
+    <stop offset="0"/>
+    <stop offset="1" stop-color="#424048"/>
+  </linearGradient>
+  <radialGradient id="radialGradient1139" cx="-72.631592" cy="88.04454" gradientTransform="matrix(.08037048 0 0 2.3749942 234.08741 -273.1054)" gradientUnits="userSpaceOnUse" r="200">
+    <stop offset="0" stop-color="#d5d3cf"/>
+    <stop offset="1" stop-color="#d5d3cf" stop-opacity="0"/>
+  </radialGradient>
+  <clipPath id="clipPath990">
+    <path d="m270.26764-71.789413h288.00003v229.05319h-288.00003z"/>
+  </clipPath>
+  <filter id="filter1020" color-interpolation-filters="sRGB" height="1.036986" width="1.468487" x="-.234243" y="-.018493">
+    <feGaussianBlur stdDeviation="2.3424332"/>
+  </filter>
+  <linearGradient id="linearGradient1141" gradientTransform="matrix(.93103454 0 0 1.0588258 292.89656 192.23586)" gradientUnits="userSpaceOnUse" x1="-74" x2="-16" y1="-243.12489" y2="-242">
+    <stop offset="0" stop-color="#6bf9f4"/>
+    <stop offset="1" stop-color="#6bf9f4" stop-opacity="0"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1143" gradientTransform="matrix(0 -1 1 0 -178 300)" gradientUnits="userSpaceOnUse" x1="72" x2="24" y1="244" y2="244">
+    <stop offset="0" stop-color="#6bf9f4" stop-opacity=".489627"/>
+    <stop offset="1" stop-color="#08c5bf" stop-opacity=".65098"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1145" gradientTransform="matrix(-.24999998 0 0 .24999998 145.99999 125.00905)" gradientUnits="userSpaceOnUse" x1="231.99998" x2="583.64319" y1="619.96387" y2="619.96387">
+    <stop offset="0" stop-color="#d5d3cf"/>
+    <stop offset=".04550065" stop-color="#e4e1de"/>
+    <stop offset=".09100132" stop-color="#b8b4ae"/>
+    <stop offset=".91001338" stop-color="#ada9a1"/>
+    <stop offset=".95551407" stop-color="#e4e1de"/>
+    <stop offset="1" stop-color="#d5d3cf"/>
+  </linearGradient>
+  <g enable-background="new" transform="translate(20 -172.000001)">
+    <rect fill="#deddda" height="87.999786" rx="8" ry="8.799982" transform="rotate(90)" width="111.91078" x="180" y="-88"/>
+    <g transform="matrix(-1 0 0 -1 108.000046 468)">
+      <rect fill="url(#linearGradient1137)" height="72" rx="4.75" transform="rotate(90)" width="92" x="188" y="-100"/>
+      <path d="m188-100h92v72h-92z" fill="url(#radialGradient1139)" opacity=".486" transform="rotate(90)"/>
+      <path clip-path="url(#clipPath990)" d="m372.26766-113.05191v304h24v-304z" fill="#6bf9f4" filter="url(#filter1020)" transform="matrix(.00000002 .33333331 -.31425019 0 77.44022 97.91079)"/>
+      <path d="m-228 36h4v60h-4z" fill="#fff" opacity=".5" transform="rotate(-90)"/>
+      <path d="m224-100.00006h54v72.000076h-54z" fill="url(#linearGradient1141)" opacity=".8" transform="rotate(90)"/>
+      <path d="m95 227v46s0 2-2 2h-58c-2 0-2-2-2-2v-46" fill="url(#linearGradient1143)" stroke="#abebe9" stroke-width="2"/>
+      <g transform="matrix(0 -1 -1 0 306 300)">
+        <path d="m74 210v64h12l9-15 13-7v-39c0-3-3-3-3-3z" fill="#f6f5f4"/>
+        <path d="m108 252h-19s-3 0-3 3v19z" fill="#deddda"/>
+      </g>
+      <path d="m100.00006 224h-72.00008v4h72.00008z" fill="#fff"/>
+    </g>
+    <path d="m87.99998 280.00001.00001 4.00001c.00001 4.43197-3.56799 7.99999-8 7.99999l-71.999997.00001c-4.431989 0-7.999992-3.56801-7.999995-8.00001l-.000003-3.99997c.000008 4.43197 3.568009 7.99996 8.000005 7.99996l72.00001.00003c4.43199 0 7.99999-3.56802 7.99997-8.00002z" fill="url(#linearGradient1145)"/>
+  </g>
+</svg>

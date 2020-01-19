@@ -1,0 +1,17 @@
+<svg enable-background="new" height="128" viewBox="0 0 128 128" width="128" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <linearGradient id="linearGradient1037" gradientUnits="userSpaceOnUse" x1="96" x2="104" y1="255" y2="255">
+    <stop offset="0" stop-color="#e8e7e4"/>
+    <stop offset=".5" stop-color="#fff"/>
+    <stop offset="1" stop-color="#c9c6c1"/>
+  </linearGradient>
+  <g transform="translate(0 -172)">
+    <path d="m24 200v92h72c4.432 0 8-3.568 8-8v-76c0-4.432-3.568-8-8-8z" fill="#1d549f"/>
+    <path d="m24 274h8v18h-8z" fill="#191622"/>
+    <path d="m26 220v70h70c4.432 0 8-3.568 8-8v-54c0-4.432-3.568-8-8-8z" fill="url(#linearGradient1037)"/>
+    <path d="m24 200v76h72c4.432 0 8-3.568 8-8v-60c0-4.432-3.568-8-8-8z" fill="#1d549f"/>
+    <path d="m24 180v94h72c4.432 0 8-3.568 8-8v-78c0-4.432-3.568-8-8-8z" fill="#3382ed"/>
+    <path d="m24 180h8v94h-8z" fill="#424048"/>
+    <path d="m26 180.00001h2v94h-2z" fill="#fff" opacity=".223"/>
+    <path d="m24 274h8v2h-8z" fill="#191622"/>
+  </g>
+</svg>

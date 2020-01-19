@@ -1,3 +1,11 @@
+<<<<<<< HEAD
+<svg height="128" width="128" xmlns="http://www.w3.org/2000/svg">
+  <rect height="108.07" opacity=".2" rx="5.307" ry="5.404" transform="scale(-1 1)" width="84.912" x="-107.91" y="11.93"/>
+  <rect fill="#DCCAB4" height="108.07" rx="5.307" ry="5.404" transform="scale(-1 1)" width="84.912" x="-107.91" y="10"/>
+  <path d="m26.86 13.86h77.193v46.316h-77.193z" fill="#333"/>
+  <circle cx="65.456" cy="91.149" fill="#f8f8f8" r="23.158"/>
+  <circle cx="65.456" cy="91.053" fill="#DCCAB4" r="11.579"/>
+=======
 <svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" version="1">
  <defs>
   <filter id="filter925" width="1.046" height="1.05" x="-.02" y="-.03" style="color-interpolation-filters:sRGB">
@@ -24,4 +32,5 @@
  <rect style="fill:#333333" width="77.193" height="46.316" x="26.86" y="13.86" rx="0" ry="0"/>
  <circle style="fill:#f8f8f8" cx="65.456" cy="91.149" r="23.158"/>
  <circle style="fill:#8e8e8e" cx="65.456" cy="91.053" r="11.579"/>
+>>>>>>> master
 </svg>

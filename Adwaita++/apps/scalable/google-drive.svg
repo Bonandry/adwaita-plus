@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" version="1.1">
- <g transform="matrix(3.75,0,0,3.75,4.1425,1.5)">
-  <polyline style="fill:#537abd" id="polyline2" points="31.87 21 9.87 21 4.87 30 26.56 30"/>
-  <polyline style="fill:#2eb672" id="polyline4" points="10.96 2 -.04 20 4.96 30 15.68 10.35"/>
-  <polyline style="fill:#fed14b" id="polyline6" points="20.96 2 10.96 2 21.71 21 31.96 21 20.96 2"/>
- </g>
+<svg height="128" width="128" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(3.75 0 0 3.75 4.1425 1.5)">
+    <path d="m31.87 21h-22l-5 9h21.69" fill="#537abd"/>
+    <path d="m10.96 2-11 18 5 10 10.72-19.65" fill="#2eb672"/>
+    <path d="m20.96 2h-10l10.75 19h10.25z" fill="#fed14b"/>
+  </g>
 </svg>

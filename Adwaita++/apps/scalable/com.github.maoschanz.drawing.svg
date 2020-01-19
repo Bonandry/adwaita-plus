@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 <svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g clip-path="url(#clip0)">
 <path d="M15.9999 116H111.505C115.923 116 119.505 112.418 119.505 108V93.75C119.505 89.3317 115.923 85.75 111.505 85.75H15.9999C11.5817 85.75 7.99994 89.3317 7.99994 93.75V108C7.99994 112.418 11.5817 116 15.9999 116Z" fill="#5E5C64"/>
@@ -434,7 +435,63 @@
                  d="m 101.74954,298.50048 a 10,5 0 0 0 10,5 10,5 0 0 0 10,-5 z"
                  id="path1399" />
             </g>
+=======
+<svg enable-background="new" height="128" viewBox="0 0 128 128" width="128" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <clipPath>
+    <rect height="56" rx="8" width="16" x="160" y="-188"/>
+  </clipPath>
+  <linearGradient id="linearGradient1029">
+    <stop offset="0" stop-color="#e01b24"/>
+    <stop offset="1" stop-color="#f66151"/>
+  </linearGradient>
+  <clipPath id="clipPath1609-7-7">
+    <path d="m252 116 28-28v-8h-36v36z"/>
+  </clipPath>
+  <linearGradient id="linearGradient1273" gradientTransform="matrix(1.2671027 0 0 1 -154.9839 6)" gradientUnits="userSpaceOnUse" x1="27.99999" x2="115.99999" y1="-276" y2="-276">
+    <stop offset="0" stop-color="#c0bfbc"/>
+    <stop offset=".03143388" stop-color="#fff"/>
+    <stop offset=".0673067" stop-color="#deddda"/>
+    <stop offset=".92825431" stop-color="#deddda"/>
+    <stop offset=".96412712" stop-color="#fff"/>
+    <stop offset="1" stop-color="#c0bfbc"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1277" gradientUnits="userSpaceOnUse" x1="34" x2="34" y1="212" y2="200">
+    <stop offset="0" stop-color="#3d3846"/>
+    <stop offset="1" stop-color="#77767b"/>
+  </linearGradient>
+  <clipPath id="clipPath1521">
+    <rect height="82" rx="8" transform="scale(-1)" width="111.99999" x="-119.99999" y="-282"/>
+  </clipPath>
+  <linearGradient id="linearGradient2277" gradientUnits="userSpaceOnUse" x1="266" x2="265" y1="102" y2="101">
+    <stop offset="0" stop-color="#d5d3cf"/>
+    <stop offset="1" stop-color="#fff"/>
+  </linearGradient>
+  <linearGradient id="linearGradient2279" gradientTransform="matrix(.83333333 0 0 .95454545 -278.5 -124.97727)" gradientUnits="userSpaceOnUse" x1="-48" x2="-24" xlink:href="#linearGradient1029" y1="248" y2="248"/>
+  <linearGradient id="linearGradient2281" gradientTransform="matrix(0 -1 1 0 -134.25 272.5)" gradientUnits="userSpaceOnUse" x1="-42" x2="-30" xlink:href="#linearGradient1029" y1="194" y2="194"/>
+  <g transform="translate(0 -172)">
+    <g transform="scale(-1)">
+      <rect fill="#5e5c64" height="30.25" rx="7.999999" ry="8" width="111.50504" x="-119.505" y="-288"/>
+      <rect fill="url(#linearGradient1273)" height="40" rx="7.999999" ry="8" width="111.50504" x="-119.505" y="-286"/>
+      <rect fill="#f6f5f4" height="82" rx="8" width="111.99999" x="-120" y="-282"/>
+    </g>
+    <rect clip-path="url(#clipPath1609-7-7)" fill="url(#linearGradient2277)" height="36" rx="11.2" transform="matrix(0 .71428571 .71428571 0 33.1429 82.00001)" width="36" x="252" y="88"/>
+    <path d="m16 200c-4.432 0-8 3.568-8 8v8h112v-8c0-4.432-3.568-8-8-8z" fill="url(#linearGradient1277)"/>
+    <path d="m8 208h112v1.999994h-112z" fill="#3d3846"/>
+    <path d="m8 210h112v1.999994h-112z" fill="#5e5c64"/>
+    <g enable-background="new" transform="translate(0 3)">
+      <path clip-path="url(#clipPath1521)" d="m117.28516 187.66573-63.39844 63.39648 1.414062 1.41407-7.070312 15.55664 2.828125 2.82812 15.55664-7.07031 1.414063 1.41406 63.396482-63.39844z" fill-opacity=".291667"/>
+      <g transform="translate(2)">
+        <path d="m21.901466 230.50234c13.385082 4.54271-5.588665 17.69607 13.920679 18.94436 11.46548.73361 11.375755 16.5533 11.375755 16.5533" fill="none" stroke="#e01b24" stroke-linecap="round" stroke-width="4"/>
+        <g enable-background="new" transform="matrix(.70710678 -.70710678 .70710678 .70710678 -208.504747 86.311333)">
+          <g transform="rotate(-90)">
+            <path d="m-318.5 69.75h20v84h-20z" fill="url(#linearGradient2279)"/>
+            <path d="m-318.5 137.75h20v4h-20z" fill="#3d3846"/>
+            <path d="m-318.5 81.75h20v4h-20z" fill="#3d3846"/>
+>>>>>>> 9d272dcc5ced2684d93407361466e1d670be695f
           </g>
+          <path d="m69.75 316.5v-16l-16 6v4z" fill="url(#linearGradient2281)"/>
+          <path d="m-318.5-71.75h20v2h-20z" fill-opacity=".259259" transform="matrix(0 -1 -1 0 0 0)"/>
+          <path d="m101.74954 298.50048a10 5 0 0 0 10 5 10 5 0 0 0 10-5z" fill="#3d3846"/>
         </g>
       </g>
     </g>

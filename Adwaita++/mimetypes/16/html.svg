@@ -1,59 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="16"
-   height="16"
-   version="1.1"
-   id="svg10"
-   sodipodi:docname="html.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
-  <metadata
-     id="metadata16">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs14" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1460"
-     inkscape:window-height="951"
-     id="namedview12"
-     showgrid="false"
-     inkscape:zoom="14.75"
-     inkscape:cx="8"
-     inkscape:cy="8"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="g8" />
-  <g
-     id="g8"
-     style="stroke:#000000;stroke-opacity:1"
-     transform="matrix(0.92676675,0,0,0.92676675,0.58584403,0.74370725)">
-    <path
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#444444;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.92676675;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       d="M 3.9746094 3.1425781 L 0 8.3457031 L 4.0351562 13.496094 L 5.6523438 11.824219 L 5.6113281 11.773438 L 7.5449219 11.773438 L 10.789062 5.2832031 L 13.169922 8.2617188 L 10.351562 11.824219 L 11.966797 13.5 L 16 8.2597656 L 12.021484 3.1464844 L 10.611328 4.9140625 L 8.4550781 4.9140625 L 8.328125 5.171875 L 5.25 11.326172 L 2.8359375 8.3378906 L 5.4433594 4.9824219 L 3.9746094 3.1425781 z "
-       transform="matrix(1.0790202,0,0,1.0790202,-0.63213751,-0.80247511)"
-       id="path2" />
+<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
+  <g fill="#474747">
+    <path d="m1.790689 8.2000002 2.8147155-3.6224006-.9405381-1.1775994-3.6648664 4.8 3.7621624 4.7999998 1.0378376-1.075202z"/>
+    <path d="m8.8 5.0000002h1.6s-3.2 6.3999998-3.2 6.3999998-1.2823376 0-1.6 0c0 0 3.2-6.3999998 3.2-6.3999998z" fill-rule="evenodd"/>
+    <path d="m14.216216 8.1103996-2.821621-3.5328.940539-1.1775994 3.664866 4.7103994-3.762162 4.8896004-1.037838-1.075202z"/>
   </g>
 </svg>

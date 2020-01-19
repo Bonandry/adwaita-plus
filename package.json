@@ -1,0 +1,36 @@
+{
+  "name": "adwaita-plus",
+  "version": "4.0.0",
+  "description": "A third-party icons theme based on GNOME Project’s Adwaita",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bonandry/gnome-plus-beta-privato.git"
+  },
+  "keywords": [
+    "adawita",
+    "adawita-plus",
+    "bonandry",
+    "gusbemacbe",
+    "gnome",
+    "icons",
+    "linux",
+    "suru",
+    "suru-plus",
+    "theme",
+    "yaru",
+    "yaru-plus"
+  ],
+  "author": "Gustavo Costa",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Bonandry/adwaita-plus/issues"
+  },
+  "homepage": "https://github.com/Bonandry/adwaita-plus#readme",
+  "dependencies": {
+    "gh-badges": "^2.2.1"
+  }
+}

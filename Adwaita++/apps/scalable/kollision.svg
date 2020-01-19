@@ -1,0 +1,20 @@
+<svg height="128" viewBox="0 0 128 128" width="128" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <radialGradient id="radialGradient830" cx="28.739416" cy="61.011719" gradientTransform="matrix(-.37692142 -1.3003286 1.2101644 -.35078583 -127.47782 1.388561)" gradientUnits="userSpaceOnUse" r="30">
+    <stop offset="0" stop-color="#f1e3ad"/>
+    <stop offset=".29169646" stop-color="#b68d66"/>
+    <stop offset=".66293204" stop-color="#745d90"/>
+    <stop offset="1" stop-color="#38005b"/>
+  </radialGradient>
+  <radialGradient id="radialGradient854" cx="28.739416" cy="61.011719" gradientTransform="matrix(-.37692142 -1.3003286 1.2101644 -.35078583 .522177 114.86937)" gradientUnits="userSpaceOnUse" r="30">
+    <stop offset="0" stop-color="#f1e3ad"/>
+    <stop offset=".29169646" stop-color="#b8d64e"/>
+    <stop offset=".66293204" stop-color="#578a0c"/>
+    <stop offset="1" stop-color="#235700"/>
+  </radialGradient>
+  <circle cx="32.131287" cy="38.612099" fill="#7dff46" fill-opacity=".2" r="28.131287"/>
+  <circle cx="35.882126" cy="40.487518" fill="#81fa24" fill-opacity=".756863" r="28.131287"/>
+  <circle cx="-95.868713" cy="-74.868713" fill="#b82aff" fill-opacity=".196078" r="28.131287" transform="scale(-1)"/>
+  <circle cx="-92.117874" cy="-72.993294" fill="#b930fc" fill-opacity=".643137" r="28.131287" transform="scale(-1)"/>
+  <circle cx="39.632965" cy="42.362938" fill="url(#radialGradient854)" r="28.131287"/>
+  <circle cx="-88.367035" cy="-71.117874" fill="url(#radialGradient830)" r="28.131287" transform="scale(-1)"/>
+</svg>

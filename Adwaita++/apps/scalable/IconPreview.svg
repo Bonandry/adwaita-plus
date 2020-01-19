@@ -1,0 +1,47 @@
+<svg enable-background="new" height="128" viewBox="0 0 128 128" width="128" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <linearGradient id="linearGradient2215" gradientTransform="matrix(.26923078 0 0 .18617021 -4.923077 241.08511)" gradientUnits="userSpaceOnUse" x1="48" x2="464" y1="44" y2="44">
+    <stop offset="0" stop-color="#c0bfbc"/>
+    <stop offset=".05" stop-color="#f6f5f4"/>
+    <stop offset=".1" stop-color="#c0bfbc"/>
+    <stop offset=".9" stop-color="#c0bfbc"/>
+    <stop offset=".95" stop-color="#3584e4"/>
+    <stop offset="1" stop-color="#1a5fb4"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1132" gradientTransform="matrix(.26923078 0 0 .18617021 -4.923077 241.08511)" gradientUnits="userSpaceOnUse" x1="48" x2="464" y1="44" y2="44">
+    <stop offset="0" stop-color="#1a5fb4"/>
+    <stop offset=".05" stop-color="#3584e4"/>
+    <stop offset=".1" stop-color="#3d3846"/>
+    <stop offset=".9" stop-color="#241f31"/>
+    <stop offset=".95" stop-color="#3d3846"/>
+    <stop offset="1" stop-color="#241f31"/>
+  </linearGradient>
+  <radialGradient id="radialGradient1154-9" cx="-172" cy="20.939" gradientTransform="matrix(1.5625 0 0 1.3794803 328.74999 166.82207)" gradientUnits="userSpaceOnUse" r="15.857">
+    <stop offset="0" stop-color="#fff"/>
+    <stop offset="1" stop-color="#fff" stop-opacity=".200837"/>
+  </radialGradient>
+  <linearGradient id="linearGradient1419" gradientUnits="userSpaceOnUse" x1="41.846442" x2="97.846442" y1="200.23567" y2="200.23567">
+    <stop offset="0" stop-color="#949390"/>
+    <stop offset=".091" stop-color="#fff"/>
+    <stop offset=".336" stop-color="#d5d3cf"/>
+    <stop offset=".844" stop-color="#c3c0ba"/>
+    <stop offset=".931" stop-color="#fff"/>
+    <stop offset="1" stop-color="#68676b"/>
+  </linearGradient>
+  <g transform="translate(0 -172)">
+    <rect fill="url(#linearGradient2215)" height="70" rx="8" width="112" x="8" y="218"/>
+    <rect fill="#deddda" height="84" rx="8" ry="8.444" width="112" x="8" y="200"/>
+    <path d="m64 208v76h48c4.432 0 8-3.76709 8-8.44531v-59.10938c0-4.67822-3.568-8.44531-8-8.44531z" fill="#3d3846"/>
+    <path d="m64 218v70h48c4.432 0 8-3.568 8-8v-54c0-4.432-3.568-8-8-8z" fill="url(#linearGradient1132)"/>
+    <path d="m64 200v84h48c4.432 0 8-3.76709 8-8.44531v-67.10938c0-4.67822-3.568-8.44947-8-8.44531z" fill="#3d3846"/>
+  </g>
+  <g transform="translate(30 -150)">
+    <path d="m69.748788 188c-14.359403 0-26 11.6406-26 26 .0094 2.07202.266411 4.13548.765625 6.14648 2.686042-11.83218 13.198801-20.23347 25.332031-20.24414 11.981121.0132 22.402008 8.21199 25.234376 19.85352.436422-1.88774.660467-3.81834.66796-5.75586 0-14.3594-11.640592-26-25.999992-26zm-27.902344 23.90234v14c0 15.46397 12.536034 28 28 28s27.999996-12.53603 27.999996-28v-14c0 7.1509-2.68447 13.074-7.0957 17.37891-4.884992 6.72441-12.690467 10.70808-21.001952 10.71875-8.608416-.01-16.653796-4.28029-21.486328-11.4043-4.006862-4.2395-6.416016-9.91612-6.416016-16.69336z" fill="url(#linearGradient1419)"/>
+    <path d="m69.999998 195.35233a24.999999 24.999999 0 0 0 -24.777219 21.84753 24.999999 24.999999 0 0 0 24.777219 21.90247 24.999999 24.999999 0 0 0 24.777222-21.84752 24.999999 24.999999 0 0 0 -24.777222-21.90248z" fill="#3d3846"/>
+    <g transform="translate(10 -4)">
+      <path d="m59.999998 199.35233a24.999999 24.999999 0 0 0 -24.777218 21.84753 24.999999 24.999999 0 0 0 24.777218 21.90247 24.999999 24.999999 0 0 0 24.777218-21.84752 24.999999 24.999999 0 0 0 -24.777218-21.90248z" fill="#fff" opacity=".2"/>
+      <path d="m59.999998 199.35233a24.999999 24.999999 0 0 0 -24.777218 21.84753 24.999999 24.999999 0 0 0 24.777218 21.90247 24.999999 24.999999 0 0 0 24.777218-21.84752 24.999999 24.999999 0 0 0 -24.777218-21.90248z" fill="url(#radialGradient1154-9)"/>
+    </g>
+    <path d="m69.999998 189.10233a24.999999 24.999999 0 0 0 -25 25 24.999999 24.999999 0 0 0 .222779 3.09753 24.999999 24.999999 0 0 1 24.777221-21.84753 24.999999 24.999999 0 0 1 24.777222 21.90248 24.999999 24.999999 0 0 0 .22278-3.15248 24.999999 24.999999 0 0 0 -25.000002-25z" fill="#453637" opacity=".1"/>
+    <circle cx="69.749" cy="214" fill="none" r="26" stroke="#f6f5f4" stroke-linecap="square" stroke-linejoin="round" stroke-width="4"/>
+  </g>
+</svg>

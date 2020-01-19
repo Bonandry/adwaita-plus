@@ -73,6 +73,7 @@ COLORS=(
 	[manjaro]="    #16a085 #12816b #a6dbd1"
 	[mint]="       #7aaf65 #579140 #d0e3c9"
 	[white]="      #ececec #b3b3b3 #4c5561"
+	[yaru]="       #444444 #f6454c #bebebe"
 	[custom]="     #value_light #value_dark #323232"
 )
 

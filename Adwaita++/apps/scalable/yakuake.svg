@@ -1,0 +1,24 @@
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="yakuake">
+<path id="Vector" d="M108 22H20C15.5817 22 12 25.5817 12 30V108C12 112.418 15.5817 116 20 116H108C112.418 116 116 112.418 116 108V30C116 25.5817 112.418 22 108 22Z" fill="url(#paint0_linear)"/>
+<path id="Vector_2" d="M108 12H20C15.5817 12 12 15.5817 12 20V100C12 104.418 15.5817 108 20 108H108C112.418 108 116 104.418 116 100V20C116 15.5817 112.418 12 108 12Z" fill="#1C71D8"/>
+<path id="Vector_3" fill-rule="evenodd" clip-rule="evenodd" d="M46 44.0013V36.0014L54.1703 36C56.6986 36 58.683 36.7224 60.298 38.25L82 60.0003L60.298 81.75C58.683 83.2776 56.6986 84 54.1703 84H46V76.0001C46 73.9451 47.0607 71.7724 48.5532 70.2502L59.021 60.0009L48.5532 49.7513C47.0607 48.229 46 46.0564 46 44.0013Z" fill="url(#paint1_linear)"/>
+<path id="Vector (Stroke)" fill-rule="evenodd" clip-rule="evenodd" d="M108 17H20C18.3431 17 17 18.3431 17 20V100C17 101.657 18.3432 103 20 103H108C109.657 103 111 101.657 111 100V20C111 18.3432 109.657 17 108 17ZM20 12H108C112.418 12 116 15.5817 116 20V100C116 104.418 112.418 108 108 108H20C15.5817 108 12 104.418 12 100V20C12 15.5817 15.5817 12 20 12Z" fill="url(#paint2_linear)"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear" x1="12" y1="64" x2="116" y2="64" gradientUnits="userSpaceOnUse">
+<stop stop-color="#77767B"/>
+<stop offset="0.05" stop-color="#C0BFBC"/>
+<stop offset="0.1" stop-color="#9A9996"/>
+<stop offset="0.9" stop-color="#9A9996"/>
+<stop offset="0.95" stop-color="#C0BFBC"/>
+<stop offset="1" stop-color="#77767B"/>
+</linearGradient>
+<linearGradient id="paint1_linear" x1="46" y1="60" x2="82" y2="60" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F6F5F4"/>
+</linearGradient>
+<linearGradient id="paint2_linear" x1="12" y1="60" x2="116" y2="60" gradientUnits="userSpaceOnUse">
+<stop stop-color="#DEDDDA"/>
+</linearGradient>
+</defs>
+</svg>

@@ -1,0 +1,23 @@
+<svg fill="none" height="129" viewBox="0 0 128 129" width="128" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <filter id="filter0_d" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="66.2299" width="71.3672" x="28.3164" y="29.3851">
+    <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+    <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+    <feOffset dy="2"/>
+    <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+    <feBlend in2="BackgroundImageFix" mode="normal" result="effect1_dropShadow"/>
+    <feBlend in="SourceGraphic" in2="effect1_dropShadow" mode="normal" result="shape"/>
+  </filter>
+  <linearGradient id="paint0_linear" gradientUnits="userSpaceOnUse" x1="13" x2="117" y1="65.5" y2="65.5">
+    <stop offset="0" stop-color="#a51d2d"/>
+    <stop offset=".05" stop-color="#f66151"/>
+    <stop offset=".1" stop-color="#e01b24"/>
+    <stop offset=".9" stop-color="#e01b24"/>
+    <stop offset=".95" stop-color="#f66151"/>
+    <stop offset="1" stop-color="#a51d2d"/>
+  </linearGradient>
+  <path d="m109 23.5h-88c-4.4183 0-8 3.5817-8 8v78c0 4.418 3.5817 8 8 8h88c4.418 0 8-3.582 8-8v-78c0-4.4183-3.582-8-8-8z" fill="url(#paint0_linear)"/>
+  <path d="m109 13.5h-88c-4.4183 0-8 3.5817-8 8v80c0 4.418 3.5817 8 8 8h88c4.418 0 8-3.582 8-8v-80c0-4.4183-3.582-8-8-8z" fill="#f66151"/>
+  <g filter="url(#filter0_d)">
+    <path d="m78.348 29.5221c-1.1693.9105-4.6114 7.2812-8.0534 14.8757-1.3944 3.0957-3.3679 7.1447-4.3643 9.0058-2.9589 5.5138-10.1861 15.5452-13.5321 18.7453l-3.1209 3.0126 2.3277 2.4798c1.4273 1.5264 3.313 4.697 4.8776 8.2426 2.9699 6.7563 3.4859 7.731 4.0541 7.731.269 0 1.7896-.8381 3.4859-1.8932 3.7852-2.3968 7.3233-5.6183 12.1377-11.0999 7.5154-8.5452 13.156-10.3555 20.1032-6.4323 1.8775 1.0658 3.4201 1.7353 3.4201 1.4862 0-.2624-.9552-2.8359-2.1026-5.7334-1.1473-2.8975-4.2792-11.0784-6.9362-18.1802-1.8966-3.1171-8.0945-24.4144-12.2968-22.2186zm-14.9786 17.5001c-.033 0-.0742 0-.1181.0214-6.357 2.7823-8.6517 4.049-10.5292 5.8164-1.2324 1.181-2.2398 2.4369-2.2398 2.8038 0 1.1407 5.0066 4.1855 5.8328 3.5455.398-.3133 1.9626-2.552 3.475-4.9889 2.6707-4.3409 4.0541-7.1339 3.582-7.1982zm-17.7948 12.2915c-1.0843 0-16.4471 5.8057-17.1773 6.4966-.2141.1982.011.5651.5051.8382.4941.2812 3.302 2.1557 6.2829 4.1749 2.97 2.0191 5.5528 3.6606 5.7368 3.6714.1811 0 1.5453-.7124 3.0028-1.5907 3.066-1.8424 8.9839-7.541 8.9537-8.6309-.022-.9721-5.9179-4.9675-7.3123-4.9675" fill="#f6f5f4"/>
+  </g>
+</svg>

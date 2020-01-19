@@ -1,0 +1,29 @@
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="symboleditor">
+<g id="box">
+<path id="Vector" d="M105.535 16.7723H22.5446C18.3778 16.7723 15 20.4316 15 24.9456V106.679C15 111.192 18.3778 114.852 22.5446 114.852H105.535C109.701 114.852 113.08 111.192 113.08 106.679V24.9456C113.08 20.4316 109.701 16.7723 105.535 16.7723Z" fill="url(#paint0_linear)"/>
+<path id="Vector_2" d="M105.535 13H22.5446C18.3778 13 15 16.6593 15 21.1733V102.906C15 107.42 18.3778 111.08 22.5446 111.08H105.535C109.701 111.08 113.08 107.42 113.08 102.906V21.1733C113.08 16.6593 109.701 13 105.535 13Z" fill="url(#paint1_linear)"/>
+</g>
+<path id="rectangle" fill-rule="evenodd" clip-rule="evenodd" d="M50 30H32V48H50V30ZM26 24V54H56V24H26Z" fill="url(#paint2_linear)"/>
+<circle id="Ellipse 19" cx="86" cy="39" r="15" fill="#1A5FB4"/>
+<path id="addition" fill-rule="evenodd" clip-rule="evenodd" d="M35.6 89.4V99H46.4V89.4H56V78.6H46.4V69H35.6V78.6H26V89.4H35.6Z" fill="url(#paint3_linear)"/>
+<path id="triangle" fill-rule="evenodd" clip-rule="evenodd" d="M71 99L86 69L101 99H71ZM78.7666 94.2L86 79.7331L86 94.2H78.7666Z" fill="url(#paint4_linear)"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear" x1="15" y1="65.8121" x2="113.08" y2="65.8121" gradientUnits="userSpaceOnUse">
+<stop stop-color="#77767B"/>
+</linearGradient>
+<linearGradient id="paint1_linear" x1="15" y1="62.0398" x2="113.08" y2="62.0398" gradientUnits="userSpaceOnUse">
+<stop stop-color="#DEDDDA"/>
+</linearGradient>
+<linearGradient id="paint2_linear" x1="26" y1="39" x2="56" y2="39" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F66151"/>
+</linearGradient>
+<linearGradient id="paint3_linear" x1="26" y1="84" x2="56" y2="84" gradientUnits="userSpaceOnUse">
+<stop stop-color="#33D17A"/>
+</linearGradient>
+<linearGradient id="paint4_linear" x1="71" y1="84" x2="101" y2="84" gradientUnits="userSpaceOnUse">
+<stop stop-color="#E5A50A"/>
+</linearGradient>
+</defs>
+</svg>

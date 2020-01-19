@@ -1,0 +1,8 @@
+<p align="center">
+  <img alt="actions"   name="actions"   src="https://img.shields.io/github/search/Bonandry/adwaita-plus/extension:svg%20path:Adwaita++/actions/scalable?style=for-the-badge&logo=$gnome$&logoColor=whitesmoke&label=actions%20icons&colorA=a89888&colorB=33D17A"/>
+  <img alt="apps"      name="apps"      src="https://img.shields.io/github/search/Bonandry/adwaita-plus/extension:svg%20path:Adwaita++/apps/scalable?style=for-the-badge&logo=$gnome$&logoColor=whitesmoke&label=apps%20icons&colorA=a89888&colorB=33D17A"/>
+  <img alt="devices"   name="devices"   src="https://img.shields.io/github/search/Bonandry/adwaita-plus/extension:svg%20path:Adwaita++/devices/scalable?style=for-the-badge&logo=$gnome$&logoColor=whitesmoke&label=devices%20icons&colorA=a89888&colorB=33D17A"/>
+  <img alt="mimetypes" name="mimetypes" src="https://img.shields.io/github/search/Bonandry/adwaita-plus/extension:svg%20path:Adwaita++/mimetypes/scalable?style=for-the-badge&logo=$gnome$&logoColor=whitesmoke&label=mimetypes%20icons&colorA=a89888&colorB=33D17A"/>
+  <img alt="places"    name="places"    src="https://img.shields.io/github/search/Bonandry/adwaita-plus/extension:svg%20path:Adwaita++/places/scalable?style=for-the-badge&logo=$gnome$&logoColor=whitesmoke&label=places%20icons&colorA=a89888&colorB=33D17A"/>
+  <img alt="status"    name="status"    src="https://img.shields.io/github/search/Bonandry/adwaita-plus/extension:svg%20path:Adwaita++/status/scalable?style=for-the-badge&logo=$gnome$&logoColor=whitesmoke&label=status%20icons&colorA=a89888&colorB=33D17A"/>
+</p>

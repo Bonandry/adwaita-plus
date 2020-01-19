@@ -10,3 +10,7 @@
 **/.directory
 \.icon-theme\.cache
 readme.html
+
+# Do not back node_modules
+node_modules
+shields

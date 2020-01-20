@@ -1,0 +1,19 @@
+name: Travis
+
+on:
+  pull_request:
+  push:
+    branches:
+      - gusbemacbe
+
+jobs:
+  run_tests:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@master
+    - name: Install neofetch and xmlstarlet
+      run: sudo apt-get install neofetch xmlstarlet
+    - name: Analysing and testing
+      run: neofetch && make -k test-all

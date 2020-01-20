@@ -1,54 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
- <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#5294e2; }
-  </style>
-  <linearGradient id="arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
-   <stop offset="0%" style="stop-color:#dd9b44" id="stop3"/>
-   <stop offset="100%" style="stop-color:#ad6c16" id="stop5"/>
-  </linearGradient>
-  <linearGradient id="aurora" x1="0%" x2="0%" y1="0%" y2="100%">
-   <stop offset="0%" style="stop-color:#09D4DF" id="stop8"/>
-   <stop offset="100%" style="stop-color:#9269F4" id="stop10"/>
-  </linearGradient>
-  <linearGradient id="fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
-   <stop offset="0%" style="stop-color:#1AD6AB" id="stop13"/>
-   <stop offset="100%" style="stop-color:#329DB6" id="stop15"/>
-  </linearGradient>
-  <linearGradient id="oomox" x1="0%" x2="0%" y1="0%" y2="100%">
-   <stop offset="0%" style="stop-color:#efefe7" id="stop18"/>
-   <stop offset="100%" style="stop-color:#8f8f8b" id="stop20"/>
-  </linearGradient>
-  <linearGradient id="rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
-   <stop offset="0%" style="stop-color:#00F260" id="stop23"/>
-   <stop offset="100%" style="stop-color:#0575E6" id="stop25"/>
-  </linearGradient>
-  <linearGradient id="sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
-   <stop offset="0%" style="stop-color:#FF8501" id="stop28"/>
-   <stop offset="100%" style="stop-color:#FFCB01" id="stop30"/>
-  </linearGradient>
-  <linearGradient id="telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
-   <stop offset="0%" style="stop-color:#b2ced6" id="stop33"/>
-   <stop offset="100%" style="stop-color:#6da5b7" id="stop35"/>
-  </linearGradient>
-  <linearGradient id="60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
-   <stop offset="0%" style="stop-color:#df5940" id="stop38"/>
-   <stop offset="25%" style="stop-color:#d8d15f" id="stop40"/>
-   <stop offset="50%" style="stop-color:#e9882a" id="stop42"/>
-   <stop offset="100%" style="stop-color:#279362" id="stop44"/>
-  </linearGradient>
-  <linearGradient id="90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
-   <stop offset="0%" style="stop-color:#f618c7" id="stop47"/>
-   <stop offset="20%" style="stop-color:#94ffab" id="stop49"/>
-   <stop offset="50%" style="stop-color:#fbfd54" id="stop51"/>
-   <stop offset="100%" style="stop-color:#0f83ae" id="stop53"/>
-  </linearGradient>
-  <linearGradient id="cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
-   <stop offset="0" style="stop-color:#0abdc6" id="stop56"/>
-   <stop offset="1" style="stop-color:#ea00d9" id="stop58"/>
-  </linearGradient>
- </defs>
- <g transform="translate(-272 -112)">
-  <path style="fill:currentColor" class="ColorScheme-Text" d="m 278,112 v 5 h -2.156 c 0,0 2.078,5.312 4.156,8.156 2.078,-2.844 4.156,-8.156 4.156,-8.156 H 282 v -5 z" overflow="visible"/>
- </g>
+<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
+  <g fill="#474747">
+    <path d="m3.1875 0c-1.205 0-2.1875 1.01775-2.1875 2.21875v11.560547c0 1.202.9825 2.220703 2.1875 2.220703h9.625c1.205 0 2.1875-1.01775 2.1875-2.21875v-11.5605469c0-1.202-.9825-2.2207031-2.1875-2.2207031h-3.4394531v3h3.6269531v11h-10v-11h3.7070312v-3zm.8125 4v4h1.1152344l-.6796875-.6386719c-.0017-.0017-.0022063-.0042594-.0039063-.0058593-.240999-.2268761-.390625-.5390288-.390625-.8867188v-1.2558594h1.3320313c.3208217 0 .6026509.1187837.8320312.2949219a.5.5 0 0 1 .1386719-.0703125.5.5 0 0 1 .0625 0 .5.5 0 0 1 .3007812.0371094v-1.4746094zm5.3730469 0v1.453125a.5.5 0 0 1 .4433593.0976562c.2367168-.2038069.5430168-.3378906.8906248-.3378906h1.324219v-1.2128906zm2.6582031 2.5585938c-.023878.3106717-.161344.5902229-.380859.796875l-.685547.6445312h1.066406zm-8.0019531 2.4414062v4h8.0312501v-4h-2.1582032l-1.8613282 1.751953-1.8632812-1.751953zm2.4746093 1.429688a.5.5 0 0 1 .4941407.507812v.0625h2v-.0625a.5.5 0 0 1 1 0v.0625c0 .545-.455 1-1 1h-1.9980469c-.546 0-1-.455-1-1v-.0625a.5.5 0 0 1 .34375-.5.5.5 0 0 1 .0605469 0 .5.5 0 0 1 .0996093-.007812z"/>
+    <path d="m-16.711868 12.919109c0 .260768.112219.495441.292969.665598.0013.0012.0026.0024.0039.0037l2.703125 2.542877 2.707031-2.546555c.18075-.170158.292969-.404831.292969-.665598v-.941398h-1c-.282093 0-.535331.109279-.716797.284994l-.283203.266607v-5.2586197a1 .94139809 0 0 0 -2 0v5.2585917l-.292972-.275795v-.0018c-.18075-.170157-.430032-.273961-.707032-.273961h-1z" stroke-width=".970257" transform="translate(21.711864 -6.305085)"/>
+  </g>
 </svg>

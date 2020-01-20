@@ -1,10 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
- <g transform="translate(-263.0002,145)">
-  <g fill="#E6DDFF" transform="matrix(-1,0,0,1,536.50038,0)">
-   <rect width="4" height="4" x="-270" y="135" transform="scale(-1)"/>
-   <rect width="4" height="4" x="-270" y="130" transform="scale(-1)"/>
-   <rect width="4" height="4" x="-265" y="135" transform="scale(-1)"/>
-   <rect width="4" height="4" x="-265" y="140" transform="scale(-1)"/>
+<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
+  <g fill="#e6ddff" transform="matrix(1 0 0 -1 273.50018 145)">
+    <path d="m-270 135h4v4h-4z"/>
+    <path d="m-270 130h4v4h-4z"/>
+    <path d="m-265 135h4v4h-4z"/>
+    <path d="m-265 140h4v4h-4z"/>
   </g>
- </g>
 </svg>

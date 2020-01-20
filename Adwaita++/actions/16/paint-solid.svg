@@ -1,5 +1,3 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
- <g transform="translate(0,-6)">
-  <rect fill="#444" width="16" height="16" x="0" y="6" rx="0" ry="0"/>
- </g>
+<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
+  <path d="m0 0h16v16h-16z" fill="#444"/>
 </svg>

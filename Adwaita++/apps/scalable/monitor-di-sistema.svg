@@ -1,63 +1,38 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="128" height="128" version="1.0" viewBox="0 0 128 128" style="enable-background:new">
- <title id="title4162">
-  Adwaita Icon Template
- </title>
- <defs>
-  <linearGradient id="linearGradient1099" x1="32" x2="96" y1="236" y2="236" gradientTransform="translate(604.81684,170.58641)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1036"/>
-  <linearGradient id="linearGradient1036">
-   <stop id="stop1032" offset="0" style="stop-color:#d5d3cf"/>
-   <stop id="stop1034" offset="1" style="stop-color:#f6f5f4"/>
+<svg enable-background="new" height="128" viewBox="0 0 128 128" width="128" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <linearGradient id="linearGradient1444-2-3-3" gradientUnits="userSpaceOnUse" x1="7.99999" x2="119.99999" y1="103.9999975" y2="103.9999975">
+    <stop offset="0" stop-color="#d5d3cf"/>
+    <stop offset=".03571428" stop-color="#e4e1de"/>
+    <stop offset=".07142857" stop-color="#d5d3cf"/>
+    <stop offset=".9285714" stop-color="#d5d3cf"/>
+    <stop offset=".96428573" stop-color="#e4e1de"/>
+    <stop offset="1" stop-color="#d5d3cf"/>
   </linearGradient>
-  <radialGradient id="radialGradient1103" cx="-244" cy="-76" r="32" fx="-244" fy="-76" gradientTransform="matrix(0.88333331,0,0,0.88333331,-460.35018,463.11973)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1069"/>
-  <linearGradient id="linearGradient1069">
-   <stop id="stop1065" offset="0" style="stop-color:#d5d3cf"/>
-   <stop id="stop1067-1" offset="1" style="stop-color:#949390"/>
+  <radialGradient id="radialGradient1030-8" cx="63.999996" cy="194.19048" gradientTransform="matrix(-4.1363634 .00000125 -.00000027 -1.3909091 319.22728 170.63455)" gradientUnits="userSpaceOnUse" r="44">
+    <stop offset="0" stop-color="#fff"/>
+    <stop offset="1" stop-color="#fff" stop-opacity=".094118"/>
+  </radialGradient>
+  <linearGradient id="linearGradient1106-2" gradientUnits="userSpaceOnUse" x1="73.24999" x2="23.99999" y1="69.38980875" y2="69.38980875">
+    <stop offset="0" stop-color="#f9f06b"/>
+    <stop offset="1" stop-color="#f9f06b" stop-opacity="0"/>
   </linearGradient>
-  <linearGradient id="linearGradient1027" x1="64" x2="64" y1="262.5" y2="232" gradientTransform="translate(-470.5864,432.81685)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1025"/>
-  <linearGradient id="linearGradient1025">
-   <stop id="stop1021" offset="0" style="stop-color:#9a9996"/>
-   <stop id="stop1023" offset="1" style="stop-color:#77767b"/>
-  </linearGradient>
-  <linearGradient id="linearGradient1076">
-   <stop style="stop-color:#d5d3cf" id="stop1064" offset="0"/>
-   <stop id="stop1066" offset=".036" style="stop-color:#e4e1de"/>
-   <stop style="stop-color:#d5d3cf" id="stop1068" offset=".071"/>
-   <stop id="stop1070" offset=".929" style="stop-color:#d5d3cf"/>
-   <stop style="stop-color:#e4e1de" id="stop1072" offset=".964"/>
-   <stop style="stop-color:#d5d3cf" id="stop1074" offset="1"/>
-  </linearGradient>
-  <linearGradient id="linearGradient1020">
-   <stop style="stop-color:#ffffff" id="stop1016" offset="0"/>
-   <stop style="stop-color:#ffffff;stop-opacity:0.09411765" id="stop1018" offset="1"/>
-  </linearGradient>
-  <radialGradient id="radialGradient1030-8" cx="64" cy="194.19" r="44" fx="64" fy="194.19" gradientTransform="matrix(-4.1363634,1.2901346e-6,-2.6513804e-7,-1.4318182,319.22728,4.71204)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1020"/>
-  <linearGradient id="linearGradient1106-2" x1="301" x2="104" y1="33.559" y2="33.559" gradientTransform="matrix(0.25,0,0,0.25,-2.00001,233)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient985"/>
-  <linearGradient id="linearGradient1444-2-3-3" x1="120" x2="568" y1="619.964" y2="619.964" gradientTransform="matrix(0.25,0,0,0.25,-22.00001,123.00903)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1076"/>
-  <linearGradient id="linearGradient985">
-   <stop id="stop981" offset="0" style="stop-color:#f9f06b"/>
-   <stop id="stop983" offset="1" style="stop-color:#f9f06b;stop-opacity:0"/>
-  </linearGradient>
- </defs>
- <g id="layer1" transform="translate(0,-172)">
-  <g id="layer9">
-   <rect width="112" height="88" x="8" y="200" rx="8" ry="8" style="fill:#f6f5f4"/>
-   <rect width="92" height="78" x="12" y="204" rx="4" ry="4" style="fill:#241f31"/>
-   <path d="m 7.99999,278 v 4 c 0,4.432 3.568,8 8,8 h 96 c 4.432,0 8,-3.568 8,-8 v -4 c 0,4.432 -3.568,8 -8,8 h -96 c -4.432,0 -8,-3.568 -8,-8 z" style="fill:url(#linearGradient1444-2-3-3)"/>
-   <rect style="opacity:0.05;fill:url(#radialGradient1030-8)" width="84" height="70" x="16" y="-278" transform="scale(1,-1)"/>
-   <path style="opacity:0.23600003;fill:none;stroke:#e5a50a;stroke-width:4;stroke-miterlimit:10" d="m 15.99999,246 h 26 l 10,-23 6,39 8,-16 h 34"/>
-   <path style="fill:none;stroke:url(#linearGradient1106-2);stroke-width:4;stroke-linecap:round;stroke-miterlimit:10" d="m 15.99999,246 h 26 l 10,-23 6,39 8,-16 h 6"/>
-   <path style="fill:#949390" d="m 115.99999,234 v 4 c 0,2.20914 -1.79086,4 -4,4 -2.20914,0 -4,-1.79086 -4,-4 v -2 l 4,-2 z"/>
-   <path d="m 115.99999,250 v 6 h -4 c -2.216,0 -4,-1.784 -4,-4 v -2 z" style="fill:#949390"/>
-   <path d="m 115.99999,254 v -4 a 4,3.9999998 0 0 0 -4,-4 4,3.9999998 0 0 0 -4,4 4,3.9999998 0 0 0 4,4 z" style="fill:#d5d3cf"/>
-   <ellipse id="ellipse1078" cx="-114" cy="252" rx="1" ry="1" transform="scale(-1,1)" style="fill:#68676b"/>
-   <path style="fill:#d5d3cf" d="m 115.99999,232 v 4 a 4,3.9999998 0 0 1 -4,4 4,3.9999998 0 0 1 -4,-4 4,3.9999998 0 0 1 4,-4 z"/>
-   <ellipse style="fill:#68676b" id="ellipse1082" cx="-114" cy="-234" rx="1" ry="1" transform="scale(-1)"/>
-   <path d="m 107.99999,220 v 4 c 0,2.20914 1.79086,4 4,4 2.20914,0 4,-1.79086 4,-4 v -2 l -4,-2 z" style="fill:#949390"/>
-   <path d="m 107.99999,218 v 4 a 4,3.9999998 0 0 0 4,4 4,3.9999998 0 0 0 4,-4 4,3.9999998 0 0 0 -4,-4 z" style="fill:#d5d3cf"/>
-   <ellipse id="ellipse1088" cx="110" cy="-220" rx="1" ry="1" transform="scale(1,-1)" style="fill:#68676b"/>
-   <path style="fill:#949390" d="m 115.99999,208 v 6 h -4 c -2.216,0 -4,-1.784 -4,-4 v -2 z"/>
-   <path style="fill:#d5d3cf" d="m 115.99999,212 v -4 a 4,3.9999998 0 0 0 -4,-4 4,3.9999998 0 0 0 -4,4 4,3.9999998 0 0 0 4,4 z"/>
-   <ellipse style="fill:#68676b" id="ellipse1094" cx="-114" cy="210" rx="1" ry="1" transform="scale(-1,1)"/>
+  <rect fill="#f6f5f4" height="86" rx="8" ry="7.999999" width="112" x="8" y="28"/>
+  <rect fill="#241f31" height="76" rx="4" width="92" x="12" y="32"/>
+  <path d="m7.99999 104v4c0 4.432 3.568 8 8 8h96c4.432 0 8-3.568 8-8v-4c0 4.432-3.568 8-8 8h-96c-4.432 0-8-3.568-8-8z" fill="url(#linearGradient1444-2-3-3)"/>
+  <path d="m16-104h84v68h-84z" fill="url(#radialGradient1030-8)" opacity=".05" transform="scale(1 -1)"/>
+  <path d="m15.99999 74h26l10-23 6 39 8-16h34" fill="none" opacity=".236" stroke="#e5a50a" stroke-miterlimit="10" stroke-width="4"/>
+  <path d="m15.99999 74h26l10-23 6 39 8-16h6" fill="none" stroke="url(#linearGradient1106-2)" stroke-linecap="round" stroke-miterlimit="10" stroke-width="4"/>
+  <g transform="translate(0 -170)">
+    <path d="m115.99999 232v4c0 2.20914-1.79086 4-4 4s-4-1.79086-4-4v-2l4-2z" fill="#949390"/>
+    <path d="m115.99999 248v6h-4c-2.216 0-4-1.784-4-4v-2z" fill="#949390"/>
+    <path d="m115.99999 252v-4a4 3.9999998 0 0 0 -4-4 4 3.9999998 0 0 0 -4 4 4 3.9999998 0 0 0 4 4z" fill="#d5d3cf"/>
+    <ellipse cx="-113.99997" cy="250" fill="#68676b" rx="1" ry="1" transform="scale(-1 1)"/>
+    <path d="m115.99999 230v4a4 3.9999998 0 0 1 -4 4 4 3.9999998 0 0 1 -4-4 4 3.9999998 0 0 1 4-4z" fill="#d5d3cf"/>
+    <ellipse cx="-113.99997" cy="-232" fill="#68676b" rx="1" ry="1" transform="scale(-1)"/>
+    <path d="m107.99999 218v4c0 2.20914 1.79086 4 4 4s4-1.79086 4-4v-2l-4-2z" fill="#949390"/>
+    <path d="m107.99999 216v4a4 3.9999998 0 0 0 4 4 4 3.9999998 0 0 0 4-4 4 3.9999998 0 0 0 -4-4z" fill="#d5d3cf"/>
+    <ellipse cx="109.99997" cy="-218" fill="#68676b" rx="1" ry="1" transform="scale(1 -1)"/>
+    <path d="m115.99999 206v6h-4c-2.216 0-4-1.784-4-4v-2z" fill="#949390"/>
+    <path d="m115.99999 210v-4a4 3.9999998 0 0 0 -4-4 4 3.9999998 0 0 0 -4 4 4 3.9999998 0 0 0 4 4z" fill="#d5d3cf"/>
+    <ellipse cx="-113.99997" cy="208" fill="#68676b" rx="1" ry="1" transform="scale(-1 1)"/>
   </g>
- </g>
 </svg>

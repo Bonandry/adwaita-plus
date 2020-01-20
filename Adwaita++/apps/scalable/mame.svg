@@ -1,39 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" version="1.0" viewBox="0 0 128 128" style="enable-background:new">
- <title id="title4162">
-  Adwaita Icon Template
- </title>
- <defs>
-  <linearGradient id="linearGradient965" x1="48" x2="464" y1="44" y2="44" gradientUnits="userSpaceOnUse">
-   <stop id="stop989" offset="0" style="stop-color:#77767b"/>
-   <stop id="stop991" offset=".05" style="stop-color:#c0bfbc"/>
-   <stop id="stop993" offset=".1" style="stop-color:#9a9996"/>
-   <stop id="stop995" offset=".9" style="stop-color:#9a9996"/>
-   <stop id="stop997" offset=".95" style="stop-color:#c0bfbc"/>
-   <stop id="stop999" offset="1" style="stop-color:#77767b"/>
-  </linearGradient>
-  <radialGradient id="radialGradient1030" cx="64" cy="194.19" r="44" gradientTransform="matrix(-4.7273 7.9359e-7 -3.0301e-7 -1.6364 238.55 49.766)" gradientUnits="userSpaceOnUse">
-   <stop id="stop1016" offset="0" style="stop-color:#fff"/>
-   <stop id="stop1018" offset="1" style="stop-color:#fff;stop-opacity:.094118"/>
-  </radialGradient>
-  <linearGradient id="linearGradient1950" x1="70.347" x2="70.347" y1="245.4" y2="269.14" gradientUnits="userSpaceOnUse">
-   <stop id="stop1944" offset="0" style="stop-color:#2d2839"/>
-   <stop id="stop1946" offset="1" style="stop-color:#282433"/>
-  </linearGradient>
-  <linearGradient id="linearGradient2151" x1="22.49" x2="35.719" y1="265.25" y2="257.313" gradientTransform="matrix(2.8030833,0,0,2.8030833,-47.025186,-468.27486)" gradientUnits="userSpaceOnUse">
-   <stop style="stop-color:#6bcfff" id="stop20" offset="0"/>
-   <stop style="stop-color:#4aa5d2" id="stop22" offset="1"/>
-  </linearGradient>
- </defs>
- <g id="layer1" transform="translate(0,-172)">
-  <g id="layer9">
-   <rect width="416" height="376" x="48" y="-124" rx="32" ry="32" transform="matrix(.25 0 0 .25 0 225)" style="fill:url(#linearGradient965)"/>
-   <rect width="416" height="384" x="48" y="-164" rx="32" ry="32" transform="matrix(.25 0 0 .25 0 225)" style="fill:#deddda"/>
-   <rect width="96" height="88" x="16" y="-276" rx="4" ry="4" transform="scale(1,-1)" style="fill:#241f31"/>
-   <g style="enable-background:new" transform="matrix(1.772331,0,0,1.772331,7.6342495,-233.47598)">
-    <path style="fill:url(#linearGradient2151);fill-rule:evenodd" d="M 39.00611,248.54356 10.823444,276.72624 H 21.94818 L 34.556215,264.1182 v 12.60804 L 46.4226,264.85984 v 11.8664 l 6.734177,-6.73419 -0.05934,-21.44849 -14.091333,14.09133 z"/>
-    <path style="fill:none;stroke:#236c9a;stroke-width:0.5291667" d="M 39.00611,248.54356 10.823444,276.72624 H 21.94818 L 34.556215,264.1182 v 12.60804 L 46.4226,264.85984 v 11.8664 l 6.734177,-6.73419 -0.05934,-21.44849 -14.091333,14.09133 z"/>
-   </g>
-   <rect width="88" height="78" x="-108" y="-272" transform="scale(-1)" style="fill:url(#radialGradient1030);opacity:.05"/>
+<svg enable-background="new" height="128" viewBox="0 0 128 128" width="128" xmlns="http://www.w3.org/2000/svg">
+  <g enable-background="new" fill="#3584e4" transform="matrix(2.8346457 0 0 2.8346457 -28.180629 -686.42085)">
+    <path d="m39.00611 248.54356-28.182666 28.18268h11.124736l12.608035-12.60804v12.60804l11.866385-11.8664v11.8664l6.664993-6.80983.0098-21.37285-14.091333 14.09133z" fill="#3584e4" fill-rule="evenodd"/>
+    <path d="m39.00611 248.54356-28.182666 28.18268h11.124736l12.608035-12.60804v12.60804l11.866385-11.8664v11.8664l6.734177-6.73419-.05934-21.44849-14.091333 14.09133z" fill="#3587e1"/>
+    <path d="m69.773438 58.259766-35.738282 35.740234h-27.535156l-4 4h31.535156l35.738282-35.740234zm33.636722 2.103515-33.636722 33.636719v4l33.636722-33.636719zm19.07812 14.558594-19.07812 19.078125v4l19.08984-19.089844z" fill="#000" opacity=".2" transform="matrix(.35277777 0 0 .35277777 9.9415 242.15402)"/>
   </g>
- </g>
 </svg>

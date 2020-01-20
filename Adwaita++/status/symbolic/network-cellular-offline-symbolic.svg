@@ -1,12 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
- <title id="title9167">
-  Gnome Symbolic Icon Theme
- </title>
- <g id="layer9" transform="translate(-201 -257)">
-  <path d="m213 257v1.5 6.9375 1.5h3v-1.5-6.9375-1.5h-3z" style="fill-rule:evenodd;fill:#444444;opacity:.35"/>
-  <path d="m209 260v12h2l0.0143-5.0625h0.98575v-6.9375z" style="fill-rule:evenodd;fill:#444444;opacity:.35"/>
-  <path d="m205 263v1.5 6 1.5h3v-1.5-6-1.5h-3z" style="fill-rule:evenodd;fill:#444444;opacity:.35"/>
-  <path d="m201 266v1.5 3 1.5h3v-1.5-3-1.5h-3z" style="fill-rule:evenodd;fill:#444444;opacity:.35"/>
-  <path fill="#444" d="m212 268h1.375l1.125 1.0938 1.0938-1.0938h1.4062v1.4688l-1.0938 1.0625 1.0938 1.0625v1.4062h-1.4375l-1.0625-1.0625-1.0625 1.0625h-1.4375v-1.4062l1.0625-1.0625-1.0625-1.0625v-1.4688z"/>
- </g>
+<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
+  <g fill="#474747">
+    <g fill-rule="evenodd">
+      <path d="m12 1v8.938h3v-8.938z" opacity=".35"/>
+      <path d="m8 4v11h2l.014-5.063h.986v-5.937z" opacity=".35"/>
+      <path d="m4 7v8h3v-8zm-4 3v5h3v-5z" opacity=".35"/>
+    </g>
+    <path d="m11 11h1.375l1.125 1.094 1.094-1.094h1.406v1.469l-1.094 1.062 1.094 1.063v1.406h-1.438l-1.062-1.063-1.063 1.063h-1.437v-1.406l1.063-1.063-1.063-1.061z"/>
+  </g>
 </svg>

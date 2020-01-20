@@ -1,9 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
- <g transform="translate(-192,-180)">
-  <g transform="matrix(0.11991745,0,0,0.11991745,181.98792,169.53271)" style="fill:none;stroke:#E6DDFF;enable-background:new">
-   <path d="m 100,124 52,-28 52,28 v 60 l -52,28 -52,-28 z" style="fill:none;stroke:#E6DDFF;stroke-width:8"/>
-   <path style="fill:none;stroke:#E6DDFF;stroke-width:8" d="m 204,124 -52,28 -52,-28"/>
-   <path d="m 152,148 v 64" style="fill:none;stroke:#E6DDFF;stroke-width:8"/>
+<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
+  <g enable-background="new" fill="none" stroke="#e6ddff" transform="matrix(.11991745 0 0 .11991745 -10.01208 -10.46729)">
+    <path d="m8.2148438.5-6.7148438 3.6152344v.2871094 7.4824222l6.7148438 3.615234 6.7167972-3.615234v-7.7695316zm0 1.0898438 5.2246092 2.8125-5.2246092 2.8125-5.2226563-2.8125zm-5.7558594 3.6152343 5.7558594 3.0996094 5.7558592-3.0996094v6.1054689l-5.7558592 3.099609-5.7558594-3.099609z" fill="#e6ddff" stroke-width=".95934" transform="matrix(8.3390699 0 0 8.3390699 83.491435 87.287463)"/>
+    <path d="m152 148v64" fill="none" stroke-width="8"/>
   </g>
- </g>
 </svg>

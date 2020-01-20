@@ -1,1 +1,6 @@
-network-wired-disconnected-symbolic.svg
+<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
+  <g fill="#474747">
+    <path d="m5 1v5h2v2h-4.969v3h-2.031v4.938h5v-4.938h-1.969v-2h8.969v.984h1v-1.984h-5v-2h2v-5z" opacity=".35"/>
+    <path d="m11 11h1.375l1.125 1.094 1.094-1.094h1.406v1.469l-1.094 1.062 1.094 1.063v1.406h-1.438l-1.062-1.063-1.063 1.063h-1.437v-1.406l1.063-1.063-1.063-1.061z"/>
+  </g>
+</svg>

@@ -1,24 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="enable-background:new" width="128" height="128" version="1.0" viewBox="0 0 128 128">
- <title id="title4162">
-  Adwaita Icon Template
- </title>
- <defs>
-  <linearGradient id="linearGradient1494">
-   <stop id="stop1490" offset="0" style="stop-color:#babdb6"/>
-   <stop id="stop1492" offset="1" style="stop-color:#babdb6;stop-opacity:0"/>
+<svg enable-background="new" height="128" viewBox="0 0 128 128" width="128" xmlns="http://www.w3.org/2000/svg">
+  <linearGradient gradientUnits="userSpaceOnUse" x1="280" x2="280" y1="172" y2="20">
+    <stop offset="0" stop-color="#babdb6"/>
+    <stop offset="1" stop-color="#babdb6" stop-opacity="0"/>
   </linearGradient>
-  <linearGradient id="linearGradient1496" x1="280" x2="280" y1="172" y2="20" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1494"/>
- </defs>
- <g id="layer1" transform="translate(0,-172)">
-  <g id="layer9">
-   <rect style="fill:#98c1f1" width="104" height="44" x="12" y="244" rx="8" ry="8"/>
-   <rect style="fill:#e7f0fc" width="104" height="88" x="12" y="192"/>
-   <g>
-    <circle style="fill:#1a5fb4" cx="50" cy="201" r="5"/>
-    <circle cx="78" cy="201" r="5" style="fill:#1a5fb4"/>
-   </g>
-   <path d="m 50,200 v -8 c 0,-7.756 6.244,-14 14,-14 7.756,0 14,6.244 14,14 v 8" style="fill:none;stroke:#62a0ea;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"/>
-   <path style="fill:#3584e4" d="m 64,216 a 20,20.000002 0 0 0 -20,20 20,20.000002 0 0 0 20,20 20,20.000002 0 0 0 20,-20 20,20.000002 0 0 0 -20,-20 z m -8,10 a 1.9999997,2 0 0 1 2,2 1.9999997,2 0 0 1 -2,2 1.9999997,2 0 0 1 -2,-2 1.9999997,2 0 0 1 2,-2 z m 8,0 a 1.9999997,2 0 0 1 2,2 1.9999997,2 0 0 1 -2,2 1.9999997,2 0 0 1 -2,-2 1.9999997,2 0 0 1 2,-2 z m 8,0 a 1.9999997,2 0 0 1 2,2 1.9999997,2 0 0 1 -2,2 1.9999997,2 0 0 1 -2,-2 1.9999997,2 0 0 1 2,-2 z m -16,8 a 1.9999997,2 0 0 1 2,2 1.9999997,2 0 0 1 -2,2 1.9999997,2 0 0 1 -2,-2 1.9999997,2 0 0 1 2,-2 z m 8,0 a 1.9999997,2 0 0 1 2,2 1.9999997,2 0 0 1 -2,2 1.9999997,2 0 0 1 -2,-2 1.9999997,2 0 0 1 2,-2 z m 8,0 a 1.9999997,2 0 0 1 2,2 1.9999997,2 0 0 1 -2,2 1.9999997,2 0 0 1 -2,-2 1.9999997,2 0 0 1 2,-2 z m -16,8 a 1.9999997,2 0 0 1 2,2 1.9999997,2 0 0 1 -2,2 1.9999997,2 0 0 1 -2,-2 1.9999997,2 0 0 1 2,-2 z m 8,0 a 1.9999997,2 0 0 1 2,2 1.9999997,2 0 0 1 -2,2 1.9999997,2 0 0 1 -2,-2 1.9999997,2 0 0 1 2,-2 z m 8,0 a 1.9999997,2 0 0 1 2,2 1.9999997,2 0 0 1 -2,2 1.9999997,2 0 0 1 -2,-2 1.9999997,2 0 0 1 2,-2 z"/>
+  <g transform="translate(0 -172)">
+    <rect fill="#98c1f1" height="44" rx="8" width="104" x="12" y="244"/>
+    <path d="m12 192h104v88h-104z" fill="#e7f0fc"/>
+    <circle cx="50" cy="201" fill="#1a5fb4" r="5"/>
+    <circle cx="78" cy="201" fill="#1a5fb4" r="5"/>
+    <path d="m50 200v-8c0-7.756 6.244-14 14-14s14 6.244 14 14v8" fill="none" stroke="#62a0ea" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+    <path d="m64 216a20 20.000002 0 0 0 -20 20 20 20.000002 0 0 0 20 20 20 20.000002 0 0 0 20-20 20 20.000002 0 0 0 -20-20zm-8 10a1.9999997 2 0 0 1 2 2 1.9999997 2 0 0 1 -2 2 1.9999997 2 0 0 1 -2-2 1.9999997 2 0 0 1 2-2zm8 0a1.9999997 2 0 0 1 2 2 1.9999997 2 0 0 1 -2 2 1.9999997 2 0 0 1 -2-2 1.9999997 2 0 0 1 2-2zm8 0a1.9999997 2 0 0 1 2 2 1.9999997 2 0 0 1 -2 2 1.9999997 2 0 0 1 -2-2 1.9999997 2 0 0 1 2-2zm-16 8a1.9999997 2 0 0 1 2 2 1.9999997 2 0 0 1 -2 2 1.9999997 2 0 0 1 -2-2 1.9999997 2 0 0 1 2-2zm8 0a1.9999997 2 0 0 1 2 2 1.9999997 2 0 0 1 -2 2 1.9999997 2 0 0 1 -2-2 1.9999997 2 0 0 1 2-2zm8 0a1.9999997 2 0 0 1 2 2 1.9999997 2 0 0 1 -2 2 1.9999997 2 0 0 1 -2-2 1.9999997 2 0 0 1 2-2zm-16 8a1.9999997 2 0 0 1 2 2 1.9999997 2 0 0 1 -2 2 1.9999997 2 0 0 1 -2-2 1.9999997 2 0 0 1 2-2zm8 0a1.9999997 2 0 0 1 2 2 1.9999997 2 0 0 1 -2 2 1.9999997 2 0 0 1 -2-2 1.9999997 2 0 0 1 2-2zm8 0a1.9999997 2 0 0 1 2 2 1.9999997 2 0 0 1 -2 2 1.9999997 2 0 0 1 -2-2 1.9999997 2 0 0 1 2-2z" fill="#3584e4"/>
   </g>
- </g>
 </svg>

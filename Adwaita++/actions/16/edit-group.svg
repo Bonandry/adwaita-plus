@@ -1,12 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" width="16" height="16" viewBox="0 0 16 16">
- <g clip-path="url(#clip0)">
-  <path fill="#444" fill-rule="evenodd" d="M14.6 5.4H7.4V14.6H14.6V5.4ZM6 4V16H16V4H6Z" clip-rule="evenodd"/>
-  <path fill="#444" fill-rule="evenodd" d="M4.4 3.4H11.6V4.5H13V2H3V14H7V12.6H4.4V3.4Z" clip-rule="evenodd"/>
-  <path fill="#444" fill-rule="evenodd" d="M1.4 1.4H8.6V2.5H10V0H0V12H3.5V10.6H1.4V1.4Z" clip-rule="evenodd"/>
- </g>
- <defs>
-  <clipPath id="clip0">
-   <rect fill="#fff" width="16" height="16"/>
-  </clipPath>
- </defs>
+<svg fill="none" height="16" viewBox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <clipPath id="clip0">
+      <path d="m0 0h16v16h-16z"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#clip0)" clip-rule="evenodd" fill="#444" fill-rule="evenodd">
+    <path d="m14.6 5.4h-7.2v9.2h7.2zm-8.6-1.4v12h10v-12z"/>
+    <path d="m4.4 3.4h7.2v1.1h1.4v-2.5h-10v12h4v-1.4h-2.6z"/>
+    <path d="m1.4 1.4h7.2v1.1h1.4v-2.5h-10v12h3.5v-1.4h-2.1z"/>
+  </g>
 </svg>

@@ -1,5 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
- <g transform="matrix(1,0,0,-1,-472,196)">
-  <path style="fill:#E6DDFF" d="m 473,180 v 16 h 9 0.75 L 487,191.75 V 191 180 Z m 1,1 h 12 v 10 h -4 v 4 h -8 z m 2,2 v 1 h 8 v -1 z m 0,2 v 1 h 8 v -1 z m 0,2 v 1 h 8 v -1 z m 0,2 v 1 h 3 v -1 z"/>
- </g>
+<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
+  <g fill="#E6DDFF">
+    <path d="m6.986 7.986h-2v1h2zm4 2h-6v1h6zm0 2h-6v1h6z"/>
+    <g fill-rule="evenodd">
+      <path d="m3 1a1 1 0 0 0 -1 1v13a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1v-9.5a1 1 0 0 0 -.293-.707l-3.5-3.5a1 1 0 0 0 -.707-.293zm1 2h5.086l2.914 2.914v8.086h-8z"/>
+      <path d="m9 2v4h4z"/>
+    </g>
+  </g>
 </svg>

@@ -1,12 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" width="16" height="16" version="1.1" viewBox="0 0 16 16">
- <path fill="url(#paint0_linear)" d="M13.6 1H2.4C1.6268 1 1 1.6268 1 2.4V13.6C1 14.3732 1.6268 15 2.4 15H13.6C14.3732 15 15 14.3732 15 13.6V2.4C15 1.6268 14.3732 1 13.6 1Z"/>
- <path style="fill:#f6f5f4" d="M3.58058 5.34835L5.34835 3.58058L8 6.23223L10.6517 3.58058L12.4194 5.34835L9.76777 8L12.4194 10.6517L10.6517 12.4194L8 9.76777L5.34835 12.4194L3.58058 10.6517L6.23223 8L3.58058 5.34835Z"/>
- <defs>
-  <linearGradient id="paint0_linear" x1="1" x2="15" y1="8" y2="8" gradientUnits="userSpaceOnUse">
-   <stop id="stop6" stop-color="#ED333B"/>
-  </linearGradient>
-  <linearGradient id="paint1_linear" x1="0" x2="16" y1="8" y2="8" gradientUnits="userSpaceOnUse">
-   <stop id="stop9" stop-color="#F6F5F4"/>
-  </linearGradient>
- </defs>
+<svg fill="none" height="16" viewBox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg">
+  <path d="m13.6 1h-11.2c-.7732 0-1.4.6268-1.4 1.4v11.2c0 .7732.6268 1.4 1.4 1.4h11.2c.7732 0 1.4-.6268 1.4-1.4v-11.2c0-.7732-.6268-1.4-1.4-1.4z" fill="#ed333b"/>
+  <path d="m3.58058 5.34835 1.76777-1.76777 2.65165 2.65165 2.6517-2.65165 1.7677 1.76777-2.65163 2.65165 2.65163 2.6517-1.7677 1.7677-2.6517-2.65163-2.65165 2.65163-1.76777-1.7677 2.65165-2.6517z" fill="#f6f5f4"/>
 </svg>

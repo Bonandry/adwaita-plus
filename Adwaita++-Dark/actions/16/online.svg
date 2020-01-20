@@ -1,13 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" width="16" height="16" viewBox="0 0 16 16">
- <g clip-path="url(#clip0)">
-  <rect fill="#E6DDFF" width="6" height="8" x="2" y="2"/>
-  <rect fill="#E6DDFF" width="5" height="8" x="8" y="2"/>
-  <rect fill="#E6DDFF" width="2" height="2" y="5"/>
-  <rect fill="#E6DDFF" width="3" height="2" x="13" y="5"/>
- </g>
- <defs>
+<svg fill="none" height="16" viewBox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <clipPath id="clip0">
-   <rect fill="#fff" width="16" height="16"/>
+    <path d="m0 0h16v16h-16z"/>
   </clipPath>
- </defs>
+  <g clip-path="url(#clip0)" fill="#e6ddff">
+    <path d="m2 2h6v8h-6z"/>
+    <path d="m8 2h5v8h-5z"/>
+    <path d="m0 5h2v2h-2z"/>
+    <path d="m13 5h3v2h-3z"/>
+  </g>
 </svg>

@@ -1,1 +1,6 @@
-go-jump-rtl-symbolic.svg
+<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
+  <g fill="#474747" stroke="#474747">
+    <path d="m12 6v-.5a2.5 2.5 0 0 0 -5 0v6.5" fill="none" stroke-width="2"/>
+    <path d="m3 9h1c.257 0 .528.13.719.313l2.281 2.28 2.281-2.28c.19-.183.462-.313.719-.313h1v1c0 .31-.09.552-.281.75l-3.719 3.656-3.719-3.656c-.19-.198-.281-.44-.281-.75z" stroke="none"/>
+  </g>
+</svg>

@@ -1,0 +1,19 @@
+<svg fill="none" height="128" viewBox="0 0 128 128" width="128" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <linearGradient id="paint0_linear" gradientUnits="userSpaceOnUse" x1="12" x2="116" y1="64" y2="64">
+    <stop offset="0" stop-color="#77767b"/>
+    <stop offset=".05" stop-color="#c0bfbc"/>
+    <stop offset=".1" stop-color="#9a9996"/>
+    <stop offset=".9" stop-color="#9a9996"/>
+    <stop offset=".95" stop-color="#c0bfbc"/>
+    <stop offset="1" stop-color="#77767b"/>
+  </linearGradient>
+  <path d="m108 22h-88c-4.4183 0-8 3.5817-8 8v78c0 4.418 3.5817 8 8 8h88c4.418 0 8-3.582 8-8v-78c0-4.4183-3.582-8-8-8z" fill="url(#paint0_linear)"/>
+  <path d="m108 12h-88c-4.4183 0-8 3.5817-8 8v80c0 4.418 3.5817 8 8 8h88c4.418 0 8-3.582 8-8v-80c0-4.4183-3.582-8-8-8z" fill="#deddda"/>
+  <path d="m108 104h-88c-2.2091 0-4-1.791-4-4v-80c0-2.2091 1.7909-4 4-4h88c2.209 0 4 1.7909 4 4v80c0 2.209-1.791 4-4 4z" fill="#202831"/>
+  <path d="m31 98c0-2.2091 1.7909-4 4-4h58c2.2091 0 4 1.7909 4 4v6h-66z" fill="#aec2e0"/>
+  <path d="m112 20v7h-96v-7c0-2.2091 1.7909-4 4-4h88c2.209 0 4 1.7909 4 4z" fill="#aec2e0"/>
+  <rect fill="#deddda" height="6" rx="3" width="6" x="19.5" y="18.5"/>
+  <rect fill="#3584e4" height="12" rx="2" width="12" x="38" y="89.25"/>
+  <rect fill="#f66151" height="12" rx="2" width="12" x="58" y="89.25"/>
+  <rect fill="#2ec27e" height="12" rx="2" width="12" x="78" y="89.25"/>
+</svg>

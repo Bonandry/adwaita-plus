@@ -1,7 +1,1 @@
-<svg height="128" width="128" xmlns="http://www.w3.org/2000/svg">
-  <rect height="108.07" opacity=".2" rx="5.307" ry="5.404" transform="scale(-1 1)" width="84.912" x="-107.91" y="11.93"/>
-  <rect fill="#8e8e8e" height="108.07" rx="5.307" ry="5.404" transform="scale(-1 1)" width="84.912" x="-107.91" y="10"/>
-  <path d="m26.86 13.86h77.193v46.316h-77.193z" fill="#333"/>
-  <circle cx="65.456" cy="91.149" fill="#f8f8f8" r="23.158"/>
-  <circle cx="65.456" cy="91.053" fill="#8e8e8e" r="11.579"/>
-</svg>
+<svg height="128" width="128" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><linearGradient id="a" gradientTransform="matrix(.19643 0 0 .3421 -365.403 445.74)" gradientUnits="userSpaceOnUse" x1="88.596" x2="536.596" y1="-449.394" y2="-449.394"><stop offset="0" stop-color="#77767b"/><stop offset=".05" stop-color="#c0bfbc"/><stop offset=".1" stop-color="#9a9996"/><stop offset=".9" stop-color="#9a9996"/><stop offset=".95" stop-color="#c0bfbc"/><stop offset="1" stop-color="#77767b"/></linearGradient><g transform="translate(366 -171)"><rect fill="url(#a)" height="104" rx="8" width="88" x="-348" y="188"/><rect fill="#d0d0d0" height="100.67796" rx="8" ry="8.754605" stroke-width="1.0461" width="88" x="-348" y="180"/></g><path d="m27 15.349718h70.000001v42.000181h-70.000001z" fill="#333" stroke-width=".906818"/><g stroke-width=".86363196761"><circle cx="62.00000489873" cy="83.37480389423" fill="#f8f8f8" r="19.99999925"/><circle cx="62.00000489873" cy="83.29189189734" fill="#d0d0d0" r="9.999999625"/></g></svg>

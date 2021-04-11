@@ -1,3 +1,287 @@
+# Version 6.0 – Bauhinia variegata
+
+<details>
+  <summary>English</summary>
+
+  - New Adwaita++ folders styles: Synthwave ‘84, inspired by [Robb Ownen](https://github.com/robb0wen)'s [VSCode's Synthwave '84 theme](https://marketplace.visualstudio.com/items?itemName=RobbOwen.synthwave-vscode), TRON and Void Linux:
+
+  <p align="center"><img src="images/changelog/6.0/anteprima-nuove-icone-di-cartelle.png" alt="New places icons"/></p>
+
+  - Fuzziness of battery icons have been fixed (#34);
+
+  <h2>New additions</h2>
+
+  - Catfish (#38)
+  - Compton (#38)
+  - Figma (#38)
+  - Fish (#38)
+  - Fontforge (#38)
+  - Glimpse
+  - iPython (#38)
+  - jgmenu (#38)
+  - Kipi (#38)
+  - Kitty (#38)
+  - Kvantum (#38)
+  - Microsoft Edge
+  - Minecraft (#36)
+  - Nitrogen (#38)
+  - Nvim (#38)
+  - Qalculate (#38)
+  - Reaper (#36)
+  - RFB (#38)
+  - Signal Desktop (#38)
+  - SQlite Browser (#38)
+  - Swappy (#38)
+  - Sxiv(#38)
+  - Tor Browser (#38)
+  - XFCE Clipman Plugin (#38)
+  - XFCE Panel (#38)
+  - Yad (#38)
+
+  <h2>Updates and upgrades</h2>
+
+  - Apps
+    - Accessibility
+    - Applications (GNOME Software, Ubuntu Software, etc.)
+    - Asunder
+    - Audex
+    - Blender
+    - Brasero
+    - Calculator
+    - Cheese
+    - Currency (generic icon)
+    - Devede
+    - DVD95
+    - DVDRip
+    - DVDStyler
+    - Epiphany
+    - GNOME Tetravex
+    - Goobox
+    - GThumb
+    - GTKPod
+    - Image Viewer (generic icon)
+    - Imagination
+    - K3B
+    - Keepassxc
+    - Kid3
+    - Kodi
+    - Livepatch
+    - Meld
+    - Preferences Desktop Personal Directory
+    - Preferences System Login
+    - Rhythmbox
+    - Ripperx
+    - RSS
+    - Shotwell
+    - Sound Juicer
+    - SoundConverter
+    - User (generic icon)
+    - Vim
+    - xfburn
+  - Devices:
+    - gnome-dev-printer-new
+    - media-flash-memory-stick
+    - printer
+  - Mimetypes
+    - application-x-firmware
+    - application-x-sharedlib
+    - extension
+  - Places:
+    - user-trash-full
+    - user-trash
+
+  - Under the user’s demand, Adwaita++ Dark Colorful has been added (#37).
+
+</details>
+
+<details>
+  <summary>Italiano</summary>
+
+  - Nuovi stili di cartelle di Adwaita++: Synthwave '84, ispirato dal [tema Synthwave '84 di VSCode](https://marketplace.visualstudio.com/items?itemName=RobbOwen.synthwave-vscode) del [Robb Ownen](https://github.com/robb0wen), TRON e Void Linux:
+
+  <p align="center"><img src="images/changelog/6.0/anteprima-nuove-icone-di-cartelle.png" alt="Nuove icone di cartelle"/></p>
+
+  - La confusione di icone della batteria è stata corretta (#34);
+
+  <h2>Nuove aggiunte</h2>
+
+  - Catfish (#38)
+  - Compton (#38)
+  - Figma (#38)
+  - Fish (#38)
+  - Fontforge (#38)
+  - Glimpse
+  - iPython (#38)
+  - jgmenu (#38)
+  - Kipi (#38)
+  - Kitty (#38)
+  - Kvantum (#38)
+  - Microsoft Edge
+  - Minecraft (#36)
+  - Nitrogen (#38)
+  - Nvim (#38)
+  - Panello di XFCE (#38)
+  - Qalculate (#38)
+  - Reaper (#36)
+  - RFB (#38)
+  - Signal Desktop (#38)
+  - SQlite Browser (#38)
+  - Swappy (#38)
+  - Sxiv(#38)
+  - Tor Browser (#38)
+  - XFCE Clipman Plugin (#38)
+  - Yad (#38)
+
+  <h2>Aggiornate</h2>
+
+  - Applicazioni
+    - Accessibilità
+    - Applicazioni (GNOME Software, Ubuntu Software, etc.)
+    - Asunder
+    - Audex
+    - Blender
+    - Brasero
+    - Calculatore
+    - Cheese
+    - Devede
+    - DVD95
+    - DVDRip
+    - DVDStyler
+    - Epiphany
+    - GNOME Tetravex
+    - Goobox
+    - GThumb
+    - GTKPod
+    - Image Viewer (Icona generica)
+    - Imagination
+    - K3B
+    - Keepassxc
+    - Kid3
+    - Kodi
+    - Livepatch
+    - Meld
+    - Moneta (Icona generica)
+    - Preferenze di directory personale di desktop
+    - Preferenze di sessione di sistema
+    - Rhythmbox
+    - Ripperx
+    - RSS
+    - Shotwell
+    - Sound Juicer
+    - SoundConverter
+    - Utente (icona generica)
+    - Vim
+    - xfburn
+  - Dispositivi:
+    - gnome-dev-printer-new
+    - media-flash-memory-stick
+    - printer
+  - Tipi di file
+    - application-x-firmware
+    - application-x-sharedlib
+    - extension
+  - Cartelle:
+    - user-trash-full
+    - user-trash
+
+  - Sotto la domanda dell'utente, è stato aggiunto il nuovo tema Adwaita++ Scuro Colorato (#37).
+
+</details>
+
+<details>
+  <summary>Português</summary>
+
+  - Novos estilos de pastas de Adwaita++: Synthwave ‘84, inspirado pelo [tema Synthwave ‘84 do VSCode](https://marketplace.visualstudio.com/items?itemName=RobbOwen.synthwave-vscode) do [Robb Ownen](https://github.com/robb0wen), TRON e Void Linux:
+
+  <p align="center"><img src="images/changelog/6.0/anteprima-nuove-icone-di-cartelle.png" alt="Novos ícones de pastas"/></p>
+
+  - O desofque dos ícones da bateria foi corrigido (#34);
+
+  <h2>Novas adições</h2>
+  
+  - Catfish (#38)
+  - Compton (#38)
+  - Figma (#38)
+  - Fish (#38)
+  - Fontforge (#38)
+  - Glimpse
+  - iPython (#38)
+  - jgmenu (#38)
+  - Kipi (#38)
+  - Kitty (#38)
+  - Kvantum (#38)
+  - Microsoft Edge
+  - Minecraft (#36)
+  - Nitrogen (#38)
+  - Nvim (#38)
+  - Qalculate (#38)
+  - Reaper (#36)
+  - RFB (#38)
+  - Signal Desktop (#38)
+  - SQlite Browser (#38)
+  - Swappy (#38)
+  - Sxiv(#38)
+  - Tor Browser (#38)
+  - XFCE Clipman Plugin (#38)
+  - XFCE Panel (#38)
+  - Yad (#38)
+
+  <h2>Atualizações.</h2>
+
+  - Aplicativos
+    - Acessibilidade
+    - Applicativos (GNOME Software, Ubuntu Software, etc.)
+    - Asunder
+    - Audex
+    - Blender
+    - Brasero
+    - Calculator
+    - Cheese
+    - Devede
+    - DVD95
+    - DVDRip
+    - DVDStyler
+    - Epiphany
+    - GNOME Tetravex
+    - Goobox
+    - GThumb
+    - GTKPod
+    - Imagination
+    - K3B
+    - Keepassxc
+    - Kid3
+    - Kodi
+    - Livepatch
+    - Meld
+    - Moeda (ícone genérico)
+    - Preferências de diretório pessoal de desktop
+    - Preferências de sessão do sistema
+    - Rhythmbox
+    - Ripperx
+    - RSS
+    - Shotwell
+    - Sound Juicer
+    - SoundConverter
+    - Usuário (ícone genérico)
+    - Vim
+    - Visualizador de Imagens (ícone genérico)
+    - xfburn
+  - Dispositivos:
+    - gnome-dev-printer-new
+    - media-flash-memory-stick
+    - printer
+  - Tipos de arquivos
+    - application-x-firmware
+    - application-x-sharedlib
+    - extension
+  - Pastas:
+    - user-trash-full
+    - user-trash
+
+  - Sob a demanda do usuário, Adwaita++ Escuro Colorido foi adicionado (#37).
+
+</details>
+
 # Version 5.0 – Paubrasilia echinata
 
 <details>

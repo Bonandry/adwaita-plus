@@ -5,7 +5,7 @@ set -e
 # these variables can be overwritten
 : "${DESTDIR:=/usr/share/icons}"
 : "${TAG:=master}"
-: "${THEMES:=Adwaita++ Adwaita++-Colorful Adwaita++-Dark Adwaita++-Light}"
+: "${THEMES:=Adwaita++ Adwaita++-Colorful Adwaita++-Dark Adwaita++-Dark-Colorful Adwaita++-Light}"
 : "${uninstall:=false}"
 
 gh_url="https://github.com/Bonandry"

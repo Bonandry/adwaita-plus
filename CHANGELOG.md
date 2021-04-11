@@ -10,6 +10,7 @@
   - Fuzziness of battery icons have been fixed (#34);
 
   <h2>New additions</h2>
+
   - Catfish (#38)
   - Compton (#38)
   - Figma (#38)
@@ -103,6 +104,7 @@
   - La confusione di icone della batteria è stata corretta (#34);
 
   <h2>Nuove aggiunte</h2>
+
   - Catfish (#38)
   - Compton (#38)
   - Figma (#38)
@@ -196,6 +198,7 @@
   - O desofque dos ícones da bateria foi corrigido (#34);
 
   <h2>Novas adições</h2>
+  
   - Catfish (#38)
   - Compton (#38)
   - Figma (#38)

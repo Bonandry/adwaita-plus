@@ -136,17 +136,20 @@ You can choose of four alternatives icons of Firefox:
   <tr><td><img align="middle" height="64px" src="images/firefox/firefox-2019-gnome-plus.svg"> firefox-2019-gnome-plus.svg</td></tr>
   <tr><td><img align="middle" height="64px" src="images/firefox/firefox-2019-mozilla.svg"> firefox-2019-mozilla.svg</td></tr>
   <tr><td><img align="middle" height="64px" src="images/firefox/firefox-2019.svg"> firefox-2019.svg</td></tr>
+  <tr><td rowspan="5">firefox-nightly.svg</td>
+    <td><img   align="middle" height="64px" src="images/firefox-nightly/firefox-nightly.svg"> firefox-nightly.svg</td>
+  </tr>
+  <tr><td><img align="middle" height="64px" src="images/firefox-nightly/firefox-nightly-2019-mozilla.svg"> firefox-nightly-2019-mozilla.svg</td></tr>
 </table>
 
-Run in the terminal:
+To change easily the app icon, follow the small guide:
 
-```zsh
-cd Adwaita++/apps/scalable
-ln -sfnr <choose-one-of-4-alternatives> firefox.svg
+1. Copy the desktop file of Firefox or Firefox Nightly from `/usr/share/applications/` to `~/.local/share/applications/` (if you do not have it, create it);
+2. Open the desktop file with text editor and find `Icon=`;
+3. Change, for example, `Icon=firefox` to `Icon=firefox-2019-gnome-plus`. Save it and close it.
+4. Run three times the command `update-desktop-database` in the terminal.
 
-# Revert to the original
-ln -sfnr firefox-official.svg firefox.svg
-```
+Ready!
 
 # Bugs
 

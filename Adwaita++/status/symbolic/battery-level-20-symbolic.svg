@@ -1,4 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
- <path style="opacity:0.3;fill:#ff9800" class="warning" d="M 6,1 V 2 H 3 V 14 C 3,14.554 3.446,15 4,15 H 12 C 12.554,15 13,14.554 13,14 V 2 H 10 V 1 Z"/>
- <path style="fill:#ff9800" class="warning" d="M 3,11 V 14 C 3,14.554 3.446,15 4,15 H 12 C 12.554,15 13,14.554 13,14 V 11 Z"/>
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path opacity="0.3" d="M6 1V2H3V14C3 14.554 3.446 15 4 15H12C12.554 15 13 14.554 13 14V2H10V1H6Z" fill="url(#paint0_linear)"/>
+<path d="M3 11V14C3 14.554 3.446 15 4 15H12C12.554 15 13 14.554 13 14V11H3Z" fill="url(#paint1_linear)"/>
+<defs>
+<linearGradient id="paint0_linear" x1="3" y1="8" x2="13" y2="8" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FF7800"/>
+</linearGradient>
+<linearGradient id="paint1_linear" x1="3" y1="13" x2="13" y2="13" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FF7800"/>
+</linearGradient>
+</defs>
 </svg>

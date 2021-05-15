@@ -1,9 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
- <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
-  </style>
- </defs>
- <path style="opacity:0.3;fill:currentColor" class="ColorScheme-Text" d="M 6,1 V 2 H 3 V 14 C 3,14.55 3.446,15 4,15 H 12 C 12.554,15 13,14.55 13,14 V 2 H 10 V 1 Z"/>
- <path style="fill:currentColor" class="ColorScheme-Text" d="M 3,6 V 14 C 3,14.55 3.446,15 4,15 H 12 C 12.554,15 13,14.55 13,14 V 6 Z"/>
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path opacity="0.3" d="M6 1V2H3V14C3 14.55 3.446 15 4 15H12C12.554 15 13 14.55 13 14V2H10V1H6Z" fill="url(#paint0_linear)"/>
+<path d="M3 6V14C3 14.55 3.446 15 4 15H12C12.554 15 13 14.55 13 14V6H3Z" fill="url(#paint1_linear)"/>
+<defs>
+<linearGradient id="paint0_linear" x1="3" y1="8" x2="13" y2="8" gradientUnits="userSpaceOnUse">
+<stop stop-color="#9A9996"/>
+</linearGradient>
+<linearGradient id="paint1_linear" x1="3" y1="10.5" x2="13" y2="10.5" gradientUnits="userSpaceOnUse">
+<stop stop-color="#9A9996"/>
+</linearGradient>
+</defs>
 </svg>

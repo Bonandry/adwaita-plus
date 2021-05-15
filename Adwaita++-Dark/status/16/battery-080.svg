@@ -1,1 +1,12 @@
-gpm-battery-080.svg
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path opacity="0.3" d="M6 1V2H3V14C3 14.55 3.446 15 4 15H12C12.554 15 13 14.55 13 14V2H10V1H6Z" fill="url(#paint0_linear)"/>
+<path d="M3 5V14C3 14.55 3.446 15 4 15H12C12.554 15 13 14.55 13 14V5H3Z" fill="url(#paint1_linear)"/>
+<defs>
+<linearGradient id="paint0_linear" x1="3" y1="8" x2="13" y2="8" gradientUnits="userSpaceOnUse">
+<stop stop-color="#e6ddff"/>
+</linearGradient>
+<linearGradient id="paint1_linear" x1="3" y1="10" x2="13" y2="10" gradientUnits="userSpaceOnUse">
+<stop stop-color="#e6ddff"/>
+</linearGradient>
+</defs>
+</svg>

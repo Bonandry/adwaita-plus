@@ -1,9 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1">
- <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
-  </style>
- </defs>
- <path style="opacity:0.3;fill:currentColor" class="ColorScheme-PositiveText" d="M 9,4 V 5 H 6 v 12 c 0,0.55 0.446,1 1,1 h 8 c 0.554,0 1,-0.45 1,-1 V 5 H 13 V 4 Z m 2,4 v 3 h 3 l -3,5 V 13 H 8 Z"/>
- <path style="fill:currentColor" class="ColorScheme-PositiveText" d="m 6,9 v 8 c 0,0.55 0.446,1 1,1 h 8 c 0.554,0 1,-0.45 1,-1 V 9 h -5 v 2 h 3 l -3,5 V 13 H 8 l 2.4,-4 z"/>
+<svg width="22" height="22" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path opacity="0.3" fill-rule="evenodd" clip-rule="evenodd" d="M9 5V4H13V5H16V17C16 17.55 15.554 18 15 18H7C6.446 18 6 17.55 6 17V5H9ZM11.416 6.93722C11.5708 6.77372 11.771 6.65364 11.9881 6.59396C12.0893 6.58139 12.1921 6.58139 12.2933 6.59396C12.3187 6.59318 12.3442 6.59318 12.3696 6.59396H12.4839H13.5137V7.54753C13.5149 7.58562 13.5149 7.6238 13.5137 7.66186C13.5627 8.03319 13.4324 8.42399 13.1705 8.69165L11.5686 10.2554H13.478H13.6687H14.6984V11.3233C14.7021 11.3741 14.7021 11.4251 14.6984 11.4759C14.7059 11.7981 14.5794 12.1214 14.3552 12.353L10.6937 16.0051C10.4608 16.2275 10.1386 16.3532 9.81653 16.3483H9.62583H8.59605V15.3949C8.59482 15.3568 8.59482 15.3186 8.59605 15.2805C8.5471 14.9092 8.67739 14.5184 8.93931 14.2507L10.3886 12.6963H8.59368H8.36484H7.3732V11.7047C7.2959 11.31 7.42928 10.8803 7.71646 10.5987L11.416 6.93722Z" fill="url(#paint0_linear)"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M9.25282 9.07812L7.71646 10.5987C7.42928 10.8803 7.2959 11.31 7.3732 11.7047V12.6963H8.36484H8.59368H10.3886L8.93931 14.2507C8.67739 14.5184 8.5471 14.9092 8.59605 15.2805C8.59482 15.3186 8.59482 15.3568 8.59605 15.3949V16.3483H9.62583H9.81653C10.1386 16.3532 10.4608 16.2275 10.6937 16.0051L14.3552 12.353C14.5794 12.1214 14.7059 11.7981 14.6984 11.4759C14.7021 11.4251 14.7021 11.3741 14.6984 11.3233V10.2554H13.6687H13.478H11.5686L12.7746 9.07812H16V17C16 17.55 15.554 18 15 18H7C6.446 18 6 17.55 6 17V9.07812H9.25282Z" fill="url(#paint1_linear)"/>
+<defs>
+<linearGradient id="paint0_linear" x1="6" y1="11" x2="16" y2="11" gradientUnits="userSpaceOnUse">
+<stop stop-color="#2EC27E"/>
+</linearGradient>
+<linearGradient id="paint1_linear" x1="6" y1="11" x2="16" y2="11" gradientUnits="userSpaceOnUse">
+<stop stop-color="#2EC27E"/>
+</linearGradient>
+</defs>
 </svg>

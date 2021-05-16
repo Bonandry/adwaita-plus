@@ -22,7 +22,7 @@ Encoding=UTF-8
 Example=folder
 FollowsColorScheme=true
 
-Inherits=Adwaita++,Adwaita,Suru,gnome,hicolor
+Inherits=Adwaita++-Dark,Adwaita,Suru,gnome,hicolor
 
 DesktopDefault=48
 DesktopSizes=16,22,32,48,64,128,256

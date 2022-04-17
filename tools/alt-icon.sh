@@ -40,8 +40,8 @@ case "$LANG" in
         msg_new="Legătură simbolică nouă"
         ;;
     ru_*)
-        msg_old="Старая симлинк"
-        msg_new="Новая симлинк"
+        msg_old="Старый симлинк"
+        msg_new="Новый симлинк"
         ;;
     uk_*)
         msg_old="Стара симлінк"
